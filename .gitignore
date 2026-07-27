@@ -1,0 +1,20 @@
+# ---------------------------------------------------------------------------
+# This repository tracks ONE folder: final-render/
+#
+# The rest of the vault (the design notes in content/, the wiki, the raw
+# sources, the build scripts) stays local and private. Ignore everything,
+# then re-include only what is meant to be published.
+# ---------------------------------------------------------------------------
+
+# ignore everything
+/*
+
+# except these
+!.gitignore
+!final-render/
+
+# inside final-render, keep the art and the finished files,
+# but never the scratch that tools leave behind
+final-render/**/Thumbs.db
+final-render/**/.DS_Store
+final-render/**/*.tmp
