@@ -29,6 +29,16 @@
   page-break-before: avoid;
 }
 
+/* A table and the heading that names it are one object. The build wraps the
+   pair in .tableGroup; this is what stops the column break falling between
+   them and stranding the heading at the foot of the previous column. */
+.page .tableGroup {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.page .tableGroup > :first-child { margin-top: 0; }
+.page .tableGroup > table:last-child { margin-bottom: 0.5em; }
+
 /* Never split these down the middle of a column. */
 .page table,
 .page .imgph,
@@ -254,22 +264,9 @@ A Misting begins play with **1d6 grams** of their metal, as small beads or a via
 
 ## The Mistings
 
-{{imgph imgphWide,style=min-height:25em
-**[ART: chart-allomancy]** *THE ALLOMANTIC METAL CHART. All sixteen metals in their four quadrants (Physical, Mental, Enhancement, Temporal), each split across Internal Pull, Internal Push, External Pull and External Push, in the manner of the Coppermind charts. **Each metal drawn with its Allomantic symbol** and the Misting name beneath it.*
-
-**WIDE** file found, not yet hosted | ratio 2.00:1
-}}
 {{wide
-
-| Quadrant | Internal Pull | Internal Push | External Pull | External Push |
-|---|---|---|---|---|
-| **Physical** | Tin, *Tineye* | Pewter, *Thug* | Iron, *Lurcher* | Steel, *Coinshot* |
-| **Mental** | Copper, *Smoker* | Bronze, *Seeker* | Zinc, *Rioter* | Brass, *Soother* |
-| **Enhancement** | Aluminum, *Gnat* | Duralumin, *Gnat* | Chromium, *Leecher* | Nicrosil, *Nicroburst* |
-| **Temporal** | Gold, *Augur* | Electrum, *Oracle* | Cadmium, *Pulser* | Bendalloy, *Slider* |
-
+![chart-allomancy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-allomancy.svg){width:100%}
 }}
-
 
 
 ### Physical
@@ -399,6 +396,8 @@ You distribute that pool freely across your Pushes, Pulls, and driven coins. Eve
 
 ---
 
+{{tableGroup
+
 ### Table B. Self-launch off an anchor (feet)
 
 Push off an anchored or immovable metal. Lighter flyers go farther (`a = F/m`).
@@ -411,6 +410,10 @@ Push off an anchored or immovable metal. Lighter flyers go farther (`a = F/m`).
 | 300 lb | 0 | 19 | 53 | 152 | 455 |
 | 500 lb (koloss) | 0 | 3 | 14 | 54 | 225 |
 
+}}
+
+{{tableGroup
+
 ### Table C. Knockback of a target (feet)
 
 Force applied to one target (pusher braced, so the full force drives the target). Heavier targets move less; `0` means their footing holds. If neither body is braced, the push also recoils the pusher, split by their relative weights.
@@ -422,6 +425,10 @@ Force applied to one target (pusher braced, so the full force drives the target)
 | 300 lb (large) | 0 | 5 | 14 | 44 | 171 |
 | 600 lb (huge) | 0 | 0 | 2 | 9 | 45 |
 
+}}
+
+{{tableGroup
+
 ### Table D. Impact damage from a slam (bodies and large objects)
 
 Damage from a body or sizeable object slammed into a hard surface, tied to impact energy: **damage = ½·m·v², at 1d6 per 2,500 J**, anchored so a person hitting at a 10-foot-fall speed is about 1d6, matching falling damage. No cap.
@@ -432,7 +439,11 @@ Damage from a body or sizeable object slammed into a hard surface, tied to impac
 | person (80 kg) | 1.6d6 | 6.4d6 | 14d6 | 32d6 | 58d6 |
 | koloss (300 kg) | 6d6 | 24d6 | 54d6 | 122d6 | 216d6 |
 
+}}
+
 Round the die count to the nearest whole die in play. Read an object's speed from Table B or C, then its damage here.
+
+{{tableGroup
 
 ### Table E. Driven coin or projectile damage (by force)
 
@@ -451,6 +462,8 @@ A Steelpushed coin, nail, or spike acts like a fired round; its lethality is the
 | 13,000 to 17,500 N | 5d6 | |
 | 17,500 to 22,000 N | 4d10 |.50 cal |
 | each +5,000 N above | +1d10 | |
+
+}}
 
 To hit, add your **proficiency bonus + Constitution modifier**; damage is **piercing**; range **60/240 ft**. Split your force pool across several coins to fire a volley, reading each coin's damage from the force you put behind it. An aluminum coin cannot be driven. Optional: at 4,500 N (9mm) or higher, a coin ignores the AC bonus of nonmagical armor.
 
@@ -474,6 +487,8 @@ While you burn tin, at a base rate of 1 charge per minute, your five senses shar
 - You gain darkvision out to 30 feet. You see in dim light and in shades of gray in nonmagical darkness, but not in total or magical darkness, because tin amplifies existing light rather than creating sight where there is none.
 - You pick out fine detail and faint sounds at a distance, and you notice things an ordinary person would miss, such as a tripwire's tension or the scent of a poison.
 
+{{tableGroup
+
 ### Flaring
 
 Each extra charge you burn in a minute, up to a number equal to your level, intensifies your senses for that minute.
@@ -483,6 +498,8 @@ Each extra charge you burn in a minute, up to a number equal to your level, inte
 | +1 to 2 | Darkvision range increases to 60 ft, and you have advantage on tracking and on finding hidden creatures or objects by sense. |
 | +3 to 4 | You gain blindsight out to 10 feet, a touch-and-vibration tremor sense, and you cannot be surprised while conscious and burning tin. |
 | +5 or more | Your blindsight extends to 30 feet, and you sense minute changes such as a held breath or a drawn bowstring. The DM may grant advantage on initiative and on reading a creature's intentions. |
+
+}}
 
 ### Sensory Overload
 
@@ -616,6 +633,8 @@ Each extra charge you burn, up to a number equal to your level, sustains one mor
 
 Spending a second charge on a pulse also lets you **exclude chosen allies** from it.
 
+{{tableGroup
+
 #### Possible effects (isolated emotion)
 
 The effect of a single inflamed emotion is up to the DM and depends on what the creature already feels. Typical examples:
@@ -626,6 +645,8 @@ The effect of a single inflamed emotion is up to the DM and depends on what the 
 | Rage | Must move toward and attack the nearest creature it can reach. |
 | Despair | Disadvantage on attack rolls and ability checks. |
 | Zeal | Immune to the Frightened condition and advantage on saves against being Charmed. |
+
+}}
 
 ### Interactions & counterplay
 
@@ -666,6 +687,8 @@ Each extra charge you burn, up to a number equal to your level, sustains one mor
 
 Spending a second charge on a pulse also lets you **exclude chosen allies** from it.
 
+{{tableGroup
+
 #### Possible effects (isolated emotion)
 
 The effect of a single dampened emotion is up to the DM and depends on what the creature already feels. Typical examples:
@@ -676,6 +699,8 @@ The effect of a single dampened emotion is up to the DM and depends on what the 
 | Aggression | The creature cannot take the Attack action unless it or an ally has been attacked since its last turn. |
 | Suspicion | In a social situation, the creature's attitude toward you improves by one step, from hostile to indifferent, or indifferent to friendly. |
 | Resolve | The creature has disadvantage on saving throws against being Frightened or Charmed. |
+
+}}
 
 ### Interactions & counterplay
 
@@ -760,6 +785,8 @@ While you burn bronze, at a base rate of 1 charge per minute, you sense magical 
 
 **Seeking.** You are aware of any creature within 60 feet that is burning a metal, tapping a metalmind, or casting a spell, and you know the rough direction of each. You have advantage on Wisdom (Perception) and Wisdom (Insight) checks to notice such a power being used, and you cannot be surprised by a creature that is using Allomancy, Feruchemy, or magic within range.
 
+{{tableGroup
+
 ### Flaring
 
 Each extra charge you burn in a minute, up to a number equal to your level, increases both the **range** of your sense (by 60 feet) and its **fidelity**, unlocking finer detail as you invest more.
@@ -769,6 +796,8 @@ Each extra charge you burn in a minute, up to a number equal to your level, incr
 | +1 to 2 | Exact direction and distance to each source, and its precise location. |
 | +3 to 4 | The kind of power in use: which metal is burned, or that a spell is being cast and its relative power. |
 | +5 or more | Fine detail, including whether an object is magical and roughly how strongly, similar to *detect magic*. |
+
+}}
 
 ### Interactions & counterplay
 
@@ -857,6 +886,8 @@ Burning a charge of duralumin is instantaneous. As a free action, you **consume 
 
 This is the single largest burst an Allomancer can produce, and it empties your reserves to do it.
 
+{{tableGroup
+
 #### Notable detonations
 
 | Paired metal | Duralumin detonation |
@@ -867,6 +898,8 @@ This is the single largest burst an Allomancer can produce, and it empties your 
 | bronze | You sense every nearby power at once and briefly pierce copperclouds; see Piercing a coppercloud. |
 | tin | Your senses spike so hard you may overwhelm yourself, but in near total deprivation, you can sense things that are hidden; see Sensory Overload. |
 | bendalloy / cadmium | Time in your bubble compresses or stretches to an extreme; see the core rules. |
+
+}}
 
 ### Flaring
 
@@ -1023,6 +1056,8 @@ While you burn electrum, at a base rate of 1 charge per minute, you see a shadow
 - You have advantage on initiative.
 - You are immune to having your future read by another creature's Allomancy. An enemy burning **atium** against you sees your atium shadow split and blur, and cannot predict your actions. The blinding runs both ways; see Interactions below.
 
+{{tableGroup
+
 ### Flaring
 
 Each extra charge you burn in a minute, up to a number equal to your level, pushes your foresight further ahead, about **3 seconds per charge**, and lets you act on what you see.
@@ -1032,6 +1067,8 @@ Each extra charge you burn in a minute, up to a number equal to your level, push
 | +1 to 2 | 6 to 9 seconds | You have advantage on Dexterity saving throws. |
 | +3 to 4 | 12 to 15 seconds | Once on each of your turns, when a creature you can see attacks you, you can impose disadvantage on that attack roll as you slip aside a step early. |
 | +5 or more | 18 seconds or more | Attackers you can see have disadvantage on attack rolls against you until the start of your next turn, as their strikes arrive where you no longer are. |
+
+}}
 
 ### Interactions & counterplay
 
@@ -1225,6 +1262,8 @@ While you burn atium, at a base rate of 1 charge per round, every creature you c
 
 Each extra charge you burn in a round, up to a number equal to your level, pushes the shadows further ahead, about **3 seconds per charge**. The range remains 120 feet; what grows is how far into the future you see. At a few seconds you read the next blow, and at a dozen you read the whole exchange before it begins.
 
+{{tableGroup
+
 ### Refined atium
 
 Raw beads are what most Seers ever see. **Refined** atium does not add to its foresight, it multiplies it: each charge **doubles** the time you see ahead rather than adding to it.
@@ -1238,6 +1277,8 @@ Raw beads are what most Seers ever see. **Refined** atium does not add to its fo
 | 5 | 15 sec | 48 sec |
 | 8 | 24 sec | about 6 minutes |
 | 10 | 30 sec | about 25 minutes |
+
+}}
 
 Refined atium also enhances the mind to hold and process what it shows, and at the deepest burns it opens sight into the **Spiritual Realm**. It is the only form usable in Hemalurgy, where it acts as a wild card able to steal any power. Treat refined atium as a story artifact.
 
@@ -1394,11 +1435,11 @@ The Mistborn gains savancy directly, by fiat, through class features, skipping t
 
 Every one of these carries **the Dependency** all the same. A 20th-level Mistborn is a savant of all sixteen metals and, correspondingly, is at risk of withdrawal from any metal they were leaning on the moment they are cut off from it, the classic vulnerability of the greatest Allomancers.
 
+{{wide
+
 ### Savant effects by metal
 
 Every savant gains the shared package (uncapped flare, doubled efficiency, the Dependency). On top of that, long fusion with a particular metal grants signature effects drawn from the histories. Each metal's own page carries the full rules; this is the summary.
-
-{{wide
 
 | Metal | What savanthood adds | Dependency |
 |---|---|---|
@@ -1445,22 +1486,9 @@ Track it by long, heavy Compounding rather than by grams of a burned metal, and 
 
 ## The Ferrings
 
-{{imgph imgphWide,style=min-height:25em
-**[ART: chart-feruchemy]** *THE FERUCHEMICAL METAL CHART. All sixteen metals in their four quadrants (Physical, Cognitive, Hybrid, Spiritual), in the manner of the Coppermind charts. **Each metal drawn with its Feruchemical symbol**, the Ferring name, and the stored attribute beneath it.*
-
-**WIDE** file found, not yet hosted | ratio 2.00:1
-}}
 {{wide
-
-| Quadrant | Metal and Ferring | Metal and Ferring | Metal and Ferring | Metal and Ferring |
-|---|---|---|---|---|
-| **Physical** | Iron, *Skimmer* (weight) | Steel, *Steelrunner* (speed) | Tin, *Windwhisperer* (senses) | Pewter, *Brute* (strength) |
-| **Cognitive** | Zinc, *Sparker* (mental speed) | Brass, *Firesoul* (warmth) | Copper, *Archivist* (memories) | Bronze, *Sentry* (wakefulness) |
-| **Hybrid** | Cadmium, *Gasper* (breath) | Bendalloy, *Subsumer* (nutrition) | Gold, *Bloodmaker* (health) | Electrum, *Pinnacle* (determination) |
-| **Spiritual** | Chromium, *Spinner* (Fortune) | Nicrosil, *Soulbearer* (Investiture) | Aluminum, *Trueself* (Identity) | Duralumin, *Connector* (Connection) |
-
+![chart-feruchemy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-feruchemy.svg){width:100%}
 }}
-
 
 ## Ferring Bloodlines
 
@@ -1507,6 +1535,8 @@ Both are **free actions** and take effect instantly. Stop, and you return to nor
 | **Depth** (max store) | 10% | 20% | 30% | 40% | 50% | 100% | 100% | 100% |
 After 10th level the two part ways, and this is the shape of a Ferring's career. You can bank no deeper than you already could, but you grow ever better at spending what you banked. A master Ferring is not a larger reservoir. They are a finer tap.
 
+{{tableGroup
+
 #### What the percentage multiplies
 
 A percentage means nothing until you say what it is a percentage **of**. Every metal names one concrete, measurable **attribute**, and tapping at +X% multiplies that attribute by 1 + X/100.
@@ -1522,6 +1552,8 @@ A percentage means nothing until you say what it is a percentage **of**. Every m
 | Bronze | your alert waking time |
 | Copper | **nothing.** See below |
 
+}}
+
 Each metal's page then translates that quantity into play, and says plainly **where the fiction keeps scaling but the game numbers must stop**. A Ferring drawing many multiples of their rate can reach several thousand percent for a few seconds, so every attribute needs to know its own ceiling and its own way of hurting you.
 
 **Some metals bend the frame.** Not every attribute is a smooth intensity you multiply. Three shapes recur:
@@ -1533,6 +1565,8 @@ Each metal's page then translates that quantity into play, and says plainly **wh
  - **Brass** stores **energy**, drawn from outside the body as readily as within. Counted in **kilojoules**, no percent-of-self ceiling, rate and depth replaced by a level-gated **throughput**; compression applies and runs harsh. See Brass.
  - **Gold** stores **health**. Counted in **hit points**, banked while sick and spent to heal. Its free heal rate is set by Constitution and proficiency, its harshness lives in the sickness of storing and the flat 2-for-1 of cheating death, and ordinary healing runs on the standard curve. See Gold.
 
+{{tableGroup
+
 #### Compression
 
 Drawing at your own rate costs you nothing. Pushing past it does, and the price climbs quickly. Divide the intensity you want by your rate to get the **multiple**, then read your recovery.
@@ -1540,6 +1574,8 @@ Drawing at your own rate costs you nothing. Pushing past it does, and the price 
 | Multiple of your rate | 1× | 2× | 3× | 4× | 5× | 6× | 8× | 10× |
 |---|---|---|---|---|---|---|---|---|
 | **Recovery** | 1.00 | 0.80 | 0.64 | 0.51 | 0.41 | 0.33 | 0.21 | 0.13 |
+
+}}
 
 ```
 tap duration = stored units × recovery ÷ tap intensity
@@ -1630,6 +1666,8 @@ While you fill an ironmind, you grow lighter by the fraction you are storing. Yo
 | −90% | Snow crust, mud, and narrow ledges hold you. Pressure plates and weight-triggered traps do not fire. |
 | −99% | You drift more than you walk. A stiff wind becomes a genuine problem, and a shove sends you a long way. |
 
+{{tableGroup
+
 ### Tapping
 
 While you tap an ironmind, you grow heavier by the intensity you draw, and you are granted the strength to carry that weight without being crushed by it. Your density rises with your weight, though your size does not.
@@ -1639,6 +1677,8 @@ While you tap an ironmind, you grow heavier by the intensity you draw, and you a
 | +100% (double) | Advantage on saves and checks to resist being moved, shoved, or knocked prone. You cannot be pushed by Steelpushing beyond half the normal distance. |
 | +200% to +300% | You are immovable by ordinary force: forced movement against you fails unless the source is magical or itself Feruchemically strengthened. Your falling and charging attacks add momentum, dealing an extra 1d6 damage per 100% stored above your base. |
 | +400% or more | Your weight becomes a hazard to the ground beneath you. You may break through floors, sink in soft earth, and swim not at all. Ordinary furniture, boats, and ropes fail under you. |
+
+}}
 
 ### Limits
 
@@ -1675,6 +1715,8 @@ While you fill a steelmind, every movement comes slower, as though you were wadi
 - At light storing you are merely sluggish. At heavy storing you have disadvantage on initiative, on Dexterity checks, and on Dexterity saving throws.
 - Fine work is not impossible, only slow. Storing speed does not dull your mind or weaken your body.
 
+{{tableGroup
+
 ### Tapping
 
 While you tap a steelmind, you move faster than a body has any right to. **Multiply your speed by 1 plus the intensity you draw.**
@@ -1687,7 +1729,11 @@ Your perception and reflexes quicken along with your body, enough to navigate at
 | +200% to +300% | Your speed triples or quadruples. You can take the Dash or Disengage action as a bonus action. Opportunity attacks against you are made with disadvantage. |
 | +400% or more | You gain **one additional action** on each of your turns, spent only to Attack, Dash, Disengage, Hide, or Use an Object. To onlookers you are a blur crossing the room between heartbeats. |
 
+}}
+
 **The action ceiling.** One extra action is all steel will ever give you, no matter how hard you draw. Everything past +400% becomes raw velocity, not more decisions, because deciding is the mind's work and steel only carries the body.
+
+{{tableGroup
 
 ### Limits
 
@@ -1699,6 +1745,8 @@ Speed does not exempt you from the world, though it takes a great deal of speed 
 | +1,900% | 600 ft/round | 70 mph | Unprotected, the wind blinds and deafens you: disadvantage on Perception checks. **Goggles, a helmet, or a wrapped face negate this.** |
 | +4,900% | 1,500 ft/round | 170 mph | The air is a wall. You take **1d6 bludgeoning damage** at the end of each turn unless fully protected, and you cannot stop or turn safely. |
 | +9,900% or more | 3,000 ft/round | 340 mph | Heat and pressure tear at you regardless of gear. Sustained running at this speed is suicide. |
+
+}}
 
 **Collisions.** At these speeds, running into something is not a stumble. Resolve it with the impact damage table among the **Force Tables**, using your mass and your actual speed. A Steelrunner meeting a wall at 250 feet per second is doing the same physics as a body hurled by a Coinshot.
 
@@ -1742,6 +1790,8 @@ While you fill a tinmind, the sense you are storing dulls in proportion.
 - **Pain** is the prize. A Windwhisperer storing pain feels nothing from a wound, which is as dangerous as it is useful, since you will not notice what is killing you. While storing pain heavily, you automatically fail checks to notice injury and you may keep acting past the point of good sense, at the DM's discretion.
 - You may store several senses at once in several metalminds, and dull yourself nearly to nothing.
 
+{{tableGroup
+
 ### Tapping
 
 While you tap a tinmind, that one sense sharpens beyond human range. Tapping only strengthens what a sense can already do.
@@ -1754,6 +1804,8 @@ While you tap a tinmind, that one sense sharpens beyond human range. Tapping onl
 | +400% | ×5 range | Read a page across a courtyard. Hear a conversation through a wall. Follow a trail by scent alone. |
 | +900% | ×10 range | Pick one voice out of a crowded market. See the tremor in a distant hand. |
 | +1,900% or more | ×20 range or better | Near-telescopic or near-microscopic. Count roof tiles a mile off, or find the hairline crack in a lock's face. |
+
+}}
 
 ### Limits
 
@@ -1799,6 +1851,8 @@ While you fill a pewtermind, your muscles thin and weaken in proportion to what 
 - At heavy storing you have disadvantage on Strength checks and saving throws, and lifting your own gear becomes a labor.
 - Storing does not touch your base speed, your senses, or your wits. A storing Brute is weak, not slow or dull.
 
+{{tableGroup
+
 ### Tapping
 
 While you tap a pewtermind, your muscles swell far past their natural size and your strength with them.
@@ -1811,6 +1865,8 @@ While you tap a pewtermind, your muscles swell far past their natural size and y
 | +200% | ×3 | ×3 | +100% | count as one size larger to grapple, shove, and carry |
 | +400% | ×5 | ×5 | +200% | **Large** |
 | +900% | ×10 | ×10 | +450% | Large, and straining the frame that holds it |
+
+}}
 
 *Example.* A Brute with Strength 12 drawing +400% has an effective Strength of 60. They carry 900 pounds, and weigh three times what they did.
 
@@ -1865,6 +1921,8 @@ While you fill a zincmind, your thoughts thicken and slow. You are not stupid; y
 - At heavy storing you have disadvantage on Intelligence checks and on initiative.
 - **You take in information normally.** Storing does not dull your senses or your memory. You hear the shout perfectly well; you are just slow to work out what it meant.
 
+{{tableGroup
+
 ### Tapping
 
 While you tap a zincmind, your thoughts race ahead of the world.
@@ -1874,6 +1932,8 @@ While you tap a zincmind, your thoughts race ahead of the world.
 | +100% | Mental tasks take half as long. Advantage on Intelligence checks and on initiative. |
 | +400% | Mental tasks take a fifth as long. You gain **one additional reaction** each round, and you cannot be surprised. |
 | +900% or more | You gain **one additional action** on each of your turns. You read a room, a page, or a fight faster than it can develop. |
+
+}}
 
 **The action ceiling.** One extra action is all zinc will ever give you, however hard you draw. Where steel grants a faster body, zinc grants a faster mind, and a full Feruchemist tapping both may hold two extra actions at once. No single attribute grants more.
 
@@ -1917,6 +1977,8 @@ Warmth is the one attribute a Ferring can draw from **outside** themselves, and 
 
 Everything else follows the rules. Storing and tapping are free actions, a brassmind is keyed to your Identity, and compression still bites, harder than usual (see below).
 
+{{tableGroup
+
 ### Throughput
 
 Your level sets your **throughput**: the kilojoules per minute you can channel, in or out. It replaces the usual rate and depth.
@@ -1930,6 +1992,8 @@ Your level sets your **throughput**: the kilojoules per minute you can channel, 
 | 12 | 15,000 | standing in open flame |
 | 16 | 40,000 | **wading in lava** |
 | 20 | 100,000 | swimming in lava |
+
+}}
 
 Throughput is a **hard limit while storing**, which is what gates survival, and your **free rate while tapping**, past which compression begins.
 
@@ -1946,6 +2010,8 @@ While you fill a brassmind, heat flows out of you and into the metal. The trick 
 
 **The shock danger.** Beginning a hard store suddenly is its own risk. If you open a store at more than half your throughput in a single instant, make a Constitution saving throw against your Feruchemy save DC or fall **unconscious** from the shock.
 
+{{tableGroup
+
 ### Body Temperature: the governor
 
 Your body holds about 245 kilojoules for each degree Celsius, and it wants to sit at 37 °C. Heat you fail to store, or heat you strip away with nothing to replace it, moves you along this track. **Tapping never moves you here; you cannot cook yourself with your own warmth.** Only outside heat you failed to drink can overheat you.
@@ -1960,7 +2026,11 @@ Your body holds about 245 kilojoules for each degree Celsius, and it wants to si
 | −1,200 kJ | 32 °C | Hypothermia. A level of Exhaustion and disadvantage. |
 | −2,200 kJ | 28 °C | Severe. Save or fall unconscious; death if it holds. |
 
+}}
+
 As a rule of thumb, each step is about **500 kJ** of surplus, gained or lost roughly one step per minute of serious imbalance. Return to balance and you recover the same way.
+
+{{tableGroup
 
 ### Tapping: warmth out
 
@@ -1973,7 +2043,11 @@ While you tap a brassmind, warmth pours back into you and out through your skin.
 | +900% | Forge-hot. You set light to dry things you touch and can soften metal in your grip. Your fire immunity covers all but the hottest magical flame. Radiant damage rises to **2d6.** |
 | +1,900% or more | Hotter than any natural fire, immune to all but the truly extraordinary. Radiant damage caps at **4d6** and climbs no further. Excess pours off as blinding light and shimmering air; a Firesoul is a furnace, not a growing bomb. |
 
+}}
+
 **Melting and igniting** take **sustained, focused contact**, not an instant, because you can only pour so much heat into one small thing at a time. Setting a rope alight is immediate; softening a lock is a round or two of grip; melting through a steel bar is the work of many rounds, or a Compounder's.
+
+{{tableGroup
 
 #### Compression runs harsh
 
@@ -1982,6 +2056,8 @@ Released energy is potent even for a heartbeat, so brass loses it fast when you 
 | Multiple of throughput | 1× | 2× | 3× | 4× | 5× |
 |---|---|---|---|---|---|
 | **Recovery** | 1.00 | 0.50 | 0.25 | 0.13 | 0.06 |
+
+}}
 
 Recovery **halves** with each multiple, far steeper than the 0.8 of other metals. A Firesoul who dumps everything at once to melt a door in a single round may burn through ten times the energy they actually deliver. Bursting is possible; it is simply ruinous to your reserve.
 
@@ -2096,6 +2172,8 @@ While you fill a bronzemind, you grow drowsy, and at depth you sink into a slow,
 
 You may also simply oversleep on purpose to bank the extra. A Sentry can even enter a trance and store for days on end to lay in a great reserve at once, though it leaves them helpless throughout and is rarely wise.
 
+{{tableGroup
+
 ### Tapping
 
 While you tap a bronzemind, sleep stops mattering.
@@ -2105,6 +2183,8 @@ While you tap a bronzemind, sleep stops mattering.
 | +100% | You need no sleep while you tap, and you have advantage on Wisdom (Perception) checks to notice what is around you. |
 | +400% | You cannot be **surprised**, and you have advantage on initiative. Long watches cost you nothing. |
 | +900% or more | Preternatural alertness. You notice every change in a room the moment it happens, and cannot be caught unaware by anything you could conceivably perceive. |
+
+}}
 
 **Rest.** Tapping bronze for the length of a long rest grants you the **benefits of that long rest without sleeping**, so long as you keep tapping throughout. Stop tapping, and the accumulated tiredness arrives at once: you must sleep at the first opportunity or begin gaining Exhaustion at the DM's discretion.
 
@@ -2267,6 +2347,8 @@ While you tap a goldmind, your flesh knits, your blood replenishes, and wounds c
 
 **Surviving a killing blow.** While you have a charged goldmind, you need not fall. If damage would drop you below 0 hit points, you may pay from the ring to stay at **0 hit points, conscious and able to act**, at a cost of **2 hit points from the ring for each 1 by which you were driven below 0**. You weather blows that would kill an ordinary person where they stand, for exactly as long as the gold pays. The instant the ring cannot cover a blow in full, it fails, and that blow drops you as it normally would.
 
+{{tableGroup
+
 #### Compression
 
 When you heal faster than your free rate, divide the rate you want by your free rate to get the multiple, then read your recovery, on the standard curve.
@@ -2274,6 +2356,8 @@ When you heal faster than your free rate, divide the rate you want by your free 
 | Multiple of free rate | 1× | 2× | 3× | 4× | 5× |
 |---|---|---|---|---|---|
 | **Recovery** | 1.00 | 0.80 | 0.64 | 0.51 | 0.41 |
+
+}}
 
 Gold's teeth are not here but in the other two lanes: the **sickness of storing** and the flat **2-for-1** of cheating death. Ordinary healing is merely metered.
 
@@ -2323,6 +2407,8 @@ While you fill an electrummind, your will drains away and a grey **listlessness*
 - At heavy storing you struggle to act on your own initiative, needing prompting or orders to do more than the minimal, at the DM's discretion. You are not incapable, only unwilling.
 - Storing does not touch your body or your wits. A storing Pinnacle is listless, not weak or slow or stupid.
 
+{{tableGroup
+
 ### Tapping
 
 While you tap an electrummind, a fierce, rising drive fills you, and at the top it becomes a mania nothing can turn aside.
@@ -2332,6 +2418,8 @@ While you tap an electrummind, a fierce, rising drive fills you, and at the top 
 | +100% | Advantage on saving throws against being Frightened or Charmed, and against effects that would sway or command you. |
 | +400% | You are **immune** to the Frightened and Charmed conditions, and to fear and morale effects. Pain and despair do not slow you. |
 | +900% or more | Unbreakable. You have advantage on any saving throw to avoid being forced to stop acting, and you may ignore effects that would make you flee, surrender, or stand down. You keep going where any reasonable person would break. |
+
+}}
 
 ### Limits
 
@@ -2474,6 +2562,8 @@ While you fill an aluminummind, your sense of self thins, and you become a blank
 - **A self too faint to find.** With no Identity, effects that reach for *you* by name or by soul, scrying, some divinations, a curse laid on your true self, may simply fail to find anyone there.
 - **The cost.** A person with no Identity is terribly open to alteration. While heavily storing, you have **disadvantage on saving throws** against being Charmed, possessed, disguised, transformed, or otherwise made into something you are not, and such effects take hold of you far more easily.
 
+{{tableGroup
+
 ### Tapping: becoming wholly yourself
 
 While you tap an aluminummind, you become intensely, unshakably *you*.
@@ -2483,6 +2573,8 @@ While you tap an aluminummind, you become intensely, unshakably *you*.
 | +100% | Advantage on saving throws against being Charmed, frightened into another's will, possessed, or magically transformed. |
 | +400% | You **cannot be transformed, disguised over, or possessed** against your will, and illusions and Forgeries slide off your true shape. You may end one such effect already on you. |
 | +900% or more | Your self is adamant. You are immune to possession and unwilling transformation, and you may **mend damage to your own mind**: end a madness, a curse of the personality, or an alteration to who you are, restoring the self you know yourself to be. |
+
+}}
 
 ### Limits
 
@@ -2528,6 +2620,8 @@ While you fill a duraluminmind, the threads that connect you to those around you
 - At heavy storing, attention **actively avoids** you: you have advantage on Dexterity (Stealth) checks to go unnoticed even in the open, witnesses struggle to recall you, and a creature must have real reason to single you out. This is not invisibility; you are plainly there, and no one cares to notice.
 - The same fading makes you a stranger to everyone. While storing, you have **disadvantage on Charisma checks** to persuade, charm, or be believed. No one is inclined to connect with someone the world has forgotten.
 
+{{tableGroup
+
 ### Tapping: belonging at once
 
 While you tap a duraluminmind, bonds form in moments that would normally take months. This is **not** the *charm* spell; the trust you build is real, and it lasts, though the deeper effects fade when you stop tapping.
@@ -2537,6 +2631,8 @@ While you tap a duraluminmind, bonds form in moments that would normally take mo
 | +100% | Advantage on Charisma (Persuasion) checks to build rapport, and you may improve a creature's attitude toward you a step faster than talk alone would allow. |
 | +400% | You **belong here.** You speak and understand the **local language** for as long as you tap, and you carry yourself as a native of this place, its customs and manners suddenly known to you. You can pass as a local among locals. |
 | +900% or more | You form a **true, lasting bond** with a person in a single conversation, a friendship or trust that would ordinarily take years. It is genuine and remains after you stop tapping, though whether it survives what you do with it is up to you. |
+
+}}
 
 ### Limits
 
@@ -2668,6 +2764,8 @@ At character creation, decide with your DM whether Twinborn are allowed (they ar
 
 Pick any one **Allomantic** metal for your Misting power and any one **Feruchemical** metal for your Ferring power. Choosing the **same** metal makes you a Compounder, if your DM permits.
 
+{{tableGroup
+
 #### Option B: Roll each side
 
 For each art, roll **1d4 for the quadrant**, then **1d4 for the metal** within it. Roll once for your Allomantic power and once for your Feruchemical power. God metals are never rolled; they are DM-placed.
@@ -2680,6 +2778,8 @@ For each art, roll **1d4 for the quadrant**, then **1d4 for the metal** within i
 | 2 | Mental | Zinc (Rioter) / Brass (Soother) / Copper (Smoker) / Bronze (Seeker) |
 | 3 | Enhancement | Chromium (Leecher) / Nicrosil (Nicroburst) / Aluminum Gnat / Duralumin Gnat |
 | 4 | Temporal | Gold (Augur) / Electrum (Oracle) / Cadmium (Pulser) / Bendalloy (Slider) |
+
+}}
 
 **Feruchemical power (your Ferring):**
 
@@ -2708,6 +2808,8 @@ A **Compounder** is a Twinborn whose Allomantic and Feruchemical powers are the 
 
 This is the most powerful thing in the Metallic Arts short of a God Metal in the right hands, and it is how the Lord Ruler wore one face for a thousand years. It is also rare, and a DM is right to weigh whether to allow it. See Twinborn for how a same-metal pairing comes about, and the core rules for the underlying model.
 
+{{tableGroup
+
 ### What Compounding does
 
 When you burn a Feruchemically charged metalmind of your Compounding metal, you do **not** get its Allomantic power. There is no Steelpush, no coppercloud. Instead you draw out the **stored Feruchemical attribute, amplified**: you tap it as though you were drawing **many times** the charge you actually spend.
@@ -2717,6 +2819,8 @@ The multiplier grows with level, as your skill at the trick deepens.
 | Level | 1–2 | 3–4 | 5–6 | 7–8 | 9–10 | 11–12 | 13–14 | 15–16 | 17–18 | 19–20 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Compounding ×** | 2 | 3 | 4 | 5 | 6 | 7 | 9 | 10 | 12 | 15 |
+
+}}
 
 So a 5th-level gold Compounder who burns one hit point of stored health heals **four**. A 20th-level one heals fifteen. Whatever the metal, one unit spent becomes many drawn.
 
@@ -2742,13 +2846,13 @@ In practice, three things hold it back.
 - **Each attribute's own ceiling.** Compounding multiplies the attribute, but the attribute's own limits still bite. A steel Compounder is still torn apart by air resistance; a pewter Compounder still cannot fit through a door; a brass Compounder can still cook themselves. The metal page's limits are not lifted, only fed.
 - **Savanthood.** A body that comes to rely on Compounded power grows dependent on it, and a Compounder who cannot stop is on the road to a **Feruchemical savanthood** of their own art, and worse. Relentless Compounding of one metal fuses you with your *Feruchemy* the way heavy burning fuses an Allomancer with a metal: the effect deepens (a gold Compounder-savant outlasts even an ordinary gold Compounder), and the Dependency is real (the body that never stops mending cannot safely stop). Miles Dagouter tapped his healing constantly, and could not safely stop. See Feruchemical savants (through Compounding).
 
+{{wide
+
 ### What each metal becomes
 
 Compounding turns modest Feruchemy into legend. Every pairing is listed here rather than scattered across the metal entries, because what a Compounder of a metal becomes is a fact about **Compounding**, not about the metal.
 
 The attribute is the Feruchemical one; the Allomantic half of the pair only provides the burn.
-
-{{wide
 
 | Metal | Attribute | What a Compounder becomes |
 |---|---|---|
@@ -2876,13 +2980,13 @@ You bear **four Hemalurgic spikes**, which puts you at the **4 to 6** tier of th
 
 A koloss who is not being steered by someone is a koloss whose spikes nobody has bothered to reach for yet.
 
+{{wide
+
 #### Growth: the body outruns the skin
 
 **Everything about you grows except your skin.** Your muscles thicken, your bones lengthen and thicken with them, your heart and lungs strain to keep up. Only the skin stays the size it was on the day you were spiked, and that single failure is what eventually kills you.
 
 Growth is measured in **years, not levels**. A campaign spanning a season will barely move a koloss along this table; one spanning a decade will change what the character fundamentally is.
-
-{{wide
 
 | Years since the spiking | Height | Size | Strength | The skin |
 |---|---|---|---|---|
@@ -2954,6 +3058,8 @@ Your true shape is a translucent mass of flesh, and it is the state you return t
 
 You may abandon your bones and revert to this form deliberately as an action. Doing so leaves the bones behind.
 
+{{tableGroup
+
 #### Digest and Mimic
 
 Given a corpse with an intact skeleton, you can consume it and rebuild yourself as a perfect copy. This is careful work, not a combat trick.
@@ -2965,6 +3071,8 @@ Given a corpse with an intact skeleton, you can consume it and rebuild yourself 
 | **Small** | 10 minutes | 1 hour | 3 hours | 5 hours |
 | **Medium** | 1 hour | 2 hours | 4 hours | 6 hours |
 | **Large** | 3 hours | 4 hours | 6 hours | 8 hours |
+
+}}
 
 A human takes about an hour, which covers the hair of the head and face. **A body you have worn before takes half as long.** You may skip the hair entirely and finish in the bare-skin time, but a hairless copy fools nobody, and you lose whatever that covering did (a bear without fur takes the cold; a bird without feathers cannot fly). you can mimic any creature that can bear your spikes.
 
@@ -2982,6 +3090,8 @@ A human takes about an hour, which covers the hair of the head and face. **A bod
 **What you can wear.** At 1st level you can copy **Small and Medium humanoids**. This widens as you grow (see Growing Older). You can wear the body of any creature whose frame can carry your spikes.
 
 **A body that works, versus a body that fools.** Everything above concerns an **exact replica**, which is the hard art and the one that takes practice. Simply having *a* working body is not hard, and every kandra can do it from their first day. Given any usable set of bones, matched or not, you can assemble a functioning creature in the bare-skin time on the table. It will move, fight, and carry you perfectly well. It will also look like nothing that was ever born, and no one who sees it will mistake it for a person.
+
+{{tableGroup
 
 #### Your Skeleton
 
@@ -3001,6 +3111,8 @@ Bones are one of the things a kandra cannot make from their own flesh. You must 
 | Iron or steel | 17 | You may build in **hidden compartments** and **retractable blades** (a d6 finesse natural weapon) |
 | Aluminum | 15 | Cannot be affected by Allomantic Pushes or Pulls, and cannot be sensed as metal |
 | Exotic (mithral, adamantine, or stranger) | 18+ | Legendary work, entirely the DM's to place |
+
+}}
 
 **Heavy bones do not slow you.** A kandra simply grows the extra muscle needed to carry them. What a heavy skeleton actually costs you is **upkeep**: more muscle needs more meat, and a stone or steel kandra eats noticeably more than a bone one. It also makes you heavy, which matters for swimming, climbing, thin ice, and rotted floors.
 
@@ -3074,6 +3186,8 @@ You bear **two Hemalurgic spikes**, and they are your mind. This is not free.
 
 Additional spikes you take through Hemalurgy stack on top of these two, moving you up the Control Risk table. A kandra who arms themselves with stolen powers becomes very dangerous and very easy to steer.
 
+{{tableGroup
+
 ### Growing Older
 
 Kandra improve at their art with practice, and yours does so as you level.
@@ -3085,6 +3199,8 @@ Kandra improve at their art with practice, and yours does so as you level.
 | **10th** | Copy **non-humanoid** creatures with an internal skeleton, and **Large** bodies. A body built from **mismatched bones** can now be made convincing, passing as a real creature of its kind rather than obviously being a construction. |
 | **15th** | Work from **decayed or partial remains**, reconstructing an **exact** likeness by inference. A body you have worn before takes **10 minutes**. |
 | **20th** | Copy a creature from **its bones alone**, having never seen it alive, and change into a body you have mastered as a **single action**. |
+
+}}
 
 ### Playing a Kandra
 
@@ -3469,6 +3585,8 @@ Feruchemy is inherited in the blood and trained from childhood, so it sits diffe
 
 ### Class Features
 
+{{tableGroup
+
 #### Feruchemy (1st level)
 
 You can store and tap **all sixteen** Feruchemical attributes, using the economy of the Ferring rules: metalminds worn, embedded, or swallowed; storing and tapping as free actions; Rate, Depth, and compression.
@@ -3482,6 +3600,8 @@ You can store and tap **all sixteen** Feruchemical attributes, using the economy
 | **Mastered quadrant** | 20% | **5th level** | +50% per level |
 | **Unmastered quadrant** | 10% | 10th level | +25% per level (halved) |
 | *(A Ferring, for comparison)* | 10% | 10th level | +50% per level |
+
+}}
 
 A mastered metal is stored and tapped exactly as its Ferring page describes, and you reach the **full 100% store at 5th level**, where an untrained Ferring waits until 10th. This is what a childhood of Terris training buys: not a deeper draw, but an earlier command of your own limits.
 
@@ -3499,6 +3619,8 @@ This is the heart of a Feruchemist: a Ferring wears one ring and lives on one at
 
 At present this means **atium**, which stores **age**. A Feruchemist who comes into atium wields it fully at once, which is precisely why so few ever should.
 
+{{tableGroup
+
 #### Quadrant Mastery (1st, 5th, 9th, 13th levels)
 
 The sixteen metals fall into four Feruchemical quadrants: **Physical**, **Cognitive**, **Hybrid**, and **Spiritual**. At 1st level, choose one to **master**; any of the four may be your starting quadrant. You gain three more masteries at 5th, 9th, and 13th level, choosing a new quadrant each time, until at 13th level you have mastered all four.
@@ -3511,6 +3633,8 @@ Your **starting quadrant** shapes you most, granting a **Quadrant Discipline** a
 | **Cognitive** | Zinc, Brass, Copper, Bronze | The mind: thought, warmth, memory, wakefulness |
 | **Hybrid** | Cadmium, Bendalloy, Gold, Electrum | Endurance: breath, nutrition, health, determination |
 | **Spiritual** | Chromium, Nicrosil, Aluminum, Duralumin | The soul: Fortune, Investiture, Identity, Connection |
+
+}}
 
 #### Keeper's Coppermind (1st level)
 
@@ -3528,6 +3652,8 @@ Your **starting quadrant** grants a **Discipline** at these levels, listed under
 
 **A Discipline is never free.** Every Discipline refines how you *store or tap* one or more metals. To gain its benefit you must be storing or tapping the relevant metal as its Ferring page requires, and metalminds so used count against your **Minds at Once** as normal.
 
+{{tableGroup
+
 #### Practiced Compression (7th level)
 
 Your control over drawing hard has grown. Your **compression value improves to 0.85**, as shown on the level table, and improves again at 13th and 18th level. This softens every draw you make past your Rate: where a Ferring loses a fifth of their store to reach twice their Rate, you lose less.
@@ -3539,6 +3665,8 @@ Your control over drawing hard has grown. Your **compression value improves to 0
 | Recovery at **0.80** | 0.80 | 0.64 | 0.51 | 0.41 | 0.21 |
 | Recovery at **0.90** | 0.90 | 0.81 | 0.73 | 0.66 | 0.48 |
 | Recovery at **0.95** | 0.95 | 0.90 | 0.86 | 0.81 | 0.70 |
+
+}}
 
 #### Deep Reserves (11th level)
 
@@ -3648,6 +3776,8 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 
 ---
 
+{{tableGroup
+
 ### Feruchemist and Ferring
 
 A Feruchemist is not simply sixteen Ferrings. Set side by side at the same level:
@@ -3660,6 +3790,8 @@ A Feruchemist is not simply sixteen Ferrings. Set side by side at the same level
 | **Minds at once** | One attribute | **2 at 1st, 16 at 20th** (every attribute at once) |
 | **Compression** | 0.80 | 0.80, improving to **0.95** |
 | **Unsealed minds** | Never | Yes (15th, or 6th for a Spiritual start) |
+
+}}
 
 The Feruchemist never draws *harder* than the specialist. They simply draw from everywhere at once, and they have already prepared.
 
@@ -3754,6 +3886,8 @@ You know how to steal a piece of a soul and graft it onto another. Three things 
 
 **Stolen Feruchemy carries its keys.** If you steal a *Feruchemical* power from a donor, you also gain the ability to tap **that donor's own metalminds**, their Identity no longer barring you.
 
+{{tableGroup
+
 #### Spike Craft (1st level)
 
 Making a spike takes a metal, a donor, and a killing.
@@ -3769,11 +3903,15 @@ Making a spike takes a metal, a donor, and a killing.
 | An **animal** | **Crude** | 10% to 30% | Innate physical attributes only (strength, senses, toughness). Never a Metallic Art |
 | A **recovered spike** | **Decayed** | The DM sets it | Whatever survived. Found only where Hemalurgy was practiced: Inquisitor barrows, old Ministry sites, a koloss battlefield |
 
+}}
+
 *Read the roll against the band: treat any result below the band's floor as the floor, and any result above its ceiling as the ceiling.* A spike at 80% grants its power at 80% strength. For a Metallic Art this means a **bloodline level** (the level at which a Misting or Ferring power scales, normally equal to the bearer's character level; see Misting Bloodlines) of 80% of the bearer's own level, rounded down, minimum 1.
 
 *Hemalurgy works on animals but never on plants, and it transmits no disease or infection, however filthy the working.*
 
 **Hemalurgic decay.** A spike out of a body **loses potency steadily**, dropping its yield over weeks at a rate the DM sets. Keeping it embedded in *someone* stops the loss entirely. **Coating it in blood** significantly slows it, which is why spikes are stored in sealed jars of the stuff. Splitting a spike divides its charge **and loses some of it**.
+
+{{tableGroup
 
 #### Placement (1st level)
 
@@ -3787,6 +3925,8 @@ Make an **Intelligence (Medicine) check** against **DC 10, plus 2 for each spike
 | **Fail by 1 to 4** | The spike takes badly. It grants **half** its yield, and the recipient takes **4d10 piercing damage**. |
 | **Fail by 5 or more** | The spike does not take. Its **charge is lost entirely**, and the recipient takes **6d10 piercing damage**. |
 | **Fail by 10 or more** | As above, and the recipient must succeed on a **DC 15 Constitution saving throw** or **die**. |
+
+}}
 
 You know the placements that are actually written down, so you make this check with **advantage** when placing a spike whose metal and intended effect appear on the Known Placements table. Anything else is a guess.
 
@@ -3861,6 +4001,8 @@ You have found the configuration the Lord Ruler's steel priests used. You may be
 
 ---
 
+{{tableGroup
+
 ### Control Risk
 
 Every spike punches a hole in the soul it enters. Through those holes, things reach in.
@@ -3875,6 +4017,8 @@ This applies to **anyone** carrying spikes, including you, your allies, and your
 | **7–8** | Barely your own. As above, and any creature attempting control has **advantage**, while you succeed on such saves only on a 17 or higher. |
 | **9–11** | Inquisitor. See The Eleventh Spike. Against a strong Soother or Rioter you succeed only on a **natural 20**; against a Shard you get **no save at all**. |
 
+}}
+
 **What helps.**
 
 - **Mental fortitude resists.** A **copper** spike steals exactly that, and a bearer carrying one has **advantage** on all saving throws against control. This is why the kandra Blessing of Presence was so valued. It is the single best investment a heavily spiked character can make.
@@ -3883,6 +4027,8 @@ This applies to **anyone** carrying spikes, including you, your allies, and your
 - **Aluminum** worn over the head blocks emotional Allomancy as it always does, though it does nothing against a Shard.
 
 ---
+
+{{tableGroup
 
 ### What Each Metal Steals
 
@@ -3908,9 +4054,13 @@ This applies to **anyone** carrying spikes, including you, your allies, and your
 | **Lerasium** | All of a donor's abilities at once |
 | **Trellium** | Unknown, and not of this world. Makes Chimeras |
 
+}}
+
 A stolen Allomantic or Feruchemical power makes its bearer a Misting or Ferring of that metal, using the Misting or Ferring page as written, at a bloodline level equal to the spike's **yield percentage of the bearer's own level**, rounded down, minimum 1.
 
 **Hemalurgy is physically destructive.** A single spike is just a spike, and leaves its bearer looking like a person with a spike in them. It is *stacking* them that twists a body, and worst of all when the stolen attribute is neither Allomantic nor Feruchemical. Raw strength, senses, and fortitude deform the most, which is why koloss look as they do and Inquisitors are unmistakable.
+
+{{tableGroup
 
 #### Known Placements
 
@@ -3930,6 +4080,10 @@ These are the placements that have been written down and survive. Everything els
 | Heart | Pewter | Feruchemical steel |
 | Upper back, between the shoulder blades | Varies | Linchpin |
 
+}}
+
+{{tableGroup
+
 #### What Each Creation Requires
 
 | Creation | Requires |
@@ -3938,6 +4092,8 @@ These are the placements that have been written down and survive. Everything els
 | **Hemalurgic Chimera** | One trellium spike |
 | **Kandra** | Two matched spikes in the shoulders of a Mistwraith, a **Blessing**. Only the Lord Ruler ever knew how to create one |
 | **Steel Inquisitor** | Nine to eleven spikes and a linchpin. Seekers and Mistborn are the preferred base, since stacked bronze pierces copperclouds |
+
+}}
 
 ---
 
@@ -3982,6 +4138,10 @@ These are the placements that have been written down and survive. Everything els
 **[ART: class-hemalurgist]** *A tray of prepared spikes in different metals, laid out like surgical tools.*
 
 **COLUMN** not supplied | ratio 1.33:1
+}}
+
+{{wide
+![chart-hemalurgy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-hemalurgy.svg){width:100%}
 }}
 
 \page
@@ -4030,6 +4190,8 @@ Every Metallic Art runs on metal you have to buy, carry, and eventually run out 
 
 ---
 
+{{tableGroup
+
 ### What you buy
 
 Metal for burning is sold in three standard forms.
@@ -4040,11 +4202,15 @@ Metal for burning is sold in three standard forms.
 | **Powder** | 50 g | A pouch of ground metal, ten vials' worth. What you restock from |
 | **Bead** | 2 g | A dense, pea-sized nugget. Discreet carry, high-value barter, and the raw form for a Hemalurgic spike |
 
+}}
+
 **Every vial holds the same five grams, whatever the metal.** Vials are sold by weight, so they differ in size rather than in dose. Five grams of aluminum is a generous pinch of flakes that clouds the whole vial; five grams of gold is a small bright dusting in the bottom of one. Aluminum takes up roughly seven times the room of gold for the same weight, and a bandolier of aluminum vials looks it.
 
 Feruchemists buy the same metals in different shapes: **rings** (roughly 2 to 10 g), **bracers** (10 to 40 g), and **studs or spikes** for wearing under the skin. A metalmind is just metal, so it costs whatever that weight of that metal costs, plus the smith's fee.
 
 ---
+
+{{tableGroup
 
 ### Prices
 
@@ -4071,6 +4237,8 @@ Feruchemists buy the same metals in different shapes: **rings** (roughly 2 to 10
 | **Malatium** | Atium and gold | 350 gp | 1,750 gp | 17,500 gp | 700 gp |
 | **Atium** | Pure | 500 gp | 2,500 gp | 25,000 gp | 1,000 gp |
 
+}}
+
 #### What you actually pay
 
 Material cost is not shelf price. Somebody has to grind the metal fine, suspend it, and stake their reputation on the alloy being exact, and **a false alloy is worthless**, so that guarantee is most of what you are buying on the cheap metals.
@@ -4083,6 +4251,8 @@ Material cost is not shelf price. Somebody has to grind the metal fine, suspend 
 **Grind your own.** This gap is worth a player noticing. A pouch of tin **powder** holds ten vials' worth and costs **1 silver**; ten prepared **vials** of the same tin cost **10 gold**, a hundred times more. Buying powder and preparing your own vials takes about an hour, a mortar, and some strong spirits, and it is the single largest saving available to a working Allomancer. It also means you are trusting your own purity checks instead of somebody else's, which is exactly why the Alloyer feat pays for itself.
 
 ---
+
+{{tableGroup
 
 ### What a vial buys you
 
@@ -4109,11 +4279,15 @@ This is the table that matters at play. A **vial is 5 grams**, and what that mea
 | **Malatium** | 10 | 50 | Round | 5 minutes | **35 gp** |
 | **Atium** | 10 | 50 | Round | 5 minutes | **50 gp** |
 
+}}
+
 **Read that last column.** A round of flared pewter costs a fraction of a copper piece. A round of atium costs fifty gold. That is not a rounding difference, it is the design: common metals are a non-issue you should hand-wave, and god metals are a resource the whole table feels.
 
 **Flaring multiplies the cost.** Every figure above is base burn, one charge per tempo unit. A Coinshot flaring ten charges a round is spending eleven times as fast. On tin that is still nothing. On atium that is 550 gp a round.
 
 ---
+
+{{tableGroup
 
 ### Availability
 
@@ -4126,6 +4300,8 @@ Not everything is on a shelf. Roll these into whatever your setting already does
 | **Rare** | Chromium, nicrosil, duralumin | Capital cities and dedicated dealers. Expensive and remembered |
 | **Restricted** | **Aluminum** | Controlled wherever anyone understands it. Buying quantity draws attention, and in many places it is outright illegal |
 | **Legendary** | Atium, malatium, lerasium, trellium | Not sold. These are treasure, plot, and reward, placed by the DM and never stocked |
+
+}}
 
 **Why aluminum is watched.** It cannot be Pushed or Pulled, it shields a mind from emotional Allomancy, and burning it strips an Allomancer's reserves. Anyone who rules by Allomancy has an excellent reason to control who owns it, and historically they always have.
 
@@ -4273,6 +4449,8 @@ Because a burn is an act of will on metal already inside you, not a spell, Allom
 - **Concentration is separate.** Holding a time bubble or a sustained burn is not spellcaster Concentration; it is not broken by taking damage, and you can maintain it alongside a concentration spell if you also cast. Each metal page states what ends its effect.
 - **The counters that remain** are the Investiture-aware ones: aluminum and chromium (rare, coveted metals), taking away or fouling an Allomancer's metal, and simply out-fighting them. A party facing an Allomancer should understand that the standard anti-caster toolkit largely does not apply.
 
+{{tableGroup
+
 ### Quick reference
 
 | Situation | Ruling |
@@ -4288,3 +4466,5 @@ Because a burn is an act of will on metal already inside you, not a spell, Allom
 | Nicrosil on ally's spell | Same as duralumin, ally chooses slots |
 | Nicrosil on enemy caster | Force wasteful expenditure; Con save protects half their slots |
 | Any burst/drain vs Feruchemy or spell slots | Con save (internal power); vs Allomantic metal, no save |
+
+}}

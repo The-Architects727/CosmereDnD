@@ -11,6 +11,7 @@
 
 # except these
 !.gitignore
+!README.md
 !final-render/
 
 # inside final-render, keep the art and the finished files,

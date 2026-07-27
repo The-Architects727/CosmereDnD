@@ -5,8 +5,9 @@ so it can be pushed to GitHub without exposing the rest of the vault.
 
 ```
 final-render/
-  art/            <- put your images here, named by slot id
-  art/manifest.tsv<- slot id -> hosted URL, once uploaded
+  art/                   <- put your images here, named by slot id
+  art/MetalIcons/        <- the sixteen glyphs, per art, used to draw the charts
+  art/manifest.tsv       <- optional override: slot id -> URL hosted elsewhere
   mistborn-homebrew.md   <- the finished brew, copied here by the build
   mistborn-homebrew.pdf  <- the exported PDF, put here by you
 ```
@@ -24,7 +25,7 @@ push the page layout around, which is what caused the runaway-column problem.
 | **0.77 : 1** | Tall portrait, page shaped | Full-page covers |
 | **1.00 : 1** | Perfect square | Emblems |
 | **1.33 : 1** | Landscape, 4:3 | Most column art |
-| **2.00 : 1** | Wide banner | The two metal charts |
+| **2.00 : 1** | Wide banner | The three metal charts |
 | **2.50 : 1** | Very wide banner | The koloss growth diagram |
 
 **Nothing taller than 0.77 : 1.** A portrait taller than that eats most of a
@@ -35,19 +36,30 @@ column and starts pushing content off the page.
 ## How to supply an image
 
 1. **Name the file after its slot id**, for example `metal-tin.jpg`, and drop it in `art/`.
-2. Rebuild (`python ../renders/build.py`). The placeholder is now sized to your
-   image's real aspect ratio, so the layout settles immediately.
-3. **When you host it**, add a line to `art/manifest.tsv`:
-   ```
-   metal-tin	https://i.imgur.com/XXXXXX.jpg
-   ```
-   (slot id, a TAB, then the URL)
-4. Rebuild again. The placeholder is replaced by the real image and **nothing moves**,
-   because the space was already reserved correctly.
+2. Rebuild (`python ../renders/build.py`).
+3. **Commit and push.** That is the whole hosting step.
 
-Homebrewery loads images by URL and cannot take uploads, so hosting is unavoidable.
-Imgur is the least effort. A GitHub repo is better long term, because URLs can then be
-derived from filenames instead of pasted one at a time.
+There is no URL to paste. This folder is pushed to
+[the GitHub repo](https://github.com/The-Architects727/MistbornDnD), so an image
+committed here is already public, and the build derives its URL from the
+filename. The placeholder is replaced by the real image and **nothing moves**,
+because the space was reserved at the right aspect ratio the moment the file
+appeared locally.
+
+Homebrewery loads images by URL and cannot take uploads, so they have to be
+served from somewhere. The build points at **jsDelivr**, a CDN that mirrors the
+repo:
+
+```
+https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/<file>
+```
+
+rather than `raw.githubusercontent.com`, which serves `.svg` as `text/plain` and
+so cannot be drawn inside an `<img>` tag. jsDelivr caches, so a **replaced**
+image can take up to 24 hours to update; a **new** filename is live immediately.
+
+`art/manifest.tsv` still works and still wins, for anything hosted elsewhere.
+It is no longer needed for art kept in this folder.
 
 ---
 
@@ -55,47 +67,52 @@ derived from filenames instead of pasted one at a time.
 
 Filenames take any of `.png`, `.jpg`, `.jpeg`, `.webp`, `.gif`.
 
-| Slot id (filename) | Aspect | Suggested pixels | Format | Occupies |
-|---|---|---|---|---|
-| `cover-front` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines |
-| `cover-part1` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines |
-| `bloodlines-vial` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `chart-allomancy` | **2.00 : 1** | 2400 x 1200 | PNG | wide, ~22 lines |
-| `force-diagram` | **1.33 : 1** | 960 x 720 | PNG | column, ~15 lines |
-| `metal-tin` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `metal-pewter` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `metal-copper` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `metal-bendalloy` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `godmetals-atium` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `savant-tin` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `ferrings-bracers` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `chart-feruchemy` | **2.00 : 1** | 2400 x 1200 | PNG | wide, ~22 lines |
-| `metal-gold-feru` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `metal-aluminum-feru` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `twinborn-emblem` | **1.00 : 1** | 900 x 900 | JPEG | column, ~20 lines |
-| `compounding-ring` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `cover-part2` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines |
-| `koloss-growth` | **2.50 : 1** | 2400 x 960 | PNG | wide, ~17 lines |
-| `kandra-forming` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `cover-part3` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines |
-| `background-hazekiller` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `cover-part4` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines |
-| `class-mistborn` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `class-feruchemist` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `class-hemalurgist` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `hema-bindpoints` | **0.77 : 1** | 2550 x 3300 | PNG | full, ~56 lines |
-| `hema-inquisitor` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `hema-chimera` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `cover-part5` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines |
-| `economy-forms` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines |
-| `cover-appendix` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines |
+| Slot id (filename) | Aspect | Suggested pixels | Format | Occupies | Status |
+|---|---|---|---|---|---|
+| `cover-front` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines | to draw |
+| `cover-part1` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines | to draw |
+| `bloodlines-vial` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `chart-allomancy` | **2.00 : 1** | 2400 x 1200 | SVG | wide, ~22 lines | **supplied** |
+| `force-diagram` | **1.33 : 1** | 960 x 720 | PNG | column, ~15 lines | to draw |
+| `metal-tin` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `metal-pewter` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `metal-copper` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `metal-bendalloy` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `godmetals-atium` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `savant-tin` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `ferrings-bracers` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `chart-feruchemy` | **2.00 : 1** | 2400 x 1200 | SVG | wide, ~22 lines | **supplied** |
+| `metal-gold-feru` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `metal-aluminum-feru` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `twinborn-emblem` | **1.00 : 1** | 900 x 900 | PNG | column, ~20 lines | to draw |
+| `compounding-ring` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `cover-part2` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines | to draw |
+| `koloss-growth` | **2.50 : 1** | 2400 x 960 | PNG | wide, ~17 lines | to draw |
+| `kandra-forming` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `cover-part3` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines | to draw |
+| `background-hazekiller` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `cover-part4` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines | to draw |
+| `class-mistborn` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `class-feruchemist` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `class-hemalurgist` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `chart-hemalurgy` | **2.00 : 1** | 2400 x 1200 | SVG | wide, ~22 lines | **supplied** |
+| `hema-bindpoints` | **0.77 : 1** | 2550 x 3300 | PNG | full, ~56 lines | to draw |
+| `hema-inquisitor` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `hema-chimera` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `cover-part5` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines | to draw |
+| `economy-forms` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
+| `cover-appendix` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines | to draw |
 
 ---
 
 ## Notes
 
-- **The metal symbols are no longer separate images.** All sixteen Allomantic symbols
-  belong inside `chart-allomancy`, and all sixteen Feruchemical ones inside
+- **The three charts are done.** They are generated by `renders/make_charts.py`
+  from the glyphs in `art/MetalIcons/`, and each one embeds its sixteen symbols
+  inline, so a chart is a single self-contained file. Regenerate rather than
+  edit. Hemalurgy reuses the Allomantic glyphs, having none of its own.
+- **The metal symbols are not separate images.** All sixteen Allomantic symbols
+  live inside `chart-allomancy`, and all sixteen Feruchemical ones inside
   `chart-feruchemy`. That is 32 fewer files to make and place.
 - **Keep file sizes sensible.** The PDF was already 26 MB with no art at all. JPEG at
   quality 80 for painted scenes, PNG only for charts, diagrams and anything needing

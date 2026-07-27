@@ -3,105 +3,527 @@
 <rect width="2400" height="1200" fill="#F6F0E2"/>
 <text x="66" y="74" font-size="52" fill="#6E1B14" font-weight="bold" font-variant="small-caps" letter-spacing="1.5">Table: Feruchemical Metals</text>
 <rect x="62" y="128" width="2276" height="976" fill="#FBF7ED"/>
+<rect x="62" y="128" width="205" height="976" fill="#E9DCBB"/>
+<rect x="2133" y="128" width="205" height="976" fill="#E9DCBB"/>
 <rect x="62" y="128" width="2276" height="74" fill="#E9DCBB"/>
 <line x1="62" y1="202" x2="2338" y2="202" stroke="#DCCBA0" stroke-width="1.4"/>
 <rect x="62" y="1030" width="2276" height="74" fill="#E9DCBB"/>
 <line x1="62" y1="1030" x2="2338" y2="1030" stroke="#DCCBA0" stroke-width="1.4"/>
-<text x="631" y="177" text-anchor="middle" font-size="34" fill="#6E1B14" font-weight="bold" font-variant="small-caps" letter-spacing="2">Physical</text>
-<text x="1769" y="177" text-anchor="middle" font-size="34" fill="#6E1B14" font-weight="bold" font-variant="small-caps" letter-spacing="2">Cognitive</text>
-<text x="631" y="1079" text-anchor="middle" font-size="34" fill="#6E1B14" font-weight="bold" font-variant="small-caps" letter-spacing="2">Spiritual</text>
-<text x="1769" y="1079" text-anchor="middle" font-size="34" fill="#6E1B14" font-weight="bold" font-variant="small-caps" letter-spacing="2">Hybrid</text>
-<circle cx="229" cy="271" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="261" y="281" font-size="34" fill="#1B3A6B" font-weight="bold">Iron</text>
-<text x="352" y="281" font-size="27" fill="#2A2A2A" font-style="italic">(Skimmer)</text>
-<text x="346" y="327" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="346" y="363" text-anchor="middle" font-size="27" fill="#2A2A2A">Physical Weight</text>
-<circle cx="764" cy="271" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="796" y="281" font-size="34" fill="#1B3A6B" font-weight="bold">Steel</text>
-<text x="907" y="281" font-size="27" fill="#2A2A2A" font-style="italic">(Steelrunner)</text>
-<text x="915" y="327" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="915" y="363" text-anchor="middle" font-size="27" fill="#2A2A2A">Physical Speed</text>
-<circle cx="1367" cy="271" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="1399" y="281" font-size="34" fill="#1B3A6B" font-weight="bold">Zinc</text>
-<text x="1490" y="281" font-size="27" fill="#2A2A2A" font-style="italic">(Sparker)</text>
-<text x="1484" y="327" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="1484" y="363" text-anchor="middle" font-size="27" fill="#2A2A2A">Mental Speed</text>
-<circle cx="1920" cy="271" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="1952" y="281" font-size="34" fill="#1B3A6B" font-weight="bold">Brass</text>
-<text x="2064" y="281" font-size="27" fill="#2A2A2A" font-style="italic">(Firesoul)</text>
-<text x="2053" y="327" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="2053" y="363" text-anchor="middle" font-size="27" fill="#2A2A2A">Warmth</text>
-<circle cx="221" cy="478" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="253" y="488" font-size="34" fill="#1B3A6B" font-weight="bold">Pewter</text>
-<text x="385" y="488" font-size="27" fill="#2A2A2A" font-style="italic">(Brute)</text>
-<text x="346" y="534" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="346" y="570" text-anchor="middle" font-size="27" fill="#2A2A2A">Physical Strength</text>
-<circle cx="772" cy="478" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="804" y="488" font-size="34" fill="#1B3A6B" font-weight="bold">Tin</text>
-<text x="875" y="488" font-size="27" fill="#2A2A2A" font-style="italic">(Windwhisperer)</text>
-<text x="915" y="534" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="915" y="570" text-anchor="middle" font-size="27" fill="#2A2A2A">Senses</text>
-<circle cx="1335" cy="478" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="1367" y="488" font-size="34" fill="#1B3A6B" font-weight="bold">Copper</text>
-<text x="1499" y="488" font-size="27" fill="#2A2A2A" font-style="italic">(Archivist)</text>
-<text x="1484" y="534" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="1484" y="570" text-anchor="middle" font-size="27" fill="#2A2A2A">Memories</text>
-<circle cx="1922" cy="478" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="1954" y="488" font-size="34" fill="#1B3A6B" font-weight="bold">Bronze</text>
-<text x="2086" y="488" font-size="27" fill="#2A2A2A" font-style="italic">(Sentry)</text>
-<text x="2053" y="534" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="2053" y="570" text-anchor="middle" font-size="27" fill="#2A2A2A">Wakefulness</text>
-<circle cx="188" cy="685" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="220" y="695" font-size="34" fill="#1B3A6B" font-weight="bold">Chromium</text>
-<text x="393" y="695" font-size="27" fill="#2A2A2A" font-style="italic">(Spinner)</text>
-<text x="346" y="741" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="346" y="777" text-anchor="middle" font-size="27" fill="#2A2A2A">Fortune</text>
-<circle cx="739" cy="685" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="771" y="695" font-size="34" fill="#1B3A6B" font-weight="bold">Nicrosil</text>
-<text x="944" y="695" font-size="27" fill="#2A2A2A" font-style="italic">(Soulbearer)</text>
-<text x="915" y="741" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="915" y="777" text-anchor="middle" font-size="27" fill="#2A2A2A">Investiture</text>
-<circle cx="1343" cy="685" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="1375" y="695" font-size="34" fill="#1B3A6B" font-weight="bold">Cadmium</text>
-<text x="1527" y="695" font-size="27" fill="#2A2A2A" font-style="italic">(Gasper)</text>
-<text x="1484" y="741" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="1484" y="777" text-anchor="middle" font-size="27" fill="#2A2A2A">Breath</text>
-<circle cx="1879" cy="685" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="1911" y="695" font-size="34" fill="#1B3A6B" font-weight="bold">Bendalloy</text>
-<text x="2104" y="695" font-size="27" fill="#2A2A2A" font-style="italic">(Subsumer)</text>
-<text x="2053" y="741" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="2053" y="777" text-anchor="middle" font-size="27" fill="#2A2A2A">Nutrition</text>
-<circle cx="182" cy="892" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="214" y="902" font-size="34" fill="#1B3A6B" font-weight="bold">Aluminum</text>
-<text x="387" y="902" font-size="27" fill="#2A2A2A" font-style="italic">(Trueself)</text>
-<text x="346" y="948" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="346" y="984" text-anchor="middle" font-size="27" fill="#2A2A2A">Identity</text>
-<circle cx="735" cy="892" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="767" y="902" font-size="34" fill="#1B3A6B" font-weight="bold">Duralumin</text>
-<text x="960" y="902" font-size="27" fill="#2A2A2A" font-style="italic">(Connector)</text>
-<text x="915" y="948" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="915" y="984" text-anchor="middle" font-size="27" fill="#2A2A2A">Connection</text>
-<circle cx="1349" cy="892" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="1381" y="902" font-size="34" fill="#1B3A6B" font-weight="bold">Gold</text>
-<text x="1472" y="902" font-size="27" fill="#2A2A2A" font-style="italic">(Bloodmaker)</text>
-<text x="1484" y="948" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="1484" y="984" text-anchor="middle" font-size="27" fill="#2A2A2A">Health</text>
-<circle cx="1889" cy="892" r="15" fill="none" stroke="#A8863E" stroke-width="1.8" stroke-dasharray="3 3"/>
-<text x="1921" y="902" font-size="34" fill="#1B3A6B" font-weight="bold">Electrum</text>
-<text x="2094" y="902" font-size="27" fill="#2A2A2A" font-style="italic">(Pinnacle)</text>
-<text x="2053" y="948" text-anchor="middle" font-size="27" fill="#2A2A2A">Stores</text>
-<text x="2053" y="984" text-anchor="middle" font-size="27" fill="#2A2A2A">Determination</text>
-<line x1="62" y1="128" x2="62" y2="1104" stroke="#BFA14A" stroke-width="1.4"/>
-<line x1="631" y1="128" x2="631" y2="1104" stroke="#BFA14A" stroke-width="1.4"/>
-<line x1="1200" y1="128" x2="1200" y2="1104" stroke="#BFA14A" stroke-width="1.4"/>
-<line x1="1769" y1="128" x2="1769" y2="1104" stroke="#BFA14A" stroke-width="1.4"/>
-<line x1="2338" y1="128" x2="2338" y2="1104" stroke="#BFA14A" stroke-width="1.4"/>
+<text x="164" y="177" text-anchor="middle" font-size="34" fill="#6E1B14" font-weight="bold" font-variant="small-caps" letter-spacing="2">Physical</text>
+<text x="2236" y="177" text-anchor="middle" font-size="34" fill="#6E1B14" font-weight="bold" font-variant="small-caps" letter-spacing="2">Cognitive</text>
+<text x="164" y="1079" text-anchor="middle" font-size="34" fill="#6E1B14" font-weight="bold" font-variant="small-caps" letter-spacing="2">Spiritual</text>
+<text x="2236" y="1079" text-anchor="middle" font-size="34" fill="#6E1B14" font-weight="bold" font-variant="small-caps" letter-spacing="2">Hybrid</text>
+<g transform="translate(404.8 228.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(50.563714,-168.07647)"
+     id="layer1">
+    <path
+       d="M 60.918286,626.42347 H 182.74829 v 41.653 H 21.384286 v -224.525 c -28.9820003,2.776 -71.948,10.348 -71.948,10.348 v -24.791 c 0,0 42.9159997,-4.798 71.948,-5.503 v -250.327 l 244.875004,350.903 -121.176,-356.105 h 30.294 l 166.615,500 -281.074004,-385.486 v 147.175 c 28.928,9.943 73.510004,29.185 76.236004,30.396 -2.672,-0.605 -45.992004,-10.654 -76.236004,-15.301 v 181.563 z"
+       id="Iron" />
+  </g></g>
+<text x="516" y="259" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Iron</text>
+<text x="500" y="295" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Skimmer)</text>
+<text x="500" y="337" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="500" y="371" text-anchor="middle" font-size="26" fill="#2A2A2A">Physical Weight</text>
+<g transform="translate(860.0 228.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="398.90329"
+     inkscape:cy="168.57143"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="476"
+     inkscape:window-height="406"
+     inkscape:window-x="1104"
+     inkscape:window-y="344"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(23.90329,-86.647898)">
+    <polyline
+       id="Steel"
+       points="1099.808,500 1258.443,500 1258.443,0 1007.822,361.042 1133.132,0 1099.808,0 934.621,500   1228.666,88.089 1228.666,466.501 1099.808,466.501 "
+       transform="translate(-958.52429,86.647898)" />
+  </g></g>
+<text x="982" y="259" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Steel</text>
+<text x="966" y="295" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Steelrunner)</text>
+<text x="966" y="337" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="966" y="371" text-anchor="middle" font-size="26" fill="#2A2A2A">Physical Speed</text>
+<g transform="translate(1336.8 228.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(344.75766,491.2091)"
+     id="layer1">
+    <path
+       d="m -216.31066,-387.6241 v 112.989 c 24.701,12.189 58.764,27.449 58.764,27.449 l -13.943,18.924 c 0,0 -20.361,-8.446 -44.82,-22.11 v 84.898 c 39.801,15.22 96.613,30.838 96.613,30.838 l -13.945,27.888 c 0,0 -26.453,-5.299 -82.667,-34.623 V -29.058102 H -92.803663 V 8.7908981 H -246.19166 V -157.9001 c -66.057,-39.405 -97.488,-84.743 -98.566,-86.334 1.832,1.354 58.885,43.703 98.566,65.336 v -89.918 c -33.627,-23.388 -74.383,-78.206 -75.658,-79.923 1.514,1.275 44.545,37.095 75.658,57.492 v -199.962 L 101.41634,8.7898981 H 63.045337 L -216.31066,-387.6241 z"
+       id="Zinc" />
+  </g></g>
+<text x="1448" y="259" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Zinc</text>
+<text x="1432" y="295" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Sparker)</text>
+<text x="1432" y="337" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="1432" y="371" text-anchor="middle" font-size="26" fill="#2A2A2A">Mental Speed</text>
+<g transform="translate(1792.0 228.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="242.00505"
+     inkscape:cy="275.88262"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="476"
+     inkscape:window-height="516"
+     inkscape:window-x="1104"
+     inkscape:window-y="344"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(207.50501,291.10343)">
+    <path
+       id="Brass"
+       d="M 7.2610282,-24.40243 C 134.71603,99.51157 145.33703,208.66657 145.33703,208.66657 v -499.77 l -149.7270018,213.348 h -0.033 c -33.5660002,-22.517 -75.6930002,-47.548 -75.6930002,-47.548 h -53.643038 c 0,0 65.674038,42.238 109.863038,75.344 l -183.574038,261.566 c -0.035,0.036 -0.035,0.036 -0.035,0.036 h 37.74 l 0.035,-0.037 c 1.877,-1.593 61.64105,-52.75 83.766038,-67.232 24.324,-15.897 98.072,-51.303 108.586,-41.315 11.969,11.397 -56.646,114.321 -81.43,148.695 -21.311,29.531 -88.510038,115.667 -88.510038,115.667 h 47.19104 c 0,0 71.198998,-86.988 90.1409982,-119.206 20.9609998,-35.688 64.5469998,-146.186 56.1879998,-155.779 -11.787,-13.561 -112.553,15.081 -145.158,33.035 -4.921998,2.723 -11.151988,6.831 -18.055038,11.786 L 1.4520282,-29.70943 c 2.16,1.876 4.106,3.645 5.809,5.307 z m 104.7240018,-161.088 v 225.242 c -26.482002,-32.2870003 -62.279002,-74.599 -82.279002,-92.477 -2.088,-1.878 -4.602,-3.932 -7.51,-6.196 l 89.789002,-126.569 z"
+       inkscape:connector-curvature="0" />
+  </g></g>
+<text x="1914" y="259" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Brass</text>
+<text x="1898" y="295" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Firesoul)</text>
+<text x="1898" y="337" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="1898" y="371" text-anchor="middle" font-size="26" fill="#2A2A2A">Warmth</text>
+<g transform="translate(383.2 435.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="543.13065"
+     inkscape:cy="132.85714"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="476"
+     inkscape:window-height="406"
+     inkscape:window-x="1104"
+     inkscape:window-y="344"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(168.13065,-50.933611)">
+    <path
+       id="Pewter"
+       d="m 52.799453,161.37761 v 190.361 c 25.242,15.442 58.091997,30.615 58.091997,30.615 l -15.943097,20.503 c 0,0 -20.9589,-13.669 -42.146,-29.25 v 177.327 h -25.059 c 0,0 -4.285,-3.871 -11.393,-10.572 -22.4160001,-21.049 -72.811,-70.212 -104.793,-114.724 -59.092003,-82.238 -78.822003,-147.347 -79.688003,-150.267 2.006,3.373 66.201,111.583 110.441003,154.825 13.531,13.213 47.338,39.728 74.039,60.186 v -146.755 c -23.5120001,-24.33 -53.533,-80.875 -53.533,-80.875 0,0 27.5199999,34.261 53.533,59.916 V 50.933611 L 366.03835,550.93361 h -36.449 L 52.799453,161.37761 z"
+       inkscape:connector-curvature="0" />
+  </g></g>
+<text x="516" y="466" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Pewter</text>
+<text x="500" y="502" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Brute)</text>
+<text x="500" y="544" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="500" y="578" text-anchor="middle" font-size="26" fill="#2A2A2A">Physical Strength</text>
+<g transform="translate(881.6 435.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="517.43649"
+     inkscape:cy="105.71528"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="476"
+     inkscape:window-height="406"
+     inkscape:window-x="1104"
+     inkscape:window-y="344"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(142.43649,-23.789754)">
+    <path
+       id="Tin"
+       d="m 58.419513,238.52375 c -38.537,-28.428 -83.445,-58.578 -83.445,-58.578 h -48.223 c 0,0 65.3299999,43.357 115.271,81.559 l -184.459003,258.092 h 38.787 l 169.025003,-239.599 c 9.814,8.091 18.115,15.472 23.861,21.552 7.547,8.01 14.675997,16.061 21.382997,24.111 l -129.147997,193.936 h 29.143 l 117.491997,-171.627 c 24.19696,32.62 41.81096,64.45 54.42996,91.915 1.344,2.852 2.602,5.659 3.857,8.428 19.5,44.532 25.496,75.479 25.496,75.479 V 23.789754 L 58.419513,238.52375 z m 111.538957,128.483 c -8.178,-13.963 -17.021,-28.391 -26.12496,-42.018 l 26.12496,-38.115 v 80.133 z m 0,-130.452 -43.06296,64.659 c -7.424,-9.771 -14.844,-18.406 -21.932,-25.326 -5.491997,-5.325 -13.546997,-12.036 -22.981997,-19.456 l 87.976957,-124.708 v 104.831 z"
+       inkscape:connector-curvature="0" />
+  </g></g>
+<text x="982" y="466" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Tin</text>
+<text x="966" y="502" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Windwhisperer)</text>
+<text x="966" y="544" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="966" y="578" text-anchor="middle" font-size="26" fill="#2A2A2A">Senses</text>
+<g transform="translate(1315.2 435.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(283.29507,359.37144)"
+     id="layer1">
+    <path
+       d="M -161.19707,-1.8874443 V -79.964444 c 22.166,18.637 46.922,37.621 46.922,37.621 l 22.132996,-22.167 c 0,0 -40.038996,-25.523 -69.054996,-46.888996 v -143.076 l 279.99996,395.104 -10.77,-47.203004 -307.69096,-452.796996 v 212.379 c -21.332,-25.804 -50.807,-66.68 -53.221,-69.965 1.504,3.705 25.49,61.466 53.221,98.776 v 82.970996 l -83.637,-72.412996 v 33.812996 l 83.637,73.28499966 V 140.62856 H 3.4179256 L -43.020074,100.41856 -161.19707,-1.8874443 z m 0,102.3070043 V 33.147556 l 76.743996,67.272004 h -76.743996 z"
+       id="Copper" />
+  </g></g>
+<text x="1448" y="466" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Copper</text>
+<text x="1432" y="502" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Archivist)</text>
+<text x="1432" y="544" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="1432" y="578" text-anchor="middle" font-size="26" fill="#2A2A2A">Memories</text>
+<g transform="translate(1781.2 435.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(469.39935,554.35589)"
+     id="layer1">
+    <path
+       d="m -50.410346,-316.41889 c -2.082,2.417 -31.379,35.668 -71.588004,67.462 v 194.600001 h -33.336 V -225.41189 c -36.127,21.042 -111.633,54.712 -111.633,54.712 l -18.045,-31.92 c 0,0 83.59,-22.043 129.678,-42.793 v -73.468 c -28.709,15.919 -63.006,30.837 -63.006,30.837 l -10.416,-22.251 c 0,0 40.42,-12.419 73.422,-28.587 v -109.257 l -259.896,367.738001 h 197.936 v 26.044 h -252.105 l 347.402,-499.999001 v 195.016 c 23.254004,-18.04 55.174004,-48.378 57.045004,-50.128 -1.498,2.584 -24.543,41.378 -57.045004,68.505 v 76.214 c 28.335004,-19.209 69.047004,-49.798 71.587004,-51.67 z"
+       id="Bronze" />
+  </g></g>
+<text x="1914" y="466" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Bronze</text>
+<text x="1898" y="502" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Sentry)</text>
+<text x="1898" y="544" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="1898" y="578" text-anchor="middle" font-size="26" fill="#2A2A2A">Wakefulness</text>
+<g transform="translate(361.6 642.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(695.11436,710.48925)"
+     id="layer1">
+    <path
+       d="m -351.45736,-667.10025 -124.338,178.324 c 14.547,14.361 25.516,26.674 25.516,26.674 l -22.727,24.857 c 0,0 -8.844,-11.715 -20.434,-26.24 l -156.221,224.07 h 83.326 l 214.878,-308.533 v 337.459 h -24.793 v -251.613 l -180.434,251.613 h -138.43 l 186.59,-271.467 c -11.197,-13.369 -22.582,-26.117 -30.082,-32.252 -20.701,-16.925 -92.75,-51.593 -94.98,-52.666 2.189,0.475 72.873,16.362 112.027,39.752 8.801,5.248 18.943,13.45 28.76,22.272 l 141.342,-205.639 v 43.389 z"
+       id="Chromium" />
+  </g></g>
+<text x="516" y="673" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Chromium</text>
+<text x="500" y="709" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Spinner)</text>
+<text x="500" y="751" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="500" y="785" text-anchor="middle" font-size="26" fill="#2A2A2A">Fortune</text>
+<g transform="translate(827.6 642.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(745.41117,686.76292)"
+     id="layer1">
+    <path
+       d="m -357.93423,-186.76392 h -57.73 c 0,0 -104.6969,-42.074 -163.406,-78.279 -72.95294,-44.99 -121.32994,-100.781 -121.32994,-100.781 0,0 101.48594,63.248 136.01004,83.17 33.248,19.178 100.977,38.063 129.607,45.56 l -310.62804,-449.669 h 350.29294 v 155.575 l -25.439,-17.61 v -117.418 h -164.578 l 216.438,315.067 v 42.074 l -248.64795,-357.143 h -85.01199 l 344.42294,479.454 z"
+       id="Nicrosil" />
+  </g></g>
+<text x="982" y="673" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Nicrosil</text>
+<text x="966" y="709" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Soulbearer)</text>
+<text x="966" y="751" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="966" y="785" text-anchor="middle" font-size="26" fill="#2A2A2A">Investiture</text>
+<g transform="translate(1304.4 642.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(414.99987,655.88998)"
+     id="layer1">
+    <path
+       d="m -105.49787,-655.88998 v 147.189 h -169.507 l -83.531,-120.97 h 197.574 v -26.219 h -254.038 l 102.371,147.189 h -99.83 l 24.193,26.19 h 93.873 l 84.375,121.332 c -6.807,5.474 -13.576,10.586 -19.988,14.91 -19.477,13.187 -87.34,35.141 -87.34,35.141 l 20.441,31 c 0,0 58.066,-25.766 83.895,-50.293 5.201,-4.93 10.01,-9.709 14.486,-14.272 l 131.313995,188.803 v -500 h -38.287995 z m 0,392.639 -72.219,-104.608 c 26.43,-31.968 32.059,-50.929 32.359,-52.078 -0.908,0.908 -19.145,19.354 -41.369,39.043 l -70.197,-101.613 h 151.426 v 219.256 z"
+       id="Cadmium" />
+  </g></g>
+<text x="1448" y="673" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Cadmium</text>
+<text x="1432" y="709" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Gasper)</text>
+<text x="1432" y="751" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="1432" y="785" text-anchor="middle" font-size="26" fill="#2A2A2A">Breath</text>
+<g transform="translate(1748.8 642.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(574.3179,670.54995)"
+     id="layer1">
+    <path
+       d="m -223.35696,-342.49695 v -328.053 H -574.3179 l 138.50794,197.342 -136.16394,133.613 h 37.879 l 113.88504,-111.4 51.592,73.486 c -4.16,4.967 -8.428,9.725 -12.73,14.025 -17.207,17.141 -79.854,55.369 -79.854,55.369 l 25.639,27.387 c 0,0 57.922,-49.596 72.299,-69.359 2.414,-3.324 4.6859,-6.646 6.8889,-9.967 l 133.018,189.504 v -44.875 l -118.189,-170.549 c 18.504,-36.9 22.563,-66.703 22.563,-66.703 0,0 -13.537,25.779 -32.354,52.572 l -48.863,-70.48 140.68,-137.635 v 229.557 l 36.163,36.166 z m -192.3419,-150.471 -103.81104,-149.773 h 256.45294 l -152.6419,149.773 z"
+       id="Bendalloy" />
+  </g></g>
+<text x="1914" y="673" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Bendalloy</text>
+<text x="1898" y="709" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Subsumer)</text>
+<text x="1898" y="751" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="1898" y="785" text-anchor="middle" font-size="26" fill="#2A2A2A">Nutrition</text>
+<g transform="translate(361.6 849.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(739.8985,663.0391)"
+     id="layer1">
+    <path
+       d="m -322.83644,-527.4671 44.664,-34.281 h -51.842 c 0,0 -30.55096,28.922 -74.95096,71.004 v -172.295 c 0,0 -92.32,70.168 -114.834,91.723 -21.627,20.693 -79.762,89.305 -79.762,89.305 h 26.316 c 0,0 37.033,-52.487 62.369,-74.95 32.559,-28.875 56.865,-41.076 70.021,-46.103 v 146.342 c -88.4671,83.947 -206.77,196.338 -263.971,251.435 -5.5741,5.358 -13.7561,25.576 -15.5741,30.168 l -19.498,12.082 h 334.93 v -189.955 c 22.0821,-15 53.422,-34.115 53.422,-34.115 l -11.9629,-14.354 c 0,0 -22.1051,14.854 -41.4591,29.233 v -77.967 l 82.13206,-77.272 z m -118.01596,187.537 c -23.945,27.895 -36.244,54.713 -36.676,55.67 0.863,-0.935 19.979,-21.677 36.676,-38.519 v 131.842 h -242.486 l 5.334,-2.391 237.152,-223.109 v 76.507 z"
+       id="Aluminum" />
+  </g></g>
+<text x="516" y="880" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Aluminum</text>
+<text x="500" y="916" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Trueself)</text>
+<text x="500" y="958" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="500" y="992" text-anchor="middle" font-size="26" fill="#2A2A2A">Identity</text>
+<g transform="translate(816.8 849.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(697.12858,703.14982)"
+     id="layer1">
+    <path
+       d="m -397.70458,-224.84182 c 7.805,4.431 12.596,7.105 13.158,7.42 -0.607,-0.178 -5.758,-1.823 -14.352,-4.813 -6.275,13.721 -13.473,28.612 -21.568,44.198 -28.7911,55.33 -94.629,132.504005 -96.676,134.889005 1.619,-2.432 53.848,-80.793005 84.305,-143.885005 4.697,-9.762 10.7049,-24.924 16.822,-41.388 -17.342,-6.452 -40.484,-15.653 -66.016,-27.284 -3.352,3.757 -6.816,7.535 -10.4141,11.315 -45.686,47.976 -96.246,76.699 -97.799,77.575 1.439,-1.281 48.156,-42.311 91.051,-91.072 1.189,-1.35 2.361,-2.743 3.5101,-4.186 -21.955,-10.455 -45.1661,-22.604 -67.613,-36.302 -82.098,-50.047 -133.832,-103.466 -133.832,-103.466 v -32.613 c 0,0 20.268,17.883 52.434,43.84 l 111.787,-193.979 105.939,150.679 c -1.035,-31.445 -2.969,-78.746 -5.871,-101.756 -5.018,-39.969 -35.133,-163.634 -36.078,-167.48 1.416,3.263 42.4879,99.127 55.197,166.356 15.744,83.222 15.744,175.44 15.744,175.44 l -134.934,-180.502 -94.447,165.071 c 21.57,17.026 46.896,36.37 74.1819,55.917 19.6371,14.057 43.996,29.713 68.063,44.512 18.9381,-27.754 34.279,-61.383 34.279,-61.383 l 17.363,17.995 c 0,0 -14.439,23.484 -37.99,51.733 21.461,13.001 41.861,24.898 57.5161,33.92 13.697,-37.34 27.217,-78.906 27.217,-78.906 l 20.242,10.122 c 0,0.01 -10.414,32.189 -31.219,78.033 z"
+       id="Duralumin" />
+  </g></g>
+<text x="982" y="880" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Duralumin</text>
+<text x="966" y="916" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Connector)</text>
+<text x="966" y="958" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="966" y="992" text-anchor="middle" font-size="26" fill="#2A2A2A">Connection</text>
+<g transform="translate(1336.8 849.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(679.5762,689.25053)"
+     id="layer1">
+    <path
+       d="m -327.63824,-689.25053 v 500 H -485.3572 v -37.563 h 123.37496 v -362.656 l -84.26596,120.895 c 33.57,73.711 31.703,114.074 31.703,114.074 0,0 -24.848,-67.078 -42.23,-98.945 l -32.156,46.095 c 27.266,48.633 36.887,90.93 37.34,93.02 -1,-1.832 -28.1331,-52.305 -46.5741,-79.758 l -142.7859,204.838 h -38.625 l 161.229,-229.047 c -30.191,-29.16 -79.148,-59.578 -79.148,-59.578 l 26.039,-26.008 c 0,0 44.967,43.809 64.859,68.883 l 31.059,-44.098 c -22.305,-25.043 -58.098,-57.777 -58.098,-57.777 l 27.875,-20.922 c 0,0 27.586,33.766 43.84,59.32 l 134.28296,-190.773 z"
+       id="Gold" />
+  </g></g>
+<text x="1448" y="880" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Gold</text>
+<text x="1432" y="916" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Bloodmaker)</text>
+<text x="1432" y="958" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="1432" y="992" text-anchor="middle" font-size="26" fill="#2A2A2A">Health</text>
+<g transform="translate(1759.6 849.0) scale(0.0400)" fill="#1B3A6B"><defs
+     id="defs3073" />
+  <metadata
+     id="metadata3076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(705.11332,699.86989)"
+     id="layer1">
+    <path
+       d="m -350.99332,-241.39989 v 41.53 l -184.656,-260.743 c -38.512,30.731 -106.096,97.421 -108.197,99.498 1.424,-2.186 47.916,-71.935 95.916,-116.81 l -157.183,-221.945 h 338.818 l 8.744,26.229 h -292.896 l 123.367,178.075 c 32.875,-25.004 101.77,-69.879 101.77,-69.879 l 24.043,36.066 c 0,0 -77.223,33.225 -112.217,53.422 l 162.491,234.557 z"
+       id="Electrum" />
+  </g></g>
+<text x="1914" y="880" text-anchor="middle" font-size="36" fill="#1B3A6B" font-weight="bold">Electrum</text>
+<text x="1898" y="916" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Pinnacle)</text>
+<text x="1898" y="958" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
+<text x="1898" y="992" text-anchor="middle" font-size="26" fill="#2A2A2A">Determination</text>
+<line x1="267" y1="128" x2="267" y2="1104" stroke="#BFA14A" stroke-width="1.4"/>
+<line x1="733" y1="202" x2="733" y2="1030" stroke="#BFA14A" stroke-width="1.4"/>
+<line x1="1199" y1="202" x2="1199" y2="1030" stroke="#BFA14A" stroke-width="1.4"/>
+<line x1="1665" y1="202" x2="1665" y2="1030" stroke="#BFA14A" stroke-width="1.4"/>
+<line x1="2131" y1="128" x2="2131" y2="1104" stroke="#BFA14A" stroke-width="1.4"/>
 <line x1="62" y1="202" x2="2338" y2="202" stroke="#BFA14A" stroke-width="1.4"/>
-<line x1="62" y1="409" x2="2338" y2="409" stroke="#BFA14A" stroke-width="1.4"/>
-<line x1="62" y1="616" x2="2338" y2="616" stroke="#BFA14A" stroke-width="1.4"/>
-<line x1="62" y1="823" x2="2338" y2="823" stroke="#BFA14A" stroke-width="1.4"/>
+<line x1="267" y1="409" x2="2133" y2="409" stroke="#BFA14A" stroke-width="1.4"/>
+<line x1="267" y1="616" x2="2133" y2="616" stroke="#BFA14A" stroke-width="1.4"/>
+<line x1="267" y1="823" x2="2133" y2="823" stroke="#BFA14A" stroke-width="1.4"/>
 <line x1="62" y1="1030" x2="2338" y2="1030" stroke="#BFA14A" stroke-width="1.4"/>
-<line x1="1200" y1="128" x2="1200" y2="1104" stroke="#A8863E" stroke-width="4.5"/>
+<line x1="1199" y1="128" x2="1199" y2="1104" stroke="#A8863E" stroke-width="4.5"/>
 <line x1="62" y1="616" x2="2338" y2="616" stroke="#A8863E" stroke-width="4.5"/>
 <rect x="62" y="128" width="2276" height="976" fill="none" stroke="#A8863E" stroke-width="3"/>
 <g transform="translate(36 102) scale(1 1)" fill="none" stroke="#A8863E" stroke-width="2.4" stroke-linecap="square"><path d="M 0 46 L 0 0 L 46 0"/><path d="M 9 40 L 9 9 L 40 9" stroke-width="1.3" opacity="0.8"/><circle cx="3" cy="3" r="2.6" fill="#A8863E" stroke="none"/></g>
