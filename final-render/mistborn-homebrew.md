@@ -142,17 +142,22 @@
 .page .wide table { font-size: 0.92em; }
 
 /* --- Contents page -------------------------------------------------- */
-/* Set a little smaller than body text, as the Player's Handbook does, so the
-   whole book fits on one spread. Sections in small caps, the things inside
-   them indented under it, page numbers right aligned on a dot leader. */
+/* A map of the book: parts, the sections in them, and the groups inside those,
+   each level stepped in and set a little smaller, with page numbers right
+   aligned on a dot leader. Three levels deep, as the Player's Handbook is. */
 .page .toc.contents {
-  font-size: 0.82em;
+  font-size: 0.95em;
   break-inside: auto;
 }
-.page .toc.contents h3 { font-size: 0.92em; margin-bottom: 0; }
-.page .toc.contents h4 { font-size: 0.86em; font-weight: normal; }
+.page .toc.contents h3 { font-size: 0.95em; margin: 0.35em 0 0; }
+.page .toc.contents h4 { font-size: 0.88em; font-weight: normal; }
+.page .toc.contents h5 {
+  font-size: 0.82em;
+  font-weight: normal;
+  font-style: italic;
+}
 .page .toc.contents ul { margin: 0; }
-.page .toc.contents ul ul { margin-bottom: 0.5em; }
+.page .toc.contents ul ul ul { margin-bottom: 0.2em; }
 .page .toc.contents a { color: inherit; }
 
 /* --- Part covers --------------------------------------------------- */
@@ -183,90 +188,26 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
 # Contents
 }}
 {{toc,contents
-- ### [{{ Misting Bloodlines}}{{ 6}}](#p6)
-  - #### [{{ Gaining the bloodline}}{{ 6}}](#p6)
-  - #### [{{ The metal economy}}{{ 6}}](#p6)
-  - #### [{{ Starting equipment}}{{ 6}}](#p6)
-  - #### [{{ The metals}}{{ 6}}](#p6)
-- ### [{{ The Mistings}}{{ 8}}](#p8)
-  - #### [{{ Steel: Coinshot}}{{ 8}}](#p8)
-  - #### [{{ Iron: Lurcher}}{{ 10}}](#p10)
-  - #### [{{ Force Tables}}{{ 11}}](#p11)
-  - #### [{{ Tin: Tineye}}{{ 13}}](#p13)
-  - #### [{{ Pewter: Thug (Pewterarm)}}{{ 15}}](#p15)
-  - #### [{{ Zinc: Rioter}}{{ 17}}](#p17)
-  - #### [{{ Brass: Soother}}{{ 18}}](#p18)
-  - #### [{{ Copper: Smoker}}{{ 19}}](#p19)
-  - #### [{{ Bronze: Seeker}}{{ 20}}](#p20)
-  - #### [{{ Aluminum: Aluminum Gnat}}{{ 21}}](#p21)
-  - #### [{{ Duralumin: Duralumin Gnat}}{{ 23}}](#p23)
-  - #### [{{ Chromium: Leecher}}{{ 25}}](#p25)
-  - #### [{{ Nicrosil: Nicroburst}}{{ 26}}](#p26)
-  - #### [{{ Gold: Augur}}{{ 27}}](#p27)
-  - #### [{{ Electrum: Oracle}}{{ 28}}](#p28)
-  - #### [{{ Cadmium: Pulser}}{{ 29}}](#p29)
-  - #### [{{ Bendalloy: Slider}}{{ 30}}](#p30)
-- ### [{{ God Metals of Allomancy}}{{ 32}}](#p32)
-  - #### [{{ Other Metals}}{{ 32}}](#p32)
-  - #### [{{ Atium: Seer}}{{ 33}}](#p33)
-  - #### [{{ Malatium: the Eleventh Metal}}{{ 34}}](#p34)
-  - #### [{{ Lerasium}}{{ 35}}](#p35)
-- ### [{{ Savants}}{{ 36}}](#p36)
-  - #### [{{ What a savant gains}}{{ 36}}](#p36)
-  - #### [{{ The Dependency}}{{ 36}}](#p36)
-  - #### [{{ Becoming a savant}}{{ 36}}](#p36)
-  - #### [{{ Savant effects by metal}}{{ 37}}](#p37)
-  - #### [{{ Feruchemical savants (through Compounding)}}{{ 37}}](#p37)
-  - #### [{{ Interactions}}{{ 38}}](#p38)
-- ### [{{ Ferring Bloodlines}}{{ 39}}](#p39)
-  - #### [{{ Gaining the bloodline}}{{ 39}}](#p39)
-  - #### [{{ Metalminds}}{{ 39}}](#p39)
-  - #### [{{ Storing and tapping}}{{ 39}}](#p39)
-  - #### [{{ Starting equipment}}{{ 40}}](#p40)
-  - #### [{{ The metals}}{{ 41}}](#p41)
-- ### [{{ The Ferrings}}{{ 42}}](#p42)
-  - #### [{{ Iron: Skimmer}}{{ 42}}](#p42)
-  - #### [{{ Steel: Steelrunner}}{{ 44}}](#p44)
-  - #### [{{ Tin: Windwhisperer}}{{ 46}}](#p46)
-  - #### [{{ Pewter: Brute}}{{ 48}}](#p48)
-  - #### [{{ Zinc: Sparker}}{{ 50}}](#p50)
-  - #### [{{ Brass: Firesoul}}{{ 51}}](#p51)
-  - #### [{{ Copper: Archivist}}{{ 54}}](#p54)
-  - #### [{{ Bronze: Sentry}}{{ 56}}](#p56)
-  - #### [{{ Cadmium: Gasper}}{{ 58}}](#p58)
-  - #### [{{ Bendalloy: Subsumer}}{{ 59}}](#p59)
-  - #### [{{ Gold: Bloodmaker}}{{ 60}}](#p60)
-  - #### [{{ Electrum: Pinnacle}}{{ 62}}](#p62)
-  - #### [{{ Chromium: Spinner}}{{ 63}}](#p63)
-  - #### [{{ Nicrosil: Soulbearer}}{{ 64}}](#p64)
-  - #### [{{ Aluminum: Trueself}}{{ 65}}](#p65)
-  - #### [{{ Duralumin: Connector}}{{ 67}}](#p67)
-- ### [{{ God Metals of Feruchemy}}{{ 68}}](#p68)
-  - #### [{{ Other Metals (Feruchemy)}}{{ 68}}](#p68)
-  - #### [{{ Atium (Feruchemical)}}{{ 69}}](#p69)
-- ### [{{ Twinborn}}{{ 70}}](#p70)
-  - #### [{{ How a Twinborn works}}{{ 70}}](#p70)
-  - #### [{{ Same metal: Compounding}}{{ 70}}](#p70)
-  - #### [{{ Resonance (optional, narrative)}}{{ 70}}](#p70)
-  - #### [{{ Building a Twinborn}}{{ 70}}](#p70)
-  - #### [{{ Naming a Twinborn}}{{ 71}}](#p71)
-  - #### [{{ Starting equipment}}{{ 71}}](#p71)
-- ### [{{ Compounding}}{{ 72}}](#p72)
-  - #### [{{ What Compounding does}}{{ 72}}](#p72)
-  - #### [{{ The requirements}}{{ 72}}](#p72)
-  - #### [{{ The cost: metal burns away}}{{ 72}}](#p72)
-  - #### [{{ The endless well, and its bounds}}{{ 72}}](#p72)
-  - #### [{{ What each metal becomes}}{{ 73}}](#p73)
-  - #### [{{ Starting equipment}}{{ 73}}](#p73)
-- ### [{{ Koloss-blooded}}{{ 75}}](#p75)
-  - #### [{{ Koloss-blooded Traits}}{{ 75}}](#p75)
-  - #### [{{ The Koloss Path}}{{ 75}}](#p75)
-- ### [{{ Kandra}}{{ 78}}](#p78)
-  - #### [{{ What a Kandra cannot be}}{{ 78}}](#p78)
-  - #### [{{ Kandra Traits}}{{ 78}}](#p78)
-  - #### [{{ Growing Older}}{{ 81}}](#p81)
-  - #### [{{ Playing a Kandra}}{{ 81}}](#p81)
-- ### [{{ Backgrounds and Origin Feats}}{{ 83}}](#p83)
+- ### [{{ Bloodlines}}{{ 5}}](#p5)
+  - #### [{{ Mistings}}{{ 8}}](#p8)
+    - ##### [{{ Physical}}{{ 8}}](#p8)
+    - ##### [{{ Mental}}{{ 17}}](#p17)
+    - ##### [{{ Enhancement}}{{ 21}}](#p21)
+    - ##### [{{ Temporal}}{{ 27}}](#p27)
+    - ##### [{{ God Metals}}{{ 32}}](#p32)
+  - #### [{{ Savants}}{{ 36}}](#p36)
+  - #### [{{ Ferrings}}{{ 42}}](#p42)
+    - ##### [{{ Physical}}{{ 42}}](#p42)
+    - ##### [{{ Cognitive}}{{ 50}}](#p50)
+    - ##### [{{ Hybrid}}{{ 58}}](#p58)
+    - ##### [{{ Spiritual}}{{ 63}}](#p63)
+    - ##### [{{ God Metals}}{{ 68}}](#p68)
+  - #### [{{ Twinborn}}{{ 70}}](#p70)
+  - #### [{{ Compounding}}{{ 72}}](#p72)
+- ### [{{ Species}}{{ 74}}](#p74)
+  - #### [{{ Koloss-blooded}}{{ 75}}](#p75)
+  - #### [{{ Kandra}}{{ 78}}](#p78)
+- ### [{{ Backgrounds}}{{ 82}}](#p82)
   - #### [{{ Alloyer}}{{ 83}}](#p83)
   - #### [{{ Hazekiller}}{{ 83}}](#p83)
   - #### [{{ Crewmember}}{{ 83}}](#p83)
@@ -275,45 +216,17 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
 - ### [{{ Origin Feats}}{{ 84}}](#p84)
   - #### [{{ Alloyer (Origin Feat)}}{{ 84}}](#p84)
   - #### [{{ Hazekiller (Origin Feat)}}{{ 84}}](#p84)
-- ### [{{ Mistborn}}{{ 87}}](#p87)
-  - #### [{{ Two hard restrictions}}{{ 87}}](#p87)
-  - #### [{{ Core Mistborn Traits}}{{ 87}}](#p87)
-  - #### [{{ The Mistborn (level table)}}{{ 88}}](#p88)
-  - #### [{{ Class Features}}{{ 88}}](#p88)
-  - #### [{{ Quadrant Resonances}}{{ 90}}](#p90)
-- ### [{{ Feruchemist}}{{ 92}}](#p92)
-  - #### [{{ Two hard restrictions}}{{ 92}}](#p92)
-  - #### [{{ Core Feruchemist Traits}}{{ 92}}](#p92)
-  - #### [{{ The Feruchemist (level table)}}{{ 93}}](#p93)
-  - #### [{{ Class Features}}{{ 93}}](#p93)
-  - #### [{{ Quadrant Disciplines}}{{ 96}}](#p96)
-  - #### [{{ Feruchemist and Ferring}}{{ 99}}](#p99)
-- ### [{{ Hemalurgist}}{{ 100}}](#p100)
-  - #### [{{ No restrictions}}{{ 100}}](#p100)
-  - #### [{{ Core Hemalurgist Traits}}{{ 100}}](#p100)
-  - #### [{{ The Hemalurgist (level table)}}{{ 101}}](#p101)
-  - #### [{{ Class Features}}{{ 101}}](#p101)
-  - #### [{{ Control Risk}}{{ 104}}](#p104)
-  - #### [{{ What Each Metal Steals}}{{ 105}}](#p105)
-  - #### [{{ Hemalurgic Practices}}{{ 105}}](#p105)
-- ### [{{ The Metal Economy}}{{ 111}}](#p111)
-  - #### [{{ What you buy}}{{ 111}}](#p111)
-  - #### [{{ Prices}}{{ 111}}](#p111)
-  - #### [{{ What a vial buys you}}{{ 112}}](#p112)
-  - #### [{{ Availability}}{{ 113}}](#p113)
-  - #### [{{ Purity, and being cheated}}{{ 113}}](#p113)
-  - #### [{{ Carrying it}}{{ 113}}](#p113)
-  - #### [{{ The god metals}}{{ 113}}](#p113)
-- ### [{{ The Metallic Arts and the Weave}}{{ 115}}](#p115)
-  - #### [{{ Principle 1: The one-way wall}}{{ 115}}](#p115)
-  - #### [{{ Principle 2: Internal versus external (the protection save)}}{{ 115}}](#p115)
-  - #### [{{ The bridging metals, formally}}{{ 115}}](#p115)
-  - #### [{{ What the Metallic Arts ignore}}{{ 117}}](#p117)
-  - #### [{{ Quick reference}}{{ 117}}](#p117)
+- ### [{{ Classes}}{{ 86}}](#p86)
+  - #### [{{ Mistborn}}{{ 87}}](#p87)
+  - #### [{{ Feruchemist}}{{ 92}}](#p92)
+  - #### [{{ Hemalurgist}}{{ 100}}](#p100)
+- ### [{{ The Metal Economy}}{{ 110}}](#p110)
+- ### [{{ The Arts and the Weave}}{{ 114}}](#p114)
 }}
 
 \page
 {{partCover}}
+
 # Part 1
 ## Bloodlines
 
@@ -325,7 +238,6 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
 }}
 
 \page
-
 ## Misting Bloodlines
 
 A **Misting** is a person who can Allomantically **burn one metal** for power. A Misting power is a **bloodline**, a magical inheritance chosen at character creation that is independent of your species and class (your table). An Elf Druid can be a Coinshot, and a Dragonborn Barbarian can be a Pewterarm. This section is the shared rules; each metal has its own page for its specific powers./, and lore from Allomancy.
@@ -467,7 +379,6 @@ Driving a coin, nail, or bead as a weapon is a ranged Allomantic attack with a r
 }}
 
 \page
-
 ## Iron: Lurcher
 
 *Where a Coinshot pushes the world away, a Lurcher draws it in, snatching a blade from a hand or hauling themselves to a rooftop by a single nail.*
@@ -517,7 +428,6 @@ Like a Coinshot, a Lurcher pulls from their own center of mass, so the same dang
 }}
 
 \page
-
 ## Force Tables
 
 These tables serve both Steel and Iron. Read weight against charges; there is no math at the table.
@@ -623,7 +533,6 @@ To hit, add your **proficiency bonus + Constitution modifier**; damage is **pier
 ---
 
 \page
-
 ## Tin: Tineye
 
 *The world sharpens. A Tineye hears a heartbeat through a wall and sees the assassin's shadow before the candle gutters, yet a sudden torch can bring them to their knees.*
@@ -695,7 +604,6 @@ A tin savant (about 5 kg of tin burned over a lifetime, or a Mistborn's class fe
 }}
 
 \page
-
 ## Pewter: Thug (Pewterarm)
 
 *A Thug shrugs off a crossbow bolt, rips a door from its hinges, and keeps running, until the pewter putters out and every wound they ignored arrives at once.*
@@ -768,6 +676,7 @@ A Thug who leans on pewter and burns their last charge in a fight is suddenly, m
 }}
 
 \page
+
 ### Mental
 
 ## Zinc: Rioter
@@ -825,7 +734,6 @@ The effect of a single inflamed emotion is up to the DM and depends on what the 
 }}
 
 \page
-
 ## Brass: Soother
 
 *A Soother's presence is a quiet balm. Anger cools, suspicion fades, and a frightened guard finds, without knowing why, that they trust the stranger at the gate.*
@@ -881,7 +789,6 @@ The effect of a single dampened emotion is up to the DM and depends on what the 
 }}
 
 \page
-
 ## Copper: Smoker
 
 *Around a Smoker hangs an unseen quiet. Within it, Allomancy leaves no ripple, and a Seeker's questing pulses find nothing at all.*
@@ -938,7 +845,6 @@ A creature able to pierce the cloud must succeed on a Wisdom saving throw agains
 }}
 
 \page
-
 ## Bronze: Seeker
 
 *A Seeker hears what others cannot: the silent drumbeat of burning metal, and the tolling pulse of a spell being cast three rooms away.*
@@ -985,6 +891,7 @@ Each extra charge you burn in a minute, up to a number equal to your level, incr
 }}
 
 \page
+
 ### Enhancement
 
 ## Aluminum: Aluminum Gnat
@@ -1041,7 +948,6 @@ You still cannot reach *another* creature's Investiture with aluminum; it acts o
 }}
 
 \page
-
 ## Duralumin: Duralumin Gnat
 
 *One breath of power spent all at once. A Coinshot who flares duralumin can hurl a carriage; a Thug can shatter a wall with a shoulder.*
@@ -1101,7 +1007,6 @@ For the Allomantic detonation, a single charge is enough; it already burns *ever
 }}
 
 \page
-
 ## Chromium: Leecher
 
 *A Leecher's touch is a sudden, sinking cold, and the power a rival was counting on is simply gone.*
@@ -1141,7 +1046,6 @@ Chromium reaches **past Allomancy** as you pour more into a single touch, up to 
 }}
 
 \page
-
 ## Nicrosil: Nicroburst
 
 *A Nicroburst lends no power of their own. They lay a hand on an ally, and that ally's Allomancy erupts.*
@@ -1181,6 +1085,7 @@ For the Allomantic detonation, one charge suffices. Flaring nicrosil, like flari
 }}
 
 \page
+
 ### Temporal
 
 ## Gold: Augur
@@ -1219,7 +1124,6 @@ Flaring does little. Burning more charges sharpens and prolongs the vision but g
 }}
 
 \page
-
 ## Electrum: Oracle
 
 *An Oracle sees a heartbeat ahead: a shadow of themselves stepping into the next moment, so nothing can truly take them by surprise.*
@@ -1266,7 +1170,6 @@ Each extra charge you burn in a minute, up to a number equal to your level, push
 }}
 
 \page
-
 ## Cadmium: Pulser
 
 *Inside a Pulser's bubble the world slows to a crawl, and an afternoon of danger can pass outside in the space of a held breath.*
@@ -1321,7 +1224,6 @@ A cadmium savant (5 kg burned, or a Mistborn's class feature), beyond the shared
 }}
 
 \page
-
 ## Bendalloy: Slider
 
 *Within a Slider's bubble, seconds stretch into minutes. A few heartbeats of the outside world are time enough to plan, to heal, and to strike a dozen times.*
@@ -1429,7 +1331,6 @@ Two further God Metals exist on Scadrial and are **not playable**. They are here
 Treat these metals as plot, not as loadout. A vial of atium should change what a session is about. When you hand out lerasium, you are handing out a new character.
 
 \page
-
 ## Atium: Seer
 
 *The world fills with ghosts. Every creature drags a shadow of itself a heartbeat ahead, and a Seer needs only to strike where the shadow is going to be.*
@@ -1491,7 +1392,6 @@ Refined atium also enhances the mind to hold and process what it shows, and at t
 }}
 
 \page
-
 ## Malatium: the Eleventh Metal
 
 *A stranger stands beside your enemy wearing their face, living the life they did not choose. Watch them long enough and you will learn who your enemy truly is.*
@@ -1528,7 +1428,6 @@ Each extra charge you burn in a round, up to a number equal to your level, holds
 }}
 
 \page
-
 ## Lerasium
 
 *Nine beads made nine houses into legends, and every Allomancer who has lived since is descended from that gift.*
@@ -1682,7 +1581,6 @@ Track it by long, heavy Compounding rather than by grams of a burned metal, and 
 }}
 
 \page
-
 ## Ferring Bloodlines
 
 A **Ferring** is a person who can Feruchemically **store one attribute** in metal and **tap** it back later. A Ferring power is a **bloodline**, chosen at character creation and independent of your species and class, exactly as a Misting power is.
@@ -1907,7 +1805,6 @@ Weight is not armor. Your increased density does **not** protect you from being 
 }}
 
 \page
-
 ## Steel: Steelrunner
 
 *A Steelrunner spends the morning moving as though through cold honey, and buys with it ten seconds in which no one else in the room can react at all.*
@@ -1979,7 +1876,6 @@ Because compression punishes hard draws, the highest tiers last seconds, not min
 }}
 
 \page
-
 ## Tin: Windwhisperer
 
 *A Windwhisperer wears a half-dozen rings and chooses, each morning, what they will be able to do that day: read a page across a courtyard, hear a whisper through a wall, or feel nothing at all.*
@@ -2051,7 +1947,6 @@ Tapping **sight** trades breadth for distance. Your vision narrows toward a bino
 }}
 
 \page
-
 ## Pewter: Brute
 
 *A Brute spends a week thin and shaking, and buys with it an afternoon in which doors are suggestions and armored men are furniture.*
@@ -2123,6 +2018,7 @@ Your skeleton and joints are still yours. Tapping enormous strength lets you lif
 }}
 
 \page
+
 ### Cognitive
 
 ## Zinc: Sparker
@@ -2181,7 +2077,6 @@ Your **body still moves at its own pace**. Tapping hard means living in a world 
 }}
 
 \page
-
 ## Brass: Firesoul
 
 *A Firesoul walks into the flames and comes out cold, having drunk the fire down into a ring on their finger.*
@@ -2311,7 +2206,6 @@ Warmth is not fuel. It keeps you from freezing and lets you set things alight, b
 }}
 
 \page
-
 ## Copper: Archivist
 
 *An Archivist can recite a book they have never read twice, and can look their own brother in the face without knowing him. Both are the same ring.*
@@ -2379,7 +2273,6 @@ Because a stored memory leaves no trace of itself, a working Archivist keeps an 
 }}
 
 \page
-
 ## Bronze: Sentry
 
 *A Sentry sleeps a long, dreamless winter into a bracelet, and spends it standing watch through a siege without once sitting down.*
@@ -2446,6 +2339,7 @@ While you tap a bronzemind, sleep stops mattering.
 }}
 
 \page
+
 ### Hybrid
 
 ## Cadmium: Gasper
@@ -2499,7 +2393,6 @@ Breath is not energy, food, or wakefulness. You can go without air, and still st
 }}
 
 \page
-
 ## Bendalloy: Subsumer
 
 *A Subsumer eats like three field hands through the autumn, and crosses the winter desert on a ring, never once stopping to open a pack.*
@@ -2555,7 +2448,6 @@ Filling is bounded by your own body. You can only eat so fast and hold so much a
 }}
 
 \page
-
 ## Gold: Bloodmaker
 
 *A Bloodmaker takes the wound that should have killed them, staggers, and stands back up with the skin already closing, paid for out of a ring bought with weeks of being sick.*
@@ -2634,7 +2526,6 @@ Gold heals the **body toward its ideal self**, and no further. This is the sourc
 }}
 
 \page
-
 ## Electrum: Pinnacle
 
 *A Pinnacle spends the calm days grey and listless, then taps the ring when the walls are falling and becomes a person who simply will not stop.*
@@ -2690,6 +2581,7 @@ While you tap an electrummind, a fierce, rising drive fills you, and at the top 
 }}
 
 \page
+
 ### Spiritual
 
 ## Chromium: Spinner
@@ -2740,7 +2632,6 @@ You may spend Fortune points from a chromiummind at any time, even in response t
 }}
 
 \page
-
 ## Nicrosil: Soulbearer
 
 *A Soulbearer sets their magic aside into a ring, walks a while as an ordinary person, then draws it back and casts higher than they ever could unaided.*
@@ -2792,7 +2683,6 @@ So handing magic person to person is real, and it is the strongest thing nicrosi
 }}
 
 \page
-
 ## Aluminum: Trueself
 
 *A Trueself can hollow themselves out until they are no one at all, or draw so fully into themselves that no lie, no charm, and no other face can find purchase.*
@@ -2856,7 +2746,6 @@ While you tap an aluminummind, you become intensely, unshakably *you*.
 }}
 
 \page
-
 ## Duralumin: Connector
 
 *A Connector can walk through a hostile court and have no one quite remember they were there, or sit down among strangers who speak no tongue they know and rise an hour later as a trusted friend.*
@@ -2932,7 +2821,6 @@ A God Metal is condensed Investiture, and it does not fight its user the way les
 See the Ferring Bloodlines for the shared rules and the God Metals for the lore.
 
 \page
-
 ## Atium (Feruchemical)
 
 *The Lord Ruler aged a day into a bead each morning, and drew a day of youth back out each night, and so wore the same face for a thousand years.*
@@ -3149,6 +3037,7 @@ A Compounder begins play with a **ring, a set of beads, or a needle of their met
 
 \page
 {{partCover}}
+
 # Part 2
 ## Species
 
@@ -3484,6 +3373,7 @@ Kandra improve at their art with practice, and yours does so as you level.
 
 \page
 {{partCover}}
+
 # Part 3
 ## Backgrounds
 
@@ -3495,7 +3385,6 @@ Kandra improve at their art with practice, and yours does so as you level.
 }}
 
 \page
-
 ## Backgrounds and Origin Feats
 
 Five backgrounds for characters who grew up around the Metallic Arts, and the two Origin feats they need. **None of these assume Scadrial.** They describe trades and lives that exist wherever people burn metal, so they drop into an ordinary D&D world alongside Acolyte, Criminal, and Soldier without asking the DM to import an empire.
@@ -3621,6 +3510,7 @@ You were taught how people with metal in their stomachs move, and what to do abo
 
 \page
 {{partCover}}
+
 # Part 4
 ## Classes
 
@@ -4324,9 +4214,9 @@ This applies to **anyone** carrying spikes, including you, your allies, and your
 
 - **Mental fortitude resists.** A **copper** spike steals exactly that, and a bearer carrying one has **advantage** on all saving throws against control. This is why the kandra Blessing of Presence was so valued. It is the single best investment a heavily spiked character can make.
 - **Strong emotion makes control easier.** A bearer who is enraged, terrified, or grieving takes **disadvantage** on control saves regardless of spike count.
+- **Control, once seized, persists** without further Soothing or Rioting, and a **stronger controller can steal it** from a weaker one. Being someone's puppet does not protect you from becoming someone else's.
 \page
 
-- **Control, once seized, persists** without further Soothing or Rioting, and a **stronger controller can steal it** from a weaker one. Being someone's puppet does not protect you from becoming someone else's.
 - **Aluminum** worn over the head blocks emotional Allomancy as it always does, though it does nothing against a Shard.
 
 ---
@@ -4402,11 +4292,11 @@ These are the placements that have been written down and survive. Everything els
 
 ### Hemalurgic Practices
 
-\page
-
 #### The Spiked
 
 *You are the work. Every configuration you find, you find on yourself.*
+
+\page
 
 - **3rd — Self-Surgery.** You can place a spike in your own body without assistance, however awkward the placement, and you **automatically succeed on the Placement check** to do so. When you do, make a Constitution saving throw (DC 10 + the number of spikes you already bear) to remain conscious through it; on a success you may act immediately, and on a failure you fall unconscious for 1 minute.
 - **6th — Honed Intent.** You have learned to sharpen the intent behind the killing, and the soul comes away more whole. For spikes **you** charge, your **Yield Floor is 80%**, or your usual floor if that is higher. A spike you make is worth two that you find.
@@ -4434,9 +4324,9 @@ These are the placements that have been written down and survive. Everything els
 
 - **3rd — Careful Gift.** When you place a spike in a **willing** creature, the wound is clean. You automatically succeed on the Placement check, they take no damage from it, and they count as having **one fewer spike** for Control Risk, to a minimum of one. Your allies can be armed without being ruined.
 - **6th — Shared Arsenal.** You can move a spike from one willing bearer to another in **1 minute** total, rather than the minute to remove plus the minute to place, and neither bearer takes the damage that removal normally deals. You may do this during a short rest without the recipients losing the rest's benefit. The party's stolen powers become a shared kit, redistributed for the job at hand.
+- **10th — Anchor.** You are the fixed point your gifts are keyed to. Creatures bearing your spikes have **advantage on saving throws against control** while within 60 feet of you, as your intent occupies the holes that something else would use. If you are Incapacitated, they lose this at once, and often notice.
 \page
 
-- **10th — Anchor.** You are the fixed point your gifts are keyed to. Creatures bearing your spikes have **advantage on saving throws against control** while within 60 feet of you, as your intent occupies the holes that something else would use. If you are Incapacitated, they lose this at once, and often notice.
 - **14th — The Ministry's Whole Art.** Your intent sits in every spike you have placed the way an Allomancer's control does. Any creature attempting to control one of your bearers must first succeed on a check against your **Hemalurgy save DC**, as though wresting that control away from you, and **Anchor** now reaches every bearer whose location you know, at any distance. In addition, a creature bearing a spike you placed may, once per long rest, use its stolen power at **surge tier**, as though it had been flared with duralumin (see the core rules). You have made an order, and it can act like one.
 
 ---
@@ -4478,6 +4368,7 @@ These are the placements that have been written down and survive. Everything els
 
 \page
 {{partCover}}
+
 # Part 5
 ## The Metal Economy
 
@@ -4489,7 +4380,6 @@ These are the placements that have been written down and survive. Everything els
 }}
 
 \page
-
 ## The Metal Economy
 
 *Allomancy is the only magic in the world with a shopping list. A Coinshot out of steel is a man with a coin and an opinion.*
@@ -4549,11 +4439,10 @@ Feruchemists buy the same metals in different shapes: **rings** (roughly 2 to 10
 
 }}
 
-\page
-
 #### What you actually pay
 
 Material cost is not shelf price. Somebody has to grind the metal fine, suspend it, and stake their reputation on the alloy being exact, and **a false alloy is worthless**, so that guarantee is most of what you are buying on the cheap metals.
+\page
 
 - **A prepared vial of any common metal costs 1 gp**, whatever the table above says. You are paying for the work and the warranty, not the tin.
 - **Buying by the pound** is how the common metals are actually traded, at the per-gram prices above. Bring your own mortar.
@@ -4599,8 +4488,6 @@ This is the table that matters at play. A **vial is 5 grams**, and what that mea
 
 ---
 
-\page
-
 {{tableGroup
 
 ### Availability
@@ -4618,6 +4505,7 @@ Not everything is on a shelf. Roll these into whatever your setting already does
 }}
 
 **Why aluminum is watched.** It cannot be Pushed or Pulled, it shields a mind from emotional Allomancy, and burning it strips an Allomancer's reserves. Anyone who rules by Allomancy has an excellent reason to control who owns it, and historically they always have.
+\page
 
 ---
 
@@ -4658,6 +4546,7 @@ Treat god metal as **economy and DM reward**, never inventory. A bead of atium i
 
 \page
 {{partCover}}
+
 # Appendix
 ## The Arts and the Weave
 
@@ -4669,7 +4558,6 @@ Treat god metal as **economy and DM reward**, never inventory. A bead of atium i
 }}
 
 \page
-
 ## The Metallic Arts and the Weave
 
 *Rules for running Allomancy, Feruchemy, and Hemalurgy at an ordinary D&D table, in a world that also has spells, spell slots, magic items, and the Weave.*
