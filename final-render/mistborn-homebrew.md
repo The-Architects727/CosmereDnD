@@ -2681,7 +2681,6 @@ While you tap an aluminummind, you become intensely, unshakably *you*.
 ### Interactions
 
 - Aluminum is the metal that makes **unsealed metalminds** possible, which the whole of nicrosil's hand-me-down magic and much of Compounding with unkeyed minds depends upon.
-- The metal aluminum's other, more famous trait, that it cannot be Pushed or Pulled and wards off emotional Allomancy, belongs to the metal itself, not to this power.
 
 \page
 
