@@ -208,68 +208,68 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
     - ##### [{{ Enhancement}}{{ 14}}](#p14)
       - ###### [{{ Aluminum: Aluminum Gnat}}{{ 14}}](#p14)
       - ###### [{{ Duralumin: Duralumin Gnat}}{{ 15}}](#p15)
-      - ###### [{{ Chromium: Leecher}}{{ 16}}](#p16)
-      - ###### [{{ Nicrosil: Nicroburst}}{{ 17}}](#p17)
-    - ##### [{{ Temporal}}{{ 18}}](#p18)
-      - ###### [{{ Gold: Augur}}{{ 18}}](#p18)
-      - ###### [{{ Electrum: Oracle}}{{ 19}}](#p19)
-      - ###### [{{ Cadmium: Pulser}}{{ 20}}](#p20)
-      - ###### [{{ Bendalloy: Slider}}{{ 21}}](#p21)
-    - ##### [{{ God Metals}}{{ 22}}](#p22)
-      - ###### [{{ Other Metals}}{{ 22}}](#p22)
-      - ###### [{{ Atium: Seer}}{{ 23}}](#p23)
-      - ###### [{{ Malatium: the Eleventh Metal}}{{ 24}}](#p24)
-      - ###### [{{ Lerasium}}{{ 25}}](#p25)
-  - #### [{{ Savants}}{{ 26}}](#p26)
-  - #### [{{ Ferrings}}{{ 29}}](#p29)
-    - ##### [{{ Physical}}{{ 32}}](#p32)
-      - ###### [{{ Iron: Skimmer}}{{ 32}}](#p32)
-      - ###### [{{ Steel: Steelrunner}}{{ 33}}](#p33)
-      - ###### [{{ Tin: Windwhisperer}}{{ 34}}](#p34)
-      - ###### [{{ Pewter: Brute}}{{ 35}}](#p35)
-    - ##### [{{ Cognitive}}{{ 36}}](#p36)
-      - ###### [{{ Zinc: Sparker}}{{ 36}}](#p36)
-      - ###### [{{ Brass: Firesoul}}{{ 37}}](#p37)
-      - ###### [{{ Copper: Archivist}}{{ 39}}](#p39)
-      - ###### [{{ Bronze: Sentry}}{{ 40}}](#p40)
-    - ##### [{{ Hybrid}}{{ 41}}](#p41)
-      - ###### [{{ Cadmium: Gasper}}{{ 41}}](#p41)
-      - ###### [{{ Bendalloy: Subsumer}}{{ 42}}](#p42)
-      - ###### [{{ Gold: Bloodmaker}}{{ 43}}](#p43)
-      - ###### [{{ Electrum: Pinnacle}}{{ 44}}](#p44)
-    - ##### [{{ Spiritual}}{{ 45}}](#p45)
-      - ###### [{{ Chromium: Spinner}}{{ 45}}](#p45)
-      - ###### [{{ Nicrosil: Soulbearer}}{{ 46}}](#p46)
-      - ###### [{{ Aluminum: Trueself}}{{ 47}}](#p47)
-      - ###### [{{ Duralumin: Connector}}{{ 48}}](#p48)
-    - ##### [{{ God Metals}}{{ 49}}](#p49)
-      - ###### [{{ Other Metals (Feruchemy)}}{{ 49}}](#p49)
-      - ###### [{{ Atium (Feruchemical)}}{{ 50}}](#p50)
-  - #### [{{ Twinborn}}{{ 51}}](#p51)
-  - #### [{{ Compounding}}{{ 52}}](#p52)
+      - ###### [{{ Chromium: Leecher}}{{ 17}}](#p17)
+      - ###### [{{ Nicrosil: Nicroburst}}{{ 18}}](#p18)
+    - ##### [{{ Temporal}}{{ 19}}](#p19)
+      - ###### [{{ Gold: Augur}}{{ 19}}](#p19)
+      - ###### [{{ Electrum: Oracle}}{{ 20}}](#p20)
+      - ###### [{{ Cadmium: Pulser}}{{ 21}}](#p21)
+      - ###### [{{ Bendalloy: Slider}}{{ 22}}](#p22)
+    - ##### [{{ God Metals}}{{ 23}}](#p23)
+      - ###### [{{ Other Metals}}{{ 23}}](#p23)
+      - ###### [{{ Atium: Seer}}{{ 24}}](#p24)
+      - ###### [{{ Malatium: the Eleventh Metal}}{{ 25}}](#p25)
+      - ###### [{{ Lerasium}}{{ 26}}](#p26)
+  - #### [{{ Savants}}{{ 27}}](#p27)
+  - #### [{{ Ferrings}}{{ 30}}](#p30)
+    - ##### [{{ Physical}}{{ 33}}](#p33)
+      - ###### [{{ Iron: Skimmer}}{{ 33}}](#p33)
+      - ###### [{{ Steel: Steelrunner}}{{ 34}}](#p34)
+      - ###### [{{ Tin: Windwhisperer}}{{ 35}}](#p35)
+      - ###### [{{ Pewter: Brute}}{{ 36}}](#p36)
+    - ##### [{{ Cognitive}}{{ 37}}](#p37)
+      - ###### [{{ Zinc: Sparker}}{{ 37}}](#p37)
+      - ###### [{{ Brass: Firesoul}}{{ 38}}](#p38)
+      - ###### [{{ Copper: Archivist}}{{ 40}}](#p40)
+      - ###### [{{ Bronze: Sentry}}{{ 41}}](#p41)
+    - ##### [{{ Hybrid}}{{ 42}}](#p42)
+      - ###### [{{ Cadmium: Gasper}}{{ 42}}](#p42)
+      - ###### [{{ Bendalloy: Subsumer}}{{ 43}}](#p43)
+      - ###### [{{ Gold: Bloodmaker}}{{ 44}}](#p44)
+      - ###### [{{ Electrum: Pinnacle}}{{ 45}}](#p45)
+    - ##### [{{ Spiritual}}{{ 46}}](#p46)
+      - ###### [{{ Chromium: Spinner}}{{ 46}}](#p46)
+      - ###### [{{ Nicrosil: Soulbearer}}{{ 47}}](#p47)
+      - ###### [{{ Aluminum: Trueself}}{{ 48}}](#p48)
+      - ###### [{{ Duralumin: Connector}}{{ 49}}](#p49)
+    - ##### [{{ God Metals}}{{ 50}}](#p50)
+      - ###### [{{ Other Metals (Feruchemy)}}{{ 50}}](#p50)
+      - ###### [{{ Atium (Feruchemical)}}{{ 51}}](#p51)
+  - #### [{{ Twinborn}}{{ 52}}](#p52)
+  - #### [{{ Compounding}}{{ 53}}](#p53)
 }}
 
 \column
 
 {{toc,contents
-- ### [{{ Species}}{{ 54}}](#p54)
-  - #### [{{ Koloss-blooded}}{{ 55}}](#p55)
-  - #### [{{ Kandra}}{{ 58}}](#p58)
-- ### [{{ Backgrounds}}{{ 62}}](#p62)
-  - #### [{{ Alloyer}}{{ 63}}](#p63)
-  - #### [{{ Hazekiller}}{{ 63}}](#p63)
-  - #### [{{ Crewmember}}{{ 63}}](#p63)
-  - #### [{{ Metal Smuggler}}{{ 63}}](#p63)
-  - #### [{{ Ashworker}}{{ 63}}](#p63)
-- ### [{{ Origin Feats}}{{ 64}}](#p64)
-  - #### [{{ Alloyer (Origin Feat)}}{{ 64}}](#p64)
-  - #### [{{ Hazekiller (Origin Feat)}}{{ 64}}](#p64)
-- ### [{{ Classes}}{{ 65}}](#p65)
-  - #### [{{ Mistborn}}{{ 66}}](#p66)
-  - #### [{{ Feruchemist}}{{ 70}}](#p70)
-  - #### [{{ Hemalurgist}}{{ 76}}](#p76)
-- ### [{{ The Metal Economy}}{{ 84}}](#p84)
-- ### [{{ The Arts and the Weave}}{{ 88}}](#p88)
+- ### [{{ Species}}{{ 55}}](#p55)
+  - #### [{{ Koloss-blooded}}{{ 56}}](#p56)
+  - #### [{{ Kandra}}{{ 59}}](#p59)
+- ### [{{ Backgrounds}}{{ 63}}](#p63)
+  - #### [{{ Alloyer}}{{ 64}}](#p64)
+  - #### [{{ Hazekiller}}{{ 64}}](#p64)
+  - #### [{{ Crewmember}}{{ 64}}](#p64)
+  - #### [{{ Metal Smuggler}}{{ 64}}](#p64)
+  - #### [{{ Ashworker}}{{ 64}}](#p64)
+- ### [{{ Origin Feats}}{{ 65}}](#p65)
+  - #### [{{ Alloyer (Origin Feat)}}{{ 65}}](#p65)
+  - #### [{{ Hazekiller (Origin Feat)}}{{ 65}}](#p65)
+- ### [{{ Classes}}{{ 66}}](#p66)
+  - #### [{{ Mistborn}}{{ 67}}](#p67)
+  - #### [{{ Feruchemist}}{{ 71}}](#p71)
+  - #### [{{ Hemalurgist}}{{ 77}}](#p77)
+- ### [{{ The Metal Economy}}{{ 85}}](#p85)
+- ### [{{ The Arts and the Weave}}{{ 89}}](#p89)
 }}
 
 \page
@@ -929,22 +929,48 @@ Burning a charge of duralumin is instantaneous. As a free action, you **consume 
 
 This is the single largest burst an Allomancer can produce, and it empties your reserves to do it.
 
-{{tableGroup
+\page
+{{wide
 
-#### Notable detonations
+### Detonation by metal
 
-| Paired metal | Duralumin detonation |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| steel / iron | You gain a single, enormous force pool equal to your entire reserve, which must be spent this round and cannot be held or left to fizzle; read Tables B and C at the full combined force. |
-| pewter | You reach the legendary tier of might and survivability for the round; see pewter. |
-| zinc / brass | Every creature in range is swept by an overwhelming emotional surge; a total soothe can leave a crowd catatonic. |
-| bronze | You sense every nearby power at once and briefly pierce copperclouds; see Piercing a coppercloud. |
-| tin | Your senses spike so hard you may overwhelm yourself, but in near total deprivation, you can sense things that are hidden; see Sensory Overload. |
-| bendalloy / cadmium | The bubble's ratio becomes **2 plus twice your entire remaining reserve in charges**, for one round, after which the metal is gone and the bubble collapses. A Slider with 10 charges left buys their occupants 22 rounds inside a single round outside; a Pulser buys 22 rounds of the world passing while they take one. |
+A duralumin burst spends **your entire held reserve of that metal in one instant**, ignoring the flare cap. What that buys differs sharply by metal: some become overwhelming, some barely change, and a few do something they cannot otherwise do at all.
+
+| Metal | What the detonation does |
+|---|---|
+| **Iron / Steel** | A single force pool equal to your whole reserve, spent this round or wasted. Read Tables B and C at the full combined force. The classic use: a Push no anchor survives. |
+| **Tin** | Every sense at once, past what a body is meant to carry. In near-total deprivation you perceive what is hidden; in an ordinary room you may simply overwhelm yourself. See Sensory Overload. |
+| **Pewter** | The legendary tier of might and endurance for the round. Shattered stone, torn doors, a fall that should have killed you. |
+| **Zinc / Brass** | Every creature in range is swept by one overwhelming surge of feeling. A total soothe can leave a crowd standing catatonic; a total riot can start a massacre. |
+| **Copper** | A coppercloud that briefly covers a district rather than a room. It does not become stronger, only vastly wider, and it collapses at once. |
+| **Bronze** | You sense every source of power nearby at the same moment, and briefly hear straight through copperclouds. See Piercing a coppercloud. |
+| **Aluminum** | Your reserves are already being consumed; aluminum adds only that the *scouring* is total. Nothing Invested that you were carrying internally survives it. |
+| **Duralumin** | Nothing. Duralumin cannot detonate itself, and a reserve of it is simply spent. |
+| **Chromium** | One touch strips a target's entire reserve to nothing, with no gradual drain and nothing left behind. This is how the Steel Ministry disarmed Allomancers. |
+| **Nicrosil** | The target's burn is amplified to the same all-at-once extreme, using **their** reserve rather than yours. A gift or an execution, depending on what they are burning. |
+| **Gold** | One vast, complete vision of the self you might have been, rather than a glimpse. Overwhelming, and remembered. |
+| **Electrum** | Your own near future laid out at length instead of a heartbeat ahead. The advantage lasts the round and then is gone. |
+| **Cadmium / Bendalloy** | The bubble's ratio becomes **2 plus twice your entire remaining reserve in charges**, for one round, after which the metal is gone and the bubble collapses. A Slider with 10 charges left buys their occupants 22 rounds inside a single round outside; a Pulser buys 22 rounds of the world passing while they take one. |
+| **Atium / Malatium** | A god metal is not spent this way. The detonation consumes the reserve and grants a single round of the metal's effect at its fullest, which for atium means near-perfect foresight against everyone present at once. |
 
 }}
 
-\column
+{{tableGroup
+
+#### Feruchemy
+
+Flaring duralumin lets the burst reach past Allomancy to **one non-Allomantic power you are using in the same instant**. Against Feruchemy that means a **tap**, and only a tap.
+
+| What you are doing | What the burst does |
+|---|---|
+| **Tapping a metalmind** | The draw you would have spread over its duration is released **at once**, at that amplified intensity. The reserve spent is spent; it does not come back. |
+| **Storing into a metalmind** | Nothing. Storing is a slow giving-up, not a draw, and there is nothing to release. |
+| **Compounding** | The Compounded tap detonates as any tap does, which is the most dangerous version of this trick: a gold Compounder bursting a healing tap can undo grievous harm in a single round, and has nothing left afterward. |
+| **An unsealed metalmind** | As any tap, but the reserve belongs to whoever filled it. Bursting someone else's bank empties it for them too. |
+
+}}
+
+**Spellcasting is not here.** A duralumin burst can maximize a spell you cast this turn, and that rule lives in The Metallic Arts and the Weave with the rest of the crossover layer, so a table playing without it never meets a rule it cannot use.
 
 ### Flaring
 
@@ -3137,7 +3163,7 @@ A human takes about an hour, which covers the hair of the head and face. **A bod
 
 **What you can wear.** At 1st level you can copy **Small and Medium humanoids**. This widens as you grow (see Growing Older). You can wear the body of any creature whose frame can carry your spikes.
 
-**A body that works, versus a body that fools.** Everything above concerns an **exact replica**, which is the hard art and the one that takes practice. Simply having *a* working body is not hard, and every kandra can do it from their first day. Given any usable set of bones, matched or not, you can assemble a functioning creature in the bare-skin time on the table. It will move, fight, and carry you perfectly well. It will also look like nothing that was ever born, and no one who sees it will mistake it for a person.
+**A body that works, versus a body that fools.** Everything above concerns an **exact replica**, which is the hard art and the one that takes practice. Simply having *a* working body is not hard, and every kandra can do it from their first day. Given any usable set of bones, matched or not, you can assemble a functioning creature in the bare-skin time on the table. It will move, fight, and carry you perfectly well.
 
 \page
 {{tableGroup
