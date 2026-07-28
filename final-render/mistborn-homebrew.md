@@ -197,79 +197,79 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
   - #### [{{ Mistings}}{{ 4}}](#p4)
     - ##### [{{ Physical}}{{ 5}}](#p5)
       - ###### [{{ Steel: Coinshot}}{{ 6}}](#p6)
-      - ###### [{{ Iron: Lurcher}}{{ 7}}](#p7)
-      - ###### [{{ Tin: Tineye}}{{ 9}}](#p9)
-      - ###### [{{ Pewter: Thug (Pewterarm)}}{{ 10}}](#p10)
-    - ##### [{{ Mental}}{{ 11}}](#p11)
-      - ###### [{{ Zinc: Rioter}}{{ 11}}](#p11)
-      - ###### [{{ Brass: Soother}}{{ 12}}](#p12)
-      - ###### [{{ Copper: Smoker}}{{ 13}}](#p13)
-      - ###### [{{ Bronze: Seeker}}{{ 14}}](#p14)
-    - ##### [{{ Enhancement}}{{ 15}}](#p15)
-      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 15}}](#p15)
-      - ###### [{{ Duralumin: Duralumin Gnat}}{{ 16}}](#p16)
-      - ###### [{{ Chromium: Leecher}}{{ 19}}](#p19)
-      - ###### [{{ Nicrosil: Nicroburst}}{{ 20}}](#p20)
-    - ##### [{{ Temporal}}{{ 21}}](#p21)
-      - ###### [{{ Gold: Augur}}{{ 21}}](#p21)
-      - ###### [{{ Electrum: Oracle}}{{ 22}}](#p22)
-      - ###### [{{ Cadmium: Pulser}}{{ 23}}](#p23)
-      - ###### [{{ Bendalloy: Slider}}{{ 24}}](#p24)
-    - ##### [{{ God Metals}}{{ 25}}](#p25)
-      - ###### [{{ Other Metals}}{{ 25}}](#p25)
-      - ###### [{{ Atium: Seer}}{{ 26}}](#p26)
-      - ###### [{{ Malatium: the Eleventh Metal}}{{ 27}}](#p27)
-      - ###### [{{ Lerasium}}{{ 28}}](#p28)
-  - #### [{{ Savants}}{{ 29}}](#p29)
-  - #### [{{ Ferrings}}{{ 33}}](#p33)
-    - ##### [{{ Physical}}{{ 36}}](#p36)
-      - ###### [{{ Iron: Skimmer}}{{ 36}}](#p36)
-      - ###### [{{ Steel: Steelrunner}}{{ 37}}](#p37)
-      - ###### [{{ Tin: Windwhisperer}}{{ 38}}](#p38)
-      - ###### [{{ Pewter: Brute}}{{ 39}}](#p39)
-    - ##### [{{ Cognitive}}{{ 40}}](#p40)
-      - ###### [{{ Zinc: Sparker}}{{ 40}}](#p40)
-      - ###### [{{ Brass: Firesoul}}{{ 41}}](#p41)
-      - ###### [{{ Copper: Archivist}}{{ 43}}](#p43)
-      - ###### [{{ Bronze: Sentry}}{{ 44}}](#p44)
-    - ##### [{{ Hybrid}}{{ 45}}](#p45)
-      - ###### [{{ Cadmium: Gasper}}{{ 45}}](#p45)
-      - ###### [{{ Bendalloy: Subsumer}}{{ 46}}](#p46)
-      - ###### [{{ Gold: Bloodmaker}}{{ 47}}](#p47)
-      - ###### [{{ Electrum: Pinnacle}}{{ 48}}](#p48)
-    - ##### [{{ Spiritual}}{{ 49}}](#p49)
-      - ###### [{{ Chromium: Spinner}}{{ 49}}](#p49)
-      - ###### [{{ Nicrosil: Soulbearer}}{{ 50}}](#p50)
-      - ###### [{{ Aluminum: Trueself}}{{ 51}}](#p51)
-      - ###### [{{ Duralumin: Connector}}{{ 53}}](#p53)
-    - ##### [{{ God Metals}}{{ 54}}](#p54)
-      - ###### [{{ Other Metals (Feruchemy)}}{{ 54}}](#p54)
-      - ###### [{{ Atium (Feruchemical)}}{{ 55}}](#p55)
-  - #### [{{ Twinborn}}{{ 56}}](#p56)
-  - #### [{{ Compounding}}{{ 57}}](#p57)
+      - ###### [{{ Iron: Lurcher}}{{ 8}}](#p8)
+      - ###### [{{ Tin: Tineye}}{{ 10}}](#p10)
+      - ###### [{{ Pewter: Thug (Pewterarm)}}{{ 11}}](#p11)
+    - ##### [{{ Mental}}{{ 12}}](#p12)
+      - ###### [{{ Zinc: Rioter}}{{ 12}}](#p12)
+      - ###### [{{ Brass: Soother}}{{ 13}}](#p13)
+      - ###### [{{ Copper: Smoker}}{{ 14}}](#p14)
+      - ###### [{{ Bronze: Seeker}}{{ 15}}](#p15)
+    - ##### [{{ Enhancement}}{{ 16}}](#p16)
+      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 16}}](#p16)
+      - ###### [{{ Duralumin: Duralumin Gnat}}{{ 17}}](#p17)
+      - ###### [{{ Chromium: Leecher}}{{ 20}}](#p20)
+      - ###### [{{ Nicrosil: Nicroburst}}{{ 21}}](#p21)
+    - ##### [{{ Temporal}}{{ 22}}](#p22)
+      - ###### [{{ Gold: Augur}}{{ 22}}](#p22)
+      - ###### [{{ Electrum: Oracle}}{{ 23}}](#p23)
+      - ###### [{{ Cadmium: Pulser}}{{ 24}}](#p24)
+      - ###### [{{ Bendalloy: Slider}}{{ 25}}](#p25)
+    - ##### [{{ God Metals}}{{ 26}}](#p26)
+      - ###### [{{ Other Metals}}{{ 26}}](#p26)
+      - ###### [{{ Atium: Seer}}{{ 27}}](#p27)
+      - ###### [{{ Malatium: the Eleventh Metal}}{{ 28}}](#p28)
+      - ###### [{{ Lerasium}}{{ 29}}](#p29)
+  - #### [{{ Savants}}{{ 30}}](#p30)
+  - #### [{{ Ferrings}}{{ 34}}](#p34)
+    - ##### [{{ Physical}}{{ 37}}](#p37)
+      - ###### [{{ Iron: Skimmer}}{{ 37}}](#p37)
+      - ###### [{{ Steel: Steelrunner}}{{ 38}}](#p38)
+      - ###### [{{ Tin: Windwhisperer}}{{ 39}}](#p39)
+      - ###### [{{ Pewter: Brute}}{{ 40}}](#p40)
+    - ##### [{{ Cognitive}}{{ 41}}](#p41)
+      - ###### [{{ Zinc: Sparker}}{{ 41}}](#p41)
+      - ###### [{{ Brass: Firesoul}}{{ 42}}](#p42)
+      - ###### [{{ Copper: Archivist}}{{ 44}}](#p44)
+      - ###### [{{ Bronze: Sentry}}{{ 45}}](#p45)
+    - ##### [{{ Hybrid}}{{ 46}}](#p46)
+      - ###### [{{ Cadmium: Gasper}}{{ 46}}](#p46)
+      - ###### [{{ Bendalloy: Subsumer}}{{ 47}}](#p47)
+      - ###### [{{ Gold: Bloodmaker}}{{ 48}}](#p48)
+      - ###### [{{ Electrum: Pinnacle}}{{ 49}}](#p49)
+    - ##### [{{ Spiritual}}{{ 50}}](#p50)
+      - ###### [{{ Chromium: Spinner}}{{ 50}}](#p50)
+      - ###### [{{ Nicrosil: Soulbearer}}{{ 51}}](#p51)
+      - ###### [{{ Aluminum: Trueself}}{{ 52}}](#p52)
+      - ###### [{{ Duralumin: Connector}}{{ 54}}](#p54)
+    - ##### [{{ God Metals}}{{ 55}}](#p55)
+      - ###### [{{ Other Metals (Feruchemy)}}{{ 55}}](#p55)
+      - ###### [{{ Atium (Feruchemical)}}{{ 56}}](#p56)
+  - #### [{{ Twinborn}}{{ 57}}](#p57)
+  - #### [{{ Compounding}}{{ 58}}](#p58)
 }}
 
 \column
 
 {{toc,contents
-- ### [{{ Species}}{{ 59}}](#p59)
-  - #### [{{ Koloss-blooded}}{{ 60}}](#p60)
-  - #### [{{ Kandra}}{{ 63}}](#p63)
-- ### [{{ Backgrounds}}{{ 67}}](#p67)
-  - #### [{{ Alloyer}}{{ 68}}](#p68)
-  - #### [{{ Hazekiller}}{{ 68}}](#p68)
-  - #### [{{ Crewmember}}{{ 68}}](#p68)
-  - #### [{{ Metal Smuggler}}{{ 68}}](#p68)
-  - #### [{{ Ashworker}}{{ 68}}](#p68)
-- ### [{{ Origin Feats}}{{ 69}}](#p69)
-  - #### [{{ Alloyer (Origin Feat)}}{{ 69}}](#p69)
-  - #### [{{ Hazekiller (Origin Feat)}}{{ 69}}](#p69)
-- ### [{{ Classes}}{{ 70}}](#p70)
-  - #### [{{ Mistborn}}{{ 71}}](#p71)
-  - #### [{{ Feruchemist}}{{ 75}}](#p75)
-  - #### [{{ Hemalurgist}}{{ 81}}](#p81)
-- ### [{{ The Metal Economy}}{{ 90}}](#p90)
-- ### [{{ The Arts and the Weave}}{{ 94}}](#p94)
+- ### [{{ Species}}{{ 60}}](#p60)
+  - #### [{{ Koloss-blooded}}{{ 61}}](#p61)
+  - #### [{{ Kandra}}{{ 64}}](#p64)
+- ### [{{ Backgrounds}}{{ 68}}](#p68)
+  - #### [{{ Alloyer}}{{ 69}}](#p69)
+  - #### [{{ Hazekiller}}{{ 69}}](#p69)
+  - #### [{{ Crewmember}}{{ 69}}](#p69)
+  - #### [{{ Metal Smuggler}}{{ 69}}](#p69)
+  - #### [{{ Ashworker}}{{ 69}}](#p69)
+- ### [{{ Origin Feats}}{{ 70}}](#p70)
+  - #### [{{ Alloyer (Origin Feat)}}{{ 70}}](#p70)
+  - #### [{{ Hazekiller (Origin Feat)}}{{ 70}}](#p70)
+- ### [{{ Classes}}{{ 71}}](#p71)
+  - #### [{{ Mistborn}}{{ 72}}](#p72)
+  - #### [{{ Feruchemist}}{{ 76}}](#p76)
+  - #### [{{ Hemalurgist}}{{ 82}}](#p82)
+- ### [{{ The Metal Economy}}{{ 91}}](#p91)
+- ### [{{ The Arts and the Weave}}{{ 95}}](#p95)
 }}
 
 \page
@@ -341,9 +341,9 @@ An Allomancer burning steel, called a **Coinshot**, can **Push** on nearby metal
 
 While you burn steel, at a base rate of 1 charge per minute, you gain the following abilities.
 
-**Steelsight.** You see translucent blue lines reaching from your chest to every source of metal within 120 feet, and a line's thickness shows the size of the metal it touches. You have advantage on checks made to locate hidden metal.
+**Steelsight.** You see translucent blue lines reaching from your chest to every source of metal within 200 feet, and a line's thickness shows the size of the metal it touches. You have advantage on checks made to locate hidden metal.
 
-**Steelpush.** You have a force pool of 750 Newtons each round, which you may spend on any number of Pushes against metal within 60 feet, using your action, bonus action, and reaction as you choose. When you Push a loose metal object, or a creature wearing or holding metal, you and the target are driven apart from each other in proportion to your weights; refer to **Table C** for how far a target of a given weight is knocked back by a given force. When you Push against anchored metal, or metal far heavier than you such as a wall or a boulder, you are the one launched; refer to **Table B**. A body or object that slams into a hard surface takes damage according to its speed and mass, given in **Table D**, and a creature driven into an obstacle can be knocked prone.
+**Steelpush.** You have a force pool of 750 Newtons each round, which you may spend on any number of Pushes against metal within 120 feet, using your action, bonus action, and reaction as you choose. When you Push a loose metal object, or a creature wearing or holding metal, you and the target are driven apart from each other in proportion to your weights; refer to **Table C** for how far a target of a given weight is knocked back by a given force. When you Push against anchored metal, or metal far heavier than you such as a wall or a boulder, you are the one launched; refer to **Table B**. A body or object that slams into a hard surface takes damage according to its speed and mass, given in **Table D**, and a creature driven into an obstacle can be knocked prone.
 
 ### Flaring
 
@@ -355,11 +355,31 @@ A Push begins at your center of mass, in your chest. When you Push something tha
 
 Your body bears only so much. Your **force tolerance** is **750 N for each point of your Strength modifier**, to a minimum of 750 N. An ordinarily strong Coinshot bears about **1,500 N**, two charges; a powerful one bears more, because bracing a Push is the same act as bracing anything else.
 
-*(Launching yourself off an anchor, Table B, is not bracing. You fly with the force instead of resisting it, and take no self-injury.)*
+#### Launching: the force that throws you
+
+Launching off an anchor is not bracing. Nothing loads through your skeleton, because nothing is stopping you: you go where the force sends you. What can still hurt you is how *hard* you are sent.
+
+A charge is 750 N, and 750 N is about the weight of an average adult, so the arithmetic comes out clean:
+
+> **Your g-load is the charges spent on that single Push, times 170, divided by your weight in pounds.**
+
+A Coinshot learns to take a hard launch, better than an untrained person and nowhere near a pilot strapped into a g-suit. **You can bear 10 g.** Past that you take **1d6 bludgeoning per gravity above 10**, ignoring resistance, and must make a **Constitution saving throw** against DC 10 plus the gravities above 10 or grey out, falling **unconscious until the end of your next turn**, which on the way up is its own kind of problem.
+
+| Your weight | Charges you can put into one launch |
+|---|---|
+| 90 lb | 5 |
+| 120 lb | 7 |
+| 165 lb | 9 |
+| 180 lb | 10 |
+| 250 lb | 14 |
+
+**This is measured for each Push, not for the round.** Ten charges spent as a single shove is 18 g for a small person and kills them in the air; the same ten spent as two Pushes of five is 9 g twice and hurts nobody. This is why a Coinshot taps an anchor again and again rather than emptying their pool into one enormous leap, and why the **120-foot** working range matters: you can keep Pushing only while the anchor is still in reach, which for a hard launch is about a second.
 
 ### Coinshooting
 
 Driving a coin, nail, or bead as a weapon is a ranged Allomantic attack with a range of 60/240 feet. To hit, add your proficiency bonus and your Constitution modifier. On a hit, the target takes piercing damage set by the force behind that coin, given in **Table E**. To fire a volley, divide your force pool among several coins and read each coin's damage from the force you put behind it.
+
+\page
 
 ### Interactions & counterplay
 
@@ -372,8 +392,10 @@ Driving a coin, nail, or bead as a weapon is a ranged Allomantic attack with a r
 
 | | |
 |---|---|
-| **Base burn (1 ch/minute)** | See metal lines within 120 ft; 750 N Push pool against metal within 60 ft |
+| **Base burn (1 ch/minute)** | See metal lines within 200 ft; 750 N Push pool against metal within 120 ft |
 | **Per flare charge** | +750 N to the round's pool, up to your level in charges |
+| **Bracing limit** | 750 N per point of Strength modifier; 1d6 per 750 N over, ignores resistance |
+| **Launch limit** | 10 g, being charges x 170 / your weight in lb; 1d6 per g over, and a Con save or grey out |
 | **Coinshooting** | Ranged attack (proficiency + Con), piercing, 60/240, damage by force (Table E) |
 
 }}
@@ -392,9 +414,9 @@ An Allomancer burning iron, called a **Lurcher**, can **Pull** nearby metal towa
 
 While you burn iron, at a base rate of 1 charge per minute, you gain the following abilities.
 
-**Ironsight.** You see translucent blue lines reaching from your chest to every source of metal within 120 feet, and a line's thickness shows the size of the metal it touches. You have advantage on checks made to locate hidden metal.
+**Ironsight.** You see translucent blue lines reaching from your chest to every source of metal within 200 feet, and a line's thickness shows the size of the metal it touches. You have advantage on checks made to locate hidden metal.
 
-**Ironpull.** You have a force pool of 750 Newtons each round, which you may spend on any number of Pulls against metal within 60 feet, using your action, bonus action, and reaction as you choose. When you Pull a loose metal object, or a creature wearing or holding metal, you and the target are drawn toward each other in proportion to your weights; refer to **Table C** for how far a target of a given weight is dragged by a given force. A metal object held by a creature can be torn from its grasp, contested by the holder's Strength (Athletics) against your Allomancy save DC. When you Pull yourself toward anchored metal, or metal far heavier than you, you are the one hauled through the air; refer to **Table B**. A body or object that slams into a hard surface takes damage according to its speed and mass, given in **Table D**.
+**Ironpull.** You have a force pool of 750 Newtons each round, which you may spend on any number of Pulls against metal within 120 feet, using your action, bonus action, and reaction as you choose. When you Pull a loose metal object, or a creature wearing or holding metal, you and the target are drawn toward each other in proportion to your weights; refer to **Table C** for how far a target of a given weight is dragged by a given force. A metal object held by a creature can be torn from its grasp, contested by the holder's Strength (Athletics) against your Allomancy save DC. When you Pull yourself toward anchored metal, or metal far heavier than you, you are the one hauled through the air; refer to **Table B**. A body or object that slams into a hard surface takes damage according to its speed and mass, given in **Table D**.
 
 ### Flaring
 
@@ -402,7 +424,7 @@ Each extra charge you burn in a round, up to a number equal to your level, adds 
 
 ### The force turns on you
 
-Like a Coinshot, a Lurcher pulls from their own center of mass, so the same danger applies, though it comes up less often. When you Pull something that **will not come** and you **brace** rather than be hauled toward it, the force loads back through your own chest. The rule is the same as a Coinshot's: a **force tolerance** of 750 N for each point of your Strength modifier, and **1d6 bludgeoning per 750 N** beyond it, ignoring resistance. See The force turns on you. In practice a Lurcher more often simply gets pulled toward the anchor (Table B), which is safe, so the injury is rarer than a Coinshot's.
+Like a Coinshot, a Lurcher pulls from their own center of mass, so the same danger applies, though it comes up less often. When you Pull something that **will not come** and you **brace** rather than be hauled toward it, the force loads back through your own chest. The rule is the same as a Coinshot's: a **force tolerance** of 750 N for each point of your Strength modifier, and **1d6 bludgeoning per 750 N** beyond it, ignoring resistance. Hauling *yourself* toward an anchor carries the same **g-load** as a Coinshot's launch, and the same 10 g ceiling. See The force turns on you. In practice a Lurcher more often simply gets pulled toward the anchor (Table B), which is safe, so the injury is rarer than a Coinshot's.
 
 ### Signature uses
 
@@ -422,7 +444,7 @@ Like a Coinshot, a Lurcher pulls from their own center of mass, so the same dang
 
 | | |
 |---|---|
-| **Base burn (1 ch/minute)** | See metal lines within 120 ft; 750 N Pull pool against metal within 60 ft |
+| **Base burn (1 ch/minute)** | See metal lines within 200 ft; 750 N Pull pool against metal within 120 ft |
 | **Per flare charge** | +750 N to the round's pool, up to your level in charges |
 | **Signature uses** | Disarm a foe, grapnel to an anchor (Table B), drive a projectile (Table E) |
 
