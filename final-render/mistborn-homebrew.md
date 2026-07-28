@@ -196,80 +196,80 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
 - ### [{{ Bloodlines}}{{ 3}}](#p3)
   - #### [{{ Mistings}}{{ 4}}](#p4)
     - ##### [{{ Physical}}{{ 5}}](#p5)
-      - ###### [{{ Steel: Coinshot}}{{ 5}}](#p5)
-      - ###### [{{ Iron: Lurcher}}{{ 6}}](#p6)
-      - ###### [{{ Tin: Tineye}}{{ 8}}](#p8)
-      - ###### [{{ Pewter: Thug (Pewterarm)}}{{ 9}}](#p9)
-    - ##### [{{ Mental}}{{ 10}}](#p10)
-      - ###### [{{ Zinc: Rioter}}{{ 10}}](#p10)
-      - ###### [{{ Brass: Soother}}{{ 11}}](#p11)
-      - ###### [{{ Copper: Smoker}}{{ 12}}](#p12)
-      - ###### [{{ Bronze: Seeker}}{{ 13}}](#p13)
-    - ##### [{{ Enhancement}}{{ 14}}](#p14)
-      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 14}}](#p14)
-      - ###### [{{ Duralumin: Duralumin Gnat}}{{ 15}}](#p15)
-      - ###### [{{ Chromium: Leecher}}{{ 17}}](#p17)
-      - ###### [{{ Nicrosil: Nicroburst}}{{ 18}}](#p18)
-    - ##### [{{ Temporal}}{{ 19}}](#p19)
-      - ###### [{{ Gold: Augur}}{{ 19}}](#p19)
-      - ###### [{{ Electrum: Oracle}}{{ 20}}](#p20)
-      - ###### [{{ Cadmium: Pulser}}{{ 21}}](#p21)
-      - ###### [{{ Bendalloy: Slider}}{{ 22}}](#p22)
-    - ##### [{{ God Metals}}{{ 23}}](#p23)
-      - ###### [{{ Other Metals}}{{ 23}}](#p23)
-      - ###### [{{ Atium: Seer}}{{ 24}}](#p24)
-      - ###### [{{ Malatium: the Eleventh Metal}}{{ 25}}](#p25)
-      - ###### [{{ Lerasium}}{{ 26}}](#p26)
-  - #### [{{ Savants}}{{ 27}}](#p27)
-  - #### [{{ Ferrings}}{{ 30}}](#p30)
-    - ##### [{{ Physical}}{{ 33}}](#p33)
-      - ###### [{{ Iron: Skimmer}}{{ 33}}](#p33)
-      - ###### [{{ Steel: Steelrunner}}{{ 34}}](#p34)
-      - ###### [{{ Tin: Windwhisperer}}{{ 35}}](#p35)
-      - ###### [{{ Pewter: Brute}}{{ 36}}](#p36)
-    - ##### [{{ Cognitive}}{{ 37}}](#p37)
-      - ###### [{{ Zinc: Sparker}}{{ 37}}](#p37)
-      - ###### [{{ Brass: Firesoul}}{{ 38}}](#p38)
-      - ###### [{{ Copper: Archivist}}{{ 40}}](#p40)
-      - ###### [{{ Bronze: Sentry}}{{ 41}}](#p41)
-    - ##### [{{ Hybrid}}{{ 42}}](#p42)
-      - ###### [{{ Cadmium: Gasper}}{{ 42}}](#p42)
-      - ###### [{{ Bendalloy: Subsumer}}{{ 43}}](#p43)
-      - ###### [{{ Gold: Bloodmaker}}{{ 44}}](#p44)
-      - ###### [{{ Electrum: Pinnacle}}{{ 45}}](#p45)
-    - ##### [{{ Spiritual}}{{ 46}}](#p46)
-      - ###### [{{ Chromium: Spinner}}{{ 46}}](#p46)
-      - ###### [{{ Nicrosil: Soulbearer}}{{ 47}}](#p47)
-      - ###### [{{ Aluminum: Trueself}}{{ 48}}](#p48)
-      - ###### [{{ Duralumin: Connector}}{{ 49}}](#p49)
-    - ##### [{{ God Metals}}{{ 50}}](#p50)
-      - ###### [{{ Other Metals (Feruchemy)}}{{ 50}}](#p50)
-      - ###### [{{ Atium (Feruchemical)}}{{ 51}}](#p51)
-  - #### [{{ Twinborn}}{{ 52}}](#p52)
-  - #### [{{ Compounding}}{{ 53}}](#p53)
+      - ###### [{{ Steel: Coinshot}}{{ 6}}](#p6)
+      - ###### [{{ Iron: Lurcher}}{{ 7}}](#p7)
+      - ###### [{{ Tin: Tineye}}{{ 9}}](#p9)
+      - ###### [{{ Pewter: Thug (Pewterarm)}}{{ 10}}](#p10)
+    - ##### [{{ Mental}}{{ 11}}](#p11)
+      - ###### [{{ Zinc: Rioter}}{{ 11}}](#p11)
+      - ###### [{{ Brass: Soother}}{{ 12}}](#p12)
+      - ###### [{{ Copper: Smoker}}{{ 13}}](#p13)
+      - ###### [{{ Bronze: Seeker}}{{ 14}}](#p14)
+    - ##### [{{ Enhancement}}{{ 15}}](#p15)
+      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 15}}](#p15)
+      - ###### [{{ Duralumin: Duralumin Gnat}}{{ 16}}](#p16)
+      - ###### [{{ Chromium: Leecher}}{{ 19}}](#p19)
+      - ###### [{{ Nicrosil: Nicroburst}}{{ 20}}](#p20)
+    - ##### [{{ Temporal}}{{ 21}}](#p21)
+      - ###### [{{ Gold: Augur}}{{ 21}}](#p21)
+      - ###### [{{ Electrum: Oracle}}{{ 22}}](#p22)
+      - ###### [{{ Cadmium: Pulser}}{{ 23}}](#p23)
+      - ###### [{{ Bendalloy: Slider}}{{ 24}}](#p24)
+    - ##### [{{ God Metals}}{{ 25}}](#p25)
+      - ###### [{{ Other Metals}}{{ 25}}](#p25)
+      - ###### [{{ Atium: Seer}}{{ 26}}](#p26)
+      - ###### [{{ Malatium: the Eleventh Metal}}{{ 27}}](#p27)
+      - ###### [{{ Lerasium}}{{ 28}}](#p28)
+  - #### [{{ Savants}}{{ 29}}](#p29)
+  - #### [{{ Ferrings}}{{ 32}}](#p32)
+    - ##### [{{ Physical}}{{ 35}}](#p35)
+      - ###### [{{ Iron: Skimmer}}{{ 35}}](#p35)
+      - ###### [{{ Steel: Steelrunner}}{{ 36}}](#p36)
+      - ###### [{{ Tin: Windwhisperer}}{{ 37}}](#p37)
+      - ###### [{{ Pewter: Brute}}{{ 38}}](#p38)
+    - ##### [{{ Cognitive}}{{ 39}}](#p39)
+      - ###### [{{ Zinc: Sparker}}{{ 39}}](#p39)
+      - ###### [{{ Brass: Firesoul}}{{ 40}}](#p40)
+      - ###### [{{ Copper: Archivist}}{{ 42}}](#p42)
+      - ###### [{{ Bronze: Sentry}}{{ 43}}](#p43)
+    - ##### [{{ Hybrid}}{{ 44}}](#p44)
+      - ###### [{{ Cadmium: Gasper}}{{ 44}}](#p44)
+      - ###### [{{ Bendalloy: Subsumer}}{{ 45}}](#p45)
+      - ###### [{{ Gold: Bloodmaker}}{{ 46}}](#p46)
+      - ###### [{{ Electrum: Pinnacle}}{{ 47}}](#p47)
+    - ##### [{{ Spiritual}}{{ 48}}](#p48)
+      - ###### [{{ Chromium: Spinner}}{{ 48}}](#p48)
+      - ###### [{{ Nicrosil: Soulbearer}}{{ 49}}](#p49)
+      - ###### [{{ Aluminum: Trueself}}{{ 50}}](#p50)
+      - ###### [{{ Duralumin: Connector}}{{ 51}}](#p51)
+    - ##### [{{ God Metals}}{{ 52}}](#p52)
+      - ###### [{{ Other Metals (Feruchemy)}}{{ 52}}](#p52)
+      - ###### [{{ Atium (Feruchemical)}}{{ 53}}](#p53)
+  - #### [{{ Twinborn}}{{ 54}}](#p54)
+  - #### [{{ Compounding}}{{ 55}}](#p55)
 }}
 
 \column
 
 {{toc,contents
-- ### [{{ Species}}{{ 55}}](#p55)
-  - #### [{{ Koloss-blooded}}{{ 56}}](#p56)
-  - #### [{{ Kandra}}{{ 59}}](#p59)
-- ### [{{ Backgrounds}}{{ 63}}](#p63)
-  - #### [{{ Alloyer}}{{ 64}}](#p64)
-  - #### [{{ Hazekiller}}{{ 64}}](#p64)
-  - #### [{{ Crewmember}}{{ 64}}](#p64)
-  - #### [{{ Metal Smuggler}}{{ 64}}](#p64)
-  - #### [{{ Ashworker}}{{ 64}}](#p64)
-- ### [{{ Origin Feats}}{{ 65}}](#p65)
-  - #### [{{ Alloyer (Origin Feat)}}{{ 65}}](#p65)
-  - #### [{{ Hazekiller (Origin Feat)}}{{ 65}}](#p65)
-- ### [{{ Classes}}{{ 66}}](#p66)
-  - #### [{{ Mistborn}}{{ 67}}](#p67)
-  - #### [{{ Feruchemist}}{{ 71}}](#p71)
-  - #### [{{ Hemalurgist}}{{ 77}}](#p77)
-- ### [{{ The Metal Economy}}{{ 85}}](#p85)
-- ### [{{ The Arts and the Weave}}{{ 89}}](#p89)
+- ### [{{ Species}}{{ 57}}](#p57)
+  - #### [{{ Koloss-blooded}}{{ 58}}](#p58)
+  - #### [{{ Kandra}}{{ 61}}](#p61)
+- ### [{{ Backgrounds}}{{ 65}}](#p65)
+  - #### [{{ Alloyer}}{{ 66}}](#p66)
+  - #### [{{ Hazekiller}}{{ 66}}](#p66)
+  - #### [{{ Crewmember}}{{ 66}}](#p66)
+  - #### [{{ Metal Smuggler}}{{ 66}}](#p66)
+  - #### [{{ Ashworker}}{{ 66}}](#p66)
+- ### [{{ Origin Feats}}{{ 67}}](#p67)
+  - #### [{{ Alloyer (Origin Feat)}}{{ 67}}](#p67)
+  - #### [{{ Hazekiller (Origin Feat)}}{{ 67}}](#p67)
+- ### [{{ Classes}}{{ 68}}](#p68)
+  - #### [{{ Mistborn}}{{ 69}}](#p69)
+  - #### [{{ Feruchemist}}{{ 73}}](#p73)
+  - #### [{{ Hemalurgist}}{{ 79}}](#p79)
+- ### [{{ The Metal Economy}}{{ 87}}](#p87)
+- ### [{{ The Arts and the Weave}}{{ 91}}](#p91)
 }}
 
 \page
@@ -327,7 +327,7 @@ A Misting begins play with **1d6 grams** of their metal, as small beads or a via
 
 The Physical quadrant acts on matter and on the body that moves through it. Outward, steel and iron **Push** and **Pull** on nearby metal, turning coins into shrapnel and a window grate into a handhold. Inward, tin and pewter sharpen the Allomancer instead of the world, opening the senses or driving the body past what it should survive. These are the plainest of the sixteen and the ones a table will reach for most: a Coinshot solves a problem by moving something, a Thug by outlasting it.
 
-::::
+\page
 
 ## Steel: Coinshot
 
@@ -980,6 +980,7 @@ For the Allomantic detonation, a single charge is enough; it already burns *ever
 - **At the surge tier**, or as a duralumin savant (who ignores the cap), you can burst even a **powerful external Investiture** (up to a 9th-level or legendary effect), wringing a single overwhelming moment from a source that would normally release its power slowly.
 - As with the Allomantic burst, whatever you detonate is **spent** by it; a tap or a fed spell slot burst this way is consumed at once.
 
+\page
 ### Interactions & counterplay
 
 - Duralumin detonates **your own** power. To force the same burst on another Allomancer, see Nicrosil (Nicroburst).
@@ -1493,6 +1494,7 @@ A savant's power is inseparable from its cost. **Whenever you are a savant of a 
 
 A savant is therefore never truly free of the metals they have fused with. The greatest Allomancers in the histories were also, quietly, the most tethered, though some metals bind more gently than others.
 
+\page
 ### Becoming a savant
 
 There are two roads to savancy.
@@ -1506,8 +1508,6 @@ Available to **any** Allomancer, Misting or Mistborn. You become a savant of a m
  - A metal you **leave lit** through your waking hours reaches 5 kg in roughly **a year** (tin), or **half a year** for a cheaper-burning one (bronze, copper). This is why Seekers become bronze savants almost by accident.
  - A metal you burn only in **bursts** (pewter in a fight, steel for a jump) accrues far more slowly in practice, so its savants are rare. Most Thugs die on the battlefield long before they burn five kilograms of pewter.
  - An **instant enhancement metal** (aluminum, chromium, duralumin, nicrosil) accrues a gram only across thousands of individual burns; its savants are the rarest of all, barely attested, exactly as the histories suggest.
-\page
-
 - **Flaring accelerates it.** The histories say savants are made by long, sustained *flaring*, and the gram meter captures that on its own: flaring spends charges several times faster than base burn, so it eats through metal faster. An Allomancer who habitually flares reaches five kilograms far sooner than one who merely simmers.
 - A Mistborn may take this road only for a metal they have **mastered** (an unmastered metal is burned too poorly to fuse with).
 
@@ -2202,8 +2202,6 @@ Tapping draws a memory back out and into your mind, where you experience it with
 ### Index copperminds
 
 Because a stored memory leaves no trace of itself, a working Archivist keeps an **index**: one coppermind holding the memory of what is in all the others. Losing your index is the particular nightmare, since you are left holding a fistful of rings and no idea what any of them contain, without withdrawing each memory again.
-
-\column
 
 ### Limits
 
