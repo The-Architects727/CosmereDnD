@@ -353,9 +353,9 @@ Each extra charge you burn in a round, up to a number equal to your level, adds 
 
 A Push begins at your center of mass, in your chest. When you Push something that **gives way**, a coin, a loose object, a foe lighter than you, the force sends it flying and you are unharmed. But when you Push something that **will not move**, an anchored wall, a boulder, a creature far heavier than you, and you **brace** yourself rather than let it launch you, the force has nowhere to go but back through your own skeleton, pressing on your sternum.
 
-Your body bears only so much. Your **force tolerance** is about **1,500 N**, roughly two charges.
+Your body bears only so much. Your **force tolerance** is **750 N for each point of your Strength modifier**, to a minimum of 750 N. An ordinarily strong Coinshot bears about **1,500 N**, two charges; a powerful one bears more, because bracing a Push is the same act as bracing anything else.
 
-**Pewter is the answer.** While you burn pewter, your body's durability rises and your force tolerance **doubles**, climbing further as you flare. This is why the great Coinshots are so often pewter-burners too: without a reinforced body, there is a hard ceiling on how hard you dare Push. *(Launching yourself off an anchor, Table B, is not bracing; you fly with the force instead of resisting it, and take no self-injury.)*
+*(Launching yourself off an anchor, Table B, is not bracing. You fly with the force instead of resisting it, and take no self-injury.)*
 
 ### Coinshooting
 
@@ -402,7 +402,7 @@ Each extra charge you burn in a round, up to a number equal to your level, adds 
 
 ### The force turns on you
 
-Like a Coinshot, a Lurcher pulls from their own center of mass, so the same danger applies, though it comes up less often. When you Pull something that **will not come** and you **brace** rather than be hauled toward it, the force loads back through your own chest. The rule is the same as a Coinshot's: a **force tolerance** of about **1,500 N** (two charges), and **1d6 bludgeoning per 750 N** beyond it, ignoring resistance, unless you burn pewter to reinforce your body. See The force turns on you. In practice a Lurcher more often simply gets pulled toward the anchor (Table B), which is safe, so the injury is rarer than a Coinshot's.
+Like a Coinshot, a Lurcher pulls from their own center of mass, so the same danger applies, though it comes up less often. When you Pull something that **will not come** and you **brace** rather than be hauled toward it, the force loads back through your own chest. The rule is the same as a Coinshot's: a **force tolerance** of 750 N for each point of your Strength modifier, and **1d6 bludgeoning per 750 N** beyond it, ignoring resistance. See The force turns on you. In practice a Lurcher more often simply gets pulled toward the anchor (Table B), which is safe, so the injury is rarer than a Coinshot's.
 
 ### Signature uses
 
