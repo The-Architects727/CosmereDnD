@@ -65,43 +65,26 @@ It is no longer needed for art kept in this folder.
 
 ## Every slot
 
+**Ten slots, down from thirty-three.** Art depicting people has been set aside
+for now at the author's request, and a further eight slots were dropped as
+sitting in the way of the text rather than beside it. What remains is the three
+charts and seven diagrams and still lifes. Nothing here is decorative; each one
+carries information the prose would otherwise have to spell out.
+
 Filenames take any of `.png`, `.jpg`, `.jpeg`, `.webp`, `.gif`.
 
 | Slot id (filename) | Aspect | Suggested pixels | Format | Occupies | Status |
 |---|---|---|---|---|---|
-| `cover-front` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines | to draw |
-| `cover-part1` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines | to draw |
 | `bloodlines-vial` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
 | `chart-allomancy` | **2.00 : 1** | 2400 x 1200 | SVG | wide, ~22 lines | **supplied** |
-| `force-diagram` | **1.33 : 1** | 960 x 720 | PNG | column, ~15 lines | to draw |
-| `metal-tin` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
-| `metal-pewter` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
-| `metal-copper` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
-| `metal-bendalloy` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
 | `godmetals-atium` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
-| `savant-tin` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
 | `ferrings-bracers` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
 | `chart-feruchemy` | **2.00 : 1** | 2400 x 1200 | SVG | wide, ~22 lines | **supplied** |
-| `metal-gold-feru` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
-| `metal-aluminum-feru` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
-| `twinborn-emblem` | **1.00 : 1** | 900 x 900 | PNG | column, ~20 lines | to draw |
-| `compounding-ring` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
-| `cover-part2` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines | to draw |
 | `koloss-growth` | **2.50 : 1** | 2400 x 960 | PNG | wide, ~17 lines | to draw |
-| `kandra-forming` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
-| `cover-part3` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines | to draw |
-| `background-hazekiller` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
-| `cover-part4` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines | to draw |
-| `class-mistborn` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
-| `class-feruchemist` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
-| `class-hemalurgist` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
 | `chart-hemalurgy` | **2.00 : 1** | 2400 x 1200 | SVG | wide, ~22 lines | **supplied** |
 | `hema-bindpoints` | **0.77 : 1** | 2550 x 3300 | PNG | full, ~56 lines | to draw |
-| `hema-inquisitor` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
 | `hema-chimera` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
-| `cover-part5` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines | to draw |
 | `economy-forms` | **1.33 : 1** | 960 x 720 | JPEG | column, ~15 lines | to draw |
-| `cover-appendix` | **0.77 : 1** | 2550 x 3300 | JPEG | full, ~56 lines | to draw |
 
 ---
 
