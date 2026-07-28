@@ -182,13 +182,6 @@
 # Mistborn
 ## A Metallic Arts Expansion for Fifth Edition
 
-{{imgph imgphWide,style=min-height:64em
-<!--h:112-->
-**[ART: cover-front]** *Cover. A Mistborn on a rooftop in falling ash, mistcloak streaming, faint blue metal lines radiating from the chest.*
-
-**FULL** not supplied | ratio 0.77:1
-}}
-
 {{banner HOMEBREW}}
 
 {{footnote
@@ -201,82 +194,82 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
 }}
 {{toc,contents
 - ### [{{ Bloodlines}}{{ 3}}](#p3)
-  - #### [{{ Mistings}}{{ 5}}](#p5)
+  - #### [{{ Mistings}}{{ 4}}](#p4)
     - ##### [{{ Physical}}{{ 5}}](#p5)
       - ###### [{{ Steel: Coinshot}}{{ 5}}](#p5)
       - ###### [{{ Iron: Lurcher}}{{ 7}}](#p7)
       - ###### [{{ Tin: Tineye}}{{ 10}}](#p10)
       - ###### [{{ Pewter: Thug (Pewterarm)}}{{ 11}}](#p11)
-    - ##### [{{ Mental}}{{ 13}}](#p13)
-      - ###### [{{ Zinc: Rioter}}{{ 13}}](#p13)
+    - ##### [{{ Mental}}{{ 12}}](#p12)
+      - ###### [{{ Zinc: Rioter}}{{ 12}}](#p12)
       - ###### [{{ Brass: Soother}}{{ 14}}](#p14)
       - ###### [{{ Copper: Smoker}}{{ 15}}](#p15)
       - ###### [{{ Bronze: Seeker}}{{ 16}}](#p16)
     - ##### [{{ Enhancement}}{{ 17}}](#p17)
       - ###### [{{ Aluminum: Aluminum Gnat}}{{ 17}}](#p17)
       - ###### [{{ Duralumin: Duralumin Gnat}}{{ 19}}](#p19)
-      - ###### [{{ Chromium: Leecher}}{{ 20}}](#p20)
-      - ###### [{{ Nicrosil: Nicroburst}}{{ 21}}](#p21)
-    - ##### [{{ Temporal}}{{ 22}}](#p22)
-      - ###### [{{ Gold: Augur}}{{ 22}}](#p22)
-      - ###### [{{ Electrum: Oracle}}{{ 23}}](#p23)
-      - ###### [{{ Cadmium: Pulser}}{{ 24}}](#p24)
-      - ###### [{{ Bendalloy: Slider}}{{ 25}}](#p25)
-    - ##### [{{ God Metals}}{{ 26}}](#p26)
-      - ###### [{{ Other Metals}}{{ 26}}](#p26)
-      - ###### [{{ Atium: Seer}}{{ 27}}](#p27)
-      - ###### [{{ Malatium: the Eleventh Metal}}{{ 28}}](#p28)
-      - ###### [{{ Lerasium}}{{ 29}}](#p29)
-  - #### [{{ Savants}}{{ 30}}](#p30)
-  - #### [{{ Ferrings}}{{ 36}}](#p36)
-    - ##### [{{ Physical}}{{ 36}}](#p36)
-      - ###### [{{ Iron: Skimmer}}{{ 36}}](#p36)
-      - ###### [{{ Steel: Steelrunner}}{{ 38}}](#p38)
-      - ###### [{{ Tin: Windwhisperer}}{{ 39}}](#p39)
-      - ###### [{{ Pewter: Brute}}{{ 40}}](#p40)
-    - ##### [{{ Cognitive}}{{ 41}}](#p41)
-      - ###### [{{ Zinc: Sparker}}{{ 41}}](#p41)
-      - ###### [{{ Brass: Firesoul}}{{ 42}}](#p42)
-      - ###### [{{ Copper: Archivist}}{{ 44}}](#p44)
-      - ###### [{{ Bronze: Sentry}}{{ 46}}](#p46)
-    - ##### [{{ Hybrid}}{{ 47}}](#p47)
-      - ###### [{{ Cadmium: Gasper}}{{ 47}}](#p47)
-      - ###### [{{ Bendalloy: Subsumer}}{{ 48}}](#p48)
-      - ###### [{{ Gold: Bloodmaker}}{{ 49}}](#p49)
-      - ###### [{{ Electrum: Pinnacle}}{{ 51}}](#p51)
-    - ##### [{{ Spiritual}}{{ 52}}](#p52)
-      - ###### [{{ Chromium: Spinner}}{{ 52}}](#p52)
-      - ###### [{{ Nicrosil: Soulbearer}}{{ 53}}](#p53)
-      - ###### [{{ Aluminum: Trueself}}{{ 54}}](#p54)
-      - ###### [{{ Duralumin: Connector}}{{ 55}}](#p55)
-    - ##### [{{ God Metals}}{{ 56}}](#p56)
-      - ###### [{{ Other Metals (Feruchemy)}}{{ 56}}](#p56)
-      - ###### [{{ Atium (Feruchemical)}}{{ 57}}](#p57)
-  - #### [{{ Twinborn}}{{ 58}}](#p58)
-  - #### [{{ Compounding}}{{ 60}}](#p60)
+      - ###### [{{ Chromium: Leecher}}{{ 21}}](#p21)
+      - ###### [{{ Nicrosil: Nicroburst}}{{ 22}}](#p22)
+    - ##### [{{ Temporal}}{{ 23}}](#p23)
+      - ###### [{{ Gold: Augur}}{{ 23}}](#p23)
+      - ###### [{{ Electrum: Oracle}}{{ 25}}](#p25)
+      - ###### [{{ Cadmium: Pulser}}{{ 26}}](#p26)
+      - ###### [{{ Bendalloy: Slider}}{{ 27}}](#p27)
+    - ##### [{{ God Metals}}{{ 29}}](#p29)
+      - ###### [{{ Other Metals}}{{ 29}}](#p29)
+      - ###### [{{ Atium: Seer}}{{ 31}}](#p31)
+      - ###### [{{ Malatium: the Eleventh Metal}}{{ 32}}](#p32)
+      - ###### [{{ Lerasium}}{{ 33}}](#p33)
+  - #### [{{ Savants}}{{ 34}}](#p34)
+  - #### [{{ Ferrings}}{{ 40}}](#p40)
+    - ##### [{{ Physical}}{{ 41}}](#p41)
+      - ###### [{{ Iron: Skimmer}}{{ 41}}](#p41)
+      - ###### [{{ Steel: Steelrunner}}{{ 43}}](#p43)
+      - ###### [{{ Tin: Windwhisperer}}{{ 44}}](#p44)
+      - ###### [{{ Pewter: Brute}}{{ 45}}](#p45)
+    - ##### [{{ Cognitive}}{{ 46}}](#p46)
+      - ###### [{{ Zinc: Sparker}}{{ 46}}](#p46)
+      - ###### [{{ Brass: Firesoul}}{{ 47}}](#p47)
+      - ###### [{{ Copper: Archivist}}{{ 49}}](#p49)
+      - ###### [{{ Bronze: Sentry}}{{ 51}}](#p51)
+    - ##### [{{ Hybrid}}{{ 52}}](#p52)
+      - ###### [{{ Cadmium: Gasper}}{{ 52}}](#p52)
+      - ###### [{{ Bendalloy: Subsumer}}{{ 53}}](#p53)
+      - ###### [{{ Gold: Bloodmaker}}{{ 54}}](#p54)
+      - ###### [{{ Electrum: Pinnacle}}{{ 56}}](#p56)
+    - ##### [{{ Spiritual}}{{ 57}}](#p57)
+      - ###### [{{ Chromium: Spinner}}{{ 57}}](#p57)
+      - ###### [{{ Nicrosil: Soulbearer}}{{ 58}}](#p58)
+      - ###### [{{ Aluminum: Trueself}}{{ 59}}](#p59)
+      - ###### [{{ Duralumin: Connector}}{{ 61}}](#p61)
+    - ##### [{{ God Metals}}{{ 62}}](#p62)
+      - ###### [{{ Other Metals (Feruchemy)}}{{ 62}}](#p62)
+      - ###### [{{ Atium (Feruchemical)}}{{ 63}}](#p63)
+  - #### [{{ Twinborn}}{{ 64}}](#p64)
+  - #### [{{ Compounding}}{{ 65}}](#p65)
 }}
 
 \column
 
 {{toc,contents
-- ### [{{ Species}}{{ 62}}](#p62)
-  - #### [{{ Koloss-blooded}}{{ 63}}](#p63)
-  - #### [{{ Kandra}}{{ 66}}](#p66)
-- ### [{{ Backgrounds}}{{ 70}}](#p70)
-  - #### [{{ Alloyer}}{{ 71}}](#p71)
-  - #### [{{ Hazekiller}}{{ 71}}](#p71)
-  - #### [{{ Crewmember}}{{ 71}}](#p71)
-  - #### [{{ Metal Smuggler}}{{ 71}}](#p71)
-  - #### [{{ Ashworker}}{{ 72}}](#p72)
-- ### [{{ Origin Feats}}{{ 72}}](#p72)
-  - #### [{{ Alloyer (Origin Feat)}}{{ 72}}](#p72)
-  - #### [{{ Hazekiller (Origin Feat)}}{{ 72}}](#p72)
-- ### [{{ Classes}}{{ 73}}](#p73)
-  - #### [{{ Mistborn}}{{ 74}}](#p74)
-  - #### [{{ Feruchemist}}{{ 78}}](#p78)
-  - #### [{{ Hemalurgist}}{{ 84}}](#p84)
-- ### [{{ The Metal Economy}}{{ 93}}](#p93)
-- ### [{{ The Arts and the Weave}}{{ 97}}](#p97)
+- ### [{{ Species}}{{ 67}}](#p67)
+  - #### [{{ Koloss-blooded}}{{ 68}}](#p68)
+  - #### [{{ Kandra}}{{ 72}}](#p72)
+- ### [{{ Backgrounds}}{{ 76}}](#p76)
+  - #### [{{ Alloyer}}{{ 77}}](#p77)
+  - #### [{{ Hazekiller}}{{ 77}}](#p77)
+  - #### [{{ Crewmember}}{{ 77}}](#p77)
+  - #### [{{ Metal Smuggler}}{{ 77}}](#p77)
+  - #### [{{ Ashworker}}{{ 78}}](#p78)
+- ### [{{ Origin Feats}}{{ 79}}](#p79)
+  - #### [{{ Alloyer (Origin Feat)}}{{ 79}}](#p79)
+  - #### [{{ Hazekiller (Origin Feat)}}{{ 79}}](#p79)
+- ### [{{ Classes}}{{ 80}}](#p80)
+  - #### [{{ Mistborn}}{{ 81}}](#p81)
+  - #### [{{ Feruchemist}}{{ 85}}](#p85)
+  - #### [{{ Hemalurgist}}{{ 92}}](#p92)
+- ### [{{ The Metal Economy}}{{ 102}}](#p102)
+- ### [{{ The Arts and the Weave}}{{ 108}}](#p108)
 }}
 
 \page
@@ -284,13 +277,6 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
 
 # Part 1
 ## Bloodlines
-
-{{imgph imgphWide,style=min-height:64em
-<!--h:112-->
-**[ART: cover-part1]** *Part 1 cover. A Mistborn mid-Push seen from below, coins scattering, ash falling upward past them.*
-
-**FULL** not supplied | ratio 0.77:1
-}}
 
 \page
 ## Misting Bloodlines
@@ -325,57 +311,22 @@ You may ingest as much metal as reasonably fits, a generous soft limit with no f
 
 A Misting begins play with **1d6 grams** of their metal, as small beads or a vial of flakes, and the knowledge of how to burn it.
 
-### The metals
-
-**Physical**
-
-- steel, the **Coinshot** (External Push)
-- iron, the **Lurcher** (External Pull)
-- tin, the **Tineye** (Internal Pull, senses)
-- pewter, the **Thug** or **Pewterarm** (Internal Push, body)
-
-**Mental**
-
-- zinc, the **Rioter** (External Pull, inflames emotion)
-- brass, the **Soother** (External Push, dampens emotion)
-- copper, the **Smoker** (Internal Pull, coppercloud)
-- bronze, the **Seeker** (Internal Push, senses magic)
-
-**Enhancement**
-
-- aluminum, the **Aluminum Gnat** (Internal Pull, wipes own reserves)
-- duralumin, the **Duralumin Gnat** (Internal Push, detonates own metals)
-- chromium, the **Leecher** (External Pull, wipes another's reserves)
-- nicrosil, the **Nicroburst** (External Push, detonates another's metals)
-
-**Temporal**
-
-- gold, the **Augur** (Internal Pull, alternate-past vision)
-- electrum, the **Oracle** (Internal Push, own near future)
-- cadmium, the **Pulser** (External Pull, slowbubble)
-- bendalloy, the **Slider** (External Push, speedbubble)
-
-**Other metals** (not chosen at creation; DM-gated)
-
-- other metals, the category overview, including harmonium and trellium as setting material
-- atium, the **Seer** (see everyone's near future)
-- malatium, the **Eleventh Metal** (see another's alternate past)
-- lerasium, a legendary reward that makes a Mistborn
-
-\page
-
-## The Mistings
+## The Allomantic Metals
 
 {{wide
 <!--h:44-->
 ![chart-allomancy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-allomancy.svg){width:100%}
 }}
 
+\page
+
 ### Physical
 
 *Four metals for the world you can put your hands on.*
 
 The Physical quadrant acts on matter and on the body that moves through it. Outward, steel and iron **Push** and **Pull** on nearby metal, turning coins into shrapnel and a window grate into a handhold. Inward, tin and pewter sharpen the Allomancer instead of the world, opening the senses or driving the body past what it should survive. These are the plainest of the sixteen and the ones a table will reach for most: a Coinshot solves a problem by moving something, a Thug by outlasting it.
+
+\column
 
 ## Steel: Coinshot
 
@@ -397,11 +348,10 @@ While you burn steel, at a base rate of 1 charge per minute, you gain the follow
 
 Each extra charge you burn in a round, up to a number equal to your level, adds 750 Newtons to your force pool for that round. This added force must be spent that same round or it is lost. Greater force means farther launches and knockbacks and heavier things moved; read the higher force columns of Tables B and C.
 
-\page
-
 ### The force turns on you
 
 A Push begins at your center of mass, in your chest. When you Push something that **gives way**, a coin, a loose object, a foe lighter than you, the force sends it flying and you are unharmed. But when you Push something that **will not move**, an anchored wall, a boulder, a creature far heavier than you, and you **brace** yourself rather than let it launch you, the force has nowhere to go but back through your own skeleton, pressing on your sternum.
+\page
 
 Your body bears only so much. Your **force tolerance** is about **1,500 N**, roughly two charges.
 
@@ -483,13 +433,6 @@ Like a Coinshot, a Lurcher pulls from their own center of mass, so the same dang
 
 These tables serve both Steel and Iron. Read weight against charges; there is no math at the table.
 
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: force-diagram]** *A figure diagram contrasting bracing against launching, showing where the force loads on the sternum.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
-
 ## Steel & Iron Force & Damage Lookup Tables
 
 Table-driven knockback, launch, and damage for Steelpushing and Ironpulling. No arbitrary caps; everything is simulated physics, pre-baked so you just read a value.
@@ -555,8 +498,6 @@ Damage from a body or sizeable object slammed into a hard surface, tied to impac
 
 Round the die count to the nearest whole die in play. Read an object's speed from Table B or C, then its damage here.
 
-\page
-
 {{tableGroup
 
 ### Table E. Driven coin or projectile damage (by force)
@@ -578,6 +519,8 @@ A Steelpushed coin, nail, or spike acts like a fired round; its lethality is the
 | each +5,000 N above | +1d10 | |
 
 }}
+
+\page
 
 To hit, add your **proficiency bonus + Constitution modifier**; damage is **piercing**; range **60/240 ft**. Split your force pool across several coins to fire a volley, reading each coin's damage from the force you put behind it. An aluminum coin cannot be driven. Optional: at 4,500 N (9mm) or higher, a coin ignores the AC bonus of nonmagical armor.
 
@@ -623,13 +566,6 @@ Heightened senses cut both ways. While you burn tin, a sudden bright light or lo
 - **Success.** You shrug it off but have disadvantage on Perception checks until the end of your next turn.
 
 A Tineye can snuff their tin as a free reaction to brace against an anticipated flash, though the sudden dulling of their senses is disorienting.
-
-### Savant
-
-A tin savant (about 5 kg of tin burned over a lifetime, or a Mistborn's class feature) has fused with the metal. Beyond the shared savant package (uncapped flare, doubled efficiency, the Dependency), the fusion reshapes their senses:
-
-- **Ordinary light blinds them.** A tin savant burning tin treats normal daylight as the *Sensory Overload* trigger against sight, which is why the famous ones go **veiled and gloved by day**. In exchange, their hearing and touch grow so acute that they can fight and move **half-blind without penalty**, and can **anticipate attacks** almost as a Seer reads atium: while burning tin, attackers you can hear and feel do not gain advantage from being unseen, and the DM may grant you a read on an incoming blow.
-- **The Dependency is severe.** Cut off from tin, the savant's raw senses feel muffled and wrong (disadvantage on Perception checks and Dexterity saves until they burn again); oddly, their untethered nerves also **dull their sense of pain**.
 
 ### Interactions & counterplay
 
@@ -684,10 +620,6 @@ Pewter lets you keep fighting through wounds that would fell anyone else, at a p
 - Stored drag does nothing to you while you keep burning pewter. Damage beyond your drag capacity is taken as normal.
 - While you have pewter to burn, Hit Dice spent on a short rest restore the maximum, and you have advantage on death saving throws.
 
-### Savant
-
-A pewter savant (about 5 kg of pewter burned, or a Mistborn's class feature), beyond the shared savant package (uncapped flare, doubled efficiency, the Dependency), heals faster than a natural body, though never as fast as someone tapping a goldmind: while burning pewter you regain a small amount of hit points at the start of each of your turns, at the DM's rate. Pewter savants are rare for a grim reason. Feeling neither pain nor exhaustion to any real degree, a savant can **ignore wounds that later prove fatal**, and many Thugs die on the battlefield, still fighting, long before they ever burn five kilograms of pewter. The savant's Crash, when it lands, is correspondingly worse.
-
 ### The Crash
 
 When your pewter runs out, or you stop burning it, whether by choice or by spending your last charge mid-fight, every wound you set aside arrives at once. You immediately take all stored drag as a single hit of damage, and you gain one level of Exhaustion. If you were flaring 6 or more charges when the pewter ended, you gain two levels of Exhaustion instead.
@@ -698,8 +630,6 @@ A Thug who leans on pewter and burns their last charge in a fight is suddenly, m
 
 - Pewter is a round-tempo metal that drains fast, one charge per round even at base burn, so a long fight is a real strain on your reserve. Plan your carry using Carrying & the 24 hour rule.
 - A Leecher (chromium) or an aluminum burn can wipe your reserve in an instant, forcing an immediate Crash.
-
-\page
 
 {{note
 
@@ -719,6 +649,8 @@ A Thug who leans on pewter and burns their last charge in a fight is suddenly, m
 *Four metals for the space between people, and for Allomancy itself.*
 
 The Mental quadrant reaches minds rather than matter. Zinc and brass work outward on other people's emotions, riding a mood up into fury or damping it down into calm, which makes them the metals of the negotiation, the con, and the panicked crowd. Copper and bronze turn the same sensitivity inward on the art itself: one hides your burning from anyone listening, the other lets you do the listening. Little here wins a fight outright. Most of it decides whether there is a fight.
+
+\column
 
 ## Zinc: Rioter
 
@@ -743,6 +675,8 @@ Each extra charge you burn, up to a number equal to your level, sustains one mor
 - **Add a pulse.** Emit another pulse in a different direction. With enough charges you can single out one distant creature or sweep an entire street.
 
 Spending a second charge on a pulse also lets you **exclude chosen allies** from it.
+
+\page
 
 {{tableGroup
 
@@ -880,13 +814,6 @@ A creature able to pierce the cloud must succeed on a Wisdom saving throw agains
 
 }}
 
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: metal-copper]** *A faint dome over a group of figures: the invisible coppercloud.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
-
 \page
 
 ## Bronze: Seeker
@@ -942,6 +869,8 @@ Each extra charge you burn in a minute, up to a number equal to your level, incr
 
 Every metal in the Enhancement quadrant is a multiplier or an eraser of somebody's power, never a power in itself. Aluminum and duralumin act on the Allomancer burning them, wiping their own reserves clean or detonating them all at once. Chromium and nicrosil reach out and do the same to someone else. Choosing from this quadrant is choosing to be the answer to another Allomancer, which is quiet at a table with no rival Mistings in it and decisive at one full of them.
 
+\column
+
 ## Aluminum: Aluminum Gnat
 
 *The metal that unmakes metal. An Allomancer who burns it feels their power simply vanish.*
@@ -964,6 +893,8 @@ Emptying your reserves is the work of a **single charge**. Beyond that, aluminum
 
 Where clearing your metals is binary, cleansing your spirit **scales with the charges you pour into a single burn**, up to a flare cap equal to your level. The more you spend at once, the stronger the Investiture you can scour away.
 
+\page
+
 - Treat the total charges spent as the **strength of the cleanse**. You may end an ongoing magical or Invested effect on yourself whose strength (its spell level, or a tier the DM sets) is no greater than the charges spent. Because you are scouring your *own* spirit by choice, no saving throw resists you.
 - This can strip clinging foreign Investiture as well as spells: a measure of another's power that has taken hold of you (borrowed Stormlight, a lodged Breath, a curse, an enemy's ongoing spell) can be burned out of your spirit if you spend enough.
 - **At the surge tier** (see the core rules), or as an aluminum savant (who ignores the cap), you can **cleanse even powerful, Shard-level Investiture** (up to a 9th-level or legendary effect) from your own spirit, the rarest and most coveted use of the metal.
@@ -974,14 +905,6 @@ You still cannot reach *another* creature's Investiture with aluminum; it acts o
 
 - **Imprisonment and transport.** Because aluminum strips the metal itself, not just the burn, a captured Allomancer left with only aluminum can be made to empty their reserves, leaving them powerless. This was the metal's chief use in the Final Empire.
 - **Deception.** A Leecher or Nicroburst can feel whether their touch actually drained or detonated anything. Emptying your reserves beforehand can convince them you were carrying no metal at all.
-
-### Interactions & counterplay
-
-- You do not need aluminum to stop burning; extinguishing a metal is always free. Aluminum's distinction is that it removes your unburned reserves as well.
-- Aluminum clears only **your own** reserves. To strip another Allomancer, see Chromium (Leecher).
-- The metal aluminum has defensive properties beyond this power: it cannot be Pushed or Pulled, and worn against the head it shields the wearer from emotional Allomancy. Those come from the metal itself, not from burning it.
-
-\page
 
 {{note
 
@@ -1026,6 +949,8 @@ This is the single largest burst an Allomancer can produce, and it empties your 
 | bendalloy / cadmium | The bubble's ratio becomes **2 plus twice your entire remaining reserve in charges**, for one round, after which the metal is gone and the bubble collapses. A Slider with 10 charges left buys their occupants 22 rounds inside a single round outside; a Pulser buys 22 rounds of the world passing while they take one. |
 
 }}
+
+\page
 
 ### Flaring
 
@@ -1116,6 +1041,8 @@ For the Allomantic detonation, one charge suffices. Flaring nicrosil, like flari
 - On an **unwilling caster or Feruchemist**, you force them to **expend Investiture at the worst moment**, wasting an active spell or tap and forcing extra spell slots. Because that power is part of them, they make a **Constitution save** to protect half of it (their Allomantic metal, being external, is taken with no such save). Full rules in The Metallic Arts and the Weave.
 - **At the surge tier**, or as a nicrosil savant (who ignores the cap), you can reach even a **powerful, Shard-level Investiture** (up to a 9th-level or legendary effect) in the one you touch.
 
+\column
+
 ### Interactions & counterplay
 
 - Nicrosil only detonates power the target is **actively using**; against an Allomancer burning nothing and tapping nothing, it does nothing.
@@ -1140,6 +1067,8 @@ For the Allomantic detonation, one charge suffices. Flaring nicrosil, like flari
 
 The Temporal quadrant buys knowledge of when, or command of it. Gold and electrum turn inward and show the burner a self they might have been or are about to become, which is information rather than force, and often unwelcome information. Cadmium and bendalloy turn outward and bend the rate of time itself inside a fixed bubble, letting a crew take four rounds while the world takes one, or strand a pursuer in slowed treacle. These metals reshape encounters rather than winning them, and they are the ones most likely to make a DM rethink a scene.
 
+\column
+
 ## Gold: Augur
 
 *An Augur looks into gold and meets a stranger wearing their own face: the person they might have been, had they chosen differently.*
@@ -1159,6 +1088,8 @@ Touching the gold shadow deepens the vision into the full weight of a life unliv
 ### Flaring
 
 Flaring does little. Burning more charges sharpens and prolongs the vision but grants no greater power.
+
+\page
 
 ### Interactions & counterplay
 
@@ -1207,6 +1138,8 @@ Each extra charge you burn in a minute, up to a number equal to your level, push
 
 }}
 
+\column
+
 ### Interactions & counterplay
 
 - Electrum shows only **your own** near future, never the future of others or of objects. That wider sight belongs to atium (see the God Metals).
@@ -1249,17 +1182,12 @@ Each extra charge you burn, up to a number equal to your level, spends on one of
 - **Deepen it.** Increase the ratio by 2, so that even more time passes outside for each round within.
 - **Widen it.** Increase the radius by 10 feet.
 
-### Savant
-
-A cadmium savant (5 kg burned, or a Mistborn's class feature), beyond the shared savant package (uncapped flare, doubled efficiency, the Dependency), transcends the fixed bubble:
-
-- Your slowness bubble may be **anchored to you and move with you**, so you can walk while wrapped in slowed time rather than being pinned to a sphere on the ground. Creatures and objects crossing the moving boundary suffer the usual energy-transfer complications as time re-seats them.
-- You may **slow time more deeply than an ordinary Slider**, and freely **adjust the bubble's size and the degree of its slowing** on the fly, within your charges.
-
 ### Uses
 
 - **Shelter.** Wait out a long danger in moments of your own time, letting a storm, a siege, or a pursuit pass by outside.
 - **Trap.** Catch enemies inside with you; distract them to wait for backup.
+
+\column
 
 ### Interactions & counterplay
 
@@ -1306,17 +1234,12 @@ Each extra charge you burn in a minute, up to a number equal to your level, spen
 
 Deepening compounds against you twice over, since a deeper bubble both costs more charges each minute and burns through those minutes faster.
 
-### Savant
-
-A bendalloy savant (5 kg burned, or a Mistborn's class feature) transcends the fixed bubble. In addition to the shared savant package (uncapped flare, doubled efficiency, the Dependency):
-
-- Your bubble may be **anchored to you and move with you**, so you carry your quickened time as you walk rather than being trapped in a sphere on the ground. Objects and creatures crossing the moving boundary suffer the usual energy-transfer complications as time re-seats them.
-- You may freely **adjust its size and the degree of its speed-up** on the fly, within your charges, rather than setting them only as you raise it.
-
 ### Uses
 
 - **Act many times.** You and your allies inside gain extra rounds against a slower outside world, to attack, heal, or prepare.
 - **Race the clock.** Cover in moments a task that would take far longer.
+
+\page
 
 ### Interactions & counterplay
 
@@ -1349,6 +1272,7 @@ The God Metals are formed from the power of a Shard rather than mined from the g
 
 **COLUMN** not supplied | ratio 1.33:1
 }}
+\column
 
 ## Other Metals
 
@@ -1375,6 +1299,8 @@ Two further God Metals exist on Scadrial and are **not playable**. They are here
 **Harmonium**, called *Ettmetal* in the south, is the god metal of Harmony. It burns with a pure whiteness and **explodes violently on contact with water or any liquid**, which makes ingesting it for Allomancy nearly impossible. The Southern Scadrians use it to power machinery. Its Allomantic and Feruchemical properties remain unknown.
 
 **Trellium**, also called *Bavadinium*, is the god metal of Autonomy: silvery with a red cast and dark red spots like rust. Its Allomantic and Feruchemical properties are unknown. Hemalurgically it can grant Allomantic or Feruchemical powers to a Kandra, and it is used to make Hemalurgic constructs. A creature bearing a single trellium spike is hidden from Harmony.
+
+\page
 
 ### DM guidance
 
@@ -1604,6 +1530,7 @@ Every savant gains the shared package (uncapped flare, doubled efficiency, the D
 
 }}
 
+\page
 ### Feruchemical savants (through Compounding)
 
 Savanthood is not only Allomantic, but it is **much harder** to reach Feruchemically. Feruchemy draws on no power from outside you, so nothing accumulates to etch the soul; in practice the only road is **Compounding**, which does draw on an outside source. A Feruchemist who Compounds a single metal relentlessly fuses with their *Feruchemy* the way heavy burning fuses an Allomancer with a metal.
@@ -1617,7 +1544,6 @@ A Feruchemical savant of a metal:
 Track it by long, heavy Compounding rather than by grams of a burned metal, and treat it as a campaign event at the DM's discretion. See Compounding.
 
 > **Not to be confused with the Feruchemist capstone.** A 20th-level Feruchemist can also use two of their attributes without a metalmind, but that is **mastery, not savanthood**: it is limited to two chosen metals, holds only a small reserve, and carries **no dependency**. True Feruchemical savanthood goes deeper, is not chosen, and cannot be safely stopped. The class never grants it; only Compounding does.
-\page
 
 ### Interactions
 
@@ -1625,12 +1551,36 @@ Track it by long, heavy Compounding rather than by grams of a burned metal, and 
 - **Duralumin** lets *any* Allomancer touch the surge tier once by detonating their reserve; a savant does not need it to get there, and can reach that tier repeatedly and at will (at the cost of the charges).
 - **Compounding** (Compounding) and savancy are independent. A Feruchemical-fed reserve makes it *easier* to burn a metal habitually enough to become a savant, and easier to sustain the burn that keeps withdrawal at bay.
 
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: savant-tin]** *A tin savant blindfolded and gloved in broad daylight, head tilted, listening.*
+## Savants of particular metals
 
-**COLUMN** not supplied | ratio 1.33:1
-}}
+Four metals have savant effects specific enough to state outright. The rest follow the shared package above.
+
+### Tin
+
+A tin savant (about 5 kg of tin burned over a lifetime, or a Mistborn's class feature) has fused with the metal. Beyond the shared savant package (uncapped flare, doubled efficiency, the Dependency), the fusion reshapes their senses:
+
+- **Ordinary light blinds them.** A tin savant burning tin treats normal daylight as the *Sensory Overload* trigger against sight, which is why the famous ones go **veiled and gloved by day**. In exchange, their hearing and touch grow so acute that they can fight and move **half-blind without penalty**, and can **anticipate attacks** almost as a Seer reads atium: while burning tin, attackers you can hear and feel do not gain advantage from being unseen, and the DM may grant you a read on an incoming blow.
+- **The Dependency is severe.** Cut off from tin, the savant's raw senses feel muffled and wrong (disadvantage on Perception checks and Dexterity saves until they burn again); oddly, their untethered nerves also **dull their sense of pain**.
+
+### Pewter
+
+A pewter savant (about 5 kg of pewter burned, or a Mistborn's class feature), beyond the shared savant package (uncapped flare, doubled efficiency, the Dependency), heals faster than a natural body, though never as fast as someone tapping a goldmind: while burning pewter you regain a small amount of hit points at the start of each of your turns, at the DM's rate. Pewter savants are rare for a grim reason. Feeling neither pain nor exhaustion to any real degree, a savant can **ignore wounds that later prove fatal**, and many Thugs die on the battlefield, still fighting, long before they ever burn five kilograms of pewter. The savant's Crash, when it lands, is correspondingly worse.
+
+### Cadmium
+
+A cadmium savant (5 kg burned, or a Mistborn's class feature), beyond the shared savant package (uncapped flare, doubled efficiency, the Dependency), transcends the fixed bubble:
+
+- Your slowness bubble may be **anchored to you and move with you**, so you can walk while wrapped in slowed time rather than being pinned to a sphere on the ground. Creatures and objects crossing the moving boundary suffer the usual energy-transfer complications as time re-seats them.
+- You may **slow time more deeply than an ordinary Slider**, and freely **adjust the bubble's size and the degree of its slowing** on the fly, within your charges.
+
+### Bendalloy
+
+A bendalloy savant (5 kg burned, or a Mistborn's class feature) transcends the fixed bubble. In addition to the shared savant package (uncapped flare, doubled efficiency, the Dependency):
+
+\page
+
+- Your bubble may be **anchored to you and move with you**, so you carry your quickened time as you walk rather than being trapped in a sphere on the ground. Objects and creatures crossing the moving boundary suffer the usual energy-transfer complications as time re-seats them.
+- You may freely **adjust its size and the degree of its speed-up** on the fly, within your charges, rather than setting them only as you raise it.
 
 \page
 ## Ferring Bloodlines
@@ -1676,6 +1626,7 @@ Both are **free actions** and take effect instantly. Stop, and you return to nor
 |---|---|---|---|---|---|---|---|---|
 | **Rate** (free draw) | +50% | +100% | +150% | +200% | +250% | +500% | +750% | +1,000% |
 | **Depth** (max store) | 10% | 20% | 30% | 40% | 50% | 100% | 100% | 100% |
+
 After 10th level the two part ways, and this is the shape of a Ferring's career. You can bank no deeper than you already could, but you grow ever better at spending what you banked. A master Ferring is not a larger reservoir. They are a finer tap.
 
 {{tableGroup
@@ -1742,64 +1693,24 @@ There is no hard ceiling on how hard you may draw. The losses are the ceiling. P
 
 A Ferring begins play with a **ring** of their metal weighing **1d8 grams**, and the knowledge of how to use it.
 
-### The metals
-
-**Physical**
-
-- Iron, the **Skimmer** (weight)
-- Steel, the **Steelrunner** (speed)
-- Tin, the **Windwhisperer** (senses)
-- Pewter, the **Brute** (strength)
-
-**Cognitive**
-
-- Zinc, the **Sparker** (mental speed)
-- Brass, the **Firesoul** (warmth)
-- Copper, the **Archivist** (memories)
-- Bronze, the **Sentry** (wakefulness)
-
-**Hybrid**
-
-- Cadmium, the **Gasper** (breath)
-- Bendalloy, the **Subsumer** (nutrition)
-- Gold, the **Bloodmaker** (health)
-- Electrum, the **Pinnacle** (determination)
-
-**Spiritual** (the strangest and least-understood; expect DM adjudication)
-
-- Chromium, the **Spinner** (Fortune)
-- Nicrosil, the **Soulbearer** (Investiture)
-- Aluminum, the **Trueself** (Identity)
-- Duralumin, the **Connector** (Connection)
-
-**Other metals** (not chosen at creation; DM-gated)
-
-- Other Metals, the category overview
-- Atium, which stores **age** (youth); the root of god-metal immortality via Compounding
-
 \page
 
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: ferrings-bracers]** *Terris bracers and rings laid out on cloth, worn smooth with use.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
-
-\page
-
-## The Ferrings
+## The Feruchemical Metals
 
 {{wide
 <!--h:44-->
 ![chart-feruchemy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-feruchemy.svg){width:100%}
 }}
 
+\page
+
 ### Physical
 
 *Four metals for the body, and the plainest bargain in Feruchemy.*
 
 The Physical quadrant stores what a body is and does: weight into iron, speed into steel, senses into tin, strength into pewter. Nothing here is subtle. You spend an afternoon slow, dull, weak or oddly light, and you get that afternoon back concentrated into the thirty seconds you needed it. Because the trade is so legible, this is the quadrant that rewards planning: a Skimmer who filled their ironmind yesterday can walk on a rope bridge that will not hold anyone else, and a Brute who did not fill anything is simply a person.
+
+\column
 
 ## Iron: Skimmer
 
@@ -2064,6 +1975,8 @@ Your skeleton and joints are still yours. Tapping enormous strength lets you lif
 
 The Cognitive quadrant stores thought and regulation: mental speed into zinc, warmth into brass, memories into copper, wakefulness into bronze. Storing here costs you something a fight does not immediately notice, which makes it the quadrant that can be filled while the party sleeps or travels. Copper is the strange one, since a stored memory is genuinely gone from you until you tap it back, and an Archivist's coppermind is a library rather than a battery. Brass is the sole exception to Feruchemy's first rule: heat radiates, so a Firesoul is the only Ferring whose power reaches anyone but themselves.
 
+\column
+
 ## Zinc: Sparker
 
 *A Sparker spends the council meeting slack-jawed and dull, then taps the ring under the table and reads the whole room in the pause between two words.*
@@ -2096,6 +2009,8 @@ While you tap a zincmind, your thoughts race ahead of the world.
 
 **The action ceiling.** One extra action is all zinc will ever give you, however hard you draw. Where steel grants a faster body, zinc grants a faster mind, and a full Feruchemist tapping both may hold two extra actions at once. No single attribute grants more.
 
+\page
+
 ### Limits
 
 Speed of thought is not knowledge. You cannot reason your way to facts you do not have, and thinking about a locked door ten times faster opens nothing. A Sparker solves, plans, calculates, and notices; they do not divine.
@@ -2119,7 +2034,7 @@ Your **body still moves at its own pace**. Tapping hard means living in a world 
 
 }}
 
-\page
+\column
 
 ## Brass: Firesoul
 
@@ -2158,6 +2073,8 @@ Your level sets your **throughput**: the kilojoules per minute you can channel, 
 
 Throughput is a **hard limit while storing**, which is what gates survival, and your **free rate while tapping**, past which compression begins.
 
+\page
+
 ### Storing: warmth in, and the cold that follows
 
 While you fill a brassmind, heat flows out of you and into the metal. The trick every Firesoul learns is that **storing is the defense**: heat flows toward the cold, so a Firesoul drinking heat hard pulls a fire's warmth into their ring before it can harm them.
@@ -2191,8 +2108,6 @@ Your body holds about 245 kilojoules for each degree Celsius, and it wants to si
 
 As a rule of thumb, each step is about **500 kJ** of surplus, gained or lost roughly one step per minute of serious imbalance. Return to balance and you recover the same way.
 
-\page
-
 {{tableGroup
 
 ### Tapping: warmth out
@@ -2224,6 +2139,8 @@ Released energy is potent even for a heartbeat, so brass loses it fast when you 
 
 Recovery **halves** with each multiple, far steeper than the 0.8 of other metals. A Firesoul who dumps everything at once to melt a door in a single round may burn through ten times the energy they actually deliver. Bursting is possible; it is simply ruinous to your reserve.
 
+\page
+
 ### Limits
 
 **The metalmind is exposed.** A brassmind does not itself run hot or cold; it is a battery, not a coal. But it is still metal in the world. A Firesoul wading through lava with a bare ring may have it **melt away**, and losing the metalmind loses everything in it and every defense at once. A heavily charged metalmind resists heat and harm far better than an empty one, so a deep store is partly its own armor, but a Firesoul who means to walk through fire keeps their metalminds embedded or shielded.
@@ -2247,7 +2164,7 @@ Warmth is not fuel. It keeps you from freezing and lets you set things alight, b
 
 }}
 
-\page
+\column
 
 ## Copper: Archivist
 
@@ -2273,6 +2190,8 @@ Storing a memory takes an **action**. When it is done, **the memory is gone from
 
 - You may store a memory **partially**, keeping a vague recollection of it. The copy in the metal is correspondingly weaker and blurred.
 - Memories in a coppermind **never degrade**. One stored forty years ago comes back as sharp as the day it went in, while the memories still in your head fade as anyone's do.
+
+\page
 
 ### Tapping
 
@@ -2304,15 +2223,6 @@ Because a stored memory leaves no trace of itself, a working Archivist keeps an 
 | **Exception** | Rate, depth, and compression do not apply to copper at all |
 | **Limit** | Not skills, only your own memories, and forgetting is genuine |
 
-}}
-
-\page
-
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: metal-copper]** *A faint dome over a group of figures: the invisible coppercloud.*
-
-**COLUMN** not supplied | ratio 1.33:1
 }}
 
 \page
@@ -2388,6 +2298,8 @@ While you tap a bronzemind, sleep stops mattering.
 
 The Hybrid quadrant sits between body and spirit, storing breath into cadmium, nutrition into bendalloy, health into gold, and determination into electrum. These are the metals of endurance rather than of a single decisive moment: air for a room that has none, a meal for a week without one, a wound closed while someone is still swinging at you. Gold is the famous one and the most easily overspent, since tapping health faster than you stored it is how a Bloodmaker walks out of something that should have killed them and then cannot stand up afterward.
 
+\column
+
 ## Cadmium: Gasper
 
 *A Gasper takes a few deep breaths at the water's edge, then walks in and keeps walking, across the bottom, for as long as the ring on their finger holds air.*
@@ -2409,6 +2321,8 @@ So a Gasper filling a 40-minute reserve spends the better part of an hour breath
 ### Tapping
 
 While you tap a cadmiummind, your blood stays oxygenated without your drawing a single breath.
+
+\page
 
 - At rest or light activity, one minute of reserve buys about **one minute** of not breathing.
 - Hard exertion burns air far faster. Strenuous activity, such as fighting or swimming for your life, spends reserve about **four times as fast**, so a lungful banked is only a minute or two of desperate struggle underwater.
@@ -2438,7 +2352,7 @@ Breath is not energy, food, or wakefulness. You can go without air, and still st
 
 }}
 
-\page
+\column
 
 ## Bendalloy: Subsumer
 
@@ -2470,6 +2384,8 @@ While you fill one, the mind swallows what you eat before your body can. You can
 
 While you tap a bendalloymind, your body is nourished as though you had eaten a proper meal, though your stomach stays empty. You draw a day of sustenance for each day you go without, at whatever pace your body needs.
 
+\page
+
 - You can go **without eating or drinking** for as long as the reserve lasts, crossing deserts, waiting out sieges, or enduring a cell that offers nothing.
 - A hard draw can shake off the drag of hunger or thirst already on you: spend from the mind to end the effects of starvation or dehydration you have already suffered.
 
@@ -2494,7 +2410,7 @@ Filling is bounded by your own body. You can only eat so fast and hold so much a
 
 }}
 
-\page
+\column
 
 ## Gold: Bloodmaker
 
@@ -2519,6 +2435,8 @@ Your body will give only so much before it starts giving too much. Your **safe r
 ### Tapping
 
 While you tap a goldmind, your flesh knits, your blood replenishes, and wounds close before your eyes. Gold does three things, along three separate lanes.
+
+\page
 
 **Reactive healing.** On your turn, or in response to taking damage, draw hit points from the goldmind to heal yourself, up to a **free rate of (your Constitution score ÷ 4) + your proficiency bonus** hit points per round. Constitution is how much your body can take in at once; proficiency is your growing skill at guiding it. You may heal *faster* in a crisis, paying compression (below).
 
@@ -2549,12 +2467,6 @@ Gold heals the **body toward its ideal self**, and no further. This is the sourc
 - **It heals over, not out.** A foreign thing left in a wound, an arrowhead, a bullet, a blade, is sealed inside as the flesh closes. Remove it first, or the wound will mend around it and you will carry it. **Aluminum** held in a wound stops the healing there entirely.
 - **Regrowth is dear.** Restoring a lost limb or a ruined organ is possible, but costs a great deal of stored health and time, not a round's worth.
 
-\page
-
-### Interactions
-
-- Storing is grim but not wasted time. A Bloodmaker who spends a sick, miserable month can walk into the next season all but unkillable.
-
 {{note
 
 | | |
@@ -2564,13 +2476,6 @@ Gold heals the **body toward its ideal self**, and no further. This is the sourc
 | **Tapping** | Heal (Con÷4 + prof)/round free; short-rest bonus = prof; or stay at 0 HP past a killing blow at 2 ring-HP per 1 overkill |
 | **Limit** | Mends flesh toward its ideal only: no genetics, no soul, foreign objects seal in, aluminum blocks it |
 
-}}
-
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: metal-gold-feru]** *A Bloodmaker watching a deep wound close on their own forearm.*
-
-**COLUMN** not supplied | ratio 1.33:1
 }}
 
 \page
@@ -2637,6 +2542,8 @@ While you tap an electrummind, a fierce, rising drive fills you, and at the top 
 
 The Spiritual quadrant is the strangest and the least understood, storing Fortune into chromium, Investiture into nicrosil, Identity into aluminum, and Connection into duralumin. What these do is hard to state as a number and harder to adjudicate at speed, and any table using them should expect to talk through the first few uses. They are also the quadrant that makes the rest of the system possible: an unsealed metalmind, which anyone may draw from, requires a Trueself's stored Identity, and Compounding leans on this quadrant more than any other.
 
+\column
+
 ## Chromium: Spinner
 
 *A Spinner spends a grey week where nothing goes right, and buys with it a single moment where nothing can go wrong.*
@@ -2663,6 +2570,8 @@ While you tap a chromiummind, chance leans your way, and the same small coincide
 
 You may spend Fortune points from a chromiummind at any time, even in response to a roll, without an action.
 
+\page
+
 ### Limits
 
 **Fortune is chance, not power.** It cannot make a thing happen that could not have happened anyway. A locked door with no key and no flaw stays locked; luck finds the flaw that was already there, or it finds nothing.
@@ -2684,7 +2593,7 @@ You may spend Fortune points from a chromiummind at any time, even in response t
 
 }}
 
-\page
+\column
 
 ## Nicrosil: Soulbearer
 
@@ -2713,6 +2622,8 @@ For a caster, choose how the mind is **keyed** when you begin. This is a choice 
 
 Draw the ability back and wield it **magnified**. While tapping, you may reach past your own ceiling: cast a spell you know using a slot **higher than the highest you could normally manage**, the extra levels paid out of the ring. Push only a step past your limit and the mind lasts a while; reach far beyond it and compression empties it fast.
 
+\page
+
 ### Sharing is a Feruchemist's art, not a Ferring's
 
 A lone Soulbearer can only ever tap **their own** minds. For another creature to tap a nicrosilmind and cast your spells though they never learned a word of them, that mind must be **unsealed**, which means it must be filled **from its very first charge** while your own **Identity** is fully stored in aluminum. A mind cannot be unsealed after the fact; the key goes on as it is filled and never comes off. That means being a **full Feruchemist**, with two metals and the class, not a single-bloodline Ferring.
@@ -2736,11 +2647,11 @@ So handing magic person to person is real, and it is the strongest thing nicrosi
 
 }}
 
-\page
+\column
 
 ## Aluminum: Trueself
 
-*A Trueself can hollow themselves out until they are no one at all, or draw so fully into themselves that no lie, no charm, and no other face can find purchase.*
+*A Trueself can hollow themselves out until they are no one at all, or draw so fully into themselves that nothing which rewrites a person can find purchase.*
 
 **Bloodline** Spiritual Ferring · **Metal** Aluminum (pure) · **Attribute** Identity · **Capacity** 10 unit-minutes per gram
 
@@ -2753,7 +2664,9 @@ While you fill an aluminummind, your sense of self thins, and you become a blank
 - **Unsealed metalminds.** Any metalmind you fill **while your Identity is fully stored** carries no owner: it is **unsealed**, and anyone with the matching power may tap it. For a lone Trueself this matters little, since your only metalminds are aluminumminds. Its real weight is in the hands of a **Feruchemist**, who can fill a *pewtermind* of strength, a *goldmind* of health, or a nicrosilmind of spellcasting this way and hand it to someone else. Note that this works only **as the mind is filled**: a mind already keyed to you cannot be hollowed out and unsealed later. Aluminum is the reason unsealed metalminds exist at all.
 - **Borrowing another's minds.** With your Identity **fully stored**, you carry no self to clash with the lock on someone else's metalmind, and you may tap their minds, friend or foe, as though they were your own. But you can only ever draw out a power **you could already wield**: to drain a foe's banked strength, you must be able to tap a pewtermind yourself. So this is a Feruchemist's reach, needing **aluminum to empty your Identity and the matching metal to use what you find**.
 - **A self too faint to find.** With no Identity, effects that reach for *you* by name or by soul, scrying, some divinations, a curse laid on your true self, may simply fail to find anyone there.
-- **The cost.** A person with no Identity is terribly open to alteration. While heavily storing, you have **disadvantage on saving throws** against being Charmed, possessed, disguised, transformed, or otherwise made into something you are not, and such effects take hold of you far more easily.
+- **The cost.** Identity is what makes a spiritweb *yours*, and what magic checks against when it tries to rewrite one. Emptied of it, you are a blank canvas: not more easily persuaded, but more easily **overwritten**. While heavily storing you have **disadvantage on saving throws** against effects that remake what you are, meaning possession, permanent transformation, and anything that rewrites your history or nature outright. Your judgement is untouched. It is your self that has no edges.
+
+\page
 
 {{tableGroup
 
@@ -2763,7 +2676,7 @@ While you tap an aluminummind, you become intensely, unshakably *you*.
 
 | Tap intensity | Effect |
 |---|---|
-| +100% | Advantage on saving throws against being Charmed, frightened into another's will, possessed, or magically transformed. |
+| +100% | Advantage on saving throws against possession, transformation, and any effect that would rewrite what you are. |
 | +400% | You **cannot be transformed, disguised over, or possessed** against your will, and illusions and Forgeries slide off your true shape. You may end one such effect already on you. |
 | +900% or more | Your self is adamant. You are immune to possession and unwilling transformation, and you may **mend damage to your own mind**: end a madness, a curse of the personality, or an alteration to who you are, restoring the self you know yourself to be. |
 
@@ -2771,7 +2684,7 @@ While you tap an aluminummind, you become intensely, unshakably *you*.
 
 ### Limits
 
-- **Storing is a genuine danger, not a pose.** A hollowed Trueself can be talked, charmed, or reshaped into almost anything, and may not have enough self left to object. Empty yourself only where you trust the room.
+- **Storing is a genuine danger, not a pose.** A hollowed Trueself can be *made into* almost anything, and has little enough self left to resist the making. This is not a matter of being fooled; a Trueself hollowed out and rewritten will remember having always been the new thing. Empty yourself only where you trust the room.
 - Identity mends the *self*, not the flesh or the mind's knowledge. It will not heal a wound or return a lost memory; it returns *who you are* when something has tried to make you otherwise.
 - **Draining another's minds is a Feruchemist's feat, not a snatch-and-grab.** You *can* tap a keyed mind that is not yours, but only by fully emptying your own Identity first, and only to use a power you could already wield yourself. A lone Trueself, with no other metal to their name, empties their self to no such purpose; they can blank the lock, but have no way to use what lies behind it.
 
@@ -2785,7 +2698,7 @@ While you tap an aluminummind, you become intensely, unshakably *you*.
 | | |
 |---|---|
 | **Attribute** | Identity, the spiritual sense of self |
-| **Storing** | Become a blank: minds you fill while hollow are born unsealed, tap others' keyed minds (for powers you can already use), fade from identity-seeking magic; but be wide open to charm, possession, and transformation |
+| **Storing** | Become a blank: minds you fill while hollow are born unsealed, tap others' keyed minds (for powers you can already use), fade from identity-seeking magic; but be wide open to being rewritten |
 | **Tapping** | Become adamant: resist then refuse alteration; at the peak, heal damage to your own mind |
 | **Limit** | Mends the self only, not flesh or memory; emptying yourself is truly dangerous |
 
@@ -2852,6 +2765,8 @@ While you tap a duraluminmind, bonds form in moments that would normally take mo
 *Not a quadrant. A category, and only one of them is understood.*
 
 The God Metals are formed from the power of a Shard rather than mined. On the Feruchemical side only atium is known, and what it stores is **age**: fill it and grow old, tap it and grow young. It is not a bloodline chosen at character creation. It is the root of every story about someone who should have died a century ago and did not.
+
+\column
 
 ## Other Metals (Feruchemy)
 
@@ -2979,11 +2894,6 @@ For each art, roll **1d4 for the quadrant**, then **1d4 for the metal** within i
 
 *If both rolls land on the same metal, you are a Compounder (DM permitting). Reroll if your table would rather avoid it.*
 
-### Naming a Twinborn
-
-Every pairing has its own name in the world, as a single power does. Only a few are recorded: a **Crasher** is a Coinshot and Skimmer, for instance. The rest are yours and your DM's to name, or to leave unnamed.
-\page
-
 ### Starting equipment
 
 A Twinborn begins play with **both** a Misting's and a Ferring's starting gear: **1d6 grams** of their Allomantic metal as beads, and a **ring of 1d8 grams** of their Feruchemical metal.
@@ -3078,13 +2988,6 @@ A Compounder begins play with a **ring, a set of beads, or a needle of their met
 # Part 2
 ## Species
 
-{{imgph imgphWide,style=min-height:64em
-<!--h:112-->
-**[ART: cover-part2]** *Part 2 cover. A koloss twelve feet tall, skin split and bound with leather wraps, looking down at the viewer.*
-
-**FULL** not supplied | ratio 0.77:1
-}}
-
 \page
 
 ## Koloss-blooded
@@ -3133,6 +3036,7 @@ What you did inherit is the choice. At twelve, every koloss-blooded is offered f
 
 ---
 
+\page
 ### The Koloss Path
 
 > **Agree it at the table.** This is not a character option you take at 1st level. It is a thing that happens to a character during a campaign, it is irreversible, and it comes with an expiry date. Wanting your character to trade a lifespan for that strength is a legitimate choice, and nobody needs permission to make it. What is needed is that everyone at the table, the DM included, knows what they are agreeing to before anyone drives anything into anyone.
@@ -3141,11 +3045,10 @@ Four iron spikes, each charged with the strength of a person who died to provide
 
 The ritual is offered to every koloss-blooded at twelve, and the tribes will perform it for outsiders who ask, including humans. It works on anyone. The old koloss made new ones by force, from whoever was to hand.
 
+\page
 #### Becoming a Koloss
 
 You gain four Hemalurgic spikes and the following changes. They replace nothing; they are added to what you already were.
-
-\page
 
 - **Size and Strength.** Both **grow for the rest of your life**, and they grow together. Your starting size and strength, and everything they become, are on the Growth table below. You begin at roughly six feet and you do not stop.
 - **Reach and weapons.** You can wield a weapon sized for a creature of your current size in one hand, and you may use whatever comes to hand as an improvised weapon at no penalty. Koloss traditionally carry crude oversized blades and swing them by inertia alone.
@@ -3189,13 +3092,12 @@ Growth is measured in **years, not levels**. A campaign spanning a season will b
 
 Whatever you were when you were spiked is what you have to work with for the rest of your life, because you cannot take a fifth spike to fix anything.
 
+\page
 #### The One Exception
 
 There is exactly one way a koloss lives past its span, and it is not a treatment. It is a matter of who you were before.
 
 **A gold Compounder who becomes a koloss keeps Compounding.** Someone who already possessed both Allomantic and Feruchemical gold, a natural Twinborn of that metal, carries that ability through the ritual as any Allomancer carries theirs. From then on they heal themselves as fast as their own body tears, indefinitely, by their own power and nobody else's. Miles Hundred-Lives is the obvious candidate, and the reason the thought is terrifying.
-
-\page
 
 Such a koloss keeps growing, past twelve feet and onward, held together by continuous self-healing. **The ceiling is twenty feet.** Growth stops there and never resumes, and nothing has exceeded it. What stands at twenty feet is no longer a person-shaped problem; it is a walking siege that the world organizes itself around removing.
 
@@ -3402,25 +3304,11 @@ Kandra improve at their art with practice, and yours does so as you level.
 - **Your bones are your gear.** Losing them is the kandra equivalent of losing your armor and your legs at once, and replacing them is a scene rather than a purchase. Keep a spare skeleton if you can afford one.
 - **You remember.** Kandra live for centuries and most have served Contracts under masters long dead. Whatever your character has forgotten, they forgot because a spike was out.
 
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: kandra-forming]** *A kandra part-formed: translucent flesh drawn over a crystal True Body.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
-
 \page
 {{partCover}}
 
 # Part 3
 ## Backgrounds
-
-{{imgph imgphWide,style=min-height:64em
-<!--h:112-->
-**[ART: cover-part3]** *Part 3 cover. An alloyer's workshop: scales, crucibles, and labelled sample beads.*
-
-**FULL** not supplied | ratio 0.77:1
-}}
 
 \page
 ## Backgrounds and Origin Feats
@@ -3509,6 +3397,8 @@ You did the work nobody writes down: ash, slag, tailings, sewers, mine faces, fo
 
 ---
 
+\page
+
 ## Origin Feats
 
 Two new Origin feats. Either may be taken by any background that grants an Origin feat, at the DM's discretion, not only the ones above.
@@ -3537,25 +3427,11 @@ You were taught how people with metal in their stomachs move, and what to do abo
 
 ---
 
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: background-hazekiller]** *A Hazekiller with a dueling cane, wearing nothing metal.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
-
 \page
 {{partCover}}
 
 # Part 4
 ## Classes
-
-{{imgph imgphWide,style=min-height:64em
-<!--h:112-->
-**[ART: cover-part4]** *Part 4 cover. A Mistborn and a Feruchemist standing back to back, one wreathed in mist, the other hung with rings.*
-
-**FULL** not supplied | ratio 0.77:1
-}}
 
 \page
 
@@ -3598,18 +3474,18 @@ Being Mistborn is a matter of birth and soul, not training, so it sits different
 |---|---|---|---|---|
 | 1 | +2 | Allomancy, Metallic Mastery (1st quadrant), Mistcloak | 4 | 4 |
 | 2 | +2 | Allomantic Instinct | 4 | 4 |
-| 3 | +2 | Quadrant Resonance | 6 | 4 |
+| 3 | +2 | Quadrant Mastery | 6 | 4 |
 | 4 | +2 | Ability Score Improvement | 6 | 4 |
 | 5 | +3 | Metallic Mastery (2nd quadrant), Rapid Burning | 9 | 8 |
-| 6 | +3 | Quadrant Resonance | 9 | 8 |
+| 6 | +3 | Quadrant Mastery | 9 | 8 |
 | 7 | +3 | Improved Flaring | 12 | 8 |
 | 8 | +3 | Ability Score Improvement | 12 | 8 |
 | 9 | +4 | Metallic Mastery (3rd quadrant) | 15 | 12 |
-| 10 | +4 | Quadrant Resonance | 15 | 12 |
+| 10 | +4 | Quadrant Mastery | 15 | 12 |
 | 11 | +4 | Emergency Metals | 18 | 12 |
 | 12 | +4 | Ability Score Improvement | 18 | 12 |
 | 13 | +5 | Metallic Mastery (4th quadrant) | 22 | 16 |
-| 14 | +5 | Quadrant Resonance | 22 | 16 |
+| 14 | +5 | Quadrant Mastery | 22 | 16 |
 | 15 | +5 | Practiced Duralumin | 25 | 16 |
 | 16 | +5 | Ability Score Improvement | 25 | 16 |
 | 17 | +6 | Allomantic Savant | 28 | 16 |
@@ -3619,13 +3495,12 @@ Being Mistborn is a matter of birth and soul, not training, so it sits different
 
 }}
 
+\page
 ### Class Features
 
 #### Allomancy (1st level)
 
 You can burn **all sixteen** Allomantic metals, using the metal economy of the Misting Bloodlines: you ingest metal, feel your reserve, and burn charges at each metal's tempo, flaring for more.
-
-\page
 
 - **Per-metal flare cap = your Mistborn level**, exactly as a Misting of that level. You are never a *better* burner of a single metal than a specialist Misting; your edge is breadth, not depth.
 - **Burn Budget (breadth).** The **total** charges you may spend across **all** metals in a single tempo unit is given in the level table (4 at 1st, rising to 32 at 20th). This is what lets you run several metals at once, an ordinary Misting's impossible dream.
@@ -3635,7 +3510,7 @@ You can attempt to burn any metal you have, but you burn **unmastered** metals p
 
 #### Metallic Mastery (1st, 5th, 9th, 13th levels)
 
-The sixteen metals fall into four quadrants. At 1st level, choose one quadrant to **master**. Your first quadrant must be **Physical, Mental, or Temporal**; these three shape a Mistborn's craft and grant a Quadrant Resonance. (The **Enhancement** metals, the Gnat and Leech metals that act only upon other metals, have no path of their own; there is no way to make an aluminum or duralumin burn subtler than it already is. You will master Enhancement as one of your later quadrants.) You gain three more masteries at 5th, 9th, and 13th level, choosing a new quadrant each time, until at 13th level you have mastered all four and wield every metal at full skill.
+The sixteen metals fall into four quadrants. At 1st level, choose one quadrant to **master**. Your first quadrant must be **Physical, Mental, or Temporal**; these three shape a Mistborn's craft and grant a Quadrant Mastery. (The **Enhancement** metals, the Gnat and Leech metals that act only upon other metals, have no path of their own; there is no way to make an aluminum or duralumin burn subtler than it already is. You will master Enhancement as one of your later quadrants.) You gain three more masteries at 5th, 9th, and 13th level, choosing a new quadrant each time, until at 13th level you have mastered all four and wield every metal at full skill.
 
 - A **mastered** metal is burned exactly as its Misting page describes: full charges, full magnitude, flare cap equal to your level.
 - An **unmastered** metal gives you only **half** the charges from a given amount of metal and **half** the magnitude of its effect, and you may not flare it above **half your level**. You can use it in a pinch; you cannot rely on it.
@@ -3648,11 +3523,11 @@ You own a **mistcloak**, a garment of countless tasseled strips worn by Mistborn
 
 Burning metal sharpens you. While you are burning any metal, you have **advantage on initiative**, and you cannot be surprised unless you are Incapacitated.
 
-#### Quadrant Resonance (3rd, 6th, 10th, 14th levels)
+#### Quadrant Mastery (3rd, 6th, 10th, 14th levels)
 
-A Mistborn eventually masters every metal, but the quadrant you master **first** shapes you most deeply, and your soul, closer to Preservation than any Misting's, learns to make its metals sing together in ways no specialist ever could. Your **starting quadrant** (Physical, Mental, or Temporal, chosen at 1st level) grants you a **Resonance** feature at 3rd level, and again at 6th, 10th, and 14th, listed under Quadrant Resonances below. You do not choose a separate subclass; your first quadrant *is* your path.
+A Mistborn eventually masters every metal, but the quadrant you master **first** shapes you most deeply, and your soul, closer to Preservation than any Misting's, learns to make its metals sing together in ways no specialist ever could. Your **starting quadrant** (Physical, Mental, or Temporal, chosen at 1st level) grants you a **Mastery** feature at 3rd level, and again at 6th, 10th, and 14th, listed under Quadrant Masteries below. You do not choose a separate subclass; your first quadrant *is* your path.
 
-**A Resonance is never free.** Every Resonance refines how you *burn* one or more metals. To gain its benefit you must be **burning the relevant metal and spending its charges** exactly as its Misting page requires; a Resonance sharpens or combines your Allomancy, but it never grants an effect without the burn behind it. Each quadrant's **14th-level** Resonance is the same in kind: you become a **savant of that quadrant's four metals**. Being a savant is the only way to burn a metal past its flare cap, so this is what unlocks the quadrant's most extreme feats, bounded now only by your Burn Budget and the metal you carry. It also brings a savant's **Dependency**: while you are a savant of one of these metals but not burning it, you suffer withdrawal until you resume (see Savants).
+**A Mastery is never free.** Every Mastery refines how you *burn* one or more metals. To gain its benefit you must be **burning the relevant metal and spending its charges** exactly as its Misting page requires; a Mastery sharpens or combines your Allomancy, but it never grants an effect without the burn behind it. Each quadrant's **14th-level** Mastery is the same in kind: you become a **savant of that quadrant's four metals**. Being a savant is the only way to burn a metal past its flare cap, so this is what unlocks the quadrant's most extreme feats, bounded now only by your Burn Budget and the metal you carry. It also brings a savant's **Dependency**: while you are a savant of one of these metals but not burning it, you suffer withdrawal until you resume (see Savants).
 
 #### Rapid Burning (5th level)
 
@@ -3666,11 +3541,11 @@ When you flare a metal, you may spend **one charge fewer** than normal for the s
 
 You are never quite caught empty. You can retrieve and swallow a bead or vial of metal, or bite down on a stored one, as a **free action once on each of your turns**, even while falling, grappled, restrained, or otherwise hard-pressed, so long as the metal is on your person. A Mistborn who has just hurled themselves off a tower with a great Push can down a fresh vial before they land.
 
+\page
+
 #### Practiced Duralumin (15th level)
 
 Your handling of the enhancement metals is second nature. You may burn duralumin or nicrosil as a **bonus action or a reaction**, rather than only as an action, letting you time a detonation to the exact moment it is needed.
-
-\page
 
 #### Allomantic Savant (17th level)
 
@@ -3689,9 +3564,11 @@ You are a Mistborn of the old stories. Your **Burn Budget is 32**, and:
 
 ---
 
-### Quadrant Resonances
+### Quadrant Masteries
 
-Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14th level. Each leans on the metals you know best and lets them work as one. Where a Resonance lets you exceed a Misting's limits, that is deliberate: a Mistborn's body and soul are nearer Preservation, and can bear what a lifelong specialist cannot.
+Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14th level. Each leans on the metals you know best and lets them work as one. Where a Mastery lets you exceed a Misting's limits, that is deliberate: a Mistborn's body and soul are nearer Preservation, and can bear what a lifelong specialist cannot.
+
+\column
 
 #### Physical (Iron, Steel, Tin, Pewter)
 
@@ -3700,6 +3577,8 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 - **10th — Overpush.** Because pewter lets your body bear it, you may push past a specialist's ceiling. Once on each of your turns, while **burning both steel (or iron) and pewter**, you may spend up to **twice your flare cap** in charges on a single Push or Pull, delivering the whole combined force in one blow. Pewter carries the crushing force; your **weight** alone decides how far the recoil throws you.
 - **14th — Unbending.** You become a **savant of iron, steel, tin, and pewter**. Freed of their flare caps (bounded only by your Burn Budget and the metal in your body) and twice as efficient with each, you can loose Pushes and Pulls of staggering force, stretch your senses impossibly far, and drive your body to its very surge tier (the legendary resistance and might of high-flared pewter), so long as you have the pewter to survive them and the charges to spend. As a savant you also bear the **Dependency**: cut off from a Physical metal you were leaning on, you crash into withdrawal until you burn it again.
 
+\page
+
 #### Mental (Zinc, Brass, Copper, Bronze)
 
 - **3rd — Sculpted Emotion.** Sweeping a room with feeling is easy; picking out one heart is the hard-won skill of the art. While **burning zinc and brass together**, you have that skill: you may **isolate and target a single specific emotion**, inflaming or soothing only it, **without the extra charge** it normally costs to differentiate one emotion from the rest. Where a lone Rioter or Soother must flood everyone, you touch exactly whom and what you mean to.
@@ -3707,7 +3586,7 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 - **10th — Deep Sway.** While **burning zinc or brass**, your emotional Allomancy takes a firmer hold. A creature that fails its save is swayed for a full minute rather than until the start of its next turn, and in an unhurried social scene you may move a creature's attitude up to **two** steps.
 - **14th — The Quiet Court.** You become a **savant of zinc, brass, copper, and bronze**. Freed of their flare caps and twice as efficient with each, your coppercloud can swell to hide a whole company's Allomancy from even a savant Seeker, and your emotional pulses can reach and overwhelm every creature you can see for a hundred feet and more. The cost is always the charges you pour in, and a savant's **Dependency**: cut off from a Mental metal you were leaning on, you fall into withdrawal until you resume it.
 
-\page
+\column
 
 #### Temporal (Gold, Electrum, Cadmium, Bendalloy)
 
@@ -3779,7 +3658,6 @@ Feruchemy is inherited in the blood and trained from childhood, so it sits diffe
 }}
 
 \page
-
 ### Class Features
 
 {{tableGroup
@@ -3937,6 +3815,7 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 **Feruchemy only ever acts on the Feruchemist.** A tapped attribute is yours and cannot be lent, projected, or shared. The single exception is **brass**, because warmth genuinely radiates off a body into the air around it. Everything else reaches other people only through an unsealed metalmind handed over for them to tap themselves.
 
 **Everything is an economy.** Each Discipline below spends something real: unit-minutes from a mind, kilojoules of warmth, hit points of banked health. Nothing here is a free passive.
+
 \page
 
 #### Physical (Iron, Steel, Tin, Pewter)
@@ -3946,12 +3825,16 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 - **10th — Second Wind of the Body.** While tapping pewter, you may spend **5 unit-minutes** from a pewtermind as a bonus action to shrug off a moment of failure: end one effect on yourself causing the Paralyzed, Restrained, Slowed, or Stunned condition, or reduce your Exhaustion by one level. There is no limit on how often you may do this beyond what your metalminds hold, for the cost is the limit.
 - **14th — The Body Remembers.** Physical metalminds you are actively drawing from **count as half a mind each** against your Minds at Once, so you can run all four Physical attributes for the price of two. While tapping three or more Physical metals at once, you have **resistance to bludgeoning, piercing, and slashing damage from nonmagical sources**.
 
+\column
+
 #### Cognitive (Zinc, Brass, Copper, Bronze)
 
 - **3rd — Keeper's Index.** You have organized your copperminds as the Keepers do. You may search all copperminds you carry for a specific fact as a free action, and you always know whether a thing you seek is stored in them. You gain proficiency in **two additional skills** from the Feruchemist list, representing the breadth of what you have read.
 - **6th — Quickened Thought.** While tapping zinc, your speed of thought sharpens your reactions: you have **advantage on Initiative**, and once per round you may take the Search or Study action as a bonus action. You may also solve in seconds a problem that should take minutes of study.
 - **10th — Hearth and Hoard.** Warmth is the one thing a Feruchemist can genuinely give away, because heat radiates from you whether you mean it to or not. While tapping brass, you may pour out warmth to shelter others: spend **500 kJ per minute for each creature** within 30 feet you wish to keep comfortable in natural cold, and **1,500 kJ per minute each** to grant them **resistance to cold damage**. These figures already include your discount: you have learned to shape that radiance rather than let it bleed away, so warming others costs you half what it costs anyone else. *(The figures come from the body's own arithmetic on the Firesoul page: roughly 500 kJ is one step of body-temperature imbalance, about a minute's worth of serious cold. A 10th-level Firesoul's throughput of some 8,000 kJ per minute can shelter a large party, or armor a few against real freezing, but not both without emptying rings fast.)*
 - **14th — The Whole Library.** Your mind and your metal are one archive. You have **expertise** in Arcana, History, Nature, and Religion. Once per long rest, while tapping copper, you may recall a fact no living person should know, whatever a Keeper before you thought worth storing, and the DM tells you something genuinely useful about the situation at hand.
+
+\page
 
 #### Hybrid (Cadmium, Bendalloy, Gold, Electrum)
 
@@ -3960,11 +3843,11 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 - **10th — Unbreakable Will.** While tapping electrum, nothing turns you aside. You are **immune to the Frightened and Charmed conditions**, you automatically succeed on saving throws to maintain a course of action against magical compulsion, and you may continue acting for one round at 0 hit points before falling unconscious.
 - **14th — Deathless.** Gold, cadmium, and bendalloy that you are drawing from **do not count against your Minds at Once**, so health, breath, and sustenance run free alongside everything else you are doing. While all three run, you need not eat, drink, or breathe, and you can absorb a truly absurd amount of punishment: **spend 1 hit point from a goldmind for each 1 point of damage that would drop you below 0**, remaining conscious and acting for as long as the gold holds out. You die when the ring runs dry and not before. A Feruchemist so provisioned walks out of a desert, a sealed tomb, or a battlefield that killed everyone else. *(This buys endurance, not youth. Reversing your age is atium's domain, and only through Compounding.)*
 
+\column
+
 #### Spiritual (Chromium, Nicrosil, Aluminum, Duralumin)
 
 *Beginning with the Spiritual metals means beginning with the strangest and most coveted art in Feruchemy: the making of metalminds that belong to no one.*
-
-\page
 
 - **3rd — Blank Slate.** You have learned to hollow yourself early and safely. While your Identity is stored in aluminum, effects that seek out *who you are*, by name or by soul, simply fail to find anyone there, including scrying and most divination. *(Identity is not Connection, which is duralumin's domain, but a person with no self to name is hard to reach by either road, so a full store muffles Connection-seeking magic as well.)* Storing Identity normally leaves you wide open, imposing **disadvantage on saving throws** against being Charmed, possessed, disguised over, or transformed. You **no longer suffer that disadvantage**, having learned to keep a thread of yourself back, unless the work demands you empty yourself completely, as Unsealed Metalminds does.
 - **6th — Unsealed Metalminds.** You gain the Unsealed Metalminds feature, nine levels early, with its full procedure: **100% of your Identity stored** throughout, the **ability banked into nicrosil**, and a **reserve of the attribute** filled alongside it, usually as one object of the primary metal with a sliver of nicrosil at its surface. You can do this at 6th level because a mastered quadrant reaches **100% Depth at 5th**, and Spiritual is yours from the beginning. From here on you can hand your banked health, strength, or speed to anyone at all, even someone with no Feruchemy in their blood. This is the signature of a Spiritual Feruchemist, and the reason the Southern Scadrians could arm a whole people with borrowed power.
@@ -3972,6 +3855,8 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 - **14th — Threads of Connection.** While tapping duralumin, you may forge a Connection to a **person** rather than to the land, and through them you speak and understand **any language they know**, for as long as you keep tapping. Once per long rest you may tap deeply enough to bind yourself to a place or a person in earnest, gaining **advantage on all Charisma checks** with that community or individual for one hour, and you may tap chromium to turn one failed **Charisma** saving throw or ability check into a success.
 
  **Many Selves.** You have learned that Identity is not one thing but a garment, and you keep a wardrobe. You may maintain **several distinct Identities**, each held in its own aluminummind, and change which one you are wearing as an action.
+
+\page
 
  - A metalmind you fill is keyed to **the Identity you wore while filling it**, not to your body. You can therefore carry minds that only *you-as-someone-else* can tap, and no one who compels or copies your present self can reach them.
  - Whenever you change Identity, any effect tracking you by name, soul, or Connection **loses you outright**, as though the person it sought had ceased to exist. Divination that finds you must find your current self, and must find it again each time you change.
@@ -3999,13 +3884,6 @@ A Feruchemist is not simply sixteen Ferrings. Set side by side at the same level
 }}
 
 The Feruchemist never draws *harder* than the specialist. They simply draw from everywhere at once, and they have already prepared.
-
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: class-feruchemist]** *A Feruchemist covered in rings and bracers, mid-tap, one arm blurred with speed.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
 \page
 
 ## Hemalurgist
@@ -4015,14 +3893,6 @@ The Feruchemist never draws *harder* than the specialist. They simply draw from 
 A **Hemalurgist** has no power of their own. What they have is **knowledge**: which metal steals which attribute, where on a body it must be driven, and how to arrange spikes in a living frame so the frame survives. With that knowledge they can take a power from one person and give it to another, including themselves.
 
 This is the art of **Ruin**, and it is **end-negative**. Investiture is always lost in the transfer, the recipient's soul is left punctured, and the donor is always dead. There is no version of this that is clean.
-
-### No restrictions
-
-Unlike the Mistborn and the Feruchemist, Hemalurgy is not in the blood. It is **learned**, so anyone can learn it.
-
-- You may take Hemalurgist at **1st level or any later level**, and you may **multiclass into it freely**.
-- You need no bloodline, no Snapping, and no Terris ancestry. You need a teacher, or a great deal of private experimentation, or a whispering from a god.
-- **Stolen powers Compound normally.** Hold a stolen Allomantic power and a stolen Feruchemical power in the **same metal** and you are a Compounder, exactly as a natural Twinborn would be. This is how the Steel Ministry built its Inquisitors: gold spikes to heal, pewter to be strong, atium to stay young. See Compounding.
 
 ### Core Hemalurgist Traits
 
@@ -4038,6 +3908,8 @@ Unlike the Mistborn and the Feruchemist, Hemalurgy is not in the blood. It is **
 
 **Starting Equipment:** Choose A or B:
 (A) a **spike-maker's kit** (smith's tools and a surgeon's kit), **six blank spikes** of assorted non-God metals, **one charged spike** of the DM's choosing and origin, a set of anatomical charts, leather armor, a dagger, and 10 GP; or (B) 75 GP.
+
+\page
 
 ### The Hemalurgist (level table)
 
@@ -4072,10 +3944,9 @@ Unlike the Mistborn and the Feruchemist, Hemalurgy is not in the blood. It is **
 
 **Yield Floor** is the minimum strength of a spike you charge, explained under Spike Craft. Better craft wastes less soul.
 
-\page
-
 **How many spikes you can make is not limited.** Given metal, time, and donors, a Hemalurgist can produce hundreds, and history's worst of them did. The limits on the art are supply, opportunity, and whatever conscience the practitioner has left. What *is* fixed is how many a single body can hold.
 
+\page
 ### Class Features
 
 #### Hemalurgy (1st level)
@@ -4119,8 +3990,6 @@ Making a spike takes a metal, a donor, and a killing.
 
 **Hemalurgic decay.** A spike out of a body **loses potency steadily**, dropping its yield over weeks at a rate the DM sets. Keeping it embedded in *someone* stops the loss entirely. **Coating it in blood** significantly slows it, which is why spikes are stored in sealed jars of the stuff. Splitting a spike divides its charge **and loses some of it**.
 
-\page
-
 {{tableGroup
 
 #### Placement (1st level)
@@ -4137,6 +4006,8 @@ Make an **Intelligence (Medicine) check** against **DC 10, plus 2 for each spike
 | **Fail by 10 or more** | As above, and the recipient must succeed on a **DC 15 Constitution saving throw** or **die**. |
 
 }}
+
+\page
 
 You know the placements that are actually written down, so you make this check with **advantage** when placing a spike whose metal and intended effect appear on the Known Placements table. Anything else is a guess.
 
@@ -4180,8 +4051,6 @@ Your cuts waste less soul. Your **Yield Floor rises to 70%**, and it rises again
 
 Your map of the body has passed what anyone has written down. You have **advantage on every Placement check**, on any body of any species, whether or not the effect you intend appears on the Known Placements table. You may also attempt placements no one has recorded: describe the effect you are reaching for, and the DM sets a DC and tells you what you find. This is how the table gets longer.
 
-\page
-
 #### Refine God Metal (13th level)
 
 You can **refine atium** into a workable spike, and use it. An atium spike is a wild card: it steals **any** power, chosen at charging, and does so more effectively than the metal proper to that power, taking it at **100% yield** regardless of the donor. Lerasium may likewise be spiked, stealing **all** of a donor's abilities at once, though doing so wastes most of a bead that could have made a Mistborn outright.
@@ -4189,6 +4058,8 @@ You can **refine atium** into a workable spike, and use it. An atium spike is a 
 #### Clean Extraction (15th level)
 
 Your **Yield Floor rises to 75%**, and you have learned to take a spike out as carefully as you put it in. Over 10 minutes of work you may remove a spike from a living bearer **without dealing any damage**, leaving them whole and merely diminished by the loss of the power. A linchpin remains fatal to remove, and nothing you know changes that.
+
+\page
 
 #### Master of the Work (17th level)
 
@@ -4231,8 +4102,6 @@ This applies to **anyone** carrying spikes, including you, your allies, and your
 
 }}
 
-\page
-
 **What helps.**
 
 - **Mental fortitude resists.** A **copper** spike steals exactly that, and a bearer carrying one has **advantage** on all saving throws against control. This is why the kandra Blessing of Presence was so valued. It is the single best investment a heavily spiked character can make.
@@ -4242,28 +4111,16 @@ This applies to **anyone** carrying spikes, including you, your allies, and your
 
 ---
 
+\page
+
 {{tableGroup
 
 ### What Each Metal Steals
 
-| Metal | Steals |
+The chart opposite gives all sixteen at a glance. Only the god metals, which the chart does not carry, are listed here.
+
+| God metal | Steals |
 |---|---|
-| **Iron** | Physical strength (raw, not a power) |
-| **Steel** | Physical Allomantic powers: iron, steel, tin, pewter |
-| **Tin** | Senses |
-| **Pewter** | Physical Feruchemical powers |
-| **Zinc** | Emotional fortitude |
-| **Brass** | Cognitive Feruchemical powers |
-| **Copper** | Mental fortitude, memory, and intelligence. **Resists control** |
-| **Bronze** | Mental Allomantic powers. Doubled bronze pierces copperclouds |
-| **Chromium** | Destiny, it is thought. The least understood of all, and the DM's to interpret |
-| **Nicrosil** | Raw Investiture itself, not any specific power |
-| **Aluminum** | **Removes** all Invested powers from the recipient. Grants nothing |
-| **Duralumin** | Connection and Identity |
-| **Cadmium** | Temporal Allomantic powers |
-| **Bendalloy** | Spiritual Feruchemical powers |
-| **Gold** | Hybrid Feruchemical powers |
-| **Electrum** | Enhancement Allomantic powers |
 | **Atium** | Any power, at full yield. Must be refined (13th level) |
 | **Lerasium** | All of a donor's abilities at once |
 | **Trellium** | Unknown, and not of this world. Makes Chimeras |
@@ -4272,29 +4129,9 @@ This applies to **anyone** carrying spikes, including you, your allies, and your
 
 A stolen Allomantic or Feruchemical power makes its bearer a Misting or Ferring of that metal, using the Misting or Ferring page as written, at a bloodline level equal to the spike's **yield percentage of the bearer's own level**, rounded down, minimum 1.
 
+**Stealing a spellcaster's power** is possible, and is set out in The Metallic Arts and the Weave rather than here, because a table playing without that appendix has no spellcasters for a Hemalurgist to steal from.
+
 **Hemalurgy is physically destructive.** A single spike is just a spike, and leaves its bearer looking like a person with a spike in them. It is *stacking* them that twists a body, and worst of all when the stolen attribute is neither Allomantic nor Feruchemical. Raw strength, senses, and fortitude deform the most, which is why koloss look as they do and Inquisitors are unmistakable.
-
-{{tableGroup
-
-#### Known Placements
-
-These are the placements that have been written down and survive. Everything else is guesswork.
-
-| Placement | Spike | Grants |
-|---|---|---|
-| Heart | Any | Universal charge (kills the donor) |
-| Sternum | Steel | Allomantic steel |
-| Left shoulder | Steel | Allomantic pewter |
-| Eye socket | Steel | Steel sight |
-| Earlobe or upper arm | Bronze | Allomantic bronze |
-| Between the ribs | Bronze | Allomantic zinc, brass, copper, or bronze |
-| Between the ribs | Electrum | Allomantic duralumin |
-| Between the ribs | Gold | Feruchemical gold |
-| Heart | Bronze | Allomantic copper |
-| Heart | Pewter | Feruchemical steel |
-| Upper back, between the shoulder blades | Varies | Linchpin |
-
-}}
 
 {{tableGroup
 
@@ -4311,18 +4148,19 @@ These are the placements that have been written down and survive. Everything els
 
 ---
 
+\page
 ### Hemalurgic Practices
 
 #### The Spiked
 
 *You are the work. Every configuration you find, you find on yourself.*
 
-\page
-
 - **3rd — Self-Surgery.** You can place a spike in your own body without assistance, however awkward the placement, and you **automatically succeed on the Placement check** to do so. When you do, make a Constitution saving throw (DC 10 + the number of spikes you already bear) to remain conscious through it; on a success you may act immediately, and on a failure you fall unconscious for 1 minute.
 - **6th — Honed Intent.** You have learned to sharpen the intent behind the killing, and the soul comes away more whole. For spikes **you** charge, your **Yield Floor is 80%**, or your usual floor if that is higher. A spike you make is worth two that you find.
 - **10th — Reinforced Frame.** Your body has learned to carry metal. Your **Spikes Borne increases by 1**, and you have advantage on saving throws against effects that would remove, move, or disable your spikes, including a Leecher's touch. *(Metal inside a living body cannot be Pushed or Pulled at all by ordinary Allomancy. Only a duralumin-flared burn or a lerasium-made Mistborn has ever managed it, and against those you at least get the save.)*
 - **14th — Terrible Symmetry.** Your **Honed Intent floor rises to 90%**. Your spikes have also become the most visible thing about you: creatures that can see them have **disadvantage on saving throws against being Frightened by you**.
+
+\column
 
 #### The Fleshwright
 
@@ -4339,6 +4177,8 @@ These are the placements that have been written down and survive. Everything els
  - Your intent sits in your creations' spikes the way an Allomancer's does. Any creature attempting to control one of them must first succeed on a check against your Hemalurgy save DC, as though **wresting the control away from you**, and you may issue commands to any creation whose location you know, at any distance.
  - When you spend an hour restoring a damaged construct, replacing lost flesh and re-seating loose spikes, it regains all its hit points and gains temporary hit points equal to your Hemalurgist level.
 
+\page
+
 #### The Bestower
 
 *The spikes go into other people. That has always been where the real power was.*
@@ -4349,8 +4189,6 @@ These are the placements that have been written down and survive. Everything els
 - **14th — The Ministry's Whole Art.** Your intent sits in every spike you have placed the way an Allomancer's control does. Any creature attempting to control one of your bearers must first succeed on a check against your **Hemalurgy save DC**, as though wresting that control away from you, and **Anchor** now reaches every bearer whose location you know, at any distance. In addition, a creature bearing a spike you placed may, once per long rest, use its stolen power at **surge tier**, as though it had been flared with duralumin (see the core rules). You have made an order, and it can act like one.
 
 ---
-
-\page
 
 {{wide
 <!--h:44-->
@@ -4369,13 +4207,6 @@ These are the placements that have been written down and survive. Everything els
 
 {{imgph,style=min-height:17em
 <!--h:15-->
-**[ART: hema-inquisitor]** *A Steel Inquisitor, spikes driven through both eye sockets.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
-
-{{imgph,style=min-height:17em
-<!--h:15-->
 **[ART: hema-chimera]** *A Hemalurgic chimera: quadrupedal, canine-twisted, thick-skulled.*
 
 **COLUMN** not supplied | ratio 1.33:1
@@ -4386,13 +4217,6 @@ These are the placements that have been written down and survive. Everything els
 
 # Part 5
 ## The Metal Economy
-
-{{imgph imgphWide,style=min-height:64em
-<!--h:112-->
-**[ART: cover-part5]** *Part 5 cover. A metals market stall, rows of vials racked by colour and label.*
-
-**FULL** not supplied | ratio 0.77:1
-}}
 
 \page
 ## The Metal Economy
@@ -4454,6 +4278,7 @@ Feruchemists buy the same metals in different shapes: **rings** (roughly 2 to 10
 
 }}
 
+\page
 #### What you actually pay
 
 Material cost is not shelf price. Somebody has to grind the metal fine, suspend it, and stake their reputation on the alloy being exact, and **a false alloy is worthless**, so that guarantee is most of what you are buying on the cheap metals.
@@ -4464,7 +4289,6 @@ Material cost is not shelf price. Somebody has to grind the metal fine, suspend 
 - **Prices double or worse** where a metal is scarce, controlled, or being sold to someone with no other option.
 
 **Grind your own.** This gap is worth a player noticing. A pouch of tin **powder** holds ten vials' worth and costs **1 silver**; ten prepared **vials** of the same tin cost **10 gold**, a hundred times more. Buying powder and preparing your own vials takes about an hour, a mortar, and some strong spirits, and it is the single largest saving available to a working Allomancer. It also means you are trusting your own purity checks instead of somebody else's, which is exactly why the Alloyer feat pays for itself.
-\page
 
 ---
 
@@ -4505,6 +4329,8 @@ This is the table that matters at play. A **vial is 5 grams**, and what that mea
 
 {{tableGroup
 
+\page
+
 ### Availability
 
 Not everything is on a shelf. Roll these into whatever your setting already does with rare goods.
@@ -4527,12 +4353,16 @@ Not everything is on a shelf. Roll these into whatever your setting already does
 
 **An alloy that is not exact does not work.** Ninety-one parts tin to nine parts lead is pewter. Ninety to ten is a lump of metal that will not burn, and an Allomancer who finds that out does so at the worst possible moment.
 
+\page
+
 - Metal from a **reputable supplier** is good. Metal from anywhere else is a question.
 - When buying from an unknown or disreputable source, the DM may call for a **Wisdom (Insight)** check against the seller, or simply decide. A bad batch typically burns at **half charges**, or does not burn at all.
 - A character with the **Alloyer** origin feat is never fooled. They can determine any sample's exact composition in a minute and know instantly whether it will burn, which makes them extremely popular with people who buy metal in bulk.
 - **Pure metals** (iron, tin, copper, zinc, cadmium, chromium, aluminum, gold) cannot be faked by ratio, only adulterated. **Alloys** are where the money is made and lost.
 
 ---
+
+\column
 
 ### Carrying it
 
@@ -4542,8 +4372,6 @@ What you can carry is governed by the core rules, not by cost.
 - **Metal still unburned 24 hours after you swallow it causes metal poisoning.** Load up before a fight, not before a journey.
 - Metal **worn or embedded** rather than swallowed is not on that clock, which is why serious Allomancers carry vials and serious Feruchemists wear rings.
 - Coins are metal. A pouch of steel coins is a Coinshot's ammunition and a Hazekiller's reason to carry none.
-
-\page
 
 ---
 
@@ -4560,6 +4388,8 @@ Treat god metal as **economy and DM reward**, never inventory. A bead of atium i
 **COLUMN** not supplied | ratio 1.33:1
 }}
 
+\page
+
 {{imgph,style=min-height:17em
 <!--h:15-->
 **[ART: economy-forms]** *The three purchase forms side by side: vial, powder pouch, and bead.*
@@ -4572,13 +4402,6 @@ Treat god metal as **economy and DM reward**, never inventory. A bead of atium i
 
 # Appendix
 ## The Arts and the Weave
-
-{{imgph imgphWide,style=min-height:64em
-<!--h:112-->
-**[ART: cover-appendix]** *Appendix cover. A wizard mid-cast and a Mistborn mid-Push, neither able to touch the other.*
-
-**FULL** not supplied | ratio 0.77:1
-}}
 
 \page
 ## The Metallic Arts and the Weave
@@ -4666,6 +4489,7 @@ A Seeker burning bronze feels **any active use of Investiture** within range, an
 
 A coppercloud hides the Investiture within it from being sensed. Against the Weave, **every creature inside** a coppercloud is hidden from **magical detection and divination**: *detect magic*, *scrying*, *locate creature*, and the like cannot find or read them while they remain inside, just as a Seeker's bronze cannot. The **Smoker** alone (not the others in the cloud, matching copper's emotional shield) additionally has **advantage on saving throws against divination and effects that would read or invade their mind**. The cloud's strength (the charges sustaining it) sets what level of magical senses it can defeat; only a bronze savant or duralumin-flared bronze can see through a strong one. See copper.
 
+\page
 ### What the Metallic Arts ignore
 
 Because a burn is an act of will on metal already inside you, not a spell, Allomancy sidesteps much of what stops a spellcaster. This is a real and deliberate advantage at a mixed table.
@@ -4675,9 +4499,9 @@ Because a burn is an act of will on metal already inside you, not a spell, Allom
 - **Concentration is separate.** Holding a time bubble or a sustained burn is not spellcaster Concentration; it is not broken by taking damage, and you can maintain it alongside a concentration spell if you also cast. Each metal page states what ends its effect.
 - **The counters that remain** are the Investiture-aware ones: aluminum and chromium (rare, coveted metals), taking away or fouling an Allomancer's metal, and simply out-fighting them. A party facing an Allomancer should understand that the standard anti-caster toolkit largely does not apply.
 
-\page
-
 {{tableGroup
+
+\column
 
 ### Quick reference
 
