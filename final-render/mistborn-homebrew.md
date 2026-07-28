@@ -152,12 +152,14 @@
 .page .toc.contents h3 { font-size: 0.95em; margin: 0.35em 0 0; }
 .page .toc.contents h4 { font-size: 0.88em; font-weight: normal; }
 .page .toc.contents h5 {
-  font-size: 0.82em;
+  font-size: 0.84em;
   font-weight: normal;
   font-style: italic;
 }
+.page .toc.contents h6 { font-size: 0.8em; font-weight: normal; }
 .page .toc.contents ul { margin: 0; }
 .page .toc.contents ul ul ul { margin-bottom: 0.2em; }
+.page .toc.contents ul ul ul ul { margin-bottom: 0.35em; }
 .page .toc.contents a { color: inherit; }
 
 /* --- Part covers --------------------------------------------------- */
@@ -191,17 +193,55 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
 - ### [{{ Bloodlines}}{{ 5}}](#p5)
   - #### [{{ Mistings}}{{ 8}}](#p8)
     - ##### [{{ Physical}}{{ 8}}](#p8)
+      - ###### [{{ Steel: Coinshot}}{{ 8}}](#p8)
+      - ###### [{{ Iron: Lurcher}}{{ 10}}](#p10)
+      - ###### [{{ Tin: Tineye}}{{ 13}}](#p13)
+      - ###### [{{ Pewter: Thug (Pewterarm)}}{{ 15}}](#p15)
     - ##### [{{ Mental}}{{ 17}}](#p17)
+      - ###### [{{ Zinc: Rioter}}{{ 17}}](#p17)
+      - ###### [{{ Brass: Soother}}{{ 18}}](#p18)
+      - ###### [{{ Copper: Smoker}}{{ 19}}](#p19)
+      - ###### [{{ Bronze: Seeker}}{{ 20}}](#p20)
     - ##### [{{ Enhancement}}{{ 21}}](#p21)
+      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 21}}](#p21)
+      - ###### [{{ Duralumin: Duralumin Gnat}}{{ 23}}](#p23)
+      - ###### [{{ Chromium: Leecher}}{{ 25}}](#p25)
+      - ###### [{{ Nicrosil: Nicroburst}}{{ 26}}](#p26)
     - ##### [{{ Temporal}}{{ 27}}](#p27)
+      - ###### [{{ Gold: Augur}}{{ 27}}](#p27)
+      - ###### [{{ Electrum: Oracle}}{{ 28}}](#p28)
+      - ###### [{{ Cadmium: Pulser}}{{ 29}}](#p29)
+      - ###### [{{ Bendalloy: Slider}}{{ 30}}](#p30)
     - ##### [{{ God Metals}}{{ 32}}](#p32)
+      - ###### [{{ Other Metals}}{{ 32}}](#p32)
+      - ###### [{{ Atium: Seer}}{{ 33}}](#p33)
+      - ###### [{{ Malatium: the Eleventh Metal}}{{ 34}}](#p34)
+      - ###### [{{ Lerasium}}{{ 35}}](#p35)
   - #### [{{ Savants}}{{ 36}}](#p36)
   - #### [{{ Ferrings}}{{ 42}}](#p42)
     - ##### [{{ Physical}}{{ 42}}](#p42)
+      - ###### [{{ Iron: Skimmer}}{{ 42}}](#p42)
+      - ###### [{{ Steel: Steelrunner}}{{ 44}}](#p44)
+      - ###### [{{ Tin: Windwhisperer}}{{ 46}}](#p46)
+      - ###### [{{ Pewter: Brute}}{{ 48}}](#p48)
     - ##### [{{ Cognitive}}{{ 50}}](#p50)
+      - ###### [{{ Zinc: Sparker}}{{ 50}}](#p50)
+      - ###### [{{ Brass: Firesoul}}{{ 51}}](#p51)
+      - ###### [{{ Copper: Archivist}}{{ 54}}](#p54)
+      - ###### [{{ Bronze: Sentry}}{{ 56}}](#p56)
     - ##### [{{ Hybrid}}{{ 58}}](#p58)
+      - ###### [{{ Cadmium: Gasper}}{{ 58}}](#p58)
+      - ###### [{{ Bendalloy: Subsumer}}{{ 59}}](#p59)
+      - ###### [{{ Gold: Bloodmaker}}{{ 60}}](#p60)
+      - ###### [{{ Electrum: Pinnacle}}{{ 62}}](#p62)
     - ##### [{{ Spiritual}}{{ 63}}](#p63)
+      - ###### [{{ Chromium: Spinner}}{{ 63}}](#p63)
+      - ###### [{{ Nicrosil: Soulbearer}}{{ 64}}](#p64)
+      - ###### [{{ Aluminum: Trueself}}{{ 65}}](#p65)
+      - ###### [{{ Duralumin: Connector}}{{ 67}}](#p67)
     - ##### [{{ God Metals}}{{ 68}}](#p68)
+      - ###### [{{ Other Metals (Feruchemy)}}{{ 68}}](#p68)
+      - ###### [{{ Atium (Feruchemical)}}{{ 69}}](#p69)
   - #### [{{ Twinborn}}{{ 70}}](#p70)
   - #### [{{ Compounding}}{{ 72}}](#p72)
 - ### [{{ Species}}{{ 74}}](#p74)
@@ -379,6 +419,7 @@ Driving a coin, nail, or bead as a weapon is a ranged Allomantic attack with a r
 }}
 
 \page
+
 ## Iron: Lurcher
 
 *Where a Coinshot pushes the world away, a Lurcher draws it in, snatching a blade from a hand or hauling themselves to a rooftop by a single nail.*
@@ -533,6 +574,7 @@ To hit, add your **proficiency bonus + Constitution modifier**; damage is **pier
 ---
 
 \page
+
 ## Tin: Tineye
 
 *The world sharpens. A Tineye hears a heartbeat through a wall and sees the assassin's shadow before the candle gutters, yet a sudden torch can bring them to their knees.*
@@ -604,6 +646,7 @@ A tin savant (about 5 kg of tin burned over a lifetime, or a Mistborn's class fe
 }}
 
 \page
+
 ## Pewter: Thug (Pewterarm)
 
 *A Thug shrugs off a crossbow bolt, rips a door from its hinges, and keeps running, until the pewter putters out and every wound they ignored arrives at once.*
@@ -734,6 +777,7 @@ The effect of a single inflamed emotion is up to the DM and depends on what the 
 }}
 
 \page
+
 ## Brass: Soother
 
 *A Soother's presence is a quiet balm. Anger cools, suspicion fades, and a frightened guard finds, without knowing why, that they trust the stranger at the gate.*
@@ -789,6 +833,7 @@ The effect of a single dampened emotion is up to the DM and depends on what the 
 }}
 
 \page
+
 ## Copper: Smoker
 
 *Around a Smoker hangs an unseen quiet. Within it, Allomancy leaves no ripple, and a Seeker's questing pulses find nothing at all.*
@@ -845,6 +890,7 @@ A creature able to pierce the cloud must succeed on a Wisdom saving throw agains
 }}
 
 \page
+
 ## Bronze: Seeker
 
 *A Seeker hears what others cannot: the silent drumbeat of burning metal, and the tolling pulse of a spell being cast three rooms away.*
@@ -948,6 +994,7 @@ You still cannot reach *another* creature's Investiture with aluminum; it acts o
 }}
 
 \page
+
 ## Duralumin: Duralumin Gnat
 
 *One breath of power spent all at once. A Coinshot who flares duralumin can hurl a carriage; a Thug can shatter a wall with a shoulder.*
@@ -1007,6 +1054,7 @@ For the Allomantic detonation, a single charge is enough; it already burns *ever
 }}
 
 \page
+
 ## Chromium: Leecher
 
 *A Leecher's touch is a sudden, sinking cold, and the power a rival was counting on is simply gone.*
@@ -1046,6 +1094,7 @@ Chromium reaches **past Allomancy** as you pour more into a single touch, up to 
 }}
 
 \page
+
 ## Nicrosil: Nicroburst
 
 *A Nicroburst lends no power of their own. They lay a hand on an ally, and that ally's Allomancy erupts.*
@@ -1124,6 +1173,7 @@ Flaring does little. Burning more charges sharpens and prolongs the vision but g
 }}
 
 \page
+
 ## Electrum: Oracle
 
 *An Oracle sees a heartbeat ahead: a shadow of themselves stepping into the next moment, so nothing can truly take them by surprise.*
@@ -1170,6 +1220,7 @@ Each extra charge you burn in a minute, up to a number equal to your level, push
 }}
 
 \page
+
 ## Cadmium: Pulser
 
 *Inside a Pulser's bubble the world slows to a crawl, and an afternoon of danger can pass outside in the space of a held breath.*
@@ -1224,6 +1275,7 @@ A cadmium savant (5 kg burned, or a Mistborn's class feature), beyond the shared
 }}
 
 \page
+
 ## Bendalloy: Slider
 
 *Within a Slider's bubble, seconds stretch into minutes. A few heartbeats of the outside world are time enough to plan, to heal, and to strike a dozen times.*
@@ -1331,6 +1383,7 @@ Two further God Metals exist on Scadrial and are **not playable**. They are here
 Treat these metals as plot, not as loadout. A vial of atium should change what a session is about. When you hand out lerasium, you are handing out a new character.
 
 \page
+
 ## Atium: Seer
 
 *The world fills with ghosts. Every creature drags a shadow of itself a heartbeat ahead, and a Seer needs only to strike where the shadow is going to be.*
@@ -1392,6 +1445,7 @@ Refined atium also enhances the mind to hold and process what it shows, and at t
 }}
 
 \page
+
 ## Malatium: the Eleventh Metal
 
 *A stranger stands beside your enemy wearing their face, living the life they did not choose. Watch them long enough and you will learn who your enemy truly is.*
@@ -1428,6 +1482,7 @@ Each extra charge you burn in a round, up to a number equal to your level, holds
 }}
 
 \page
+
 ## Lerasium
 
 *Nine beads made nine houses into legends, and every Allomancer who has lived since is descended from that gift.*
@@ -1805,6 +1860,7 @@ Weight is not armor. Your increased density does **not** protect you from being 
 }}
 
 \page
+
 ## Steel: Steelrunner
 
 *A Steelrunner spends the morning moving as though through cold honey, and buys with it ten seconds in which no one else in the room can react at all.*
@@ -1876,6 +1932,7 @@ Because compression punishes hard draws, the highest tiers last seconds, not min
 }}
 
 \page
+
 ## Tin: Windwhisperer
 
 *A Windwhisperer wears a half-dozen rings and chooses, each morning, what they will be able to do that day: read a page across a courtyard, hear a whisper through a wall, or feel nothing at all.*
@@ -1947,6 +2004,7 @@ Tapping **sight** trades breadth for distance. Your vision narrows toward a bino
 }}
 
 \page
+
 ## Pewter: Brute
 
 *A Brute spends a week thin and shaking, and buys with it an afternoon in which doors are suggestions and armored men are furniture.*
@@ -2077,6 +2135,7 @@ Your **body still moves at its own pace**. Tapping hard means living in a world 
 }}
 
 \page
+
 ## Brass: Firesoul
 
 *A Firesoul walks into the flames and comes out cold, having drunk the fire down into a ring on their finger.*
@@ -2206,6 +2265,7 @@ Warmth is not fuel. It keeps you from freezing and lets you set things alight, b
 }}
 
 \page
+
 ## Copper: Archivist
 
 *An Archivist can recite a book they have never read twice, and can look their own brother in the face without knowing him. Both are the same ring.*
@@ -2273,6 +2333,7 @@ Because a stored memory leaves no trace of itself, a working Archivist keeps an 
 }}
 
 \page
+
 ## Bronze: Sentry
 
 *A Sentry sleeps a long, dreamless winter into a bracelet, and spends it standing watch through a siege without once sitting down.*
@@ -2393,6 +2454,7 @@ Breath is not energy, food, or wakefulness. You can go without air, and still st
 }}
 
 \page
+
 ## Bendalloy: Subsumer
 
 *A Subsumer eats like three field hands through the autumn, and crosses the winter desert on a ring, never once stopping to open a pack.*
@@ -2448,6 +2510,7 @@ Filling is bounded by your own body. You can only eat so fast and hold so much a
 }}
 
 \page
+
 ## Gold: Bloodmaker
 
 *A Bloodmaker takes the wound that should have killed them, staggers, and stands back up with the skin already closing, paid for out of a ring bought with weeks of being sick.*
@@ -2526,6 +2589,7 @@ Gold heals the **body toward its ideal self**, and no further. This is the sourc
 }}
 
 \page
+
 ## Electrum: Pinnacle
 
 *A Pinnacle spends the calm days grey and listless, then taps the ring when the walls are falling and becomes a person who simply will not stop.*
@@ -2632,6 +2696,7 @@ You may spend Fortune points from a chromiummind at any time, even in response t
 }}
 
 \page
+
 ## Nicrosil: Soulbearer
 
 *A Soulbearer sets their magic aside into a ring, walks a while as an ordinary person, then draws it back and casts higher than they ever could unaided.*
@@ -2683,6 +2748,7 @@ So handing magic person to person is real, and it is the strongest thing nicrosi
 }}
 
 \page
+
 ## Aluminum: Trueself
 
 *A Trueself can hollow themselves out until they are no one at all, or draw so fully into themselves that no lie, no charm, and no other face can find purchase.*
@@ -2746,6 +2812,7 @@ While you tap an aluminummind, you become intensely, unshakably *you*.
 }}
 
 \page
+
 ## Duralumin: Connector
 
 *A Connector can walk through a hostile court and have no one quite remember they were there, or sit down among strangers who speak no tongue they know and rise an hour later as a trusted friend.*
@@ -2821,6 +2888,7 @@ A God Metal is condensed Investiture, and it does not fight its user the way les
 See the Ferring Bloodlines for the shared rules and the God Metals for the lore.
 
 \page
+
 ## Atium (Feruchemical)
 
 *The Lord Ruler aged a day into a bead each morning, and drew a day of youth back out each night, and so wore the same face for a thousand years.*
