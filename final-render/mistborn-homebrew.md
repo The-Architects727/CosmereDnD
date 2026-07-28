@@ -187,14 +187,14 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
       - ###### [{{ Steel: Coinshot}}{{ 5}}](#p5)
       - ###### [{{ Iron: Lurcher}}{{ 7}}](#p7)
       - ###### [{{ Tin: Tineye}}{{ 10}}](#p10)
-      - ###### [{{ Pewter: Thug (Pewterarm)}}{{ 12}}](#p12)
-    - ##### [{{ Mental}}{{ 14}}](#p14)
-      - ###### [{{ Zinc: Rioter}}{{ 14}}](#p14)
-      - ###### [{{ Brass: Soother}}{{ 15}}](#p15)
-      - ###### [{{ Copper: Smoker}}{{ 16}}](#p16)
-      - ###### [{{ Bronze: Seeker}}{{ 17}}](#p17)
-    - ##### [{{ Enhancement}}{{ 18}}](#p18)
-      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 18}}](#p18)
+      - ###### [{{ Pewter: Thug (Pewterarm)}}{{ 11}}](#p11)
+    - ##### [{{ Mental}}{{ 13}}](#p13)
+      - ###### [{{ Zinc: Rioter}}{{ 13}}](#p13)
+      - ###### [{{ Brass: Soother}}{{ 14}}](#p14)
+      - ###### [{{ Copper: Smoker}}{{ 15}}](#p15)
+      - ###### [{{ Bronze: Seeker}}{{ 16}}](#p16)
+    - ##### [{{ Enhancement}}{{ 17}}](#p17)
+      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 17}}](#p17)
       - ###### [{{ Duralumin: Duralumin Gnat}}{{ 19}}](#p19)
       - ###### [{{ Chromium: Leecher}}{{ 20}}](#p20)
       - ###### [{{ Nicrosil: Nicroburst}}{{ 21}}](#p21)
@@ -203,61 +203,61 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
       - ###### [{{ Electrum: Oracle}}{{ 23}}](#p23)
       - ###### [{{ Cadmium: Pulser}}{{ 24}}](#p24)
       - ###### [{{ Bendalloy: Slider}}{{ 25}}](#p25)
-    - ##### [{{ God Metals}}{{ 27}}](#p27)
-      - ###### [{{ Other Metals}}{{ 27}}](#p27)
-      - ###### [{{ Atium: Seer}}{{ 28}}](#p28)
-      - ###### [{{ Malatium: the Eleventh Metal}}{{ 29}}](#p29)
-      - ###### [{{ Lerasium}}{{ 30}}](#p30)
-  - #### [{{ Savants}}{{ 31}}](#p31)
-  - #### [{{ Ferrings}}{{ 37}}](#p37)
-    - ##### [{{ Physical}}{{ 37}}](#p37)
-      - ###### [{{ Iron: Skimmer}}{{ 37}}](#p37)
-      - ###### [{{ Steel: Steelrunner}}{{ 39}}](#p39)
-      - ###### [{{ Tin: Windwhisperer}}{{ 40}}](#p40)
-      - ###### [{{ Pewter: Brute}}{{ 42}}](#p42)
-    - ##### [{{ Cognitive}}{{ 44}}](#p44)
-      - ###### [{{ Zinc: Sparker}}{{ 44}}](#p44)
-      - ###### [{{ Brass: Firesoul}}{{ 45}}](#p45)
-      - ###### [{{ Copper: Archivist}}{{ 47}}](#p47)
-      - ###### [{{ Bronze: Sentry}}{{ 49}}](#p49)
-    - ##### [{{ Hybrid}}{{ 50}}](#p50)
-      - ###### [{{ Cadmium: Gasper}}{{ 50}}](#p50)
-      - ###### [{{ Bendalloy: Subsumer}}{{ 51}}](#p51)
-      - ###### [{{ Gold: Bloodmaker}}{{ 52}}](#p52)
-      - ###### [{{ Electrum: Pinnacle}}{{ 54}}](#p54)
-    - ##### [{{ Spiritual}}{{ 55}}](#p55)
-      - ###### [{{ Chromium: Spinner}}{{ 55}}](#p55)
-      - ###### [{{ Nicrosil: Soulbearer}}{{ 56}}](#p56)
-      - ###### [{{ Aluminum: Trueself}}{{ 57}}](#p57)
-      - ###### [{{ Duralumin: Connector}}{{ 59}}](#p59)
-    - ##### [{{ God Metals}}{{ 60}}](#p60)
-      - ###### [{{ Other Metals (Feruchemy)}}{{ 60}}](#p60)
-      - ###### [{{ Atium (Feruchemical)}}{{ 61}}](#p61)
-  - #### [{{ Twinborn}}{{ 62}}](#p62)
-  - #### [{{ Compounding}}{{ 64}}](#p64)
+    - ##### [{{ God Metals}}{{ 26}}](#p26)
+      - ###### [{{ Other Metals}}{{ 26}}](#p26)
+      - ###### [{{ Atium: Seer}}{{ 27}}](#p27)
+      - ###### [{{ Malatium: the Eleventh Metal}}{{ 28}}](#p28)
+      - ###### [{{ Lerasium}}{{ 29}}](#p29)
+  - #### [{{ Savants}}{{ 30}}](#p30)
+  - #### [{{ Ferrings}}{{ 36}}](#p36)
+    - ##### [{{ Physical}}{{ 36}}](#p36)
+      - ###### [{{ Iron: Skimmer}}{{ 36}}](#p36)
+      - ###### [{{ Steel: Steelrunner}}{{ 38}}](#p38)
+      - ###### [{{ Tin: Windwhisperer}}{{ 39}}](#p39)
+      - ###### [{{ Pewter: Brute}}{{ 40}}](#p40)
+    - ##### [{{ Cognitive}}{{ 41}}](#p41)
+      - ###### [{{ Zinc: Sparker}}{{ 41}}](#p41)
+      - ###### [{{ Brass: Firesoul}}{{ 42}}](#p42)
+      - ###### [{{ Copper: Archivist}}{{ 44}}](#p44)
+      - ###### [{{ Bronze: Sentry}}{{ 46}}](#p46)
+    - ##### [{{ Hybrid}}{{ 47}}](#p47)
+      - ###### [{{ Cadmium: Gasper}}{{ 47}}](#p47)
+      - ###### [{{ Bendalloy: Subsumer}}{{ 48}}](#p48)
+      - ###### [{{ Gold: Bloodmaker}}{{ 49}}](#p49)
+      - ###### [{{ Electrum: Pinnacle}}{{ 51}}](#p51)
+    - ##### [{{ Spiritual}}{{ 52}}](#p52)
+      - ###### [{{ Chromium: Spinner}}{{ 52}}](#p52)
+      - ###### [{{ Nicrosil: Soulbearer}}{{ 53}}](#p53)
+      - ###### [{{ Aluminum: Trueself}}{{ 54}}](#p54)
+      - ###### [{{ Duralumin: Connector}}{{ 55}}](#p55)
+    - ##### [{{ God Metals}}{{ 56}}](#p56)
+      - ###### [{{ Other Metals (Feruchemy)}}{{ 56}}](#p56)
+      - ###### [{{ Atium (Feruchemical)}}{{ 57}}](#p57)
+  - #### [{{ Twinborn}}{{ 58}}](#p58)
+  - #### [{{ Compounding}}{{ 60}}](#p60)
 }}
 
 \column
 
 {{toc,contents
-- ### [{{ Species}}{{ 66}}](#p66)
-  - #### [{{ Koloss-blooded}}{{ 67}}](#p67)
-  - #### [{{ Kandra}}{{ 70}}](#p70)
-- ### [{{ Backgrounds}}{{ 74}}](#p74)
-  - #### [{{ Alloyer}}{{ 75}}](#p75)
-  - #### [{{ Hazekiller}}{{ 75}}](#p75)
-  - #### [{{ Crewmember}}{{ 75}}](#p75)
-  - #### [{{ Metal Smuggler}}{{ 75}}](#p75)
-  - #### [{{ Ashworker}}{{ 76}}](#p76)
-- ### [{{ Origin Feats}}{{ 76}}](#p76)
-  - #### [{{ Alloyer (Origin Feat)}}{{ 76}}](#p76)
-  - #### [{{ Hazekiller (Origin Feat)}}{{ 76}}](#p76)
-- ### [{{ Classes}}{{ 77}}](#p77)
-  - #### [{{ Mistborn}}{{ 78}}](#p78)
-  - #### [{{ Feruchemist}}{{ 82}}](#p82)
-  - #### [{{ Hemalurgist}}{{ 88}}](#p88)
-- ### [{{ The Metal Economy}}{{ 97}}](#p97)
-- ### [{{ The Arts and the Weave}}{{ 101}}](#p101)
+- ### [{{ Species}}{{ 62}}](#p62)
+  - #### [{{ Koloss-blooded}}{{ 63}}](#p63)
+  - #### [{{ Kandra}}{{ 66}}](#p66)
+- ### [{{ Backgrounds}}{{ 70}}](#p70)
+  - #### [{{ Alloyer}}{{ 71}}](#p71)
+  - #### [{{ Hazekiller}}{{ 71}}](#p71)
+  - #### [{{ Crewmember}}{{ 71}}](#p71)
+  - #### [{{ Metal Smuggler}}{{ 71}}](#p71)
+  - #### [{{ Ashworker}}{{ 72}}](#p72)
+- ### [{{ Origin Feats}}{{ 72}}](#p72)
+  - #### [{{ Alloyer (Origin Feat)}}{{ 72}}](#p72)
+  - #### [{{ Hazekiller (Origin Feat)}}{{ 72}}](#p72)
+- ### [{{ Classes}}{{ 73}}](#p73)
+  - #### [{{ Mistborn}}{{ 74}}](#p74)
+  - #### [{{ Feruchemist}}{{ 78}}](#p78)
+  - #### [{{ Hemalurgist}}{{ 84}}](#p84)
+- ### [{{ The Metal Economy}}{{ 93}}](#p93)
+- ### [{{ The Arts and the Weave}}{{ 97}}](#p97)
 }}
 
 \page
@@ -354,6 +354,10 @@ A Misting begins play with **1d6 grams** of their metal, as small beads or a via
 
 ### Physical
 
+*Four metals for the world you can put your hands on.*
+
+The Physical quadrant acts on matter and on the body that moves through it. Outward, steel and iron **Push** and **Pull** on nearby metal, turning coins into shrapnel and a window grate into a handhold. Inward, tin and pewter sharpen the Allomancer instead of the world, opening the senses or driving the body past what it should survive. These are the plainest of the sixteen and the ones a table will reach for most: a Coinshot solves a problem by moving something, a Thug by outlasting it.
+
 ## Steel: Coinshot
 
 *A flick of the wrist, a scatter of coins, and the Coinshot is airborne, riding lines of blue light between anchors of iron.*
@@ -374,13 +378,13 @@ While you burn steel, at a base rate of 1 charge per minute, you gain the follow
 
 Each extra charge you burn in a round, up to a number equal to your level, adds 750 Newtons to your force pool for that round. This added force must be spent that same round or it is lost. Greater force means farther launches and knockbacks and heavier things moved; read the higher force columns of Tables B and C.
 
+\page
+
 ### The force turns on you
 
 A Push begins at your center of mass, in your chest. When you Push something that **gives way**, a coin, a loose object, a foe lighter than you, the force sends it flying and you are unharmed. But when you Push something that **will not move**, an anchored wall, a boulder, a creature far heavier than you, and you **brace** yourself rather than let it launch you, the force has nowhere to go but back through your own skeleton, pressing on your sternum.
 
 Your body bears only so much. Your **force tolerance** is about **1,500 N**, roughly two charges.
-
-\page
 
 **Pewter is the answer.** While you burn pewter, your body's durability rises and your force tolerance **doubles**, climbing further as you flare. This is why the great Coinshots are so often pewter-burners too: without a reinforced body, there is a hard ceiling on how hard you dare Push. *(Launching yourself off an anchor, Table B, is not bracing; you fly with the force instead of resisting it, and take no self-injury.)*
 
@@ -625,15 +629,6 @@ A tin savant (about 5 kg of tin burned over a lifetime, or a Mistborn's class fe
 
 \page
 
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: metal-tin]** *A Tineye on a rooftop at night, eyes wide, the city rendered in impossible detail.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
-
-\page
-
 ## Pewter: Thug (Pewterarm)
 
 *A Thug shrugs off a crossbow bolt, rips a door from its hinges, and keeps running, until the pewter putters out and every wound they ignored arrives at once.*
@@ -698,16 +693,13 @@ A Thug who leans on pewter and burns their last charge in a fight is suddenly, m
 
 }}
 
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: metal-pewter]** *A Thug shouldering through a barred door, splinters flying.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
-
 \page
 
 ### Mental
+
+*Four metals for the space between people, and for Allomancy itself.*
+
+The Mental quadrant reaches minds rather than matter. Zinc and brass work outward on other people's emotions, riding a mood up into fury or damping it down into calm, which makes them the metals of the negotiation, the con, and the panicked crowd. Copper and bronze turn the same sensitivity inward on the art itself: one hides your burning from anyone listening, the other lets you do the listening. Little here wins a fight outright. Most of it decides whether there is a fight.
 
 ## Zinc: Rioter
 
@@ -927,6 +919,10 @@ Each extra charge you burn in a minute, up to a number equal to your level, incr
 
 ### Enhancement
 
+*Four metals that do nothing on their own.*
+
+Every metal in the Enhancement quadrant is a multiplier or an eraser of somebody's power, never a power in itself. Aluminum and duralumin act on the Allomancer burning them, wiping their own reserves clean or detonating them all at once. Chromium and nicrosil reach out and do the same to someone else. Choosing from this quadrant is choosing to be the answer to another Allomancer, which is quiet at a table with no rival Mistings in it and decisive at one full of them.
+
 ## Aluminum: Aluminum Gnat
 
 *The metal that unmakes metal. An Allomancer who burns it feels their power simply vanish.*
@@ -965,6 +961,8 @@ You still cannot reach *another* creature's Investiture with aluminum; it acts o
 - You do not need aluminum to stop burning; extinguishing a metal is always free. Aluminum's distinction is that it removes your unburned reserves as well.
 - Aluminum clears only **your own** reserves. To strip another Allomancer, see Chromium (Leecher).
 - The metal aluminum has defensive properties beyond this power: it cannot be Pushed or Pulled, and worn against the head it shields the wearer from emotional Allomancy. Those come from the metal itself, not from burning it.
+
+\page
 
 {{note
 
@@ -1118,6 +1116,10 @@ For the Allomantic detonation, one charge suffices. Flaring nicrosil, like flari
 \page
 
 ### Temporal
+
+*Four metals for time, which is the most expensive thing to spend.*
+
+The Temporal quadrant buys knowledge of when, or command of it. Gold and electrum turn inward and show the burner a self they might have been or are about to become, which is information rather than force, and often unwelcome information. Cadmium and bendalloy turn outward and bend the rate of time itself inside a fixed bubble, letting a crew take four rounds while the world takes one, or strand a pursuer in slowed treacle. These metals reshape encounters rather than winning them, and they are the ones most likely to make a DM rethink a scene.
 
 ## Gold: Augur
 
@@ -1316,16 +1318,11 @@ A bendalloy savant (5 kg burned, or a Mistborn's class feature) transcends the f
 
 \page
 
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: metal-bendalloy]** *Cutaway of a speed bubble. Inside, a figure moves freely; outside, the world crawls.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
-
-\page
-
 ## God Metals of Allomancy
+
+*Not a quadrant. A category, and a campaign event.*
+
+The God Metals are formed from the power of a Shard rather than mined from the ground. They are not bloodlines chosen at character creation; they are rare materials a DM places, and each one does something no ordinary metal can. A bead of atium is a treasure. A bead of lerasium rewrites a character sheet. Expect the world to react to anyone known to hold either.
 
 {{imgph,style=min-height:17em
 <!--h:15-->
@@ -1781,6 +1778,10 @@ A Ferring begins play with a **ring** of their metal weighing **1d8 grams**, and
 
 ### Physical
 
+*Four metals for the body, and the plainest bargain in Feruchemy.*
+
+The Physical quadrant stores what a body is and does: weight into iron, speed into steel, senses into tin, strength into pewter. Nothing here is subtle. You spend an afternoon slow, dull, weak or oddly light, and you get that afternoon back concentrated into the thirty seconds you needed it. Because the trade is so legible, this is the quadrant that rewards planning: a Skimmer who filled their ironmind yesterday can walk on a rope bridge that will not hold anyone else, and a Brute who did not fill anything is simply a person.
+
 ## Iron: Skimmer
 
 *A Skimmer crosses rotten floorboards without a creak, then plants themselves in a doorway and becomes something no charge can move.*
@@ -1975,15 +1976,6 @@ Tapping **sight** trades breadth for distance. Your vision narrows toward a bino
 
 \page
 
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: metal-tin]** *A Tineye on a rooftop at night, eyes wide, the city rendered in impossible detail.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
-
-\page
-
 ## Pewter: Brute
 
 *A Brute spends a week thin and shaking, and buys with it an afternoon in which doors are suggestions and armored men are furniture.*
@@ -2047,16 +2039,11 @@ Your skeleton and joints are still yours. Tapping enormous strength lets you lif
 
 \page
 
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: metal-pewter]** *A Thug shouldering through a barred door, splinters flying.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
-
-\page
-
 ### Cognitive
+
+*Four metals for the mind, and for the machinery that keeps a body running.*
+
+The Cognitive quadrant stores thought and regulation: mental speed into zinc, warmth into brass, memories into copper, wakefulness into bronze. Storing here costs you something a fight does not immediately notice, which makes it the quadrant that can be filled while the party sleeps or travels. Copper is the strange one, since a stored memory is genuinely gone from you until you tap it back, and an Archivist's coppermind is a library rather than a battery. Brass is the sole exception to Feruchemy's first rule: heat radiates, so a Firesoul is the only Ferring whose power reaches anyone but themselves.
 
 ## Zinc: Sparker
 
@@ -2378,6 +2365,10 @@ While you tap a bronzemind, sleep stops mattering.
 
 ### Hybrid
 
+*Four metals for the processes that keep you alive between one moment and the next.*
+
+The Hybrid quadrant sits between body and spirit, storing breath into cadmium, nutrition into bendalloy, health into gold, and determination into electrum. These are the metals of endurance rather than of a single decisive moment: air for a room that has none, a meal for a week without one, a wound closed while someone is still swinging at you. Gold is the famous one and the most easily overspent, since tapping health faster than you stored it is how a Bloodmaker walks out of something that should have killed them and then cannot stand up afterward.
+
 ## Cadmium: Gasper
 
 *A Gasper takes a few deep breaths at the water's edge, then walks in and keeps walking, across the bottom, for as long as the ring on their finger holds air.*
@@ -2623,6 +2614,10 @@ While you tap an electrummind, a fierce, rising drive fills you, and at the top 
 
 ### Spiritual
 
+*Four metals for what a person is, rather than what their body does.*
+
+The Spiritual quadrant is the strangest and the least understood, storing Fortune into chromium, Investiture into nicrosil, Identity into aluminum, and Connection into duralumin. What these do is hard to state as a number and harder to adjudicate at speed, and any table using them should expect to talk through the first few uses. They are also the quadrant that makes the rest of the system possible: an unsealed metalmind, which anyone may draw from, requires a Trueself's stored Identity, and Compounding leans on this quadrant more than any other.
+
 ## Chromium: Spinner
 
 *A Spinner spends a grey week where nothing goes right, and buys with it a single moment where nothing can go wrong.*
@@ -2779,15 +2774,6 @@ While you tap an aluminummind, you become intensely, unshakably *you*.
 
 \page
 
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: metal-aluminum-feru]** *A figure whose reflection in the glass does not match them.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
-
-\page
-
 ## Duralumin: Connector
 
 *A Connector can walk through a hostile court and have no one quite remember they were there, or sit down among strangers who speak no tongue they know and rise an hour later as a trusted friend.*
@@ -2843,6 +2829,10 @@ While you tap a duraluminmind, bonds form in moments that would normally take mo
 \page
 
 ## God Metals of Feruchemy
+
+*Not a quadrant. A category, and only one of them is understood.*
+
+The God Metals are formed from the power of a Shard rather than mined. On the Feruchemical side only atium is known, and what it stores is **age**: fill it and grow old, tap it and grow young. It is not a bloodline chosen at character creation. It is the root of every story about someone who should have died a century ago and did not.
 
 ## Other Metals (Feruchemy)
 
@@ -2979,13 +2969,6 @@ Every pairing has its own name in the world, as a single power does. Only a few 
 
 A Twinborn begins play with **both** a Misting's and a Ferring's starting gear: **1d6 grams** of their Allomantic metal as beads, and a **ring of 1d8 grams** of their Feruchemical metal.
 
-{{imgph,style=min-height:23em
-<!--h:20-->
-**[ART: twinborn-emblem]** *Two overlapping metal symbols fused into a single emblem.*
-
-**COLUMN** not supplied | ratio 1.00:1
-}}
-
 \page
 
 ## Compounding
@@ -3069,13 +3052,6 @@ The attribute is the Feruchemical one; the Allomantic half of the pair only prov
 ### Starting equipment
 
 A Compounder begins play with a **ring, a set of beads, or a needle of their metal weighing 1d6 grams**, chosen to be small enough to swallow or embed so it can be burned.)
-
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: compounding-ring]** *A ring being swallowed, held between finger and thumb.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
 
 \page
 {{partCover}}
@@ -3720,13 +3696,6 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 - **6th — Nested Time.** You can hold **a bubble within a bubble.** Most usefully, when you trap foes inside a slow cadmium bubble, you may raise a smaller bubble of ordinary or quickened time **around yourself**, so that you act and react at full speed while your enemies are held in the crawl. Two nested rates of time are yours to manage, each at its own charge cost.
 - **10th — Oracle's Reach.** While **burning electrum**, your own foresight runs deep and sure without your having to flare so hard for it: you cannot be surprised, you have advantage on Dexterity saving throws, and attackers you can see have disadvantage against you, the highest reach of an Oracle's sight made habitual.
 - **14th — Master of the Moment.** You become a **savant of gold, electrum, cadmium, and bendalloy**. Freed of their flare caps and twice as efficient with each, you may, with charges enough, raise a bubble of such compression that a full minute passes within it for an eyeblink outside, as the Lord Ruler's servants once managed with a duralumin-fueled bendalloy, time enough to act, heal, flee, or prepare. It is never free, and it carries a savant's **Dependency**: cut off from a Temporal metal you were leaning on, you fall into withdrawal until you burn it again.
-
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: class-mistborn]** *A Mistborn burning several metals at once, lines and pulses overlapping.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
 \page
 
 ## Feruchemist
@@ -4363,13 +4332,6 @@ These are the placements that have been written down and survive. Everything els
 ---
 
 \page
-
-{{imgph,style=min-height:17em
-<!--h:15-->
-**[ART: class-hemalurgist]** *A tray of prepared spikes in different metals, laid out like surgical tools.*
-
-**COLUMN** not supplied | ratio 1.33:1
-}}
 
 {{wide
 <!--h:44-->
