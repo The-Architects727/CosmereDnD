@@ -363,15 +363,17 @@ A charge is 750 N, and 750 N is about the weight of an average adult, so the ari
 
 > **Your g-load is the charges spent on that single Push, times 170, divided by your weight in pounds.**
 
-A Coinshot learns to take a hard launch, better than an untrained person and nowhere near a pilot strapped into a g-suit. **You can bear 10 g.** Past that you take **1d6 bludgeoning per gravity above 10**, ignoring resistance, and must make a **Constitution saving throw** against DC 10 plus the gravities above 10 or grey out, falling **unconscious until the end of your next turn**, which on the way up is its own kind of problem.
+A Coinshot learns to take a hard launch, better than an untrained person and nowhere near a pilot strapped into a g-suit. **You can bear 10 g, plus your Strength modifier.** Resisting a hard acceleration is muscle work, the same tensing a pilot is trained to do, so a small wiry person survives a launch that folds a small frail one. Past your ceiling you take **1d6 bludgeoning per gravity above it**, ignoring resistance, and must make a **Constitution saving throw** against DC 10 plus the gravities above it or grey out, falling **unconscious until the end of your next turn**, which on the way up is its own kind of problem.
 
-| Your weight | Charges you can put into one launch |
-|---|---|
-| 90 lb | 5 |
-| 120 lb | 7 |
-| 165 lb | 9 |
-| 180 lb | 10 |
-| 250 lb | 14 |
+| Your weight | Str -1 | Str +0 | Str +2 | Str +4 |
+|---|---|---|---|---|
+| 90 lb | 4 | 5 | 6 | 7 |
+| 120 lb | 6 | 7 | 8 | 9 |
+| 165 lb | 8 | 9 | 11 | 13 |
+| 180 lb | 9 | 10 | 12 | 14 |
+| 250 lb | 13 | 14 | 17 | 20 |
+
+*Charges you can put into a single launch. Weight buys you room because the same force moves a heavier body less; Strength buys you room because you can hold yourself against it.*
 
 **This is measured for each Push, not for the round.** Ten charges spent as a single shove is 18 g for a small person and kills them in the air; the same ten spent as two Pushes of five is 9 g twice and hurts nobody. This is why a Coinshot taps an anchor again and again rather than emptying their pool into one enormous leap, and why the **120-foot** working range matters: you can keep Pushing only while the anchor is still in reach, which for a hard launch is about a second.
 
@@ -395,7 +397,7 @@ Driving a coin, nail, or bead as a weapon is a ranged Allomantic attack with a r
 | **Base burn (1 ch/minute)** | See metal lines within 200 ft; 750 N Push pool against metal within 120 ft |
 | **Per flare charge** | +750 N to the round's pool, up to your level in charges |
 | **Bracing limit** | 750 N per point of Strength modifier; 1d6 per 750 N over, ignores resistance |
-| **Launch limit** | 10 g, being charges x 170 / your weight in lb; 1d6 per g over, and a Con save or grey out |
+| **Launch limit** | 10 g + Strength modifier; g-load is charges x 170 / your weight in lb; 1d6 per g over, and a Con save or grey out |
 | **Coinshooting** | Ranged attack (proficiency + Con), piercing, 60/240, damage by force (Table E) |
 
 }}
@@ -424,7 +426,7 @@ Each extra charge you burn in a round, up to a number equal to your level, adds 
 
 ### The force turns on you
 
-Like a Coinshot, a Lurcher pulls from their own center of mass, so the same danger applies, though it comes up less often. When you Pull something that **will not come** and you **brace** rather than be hauled toward it, the force loads back through your own chest. The rule is the same as a Coinshot's: a **force tolerance** of 750 N for each point of your Strength modifier, and **1d6 bludgeoning per 750 N** beyond it, ignoring resistance. Hauling *yourself* toward an anchor carries the same **g-load** as a Coinshot's launch, and the same 10 g ceiling. See The force turns on you. In practice a Lurcher more often simply gets pulled toward the anchor (Table B), which is safe, so the injury is rarer than a Coinshot's.
+Like a Coinshot, a Lurcher pulls from their own center of mass, so the same danger applies, though it comes up less often. When you Pull something that **will not come** and you **brace** rather than be hauled toward it, the force loads back through your own chest. The rule is the same as a Coinshot's: a **force tolerance** of 750 N for each point of your Strength modifier, and **1d6 bludgeoning per 750 N** beyond it, ignoring resistance. Hauling *yourself* toward an anchor carries the same **g-load** as a Coinshot's launch, and the same ceiling of 10 g plus your Strength modifier. See The force turns on you. In practice a Lurcher more often simply gets pulled toward the anchor (Table B), which is safe, so the injury is rarer than a Coinshot's.
 
 ### Signature uses
 
