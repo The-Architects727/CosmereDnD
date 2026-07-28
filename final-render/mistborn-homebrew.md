@@ -221,55 +221,55 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
       - ###### [{{ Malatium: the Eleventh Metal}}{{ 27}}](#p27)
       - ###### [{{ Lerasium}}{{ 28}}](#p28)
   - #### [{{ Savants}}{{ 29}}](#p29)
-  - #### [{{ Ferrings}}{{ 32}}](#p32)
-    - ##### [{{ Physical}}{{ 35}}](#p35)
-      - ###### [{{ Iron: Skimmer}}{{ 35}}](#p35)
-      - ###### [{{ Steel: Steelrunner}}{{ 36}}](#p36)
-      - ###### [{{ Tin: Windwhisperer}}{{ 37}}](#p37)
-      - ###### [{{ Pewter: Brute}}{{ 38}}](#p38)
-    - ##### [{{ Cognitive}}{{ 39}}](#p39)
-      - ###### [{{ Zinc: Sparker}}{{ 39}}](#p39)
-      - ###### [{{ Brass: Firesoul}}{{ 40}}](#p40)
-      - ###### [{{ Copper: Archivist}}{{ 42}}](#p42)
-      - ###### [{{ Bronze: Sentry}}{{ 43}}](#p43)
-    - ##### [{{ Hybrid}}{{ 44}}](#p44)
-      - ###### [{{ Cadmium: Gasper}}{{ 44}}](#p44)
-      - ###### [{{ Bendalloy: Subsumer}}{{ 45}}](#p45)
-      - ###### [{{ Gold: Bloodmaker}}{{ 46}}](#p46)
-      - ###### [{{ Electrum: Pinnacle}}{{ 47}}](#p47)
-    - ##### [{{ Spiritual}}{{ 48}}](#p48)
-      - ###### [{{ Chromium: Spinner}}{{ 48}}](#p48)
-      - ###### [{{ Nicrosil: Soulbearer}}{{ 49}}](#p49)
-      - ###### [{{ Aluminum: Trueself}}{{ 50}}](#p50)
-      - ###### [{{ Duralumin: Connector}}{{ 51}}](#p51)
-    - ##### [{{ God Metals}}{{ 52}}](#p52)
-      - ###### [{{ Other Metals (Feruchemy)}}{{ 52}}](#p52)
-      - ###### [{{ Atium (Feruchemical)}}{{ 53}}](#p53)
-  - #### [{{ Twinborn}}{{ 54}}](#p54)
-  - #### [{{ Compounding}}{{ 55}}](#p55)
+  - #### [{{ Ferrings}}{{ 33}}](#p33)
+    - ##### [{{ Physical}}{{ 36}}](#p36)
+      - ###### [{{ Iron: Skimmer}}{{ 36}}](#p36)
+      - ###### [{{ Steel: Steelrunner}}{{ 37}}](#p37)
+      - ###### [{{ Tin: Windwhisperer}}{{ 38}}](#p38)
+      - ###### [{{ Pewter: Brute}}{{ 39}}](#p39)
+    - ##### [{{ Cognitive}}{{ 40}}](#p40)
+      - ###### [{{ Zinc: Sparker}}{{ 40}}](#p40)
+      - ###### [{{ Brass: Firesoul}}{{ 41}}](#p41)
+      - ###### [{{ Copper: Archivist}}{{ 43}}](#p43)
+      - ###### [{{ Bronze: Sentry}}{{ 44}}](#p44)
+    - ##### [{{ Hybrid}}{{ 45}}](#p45)
+      - ###### [{{ Cadmium: Gasper}}{{ 45}}](#p45)
+      - ###### [{{ Bendalloy: Subsumer}}{{ 46}}](#p46)
+      - ###### [{{ Gold: Bloodmaker}}{{ 47}}](#p47)
+      - ###### [{{ Electrum: Pinnacle}}{{ 48}}](#p48)
+    - ##### [{{ Spiritual}}{{ 49}}](#p49)
+      - ###### [{{ Chromium: Spinner}}{{ 49}}](#p49)
+      - ###### [{{ Nicrosil: Soulbearer}}{{ 50}}](#p50)
+      - ###### [{{ Aluminum: Trueself}}{{ 51}}](#p51)
+      - ###### [{{ Duralumin: Connector}}{{ 53}}](#p53)
+    - ##### [{{ God Metals}}{{ 54}}](#p54)
+      - ###### [{{ Other Metals (Feruchemy)}}{{ 54}}](#p54)
+      - ###### [{{ Atium (Feruchemical)}}{{ 55}}](#p55)
+  - #### [{{ Twinborn}}{{ 56}}](#p56)
+  - #### [{{ Compounding}}{{ 57}}](#p57)
 }}
 
 \column
 
 {{toc,contents
-- ### [{{ Species}}{{ 57}}](#p57)
-  - #### [{{ Koloss-blooded}}{{ 58}}](#p58)
-  - #### [{{ Kandra}}{{ 61}}](#p61)
-- ### [{{ Backgrounds}}{{ 65}}](#p65)
-  - #### [{{ Alloyer}}{{ 66}}](#p66)
-  - #### [{{ Hazekiller}}{{ 66}}](#p66)
-  - #### [{{ Crewmember}}{{ 66}}](#p66)
-  - #### [{{ Metal Smuggler}}{{ 66}}](#p66)
-  - #### [{{ Ashworker}}{{ 66}}](#p66)
-- ### [{{ Origin Feats}}{{ 67}}](#p67)
-  - #### [{{ Alloyer (Origin Feat)}}{{ 67}}](#p67)
-  - #### [{{ Hazekiller (Origin Feat)}}{{ 67}}](#p67)
-- ### [{{ Classes}}{{ 68}}](#p68)
-  - #### [{{ Mistborn}}{{ 69}}](#p69)
-  - #### [{{ Feruchemist}}{{ 73}}](#p73)
-  - #### [{{ Hemalurgist}}{{ 79}}](#p79)
-- ### [{{ The Metal Economy}}{{ 87}}](#p87)
-- ### [{{ The Arts and the Weave}}{{ 91}}](#p91)
+- ### [{{ Species}}{{ 59}}](#p59)
+  - #### [{{ Koloss-blooded}}{{ 60}}](#p60)
+  - #### [{{ Kandra}}{{ 63}}](#p63)
+- ### [{{ Backgrounds}}{{ 67}}](#p67)
+  - #### [{{ Alloyer}}{{ 68}}](#p68)
+  - #### [{{ Hazekiller}}{{ 68}}](#p68)
+  - #### [{{ Crewmember}}{{ 68}}](#p68)
+  - #### [{{ Metal Smuggler}}{{ 68}}](#p68)
+  - #### [{{ Ashworker}}{{ 68}}](#p68)
+- ### [{{ Origin Feats}}{{ 69}}](#p69)
+  - #### [{{ Alloyer (Origin Feat)}}{{ 69}}](#p69)
+  - #### [{{ Hazekiller (Origin Feat)}}{{ 69}}](#p69)
+- ### [{{ Classes}}{{ 70}}](#p70)
+  - #### [{{ Mistborn}}{{ 71}}](#p71)
+  - #### [{{ Feruchemist}}{{ 75}}](#p75)
+  - #### [{{ Hemalurgist}}{{ 81}}](#p81)
+- ### [{{ The Metal Economy}}{{ 90}}](#p90)
+- ### [{{ The Arts and the Weave}}{{ 94}}](#p94)
 }}
 
 \page
@@ -1527,6 +1527,7 @@ Every one of these carries **the Dependency** all the same. A 20th-level Mistbor
 - **Duralumin** lets *any* Allomancer touch the surge tier once by detonating their reserve; a savant does not need it to get there, and can reach that tier repeatedly and at will (at the cost of the charges).
 - **Compounding** (Compounding) and savancy are independent. A Feruchemical-fed reserve makes it *easier* to burn a metal habitually enough to become a savant, and easier to sustain the burn that keeps withdrawal at bay.
 
+\page
 {{tableGroup
 
 ### Savant effects by metal
@@ -2681,6 +2682,8 @@ While you tap an aluminummind, you become intensely, unshakably *you*.
 
 - Aluminum is the metal that makes **unsealed metalminds** possible, which the whole of nicrosil's hand-me-down magic and much of Compounding with unkeyed minds depends upon.
 - The metal aluminum's other, more famous trait, that it cannot be Pushed or Pulled and wards off emotional Allomancy, belongs to the metal itself, not to this power.
+
+\page
 
 {{note
 
@@ -3914,7 +3917,7 @@ This is the art of **Ruin**, and it is **end-negative**. Investiture is always l
 
 **Yield Floor** is the minimum strength of a spike you charge, explained under Spike Craft. Better craft wastes less soul.
 
-\column
+\page
 
 **How many spikes you can make is not limited.** Given metal, time, and donors, a Hemalurgist can produce hundreds, and history's worst of them did. The limits on the art are supply, opportunity, and whatever conscience the practitioner has left. What *is* fixed is how many a single body can hold.
 
