@@ -142,15 +142,34 @@
   font-size: 0.95em;
   break-inside: auto;
 }
+/* Step each level in, as the Player's Handbook sets its contents.
+   The indent is put on the entry itself rather than on the list around it.
+   Homebrewery resets list padding to nothing, and a rule on the entry does not
+   have to out-compete that reset, nor does it depend on the nesting surviving
+   the markdown. The em values differ per level because each level is set at a
+   different size, and these are what make the steps come out even. */
 .page .toc.contents h3 { font-size: 0.95em; margin: 0.35em 0 0; }
-.page .toc.contents h4 { font-size: 0.88em; font-weight: normal; }
+.page .toc.contents h4 {
+  font-size: 0.88em;
+  font-weight: normal;
+  padding-left: 1.2em;
+}
 .page .toc.contents h5 {
   font-size: 0.84em;
   font-weight: normal;
   font-style: italic;
+  padding-left: 2.5em;
 }
-.page .toc.contents h6 { font-size: 0.8em; font-weight: normal; }
-.page .toc.contents ul { margin: 0; }
+.page .toc.contents h6 {
+  font-size: 0.8em;
+  font-weight: normal;
+  padding-left: 4em;
+}
+
+/* The lists themselves stay flush; all the indenting is above. */
+.page .toc.contents ul { margin: 0; padding-left: 0; }
+
+/* A little air before each new group, none between the lines within one. */
 .page .toc.contents ul ul ul { margin-bottom: 0.2em; }
 .page .toc.contents ul ul ul ul { margin-bottom: 0.35em; }
 .page .toc.contents a { color: inherit; }
