@@ -1923,7 +1923,7 @@ There is no hard ceiling on how hard you may draw. The losses are the ceiling. P
 A Ferring begins play with a **ring** of their metal weighing **1d8 grams**, and the knowledge of how to use it.
 
 {{imageMaskCorner21,--offsetX:0%,--offsetY:-30%,--rotation:0
-  ![The Feruchemical metals, by the Ferring starting equipment](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/ferrings-feruchemical-metals.png?v=377c67a8){height:100%}
+  ![The Feruchemical metals, by the Ferring starting equipment](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/ferrings-feruchemical-metals.png?v=e509444a){height:100%}
 }}
 
 \page
