@@ -196,80 +196,80 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
 - ### [{{ Bloodlines}}{{ 3}}](#p3)
   - #### [{{ Mistings}}{{ 4}}](#p4)
     - ##### [{{ Physical}}{{ 5}}](#p5)
-      - ###### [{{ Steel: Coinshot}}{{ 6}}](#p6)
-      - ###### [{{ Iron: Lurcher}}{{ 8}}](#p8)
-      - ###### [{{ Tin: Tineye}}{{ 10}}](#p10)
-      - ###### [{{ Pewter: Thug (Pewterarm)}}{{ 11}}](#p11)
-    - ##### [{{ Mental}}{{ 13}}](#p13)
-      - ###### [{{ Zinc: Rioter}}{{ 13}}](#p13)
-      - ###### [{{ Brass: Soother}}{{ 15}}](#p15)
-      - ###### [{{ Copper: Smoker}}{{ 17}}](#p17)
-      - ###### [{{ Bronze: Seeker}}{{ 18}}](#p18)
-    - ##### [{{ Enhancement}}{{ 19}}](#p19)
-      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 19}}](#p19)
-      - ###### [{{ Duralumin: Duralumin Gnat}}{{ 21}}](#p21)
-      - ###### [{{ Chromium: Leecher}}{{ 24}}](#p24)
-      - ###### [{{ Nicrosil: Nicroburst}}{{ 25}}](#p25)
-    - ##### [{{ Temporal}}{{ 27}}](#p27)
-      - ###### [{{ Gold: Augur}}{{ 27}}](#p27)
-      - ###### [{{ Electrum: Oracle}}{{ 28}}](#p28)
-      - ###### [{{ Cadmium: Pulser}}{{ 29}}](#p29)
-      - ###### [{{ Bendalloy: Slider}}{{ 30}}](#p30)
-    - ##### [{{ God Metals}}{{ 31}}](#p31)
-      - ###### [{{ Other Metals}}{{ 31}}](#p31)
-      - ###### [{{ Atium: Seer}}{{ 32}}](#p32)
-      - ###### [{{ Malatium: the Eleventh Metal}}{{ 33}}](#p33)
-      - ###### [{{ Lerasium}}{{ 34}}](#p34)
-  - #### [{{ Savants}}{{ 35}}](#p35)
-  - #### [{{ Ferrings}}{{ 39}}](#p39)
-    - ##### [{{ Physical}}{{ 42}}](#p42)
-      - ###### [{{ Iron: Skimmer}}{{ 42}}](#p42)
-      - ###### [{{ Steel: Steelrunner}}{{ 43}}](#p43)
-      - ###### [{{ Tin: Windwhisperer}}{{ 44}}](#p44)
-      - ###### [{{ Pewter: Brute}}{{ 45}}](#p45)
-    - ##### [{{ Cognitive}}{{ 46}}](#p46)
-      - ###### [{{ Zinc: Sparker}}{{ 46}}](#p46)
-      - ###### [{{ Brass: Firesoul}}{{ 47}}](#p47)
-      - ###### [{{ Copper: Archivist}}{{ 49}}](#p49)
-      - ###### [{{ Bronze: Sentry}}{{ 50}}](#p50)
-    - ##### [{{ Hybrid}}{{ 51}}](#p51)
-      - ###### [{{ Cadmium: Gasper}}{{ 51}}](#p51)
-      - ###### [{{ Bendalloy: Subsumer}}{{ 52}}](#p52)
-      - ###### [{{ Gold: Bloodmaker}}{{ 53}}](#p53)
-      - ###### [{{ Electrum: Pinnacle}}{{ 54}}](#p54)
-    - ##### [{{ Spiritual}}{{ 55}}](#p55)
-      - ###### [{{ Chromium: Spinner}}{{ 55}}](#p55)
-      - ###### [{{ Nicrosil: Soulbearer}}{{ 56}}](#p56)
-      - ###### [{{ Aluminum: Trueself}}{{ 57}}](#p57)
-      - ###### [{{ Duralumin: Connector}}{{ 59}}](#p59)
-    - ##### [{{ God Metals}}{{ 60}}](#p60)
-      - ###### [{{ Other Metals (Feruchemy)}}{{ 60}}](#p60)
-      - ###### [{{ Atium (Feruchemical)}}{{ 61}}](#p61)
-  - #### [{{ Twinborn}}{{ 62}}](#p62)
-  - #### [{{ Compounding}}{{ 63}}](#p63)
+      - ###### [{{ Steel: Coinshot}}{{ 5}}](#p5)
+      - ###### [{{ Iron: Lurcher}}{{ 7}}](#p7)
+      - ###### [{{ Tin: Tineye}}{{ 9}}](#p9)
+      - ###### [{{ Pewter: Thug (Pewterarm)}}{{ 10}}](#p10)
+    - ##### [{{ Mental}}{{ 12}}](#p12)
+      - ###### [{{ Zinc: Rioter}}{{ 12}}](#p12)
+      - ###### [{{ Brass: Soother}}{{ 14}}](#p14)
+      - ###### [{{ Copper: Smoker}}{{ 16}}](#p16)
+      - ###### [{{ Bronze: Seeker}}{{ 17}}](#p17)
+    - ##### [{{ Enhancement}}{{ 18}}](#p18)
+      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 18}}](#p18)
+      - ###### [{{ Duralumin: Duralumin Gnat}}{{ 20}}](#p20)
+      - ###### [{{ Chromium: Leecher}}{{ 22}}](#p22)
+      - ###### [{{ Nicrosil: Nicroburst}}{{ 23}}](#p23)
+    - ##### [{{ Temporal}}{{ 24}}](#p24)
+      - ###### [{{ Gold: Augur}}{{ 24}}](#p24)
+      - ###### [{{ Electrum: Oracle}}{{ 25}}](#p25)
+      - ###### [{{ Cadmium: Pulser}}{{ 26}}](#p26)
+      - ###### [{{ Bendalloy: Slider}}{{ 27}}](#p27)
+    - ##### [{{ God Metals}}{{ 28}}](#p28)
+      - ###### [{{ Other Metals}}{{ 28}}](#p28)
+      - ###### [{{ Atium: Seer}}{{ 29}}](#p29)
+      - ###### [{{ Malatium: the Eleventh Metal}}{{ 30}}](#p30)
+      - ###### [{{ Lerasium}}{{ 31}}](#p31)
+  - #### [{{ Savants}}{{ 32}}](#p32)
+  - #### [{{ Ferrings}}{{ 36}}](#p36)
+    - ##### [{{ Physical}}{{ 39}}](#p39)
+      - ###### [{{ Iron: Skimmer}}{{ 39}}](#p39)
+      - ###### [{{ Steel: Steelrunner}}{{ 40}}](#p40)
+      - ###### [{{ Tin: Windwhisperer}}{{ 41}}](#p41)
+      - ###### [{{ Pewter: Brute}}{{ 42}}](#p42)
+    - ##### [{{ Cognitive}}{{ 43}}](#p43)
+      - ###### [{{ Zinc: Sparker}}{{ 43}}](#p43)
+      - ###### [{{ Brass: Firesoul}}{{ 44}}](#p44)
+      - ###### [{{ Copper: Archivist}}{{ 46}}](#p46)
+      - ###### [{{ Bronze: Sentry}}{{ 47}}](#p47)
+    - ##### [{{ Hybrid}}{{ 48}}](#p48)
+      - ###### [{{ Cadmium: Gasper}}{{ 48}}](#p48)
+      - ###### [{{ Bendalloy: Subsumer}}{{ 49}}](#p49)
+      - ###### [{{ Gold: Bloodmaker}}{{ 50}}](#p50)
+      - ###### [{{ Electrum: Pinnacle}}{{ 51}}](#p51)
+    - ##### [{{ Spiritual}}{{ 52}}](#p52)
+      - ###### [{{ Chromium: Spinner}}{{ 52}}](#p52)
+      - ###### [{{ Nicrosil: Soulbearer}}{{ 53}}](#p53)
+      - ###### [{{ Aluminum: Trueself}}{{ 54}}](#p54)
+      - ###### [{{ Duralumin: Connector}}{{ 55}}](#p55)
+    - ##### [{{ God Metals}}{{ 56}}](#p56)
+      - ###### [{{ Other Metals (Feruchemy)}}{{ 56}}](#p56)
+      - ###### [{{ Atium (Feruchemical)}}{{ 57}}](#p57)
+  - #### [{{ Twinborn}}{{ 58}}](#p58)
+  - #### [{{ Compounding}}{{ 59}}](#p59)
 }}
 
 \column
 
 {{toc,contents
-- ### [{{ Species}}{{ 65}}](#p65)
-  - #### [{{ Koloss-blooded}}{{ 66}}](#p66)
-  - #### [{{ Kandra}}{{ 69}}](#p69)
-- ### [{{ Backgrounds}}{{ 73}}](#p73)
-  - #### [{{ Alloyer}}{{ 74}}](#p74)
-  - #### [{{ Hazekiller}}{{ 74}}](#p74)
-  - #### [{{ Crewmember}}{{ 74}}](#p74)
-  - #### [{{ Metal Smuggler}}{{ 74}}](#p74)
-  - #### [{{ Ashworker}}{{ 74}}](#p74)
-- ### [{{ Origin Feats}}{{ 75}}](#p75)
-  - #### [{{ Alloyer (Origin Feat)}}{{ 75}}](#p75)
-  - #### [{{ Hazekiller (Origin Feat)}}{{ 75}}](#p75)
-- ### [{{ Classes}}{{ 76}}](#p76)
-  - #### [{{ Mistborn}}{{ 77}}](#p77)
-  - #### [{{ Feruchemist}}{{ 81}}](#p81)
-  - #### [{{ Hemalurgist}}{{ 87}}](#p87)
-- ### [{{ The Metal Economy}}{{ 96}}](#p96)
-- ### [{{ The Arts and the Weave}}{{ 100}}](#p100)
+- ### [{{ Species}}{{ 61}}](#p61)
+  - #### [{{ Koloss-blooded}}{{ 62}}](#p62)
+  - #### [{{ Kandra}}{{ 65}}](#p65)
+- ### [{{ Backgrounds}}{{ 69}}](#p69)
+  - #### [{{ Alloyer}}{{ 70}}](#p70)
+  - #### [{{ Hazekiller}}{{ 70}}](#p70)
+  - #### [{{ Crewmember}}{{ 70}}](#p70)
+  - #### [{{ Metal Smuggler}}{{ 70}}](#p70)
+  - #### [{{ Ashworker}}{{ 70}}](#p70)
+- ### [{{ Origin Feats}}{{ 71}}](#p71)
+  - #### [{{ Alloyer (Origin Feat)}}{{ 71}}](#p71)
+  - #### [{{ Hazekiller (Origin Feat)}}{{ 71}}](#p71)
+- ### [{{ Classes}}{{ 72}}](#p72)
+  - #### [{{ Mistborn}}{{ 73}}](#p73)
+  - #### [{{ Feruchemist}}{{ 77}}](#p77)
+  - #### [{{ Hemalurgist}}{{ 84}}](#p84)
+- ### [{{ The Metal Economy}}{{ 92}}](#p92)
+- ### [{{ The Arts and the Weave}}{{ 96}}](#p96)
 }}
 
 \page
@@ -315,7 +315,7 @@ A Misting begins play with **1d6 grams** of their metal, as small beads or a via
 
 {{wide
 <!--h:44-->
-![chart-allomancy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-allomancy.svg?v=9b05fceb){width:100%}
+![chart-allomancy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-allomancy.svg?v=cf8d6cb8){width:100%}
 }}
 
 \page
@@ -327,7 +327,7 @@ A Misting begins play with **1d6 grams** of their metal, as small beads or a via
 
 The Physical quadrant acts on matter and on the body that moves through it. Outward, steel and iron **Push** and **Pull** on nearby metal, turning coins into shrapnel and a window grate into a handhold. Inward, tin and pewter sharpen the Allomancer instead of the world, opening the senses or driving the body past what it should survive. These are the plainest of the sixteen and the ones a table will reach for most: a Coinshot solves a problem by moving something, a Thug by outlasting it.
 
-\page
+::::
 
 ## Steel: Coinshot
 
@@ -373,6 +373,7 @@ A Coinshot learns to take a hard launch, better than an untrained person and now
 | 180 lb | 9 | 10 | 12 | 14 |
 | 250 lb | 13 | 14 | 17 | 20 |
 
+\page
 *Charges you can put into a single launch. Weight buys you room because the same force moves a heavier body less; Strength buys you room because you can hold yourself against it.*
 
 **This is measured for each Push, not for the round.** Ten charges spent as a single shove is 18 g for a small person and kills them in the air; the same ten spent as two Pushes of five is 9 g twice and hurts nobody. This is why a Coinshot taps an anchor again and again rather than emptying their pool into one enormous leap, and why the **120-foot** working range matters: you can keep Pushing only while the anchor is still in reach, which for a hard launch is about a second.
@@ -382,8 +383,6 @@ A Coinshot learns to take a hard launch, better than an untrained person and now
 The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
 
 Each 2 charges past the cap adds a further **1,500 Newtons** to the force pool for that round, on the same terms as flaring: it must be spent that round, and both the bracing limit and the launch G-ceiling still apply to your own body.
-
-\page
 
 ### Coinshooting
 
@@ -680,13 +679,12 @@ Pewter lets you keep fighting through wounds that would fell anyone else, at a p
 - Stored drag does nothing to you while you keep burning pewter. Damage beyond your drag capacity is taken as normal.
 - While you have pewter to burn, Hit Dice spent on a short rest restore the maximum, and you have advantage on death saving throws.
 
+\page
 ### The Crash
 
 When your pewter runs out, or you stop burning it, whether by choice or by spending your last charge mid-fight, every wound you set aside arrives at once. You immediately take all stored drag as a single hit of damage, and you gain one level of Exhaustion. If you were flaring 6 or more charges when the pewter ended, you gain two levels of Exhaustion instead.
 
 A Thug who leans on pewter and burns their last charge in a fight is suddenly, mortally vulnerable.
-
-\page
 
 ### Interactions & counterplay
 
@@ -763,12 +761,11 @@ Each 2 charges past the cap adds **30 feet** to a pulse's range and **+1** to it
 
 Spikes are the handle by which emotional Allomancy commands a koloss, and they answer to anyone strong enough to take hold. A **duralumin detonation** aimed at a creature bearing Hemalurgic spikes does not sway a mood. **It takes the creature.**
 
-\page
-
 - Against a **koloss**, or anything bearing a single spike, this is seizure rather than influence: it obeys you while you sustain the burn, and is free the moment the metal runs out. This is how one Soother turns a war band, and it is why the Lord Ruler never let a koloss near a Soother who was not his.
 - Against an **Inquisitor**, whose spikes are many and whose will is its own, it is a contest: make an Allomancy check against its Wisdom saving throw. Win and you hold it for the round. Lose and it knows precisely who reached for it.
 - A creature with **no spikes** is unaffected by any of this. There is nothing to take hold of.
 
+\page
 ### Interactions & counterplay
 
 - Rioting is blocked by **aluminum**: a creature wearing aluminum around the head, standing in an aluminum-lined room, or holding aluminum against your chest is immune.
@@ -1039,13 +1036,14 @@ An Allomancer burning duralumin empties every other metal they are burning in a 
 
 > **Gnat.** Duralumin has no effect of its own; all of its power is borrowed from the metals it detonates. A Duralumin Gnat, burning duralumin alone, does nothing at all.
 
+\column
+
 ### Base Burn
 
 Burning a charge of duralumin is instantaneous. As a free action, you **consume every charge you currently hold of every other metal you are burning, all at once**, ignoring your per-round flare cap and any limit on how many charges you may burn in a round. Apply the full combined effect of all those charges this round. The metals are then spent and gone.
 
 This is the single largest burst an Allomancer can produce, and it empties your reserves to do it.
 
-\page
 {{wide
 
 ### Detonation by metal
@@ -1071,6 +1069,7 @@ A duralumin burst spends **your entire held reserve of that metal in one instant
 
 }}
 
+\page
 {{tableGroup
 
 #### Feruchemy
@@ -1096,7 +1095,6 @@ For the Allomantic detonation, a single charge is enough; it already burns *ever
 - **At the surge tier**, or as a duralumin savant (whose cap is doubled), you can burst even a **powerful external Investiture** (up to a 9th-level or legendary effect), wringing a single overwhelming moment from a source that would normally release its power slowly.
 - As with the Allomantic burst, whatever you detonate is **spent** by it; a tap or a fed spell slot burst this way is consumed at once.
 
-\page
 ### Interactions & counterplay
 
 - Duralumin detonates **your own** power. To force the same burst on another Allomancer, see Nicrosil (Nicroburst).
@@ -1189,8 +1187,6 @@ For the Allomantic detonation, one charge suffices. Flaring nicrosil, like flari
 The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
 
 Each 2 charges past the cap adds **+1** to the strength of the burst you grant or force.
-
-\page
 
 ### Interactions & counterplay
 
@@ -1763,7 +1759,7 @@ A piece of your metal used for storage is a **metalmind**: a ring, a bracer, a s
 
 {{wide
 <!--h:44-->
-![chart-feruchemy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-feruchemy.svg?v=b213c7b5){width:100%}
+![chart-feruchemy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-feruchemy.svg?v=91731eed){width:100%}
 }}
 
 \page
@@ -2827,8 +2823,6 @@ While you tap an aluminummind, you become intensely, unshakably *you*.
 ### Interactions
 
 - Aluminum is the metal that makes **unsealed metalminds** possible, which the whole of nicrosil's hand-me-down magic and much of Compounding with unkeyed minds depends upon.
-
-\page
 
 {{note
 
@@ -3940,6 +3934,8 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 **Feruchemy only ever acts on the Feruchemist.** A tapped attribute is yours and cannot be lent, projected, or shared. The single exception is **brass**, because warmth genuinely radiates off a body into the air around it. Everything else reaches other people only through an unsealed metalmind handed over for them to tap themselves.
 
 **Everything is an economy.** Each Discipline below spends something real: unit-minutes from a mind, kilojoules of warmth, hit points of banked health. Nothing here is a free passive.
+
+\page
 #### Physical (Iron, Steel, Tin, Pewter)
 
 - **3rd — Tireless.** While tapping pewter, even at the slightest draw, your borrowed strength carries you where endurance alone would fail. You ignore the movement cost of difficult terrain, you can march for twice the normal hours before risking Exhaustion, and you have advantage on saving throws made to resist Exhaustion from exertion. Tapping strength is what does this; no other Physical metal substitutes for it.
@@ -3947,7 +3943,7 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 - **10th — Second Wind of the Body.** While tapping pewter, you may spend **5 unit-minutes** from a pewtermind as a bonus action to shrug off a moment of failure: end one effect on yourself causing the Paralyzed, Restrained, Slowed, or Stunned condition, or reduce your Exhaustion by one level. There is no limit on how often you may do this beyond what your metalminds hold, for the cost is the limit.
 - **14th — The Body Remembers.** Physical metalminds you are actively drawing from **count as half a mind each** against your Minds at Once, so you can run all four Physical attributes for the price of two. While tapping three or more Physical metals at once, you have **resistance to bludgeoning, piercing, and slashing damage from nonmagical sources**.
 
-\page
+\column
 
 #### Cognitive (Zinc, Brass, Copper, Bronze)
 
@@ -3956,7 +3952,7 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 - **10th — Hearth and Hoard.** Warmth is the one thing a Feruchemist can genuinely give away, because heat radiates from you whether you mean it to or not. While tapping brass, you may pour out warmth to shelter others: spend **500 kJ per minute for each creature** within 30 feet you wish to keep comfortable in natural cold, and **1,500 kJ per minute each** to grant them **resistance to cold damage**. These figures already include your discount: you have learned to shape that radiance rather than let it bleed away, so warming others costs you half what it costs anyone else. *(The figures come from the body's own arithmetic on the Firesoul page: roughly 500 kJ is one step of body-temperature imbalance, about a minute's worth of serious cold. A 10th-level Firesoul's throughput of some 8,000 kJ per minute can shelter a large party, or armor a few against real freezing, but not both without emptying rings fast.)*
 - **14th — The Whole Library.** Your mind and your metal are one archive. You have **expertise** in Arcana, History, Nature, and Religion. Once per long rest, while tapping copper, you may recall a fact no living person should know, whatever a Keeper before you thought worth storing, and the DM tells you something genuinely useful about the situation at hand.
 
-\column
+\page
 
 #### Hybrid (Cadmium, Bendalloy, Gold, Electrum)
 
@@ -3966,7 +3962,6 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 - **14th — Deathless.** Gold, cadmium, and bendalloy that you are drawing from **do not count against your Minds at Once**, so health, breath, and sustenance run free alongside everything else you are doing. While all three run, you need not eat, drink, or breathe, and you can absorb a truly absurd amount of punishment: **spend 1 hit point from a goldmind for each 1 point of damage that would drop you below 0**, remaining conscious and acting for as long as the gold holds out. You die when the ring runs dry and not before. A Feruchemist so provisioned walks out of a desert, a sealed tomb, or a battlefield that killed everyone else. *(This buys endurance, not youth. Reversing your age is atium's domain, and only through Compounding.)*
 
 \page
-
 #### Spiritual (Chromium, Nicrosil, Aluminum, Duralumin)
 
 *Beginning with the Spiritual metals means beginning with the strangest and most coveted art in Feruchemy: the making of metalminds that belong to no one.*
@@ -4062,7 +4057,7 @@ This is the art of **Ruin**, and it is **end-negative**. Investiture is always l
 
 **Yield Floor** is the minimum strength of a spike you charge, explained under Spike Craft. Better craft wastes less soul.
 
-\page
+\column
 
 **How many spikes you can make is not limited.** Given metal, time, and donors, a Hemalurgist can produce hundreds, and history's worst of them did. The limits on the art are supply, opportunity, and whatever conscience the practitioner has left. What *is* fixed is how many a single body can hold.
 
@@ -4237,7 +4232,7 @@ This applies to **anyone** carrying spikes, including you, your allies, and your
 
 {{wide
 <!--h:44-->
-![chart-hemalurgy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-hemalurgy.svg?v=2fbf7e1e){width:100%}
+![chart-hemalurgy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-hemalurgy.svg?v=612c2c56){width:100%}
 }}
 
 | God metal | Steals |
