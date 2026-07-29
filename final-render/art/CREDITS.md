@@ -23,6 +23,7 @@ instead. It must not be lost, and it must travel with the book.
 | `cover-classes-storms-that-shatter.jpg` | Alec Acevedo | `Storms_that_Shatter_by_Alec_Acevedo.jpg` |
 | `class-mistborn.png` | David Astruga | `Mistborn_by_David_Astruga.png` |
 | `hemalurgist-bestower-inquisitor.jpg` | Gal Or | `Minquisitor_by_Gal_Or.jpg` |
+| `hemalurgic-metals-table.png` | *unattributed* | supplied under this name |
 
 The three `chart-*.svg` files are drawn by the build from
 [`renders/make_charts.py`](../../renders/make_charts.py) and the glyphs in
