@@ -193,20 +193,21 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
 # Contents
 }}
 {{toc,contents
-- ### [{{ Bloodlines}}{{ 3}}](#p3)
-  - #### [{{ Mistings}}{{ 4}}](#p4)
-    - ##### [{{ Physical}}{{ 5}}](#p5)
-      - ###### [{{ Steel: Coinshot}}{{ 5}}](#p5)
-      - ###### [{{ Iron: Lurcher}}{{ 7}}](#p7)
-      - ###### [{{ Tin: Tineye}}{{ 9}}](#p9)
-      - ###### [{{ Pewter: Thug (Pewterarm)}}{{ 10}}](#p10)
-    - ##### [{{ Mental}}{{ 12}}](#p12)
-      - ###### [{{ Zinc: Rioter}}{{ 12}}](#p12)
-      - ###### [{{ Brass: Soother}}{{ 14}}](#p14)
-      - ###### [{{ Copper: Smoker}}{{ 16}}](#p16)
-      - ###### [{{ Bronze: Seeker}}{{ 17}}](#p17)
-    - ##### [{{ Enhancement}}{{ 18}}](#p18)
-      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 18}}](#p18)
+- ### [{{ Introduction}}{{ 3}}](#p3)
+- ### [{{ Bloodlines}}{{ 4}}](#p4)
+  - #### [{{ Mistings}}{{ 5}}](#p5)
+    - ##### [{{ Physical}}{{ 6}}](#p6)
+      - ###### [{{ Steel: Coinshot}}{{ 6}}](#p6)
+      - ###### [{{ Iron: Lurcher}}{{ 8}}](#p8)
+      - ###### [{{ Tin: Tineye}}{{ 10}}](#p10)
+      - ###### [{{ Pewter: Thug (Pewterarm)}}{{ 11}}](#p11)
+    - ##### [{{ Mental}}{{ 13}}](#p13)
+      - ###### [{{ Zinc: Rioter}}{{ 13}}](#p13)
+      - ###### [{{ Brass: Soother}}{{ 15}}](#p15)
+      - ###### [{{ Copper: Smoker}}{{ 17}}](#p17)
+      - ###### [{{ Bronze: Seeker}}{{ 18}}](#p18)
+    - ##### [{{ Enhancement}}{{ 19}}](#p19)
+      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 19}}](#p19)
       - ###### [{{ Duralumin: Duralumin Gnat}}{{ 20}}](#p20)
       - ###### [{{ Chromium: Leecher}}{{ 22}}](#p22)
       - ###### [{{ Nicrosil: Nicroburst}}{{ 23}}](#p23)
@@ -273,6 +274,60 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
 }}
 
 \page
+
+## Introduction
+
+This book brings the **Metallic Arts** of Scadrial to a fifth edition table. Allomancy, Feruchemy, and Hemalurgy are here as things a character can *be*, not as a setting you have to move to. Nothing in these pages assumes ash falling from the sky or a Lord Ruler on a throne. A Coinshot can walk into your world exactly as it stands and start Pushing on the guard's breastplate.
+
+Everything is built for the **2024 ruleset** and uses its language: species rather than race, backgrounds that grant an origin feat, weapon mastery where it comes up. It works at a 2014 table with very little translation.
+
+### What is in here
+
+**Part 1, Bloodlines**, is the heart of it. Sixteen Allomantic metals and sixteen Feruchemical ones, each its own page: what it does, what it costs, what beats it. Then **Twinborn**, for a character with one of each; **Compounding**, for the rare pairing where the two are the same metal; and **Savants**, for what happens to someone who never stops burning.
+
+**Part 2, Species**, adds two peoples who cannot be explained any other way: the **koloss-blooded**, and the **kandra**, who wear the dead.
+
+**Part 3, Backgrounds and Origin Feats**, is where a bloodline comes from in a life rather than in a rule.
+
+**Part 4, Classes**, holds the three that are Metallic Arts all the way down: the **Mistborn**, who burns all sixteen; the **Feruchemist**, who banks pieces of themselves in metal; and the **Hemalurgist**, who takes power out of other people with a spike.
+
+**Part 5, The Metal Economy**, prices it. Metal is a consumable, and a Misting who cannot buy tin is a Misting who cannot burn tin.
+
+The **Appendix** covers the awkward, necessary question of what happens when Allomancy meets the ordinary magic of your world — what a Leecher does to a *fireball*, and what aluminum does to a wizard.
+
+{{tableGroup
+
+### What a bloodline is
+
+A **bloodline** is a fourth thing your character has, sitting beside the three they already had.
+
+| | |
+|---|---|
+| **Species** | what you are |
+| **Background** | where you came from |
+| **Class** | what you trained to do |
+| **Bloodline** | what your soul can reach |
+
+}}
+
+It is not a class and does not replace one. It is not a species trait and does not care which species you are. It is not a subclass, costs no class feature, and takes nothing from your progression. **An Elf Druid can be a Coinshot. A Dwarf Fighter can be a Skimmer.** The bloodline runs alongside all of it.
+
+That independence is the design, not a convenience. In the books Allomancy runs in families and turns up in nobles, thieves, and street children alike, without regard for what any of them do for a living. A rule that made Allomancy a class would have to answer why a Coinshot cannot also be a soldier, and there is no good answer.
+
+**A bloodline scales on your character level**, not on a class level, so multiclassing never dilutes it and no one has to spend levels to keep up.
+
+Two things are worth saying plainly at the outset:
+
+- **A bloodline is chosen at character creation**, or awakened later through a **Snapping** if your DM prefers to hold it back for a moment that earns it.
+- **A bloodline is not free power. It is power with a fuel bill.** Every metal you burn is a metal you had to find, buy, and swallow, and it is gone afterwards. The Metal Economy is not flavour text; it is the balance.
+
+### A word to the DM
+
+Two of these arts change what a party can do rather than how much damage it deals. A Soother can end an encounter before initiative. A Pulser can put four rounds inside one. Read the Temporal and Mental metals before a player picks one, and decide in advance how much of your adventure survives a Seeker.
+
+Hemalurgy is the third, and it is different again. **It only works by hurting someone**, and the book does not soften that. It is written to be a real option with a real price, and it is entirely reasonable to tell your table it is not on the menu.
+
+\page
 {{partCover}}
 
 # Part 1
@@ -281,7 +336,7 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
 \page
 ## Misting Bloodlines
 
-A **Misting** is a person who can Allomantically **burn one metal** for power. A Misting power is a **bloodline**, a magical inheritance chosen at character creation that is independent of your species and class (your table). An Elf Druid can be a Coinshot, and a Dragonborn Barbarian can be a Pewterarm. This section is the shared rules; each metal has its own page for its specific powers./, and lore from Allomancy.
+A **Misting** is a person who can Allomantically **burn one metal** for power. A Misting power is a **bloodline**, a magical inheritance chosen at character creation that is independent of your species and your class. An Elf Druid can be a Coinshot, and a Dragonborn Barbarian can be a Pewterarm. This section is the shared rules; each metal has its own page for what that metal does.
 
 ### Gaining the bloodline
 
@@ -1011,8 +1066,6 @@ Each 2 charges past the cap adds **+1** to the strength of the cleanse.
 - **Imprisonment and transport.** Because aluminum strips the metal itself, not just the burn, a captured Allomancer left with only aluminum can be made to empty their reserves, leaving them powerless. This was the metal's chief use in the Final Empire.
 - **Deception.** A Leecher or Nicroburst can feel whether their touch actually drained or detonated anything. Emptying your reserves beforehand can convince them you were carrying no metal at all.
 
-\page
-
 {{note
 
 | | |
@@ -1078,7 +1131,8 @@ Flaring duralumin lets the burst reach past Allomancy to **one non-Allomantic po
 
 | What you are doing | What the burst does |
 |---|---|
-| **Tapping a metalmind** | The draw you would have spread over its duration is released **at once**, at that amplified intensity. The reserve spent is spent; it does not come back. |
+| **Tapping a metalmind** | The draw you would have spread over its duration is released **at once**, at that amplified intensity, and **that metalmind is emptied entirely** rather than drawn down by what you needed. |
+| **One mind, not all of them** | The burst takes **the single metalmind you are tapping**, and stops there. It does not reach across to your other minds, even of the same metal: a Bloodmaker wearing five goldminds burns out one and still has four. This is the difference between Feruchemy and Allomancy under duralumin, where a reserve is one pool and all of it goes. |
 | **Storing into a metalmind** | Nothing. Storing is a slow giving-up, not a draw, and there is nothing to release. |
 | **Compounding** | The Compounded tap detonates as any tap does, which is the most dangerous version of this trick: a gold Compounder bursting a healing tap can undo grievous harm in a single round, and has nothing left afterward. |
 | **An unsealed metalmind** | As any tap, but the reserve belongs to whoever filled it. Bursting someone else's bank empties it for them too. |
@@ -3246,16 +3300,15 @@ Handled well it is one of the best character arcs this setting offers. Handled c
 
 *A kandra has no face of their own. They have a set of bones they are wearing at the moment, a memory of every body they have ever worn, and two spikes of metal somewhere inside them that are the only part they cannot replace.*
 
-The **kandra** are Mistwraiths given a mind. A pair of Hemalurgic spikes, called **Blessings**, was driven into a mindless gelatinous thing and made it a person. That was the Lord Ruler's work, and the making of new ones is lost. Every kandra alive was made long ago, and most are older than the nations they walk in.
+The **kandra** are Mistwraiths given a mind. A pair of Hemalurgic spikes, called **Blessings**, were driven into a mindless gelatinous thing and made it a person. That was the Lord Ruler's work, and the making of new ones is lost. Every kandra alive was made long ago, and most are older than the nations they walk in.
 
-A kandra digests a corpse and reassembles themselves around its bones, becoming that creature exactly. They have served as spies, as servants under Contract, and as the quiet keepers of secrets nobody else survived. They are patient, they are precise, and they remember everything.
+A kandra digests a corpse and reassembles themselves around its bones, becoming that creature exactly. They have served as spies, as servants under Contract, and as the quiet keepers of secrets. They are very patient, having lived for so many centuries.
 
 ### What a Kandra cannot be
 
 Kandra are not born and have no bloodline to inherit.
 
 - You **cannot take a Misting or Ferring bloodline**, and you **cannot be a Feruchemist**. The Metallic Arts do not run in a body that was assembled rather than conceived.
-- You **can** be a **Hemalurgist**, which many find fitting, since you are yourself a work of Hemalurgy. You can also gain Allomancy or Feruchemy the way you gained your mind, **through further spikes**, at the price every spike charges (see The Two Spikes).
 - You **can** become a **Mistborn** by burning a bead of lerasium, the one road open to anyone.
 
 Every other class is open to you.
@@ -3268,9 +3321,9 @@ Every other class is open to you.
 
 #### Boneless Form
 
-Your true shape is a translucent mass of flesh, and it is the state you return to when you have nothing to wear. While boneless you are a **Small** Ooze with a speed of 15 feet**, you can **squeeze through any opening a fist could pass**, and you can neither wear armor nor use a weapon or a tool that requires a grip. Your unarmored AC is **10 + your Dexterity modifier**. You can speak only if you shape a throat, which takes an action.
+Your true shape is a translucent mass of flesh, and it is the state you return to when you have nothing to wear. While boneless you are a **Small** Ooze with a speed of **15 feet**, you can **squeeze through any opening a fist could pass**, and you can neither wear armor nor use a weapon or a tool that requires a grip. Your unarmored AC is **10 + your Dexterity modifier**. You can speak only if you shape a throat, which takes an action.
 
-You may abandon your bones and revert to this form deliberately as an action. Doing so leaves the bones behind.
+You may abandon your bones and revert to this form deliberately as an action. Doing so leaves the bones behind. In this form you can fit through a gap at least as wide as your Blessings.
 
 {{tableGroup
 
@@ -3288,7 +3341,7 @@ Given a corpse with an intact skeleton, you can consume it and rebuild yourself 
 
 }}
 
-A human takes about an hour, which covers the hair of the head and face. **A body you have worn before takes half as long.** You may skip the hair entirely and finish in the bare-skin time, but a hairless copy fools nobody, and you lose whatever that covering did (a bear without fur takes the cold; a bird without feathers cannot fly). you can mimic any creature that can bear your spikes.
+A human takes about an hour, which covers the hair of the head and face. **A body you have worn before takes half as long.** You may skip the hair entirely and finish in the bare-skin time, but you lose the benefits of that covering. You can mimic any creature that can bear your spikes, though non-humanoid creatures take twice as long.
 
 **What you gain.** You become the creature in every physical respect:
 
@@ -3299,22 +3352,22 @@ A human takes about an hour, which covers the hair of the head and face. **A bod
 
 **What you do not gain.** You keep your own **Constitution, Intelligence, Wisdom, and Charisma**, your hit points, your class features, and all your proficiencies. You gain **no magical or supernatural ability** of the creature: no spellcasting, no innate magic resistance, and no Metallic Art. You are wearing a body, not a soul.
 
-**The organ exception.** If an ability comes from a *physical organ* rather than from magic, you get it, because you rebuilt the organ. A breath weapon produced by a gland, a spitter's venom, an electric organ, or a squid's ink all copy across. Anything the creature does by will alone does not. When it is unclear, the question to ask is whether a surgeon could find the thing that does it.
+**Organic abilities.** If an ability comes from a *physical organ* rather than from magic, you can mimic it by reproducing the organ exactly. A breath weapon produced by a gland, a spitter's venom, an electric organ, or a squid's ink are all fair game. Anything the creature does by will alone does not. When it is unclear, the question to ask is whether a surgeon could find the thing that does it.
 
 **What you can wear.** At 1st level you can copy **Small and Medium humanoids**. This widens as you grow (see Growing Older). You can wear the body of any creature whose frame can carry your spikes.
 
-**A body that works, versus a body that fools.** Everything above concerns an **exact replica**, which is the hard art and the one that takes practice. Simply having *a* working body is not hard, and every kandra can do it from their first day. Given any usable set of bones, matched or not, you can assemble a functioning creature in the bare-skin time on the table. It will move, fight, and carry you perfectly well.
+**Function Over Form.** Everything above concerns an **exact replica**, which is the hard art and the one that takes practice. Simply having *a* working body is not hard, and every kandra can do it from their first day. Given any usable set of bones, matched or not, you can assemble a functioning creature in the bare-skin time on the table. It will move, fight, and carry you perfectly well.
 
 \page
 {{tableGroup
 
 #### Your Skeleton
 
-Bones are one of the things a kandra cannot make from their own flesh. You must take them from a body or have them crafted, and what they are made of is the closest thing you have to armour in a bare state.
+Bones are one of the things a kandra cannot form from flesh. You must take them from a body or have them crafted, and what they are made of determines how durable you are.
 
 **Unarmored Defense.** While wearing a skeleton and not wearing armor, your AC equals your **skeleton's AC**. You may wear armor instead and use its AC as normal.
 
-**True Bodies.** Rather than a digested skeleton, a kandra may wear a crafted set of false bones, and most prefer to. In the Homeland they wear their skin translucent to show the work off.
+**True Bodies.** Rather than a digested skeleton, a kandra may wear a crafted set of false bones, and most prefer to while not on jobs. In the Homeland they wear their skin translucent to show off their true body.
 
 | Skeleton | AC | Notes |
 | ----------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -3339,7 +3392,7 @@ You have no organ that a blade can find, but your bones can be shattered, and yo
 
 - When a creature scores a **critical hit** against you, or deals damage in a single hit equal to or greater than **your level + your proficiency bonus**, it rolls one additional attack roll against your **skeleton's AC**. On a hit, **a bone breaks**.
 - Each broken bone reduces your **speed by 2 feet** and your **skeleton's AC by 1**.
-- **Broken bones do not heal** by rest, by any power that mends flesh, or by any healing worked on you while they are inside you. There is one exception: a broken bone **taken out of your body** can be repaired like any other object, including with a *mending* cantrip, exactly as one would mend a cracked breastplate.
+- **Broken bones do not heal** by rest, by any power that mends flesh, or by any healing worked on you while they are inside you. A broken bone **taken out of your body** can however be repaired like any other object, including with a *mending* cantrip. They can also be reinforced with normal bracing techniques.
 - **Replacing a bone** takes time according to what it is. A small bone (a finger, a rib, a tooth) is the work of a **moment**. A **structural** bone (a skull, a spine, a long bone of the arm or leg) takes about **10 minutes** for a young kandra, and less as you grow practiced.
 - Only **structural** bones are tracked. Small bones break constantly and cost you nothing worth writing down.
 - If **every structural bone you carry is broken or destroyed**, your frame gives out and you collapse into your Boneless Form. You are **not** Incapacitated. You can still see, speak, think, and act, but you are reduced to a boneless crawl at **15 feet**, you cannot use weapons, armor, or anything needing a grip, and you are horribly exposed until you reinforce or replace some part of your skeleton.
@@ -3352,7 +3405,7 @@ Your organs are wherever you decided to put them, and none of them are where any
 
 - You are **immune to the effects of critical hits other than the Broken Bones rule above**; there is no vital spot to find, and a blade through where a heart should be finds only flesh.
 - You **cannot be knocked unconscious by physical shock or pain**. You can turn your nerves off entirely, giving you **advantage on saving throws against effects that would incapacitate you through pain**.
-- You **do not age** and cannot be aged magically. You need not sleep, but you must **eat meat**, and steadily, since you are constantly renewing your own flesh. Any meat serves, not only corpses, and most kandra prefer it **well aged**, which is easier to digest. Starvation is one of the few things that can kill you.
+- You **do not age** and cannot be aged magically. You need not sleep, but you must **eat meat**, since you are constantly renewing your own flesh. Any meat serves, not only corpses, and most kandra prefer it **well aged**, which is easier to digest. Starvation is one of the few things that can kill you.
 - You are **vulnerable to acid and fire damage**, which destroy flesh faster than you can reshape it.
 
 **Falling apart, not dying.** Ordinary wounds do not kill a kandra; they take you apart. When you drop to 0 hit points you still make death saving throws, but for you they are **checks against coming apart entirely**, not against dying.
