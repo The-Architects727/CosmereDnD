@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1200" viewBox="0 0 2400 1200" font-family="Georgia, 'Times New Roman', Garamond, serif">
+<rect x="0" y="0" width="2400" height="1200" fill="#F6F0E2"/>
+<rect x="36" y="36" width="2328" height="1128" fill="#FBF7ED"/>
 <rect x="36" y="36" width="205" height="1128" fill="#E9DCBB"/>
 <rect x="2159" y="36" width="205" height="1128" fill="#E9DCBB"/>
 <rect x="36" y="36" width="2328" height="74" fill="#E9DCBB"/>
@@ -10,7 +12,7 @@
 <text x="2262" y="85" text-anchor="middle" font-size="34" fill="#6E1B14" font-weight="bold" font-variant="small-caps" letter-spacing="2">Cognitive</text>
 <text x="138" y="1139" text-anchor="middle" font-size="34" fill="#6E1B14" font-weight="bold" font-variant="small-caps" letter-spacing="2">Spiritual</text>
 <text x="2262" y="1139" text-anchor="middle" font-size="34" fill="#6E1B14" font-weight="bold" font-variant="small-caps" letter-spacing="2">Hybrid</text>
-<g transform="translate(384.8 155.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(389.10 155.00) scale(0.08000)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      transform="translate(50.563714,-168.07647)"
@@ -23,7 +25,7 @@
 <text x="480" y="222" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Skimmer)</text>
 <text x="480" y="264" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="480" y="298" text-anchor="middle" font-size="26" fill="#2A2A2A">Physical Weight</text>
-<g transform="translate(853.0 155.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(860.05 155.00) scale(0.08000)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      id="layer1"
@@ -37,7 +39,7 @@
 <text x="959" y="222" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Steelrunner)</text>
 <text x="959" y="264" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="959" y="298" text-anchor="middle" font-size="26" fill="#2A2A2A">Physical Speed</text>
-<g transform="translate(1342.8 155.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(1344.95 155.00) scale(0.08000)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      transform="translate(344.75766,491.2091)"
@@ -50,7 +52,7 @@
 <text x="1438" y="222" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Sparker)</text>
 <text x="1438" y="264" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="1438" y="298" text-anchor="middle" font-size="26" fill="#2A2A2A">Mental Speed</text>
-<g transform="translate(1811.0 155.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(1820.28 155.00) scale(0.06074)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      id="layer1"
@@ -63,7 +65,7 @@
 <text x="1917" y="222" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Firesoul)</text>
 <text x="1917" y="264" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="1917" y="298" text-anchor="middle" font-size="26" fill="#2A2A2A">Warmth</text>
-<g transform="translate(363.2 400.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(363.20 401.28) scale(0.07488)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      id="layer1"
@@ -76,7 +78,7 @@
 <text x="480" y="467" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Brute)</text>
 <text x="480" y="509" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="480" y="543" text-anchor="middle" font-size="26" fill="#2A2A2A">Physical Strength</text>
-<g transform="translate(874.6 400.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(880.43 400.00) scale(0.08000)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      id="layer1"
@@ -89,7 +91,7 @@
 <text x="959" y="467" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Windwhisperer)</text>
 <text x="959" y="509" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="959" y="543" text-anchor="middle" font-size="26" fill="#2A2A2A">Senses</text>
-<g transform="translate(1321.2 400.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(1325.12 400.00) scale(0.08000)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      transform="translate(283.29507,359.37144)"
@@ -102,7 +104,7 @@
 <text x="1438" y="467" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Archivist)</text>
 <text x="1438" y="509" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="1438" y="543" text-anchor="middle" font-size="26" fill="#2A2A2A">Memories</text>
-<g transform="translate(1800.2 400.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(1803.44 400.00) scale(0.08000)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      transform="translate(469.39935,554.35589)"
@@ -115,7 +117,7 @@
 <text x="1917" y="467" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Sentry)</text>
 <text x="1917" y="509" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="1917" y="543" text-anchor="middle" font-size="26" fill="#2A2A2A">Wakefulness</text>
-<g transform="translate(341.6 645.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(347.85 645.00) scale(0.08000)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      transform="translate(695.11436,710.48925)"
@@ -128,7 +130,7 @@
 <text x="480" y="712" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Spinner)</text>
 <text x="480" y="754" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="480" y="788" text-anchor="middle" font-size="26" fill="#2A2A2A">Fortune</text>
-<g transform="translate(820.6 645.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(825.10 645.00) scale(0.08000)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      transform="translate(745.41117,686.76292)"
@@ -141,7 +143,7 @@
 <text x="959" y="712" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Soulbearer)</text>
 <text x="959" y="754" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="959" y="788" text-anchor="middle" font-size="26" fill="#2A2A2A">Investiture</text>
-<g transform="translate(1310.4 645.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(1316.49 645.00) scale(0.08000)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      transform="translate(414.99987,655.88998)"
@@ -154,7 +156,7 @@
 <text x="1438" y="712" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Gasper)</text>
 <text x="1438" y="754" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="1438" y="788" text-anchor="middle" font-size="26" fill="#2A2A2A">Breath</text>
-<g transform="translate(1767.8 645.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(1773.76 645.00) scale(0.08000)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      transform="translate(574.3179,670.54995)"
@@ -167,7 +169,7 @@
 <text x="1917" y="712" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Subsumer)</text>
 <text x="1917" y="754" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="1917" y="788" text-anchor="middle" font-size="26" fill="#2A2A2A">Nutrition</text>
-<g transform="translate(341.6 890.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(343.13 890.00) scale(0.08000)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      transform="translate(739.8985,663.0391)"
@@ -180,7 +182,7 @@
 <text x="480" y="957" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Trueself)</text>
 <text x="480" y="999" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="480" y="1033" text-anchor="middle" font-size="26" fill="#2A2A2A">Identity</text>
-<g transform="translate(809.8 890.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(819.78 890.00) scale(0.06061)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      transform="translate(697.12858,703.14982)"
@@ -193,7 +195,7 @@
 <text x="959" y="957" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Connector)</text>
 <text x="959" y="999" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="959" y="1033" text-anchor="middle" font-size="26" fill="#2A2A2A">Connection</text>
-<g transform="translate(1342.8 890.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(1348.72 890.00) scale(0.08000)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      transform="translate(679.5762,689.25053)"
@@ -206,7 +208,7 @@
 <text x="1438" y="957" text-anchor="middle" font-size="28" fill="#2A2A2A" font-style="italic">(Bloodmaker)</text>
 <text x="1438" y="999" text-anchor="middle" font-size="26" fill="#2A2A2A">Stores</text>
 <text x="1438" y="1033" text-anchor="middle" font-size="26" fill="#2A2A2A">Health</text>
-<g transform="translate(1778.6 890.0) scale(0.0400)" fill="#1B3A6B"><defs
+<g transform="translate(1784.44 890.00) scale(0.08000)" fill="#1B3A6B"><defs
      id="defs3073" />
   <g
      transform="translate(705.11332,699.86989)"

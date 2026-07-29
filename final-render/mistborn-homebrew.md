@@ -193,9 +193,10 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
 # Contents
 }}
 {{toc,contents
-- ### [{{ Bloodlines}}{{ 3}}](#p3)
-  - #### [{{ Mistings}}{{ 4}}](#p4)
-    - ##### [{{ Physical}}{{ 5}}](#p5)
+- ### [{{ Introduction}}{{ 3}}](#p3)
+- ### [{{ Bloodlines}}{{ 4}}](#p4)
+  - #### [{{ Mistings}}{{ 5}}](#p5)
+    - ##### [{{ Physical}}{{ 6}}](#p6)
       - ###### [{{ Steel: Coinshot}}{{ 6}}](#p6)
       - ###### [{{ Iron: Lurcher}}{{ 8}}](#p8)
       - ###### [{{ Tin: Tineye}}{{ 10}}](#p10)
@@ -207,70 +208,124 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
       - ###### [{{ Bronze: Seeker}}{{ 18}}](#p18)
     - ##### [{{ Enhancement}}{{ 19}}](#p19)
       - ###### [{{ Aluminum: Aluminum Gnat}}{{ 19}}](#p19)
-      - ###### [{{ Duralumin: Duralumin Gnat}}{{ 21}}](#p21)
-      - ###### [{{ Chromium: Leecher}}{{ 24}}](#p24)
-      - ###### [{{ Nicrosil: Nicroburst}}{{ 25}}](#p25)
-    - ##### [{{ Temporal}}{{ 27}}](#p27)
-      - ###### [{{ Gold: Augur}}{{ 27}}](#p27)
-      - ###### [{{ Electrum: Oracle}}{{ 28}}](#p28)
-      - ###### [{{ Cadmium: Pulser}}{{ 29}}](#p29)
-      - ###### [{{ Bendalloy: Slider}}{{ 30}}](#p30)
-    - ##### [{{ God Metals}}{{ 31}}](#p31)
-      - ###### [{{ Other Metals}}{{ 31}}](#p31)
-      - ###### [{{ Atium: Seer}}{{ 32}}](#p32)
-      - ###### [{{ Malatium: the Eleventh Metal}}{{ 33}}](#p33)
-      - ###### [{{ Lerasium}}{{ 34}}](#p34)
-  - #### [{{ Savants}}{{ 35}}](#p35)
-  - #### [{{ Ferrings}}{{ 39}}](#p39)
-    - ##### [{{ Physical}}{{ 42}}](#p42)
-      - ###### [{{ Iron: Skimmer}}{{ 42}}](#p42)
-      - ###### [{{ Steel: Steelrunner}}{{ 43}}](#p43)
-      - ###### [{{ Tin: Windwhisperer}}{{ 44}}](#p44)
-      - ###### [{{ Pewter: Brute}}{{ 45}}](#p45)
-    - ##### [{{ Cognitive}}{{ 46}}](#p46)
-      - ###### [{{ Zinc: Sparker}}{{ 46}}](#p46)
-      - ###### [{{ Brass: Firesoul}}{{ 47}}](#p47)
-      - ###### [{{ Copper: Archivist}}{{ 49}}](#p49)
-      - ###### [{{ Bronze: Sentry}}{{ 50}}](#p50)
-    - ##### [{{ Hybrid}}{{ 51}}](#p51)
-      - ###### [{{ Cadmium: Gasper}}{{ 51}}](#p51)
-      - ###### [{{ Bendalloy: Subsumer}}{{ 52}}](#p52)
-      - ###### [{{ Gold: Bloodmaker}}{{ 53}}](#p53)
-      - ###### [{{ Electrum: Pinnacle}}{{ 54}}](#p54)
-    - ##### [{{ Spiritual}}{{ 55}}](#p55)
-      - ###### [{{ Chromium: Spinner}}{{ 55}}](#p55)
-      - ###### [{{ Nicrosil: Soulbearer}}{{ 56}}](#p56)
-      - ###### [{{ Aluminum: Trueself}}{{ 57}}](#p57)
-      - ###### [{{ Duralumin: Connector}}{{ 59}}](#p59)
-    - ##### [{{ God Metals}}{{ 60}}](#p60)
-      - ###### [{{ Other Metals (Feruchemy)}}{{ 60}}](#p60)
-      - ###### [{{ Atium (Feruchemical)}}{{ 61}}](#p61)
-  - #### [{{ Twinborn}}{{ 62}}](#p62)
-  - #### [{{ Compounding}}{{ 63}}](#p63)
+      - ###### [{{ Duralumin: Duralumin Gnat}}{{ 20}}](#p20)
+      - ###### [{{ Chromium: Leecher}}{{ 22}}](#p22)
+      - ###### [{{ Nicrosil: Nicroburst}}{{ 23}}](#p23)
+    - ##### [{{ Temporal}}{{ 24}}](#p24)
+      - ###### [{{ Gold: Augur}}{{ 24}}](#p24)
+      - ###### [{{ Electrum: Oracle}}{{ 25}}](#p25)
+      - ###### [{{ Cadmium: Pulser}}{{ 26}}](#p26)
+      - ###### [{{ Bendalloy: Slider}}{{ 27}}](#p27)
+    - ##### [{{ God Metals}}{{ 28}}](#p28)
+      - ###### [{{ Other Metals}}{{ 28}}](#p28)
+      - ###### [{{ Atium: Seer}}{{ 29}}](#p29)
+      - ###### [{{ Malatium: the Eleventh Metal}}{{ 30}}](#p30)
+      - ###### [{{ Lerasium}}{{ 31}}](#p31)
+  - #### [{{ Savants}}{{ 32}}](#p32)
+  - #### [{{ Ferrings}}{{ 36}}](#p36)
+    - ##### [{{ Physical}}{{ 39}}](#p39)
+      - ###### [{{ Iron: Skimmer}}{{ 39}}](#p39)
+      - ###### [{{ Steel: Steelrunner}}{{ 40}}](#p40)
+      - ###### [{{ Tin: Windwhisperer}}{{ 41}}](#p41)
+      - ###### [{{ Pewter: Brute}}{{ 42}}](#p42)
+    - ##### [{{ Cognitive}}{{ 43}}](#p43)
+      - ###### [{{ Zinc: Sparker}}{{ 43}}](#p43)
+      - ###### [{{ Brass: Firesoul}}{{ 44}}](#p44)
+      - ###### [{{ Copper: Archivist}}{{ 46}}](#p46)
+      - ###### [{{ Bronze: Sentry}}{{ 47}}](#p47)
+    - ##### [{{ Hybrid}}{{ 48}}](#p48)
+      - ###### [{{ Cadmium: Gasper}}{{ 48}}](#p48)
+      - ###### [{{ Bendalloy: Subsumer}}{{ 49}}](#p49)
+      - ###### [{{ Gold: Bloodmaker}}{{ 50}}](#p50)
+      - ###### [{{ Electrum: Pinnacle}}{{ 51}}](#p51)
+    - ##### [{{ Spiritual}}{{ 52}}](#p52)
+      - ###### [{{ Chromium: Spinner}}{{ 52}}](#p52)
+      - ###### [{{ Nicrosil: Soulbearer}}{{ 53}}](#p53)
+      - ###### [{{ Aluminum: Trueself}}{{ 54}}](#p54)
+      - ###### [{{ Duralumin: Connector}}{{ 55}}](#p55)
+    - ##### [{{ God Metals}}{{ 56}}](#p56)
+      - ###### [{{ Other Metals (Feruchemy)}}{{ 56}}](#p56)
+      - ###### [{{ Atium (Feruchemical)}}{{ 57}}](#p57)
+  - #### [{{ Twinborn}}{{ 58}}](#p58)
+  - #### [{{ Compounding}}{{ 59}}](#p59)
 }}
 
 \column
 
 {{toc,contents
-- ### [{{ Species}}{{ 65}}](#p65)
-  - #### [{{ Koloss-blooded}}{{ 66}}](#p66)
-  - #### [{{ Kandra}}{{ 69}}](#p69)
-- ### [{{ Backgrounds}}{{ 73}}](#p73)
-  - #### [{{ Alloyer}}{{ 74}}](#p74)
-  - #### [{{ Hazekiller}}{{ 74}}](#p74)
-  - #### [{{ Crewmember}}{{ 74}}](#p74)
-  - #### [{{ Metal Smuggler}}{{ 74}}](#p74)
-  - #### [{{ Ashworker}}{{ 74}}](#p74)
-- ### [{{ Origin Feats}}{{ 75}}](#p75)
-  - #### [{{ Alloyer (Origin Feat)}}{{ 75}}](#p75)
-  - #### [{{ Hazekiller (Origin Feat)}}{{ 75}}](#p75)
-- ### [{{ Classes}}{{ 76}}](#p76)
-  - #### [{{ Mistborn}}{{ 77}}](#p77)
-  - #### [{{ Feruchemist}}{{ 81}}](#p81)
-  - #### [{{ Hemalurgist}}{{ 87}}](#p87)
-- ### [{{ The Metal Economy}}{{ 96}}](#p96)
-- ### [{{ The Arts and the Weave}}{{ 100}}](#p100)
+- ### [{{ Species}}{{ 61}}](#p61)
+  - #### [{{ Koloss-blooded}}{{ 62}}](#p62)
+  - #### [{{ Kandra}}{{ 65}}](#p65)
+- ### [{{ Backgrounds}}{{ 69}}](#p69)
+  - #### [{{ Alloyer}}{{ 70}}](#p70)
+  - #### [{{ Hazekiller}}{{ 70}}](#p70)
+  - #### [{{ Crewmember}}{{ 70}}](#p70)
+  - #### [{{ Metal Smuggler}}{{ 70}}](#p70)
+  - #### [{{ Ashworker}}{{ 70}}](#p70)
+- ### [{{ Origin Feats}}{{ 71}}](#p71)
+  - #### [{{ Alloyer (Origin Feat)}}{{ 71}}](#p71)
+  - #### [{{ Hazekiller (Origin Feat)}}{{ 71}}](#p71)
+- ### [{{ Classes}}{{ 72}}](#p72)
+  - #### [{{ Mistborn}}{{ 73}}](#p73)
+  - #### [{{ Feruchemist}}{{ 77}}](#p77)
+  - #### [{{ Hemalurgist}}{{ 84}}](#p84)
+- ### [{{ The Metal Economy}}{{ 92}}](#p92)
+- ### [{{ The Arts and the Weave}}{{ 96}}](#p96)
 }}
+
+\page
+
+## Introduction
+
+This book brings the **Metallic Arts** of Scadrial to a fifth edition table. Allomancy, Feruchemy, and Hemalurgy are here as things a character can *be*, not as a setting you have to move to. Nothing in these pages assumes ash falling from the sky or a Lord Ruler on a throne. A Coinshot can walk into your world exactly as it stands and start Pushing on the guard's breastplate.
+
+Everything is built for the **2024 ruleset** and uses its language: species rather than race, backgrounds that grant an origin feat, weapon mastery where it comes up. It works at a 2014 table with very little translation.
+
+### What is in here
+
+**Part 1, Bloodlines**, is the heart of it. Sixteen Allomantic metals and sixteen Feruchemical ones, each its own page: what it does, what it costs, what beats it. Then **Twinborn**, for a character with one of each; **Compounding**, for the rare pairing where the two are the same metal; and **Savants**, for what happens to someone who never stops burning.
+
+**Part 2, Species**, adds two peoples who cannot be explained any other way: the **koloss-blooded**, and the **kandra**, who wear the dead.
+
+**Part 3, Backgrounds and Origin Feats**, is where a bloodline comes from in a life rather than in a rule.
+
+**Part 4, Classes**, holds the three that are Metallic Arts all the way down: the **Mistborn**, who burns all sixteen; the **Feruchemist**, who banks pieces of themselves in metal; and the **Hemalurgist**, who takes power out of other people with a spike.
+
+**Part 5, The Metal Economy**, prices it. Metal is a consumable, and a Misting who cannot buy tin is a Misting who cannot burn tin.
+
+The **Appendix** covers the awkward, necessary question of what happens when Allomancy meets the ordinary magic of your world — what a Leecher does to a *fireball*, and what aluminum does to a wizard.
+
+{{tableGroup
+
+### What a bloodline is
+
+A **bloodline** is a fourth thing your character has, sitting beside the three they already had.
+
+| | |
+|---|---|
+| **Species** | what you are |
+| **Background** | where you came from |
+| **Class** | what you trained to do |
+| **Bloodline** | what your soul can reach |
+
+}}
+
+It is not a class and does not replace one. It is not a species trait and does not care which species you are. It is not a subclass, costs no class feature, and takes nothing from your progression. **An Elf Druid can be a Coinshot. A Dwarf Fighter can be a Skimmer.** The bloodline runs alongside all of it.
+
+That independence is the design, not a convenience. In the books Allomancy runs in families and turns up in nobles, thieves, and street children alike, without regard for what any of them do for a living. A rule that made Allomancy a class would have to answer why a Coinshot cannot also be a soldier, and there is no good answer.
+
+**A bloodline scales on your character level**, not on a class level, so multiclassing never dilutes it and no one has to spend levels to keep up.
+
+Two things are worth saying plainly at the outset:
+
+- **A bloodline is chosen at character creation**, or awakened later through a **Snapping** if your DM prefers to hold it back for a moment that earns it.
+- **A bloodline is not free power. It is power with a fuel bill.** Every metal you burn is a metal you had to find, buy, and swallow, and it is gone afterwards. The Metal Economy is not flavour text; it is the balance.
+
+### A word to the DM
+
+Two of these arts change what a party can do rather than how much damage it deals. A Soother can end an encounter before initiative. A Pulser can put four rounds inside one. Read the Temporal and Mental metals before a player picks one, and decide in advance how much of your adventure survives a Seeker.
+
+Hemalurgy is the third, and it is different again. **It only works by hurting someone**, and the book does not soften that. It is written to be a real option with a real price, and it is entirely reasonable to tell your table it is not on the menu.
 
 \page
 {{partCover}}
@@ -281,7 +336,7 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
 \page
 ## Misting Bloodlines
 
-A **Misting** is a person who can Allomantically **burn one metal** for power. A Misting power is a **bloodline**, a magical inheritance chosen at character creation that is independent of your species and class (your table). An Elf Druid can be a Coinshot, and a Dragonborn Barbarian can be a Pewterarm. This section is the shared rules; each metal has its own page for its specific powers./, and lore from Allomancy.
+A **Misting** is a person who can Allomantically **burn one metal** for power. A Misting power is a **bloodline**, a magical inheritance chosen at character creation that is independent of your species and your class. An Elf Druid can be a Coinshot, and a Dragonborn Barbarian can be a Pewterarm. This section is the shared rules; each metal has its own page for what that metal does.
 
 ### Gaining the bloodline
 
@@ -315,7 +370,7 @@ A Misting begins play with **1d6 grams** of their metal, as small beads or a via
 
 {{wide
 <!--h:44-->
-![chart-allomancy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-allomancy.svg){width:100%}
+![chart-allomancy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-allomancy.svg?v=cf8d6cb8){width:100%}
 }}
 
 \page
@@ -327,7 +382,7 @@ A Misting begins play with **1d6 grams** of their metal, as small beads or a via
 
 The Physical quadrant acts on matter and on the body that moves through it. Outward, steel and iron **Push** and **Pull** on nearby metal, turning coins into shrapnel and a window grate into a handhold. Inward, tin and pewter sharpen the Allomancer instead of the world, opening the senses or driving the body past what it should survive. These are the plainest of the sixteen and the ones a table will reach for most: a Coinshot solves a problem by moving something, a Thug by outlasting it.
 
-\page
+::::
 
 ## Steel: Coinshot
 
@@ -373,6 +428,7 @@ A Coinshot learns to take a hard launch, better than an untrained person and now
 | 180 lb | 9 | 10 | 12 | 14 |
 | 250 lb | 13 | 14 | 17 | 20 |
 
+\page
 *Charges you can put into a single launch. Weight buys you room because the same force moves a heavier body less; Strength buys you room because you can hold yourself against it.*
 
 **This is measured for each Push, not for the round.** Ten charges spent as a single shove is 18 g for a small person and kills them in the air; the same ten spent as two Pushes of five is 9 g twice and hurts nobody. This is why a Coinshot taps an anchor again and again rather than emptying their pool into one enormous leap, and why the **120-foot** working range matters: you can keep Pushing only while the anchor is still in reach, which for a hard launch is about a second.
@@ -382,8 +438,6 @@ A Coinshot learns to take a hard launch, better than an untrained person and now
 The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
 
 Each 2 charges past the cap adds a further **1,500 Newtons** to the force pool for that round, on the same terms as flaring: it must be spent that round, and both the bracing limit and the launch G-ceiling still apply to your own body.
-
-\page
 
 ### Coinshooting
 
@@ -680,13 +734,12 @@ Pewter lets you keep fighting through wounds that would fell anyone else, at a p
 - Stored drag does nothing to you while you keep burning pewter. Damage beyond your drag capacity is taken as normal.
 - While you have pewter to burn, Hit Dice spent on a short rest restore the maximum, and you have advantage on death saving throws.
 
+\page
 ### The Crash
 
 When your pewter runs out, or you stop burning it, whether by choice or by spending your last charge mid-fight, every wound you set aside arrives at once. You immediately take all stored drag as a single hit of damage, and you gain one level of Exhaustion. If you were flaring 6 or more charges when the pewter ended, you gain two levels of Exhaustion instead.
 
 A Thug who leans on pewter and burns their last charge in a fight is suddenly, mortally vulnerable.
-
-\page
 
 ### Interactions & counterplay
 
@@ -763,12 +816,11 @@ Each 2 charges past the cap adds **30 feet** to a pulse's range and **+1** to it
 
 Spikes are the handle by which emotional Allomancy commands a koloss, and they answer to anyone strong enough to take hold. A **duralumin detonation** aimed at a creature bearing Hemalurgic spikes does not sway a mood. **It takes the creature.**
 
-\page
-
 - Against a **koloss**, or anything bearing a single spike, this is seizure rather than influence: it obeys you while you sustain the burn, and is free the moment the metal runs out. This is how one Soother turns a war band, and it is why the Lord Ruler never let a koloss near a Soother who was not his.
 - Against an **Inquisitor**, whose spikes are many and whose will is its own, it is a contest: make an Allomancy check against its Wisdom saving throw. Win and you hold it for the round. Lose and it knows precisely who reached for it.
 - A creature with **no spikes** is unaffected by any of this. There is nothing to take hold of.
 
+\page
 ### Interactions & counterplay
 
 - Rioting is blocked by **aluminum**: a creature wearing aluminum around the head, standing in an aluminum-lined room, or holding aluminum against your chest is immune.
@@ -1014,8 +1066,6 @@ Each 2 charges past the cap adds **+1** to the strength of the cleanse.
 - **Imprisonment and transport.** Because aluminum strips the metal itself, not just the burn, a captured Allomancer left with only aluminum can be made to empty their reserves, leaving them powerless. This was the metal's chief use in the Final Empire.
 - **Deception.** A Leecher or Nicroburst can feel whether their touch actually drained or detonated anything. Emptying your reserves beforehand can convince them you were carrying no metal at all.
 
-\page
-
 {{note
 
 | | |
@@ -1039,13 +1089,14 @@ An Allomancer burning duralumin empties every other metal they are burning in a 
 
 > **Gnat.** Duralumin has no effect of its own; all of its power is borrowed from the metals it detonates. A Duralumin Gnat, burning duralumin alone, does nothing at all.
 
+\column
+
 ### Base Burn
 
 Burning a charge of duralumin is instantaneous. As a free action, you **consume every charge you currently hold of every other metal you are burning, all at once**, ignoring your per-round flare cap and any limit on how many charges you may burn in a round. Apply the full combined effect of all those charges this round. The metals are then spent and gone.
 
 This is the single largest burst an Allomancer can produce, and it empties your reserves to do it.
 
-\page
 {{wide
 
 ### Detonation by metal
@@ -1071,6 +1122,7 @@ A duralumin burst spends **your entire held reserve of that metal in one instant
 
 }}
 
+\page
 {{tableGroup
 
 #### Feruchemy
@@ -1079,7 +1131,8 @@ Flaring duralumin lets the burst reach past Allomancy to **one non-Allomantic po
 
 | What you are doing | What the burst does |
 |---|---|
-| **Tapping a metalmind** | The draw you would have spread over its duration is released **at once**, at that amplified intensity. The reserve spent is spent; it does not come back. |
+| **Tapping a metalmind** | The draw you would have spread over its duration is released **at once**, at that amplified intensity, and **that metalmind is emptied entirely** rather than drawn down by what you needed. |
+| **One mind, not all of them** | The burst takes **the single metalmind you are tapping**, and stops there. It does not reach across to your other minds, even of the same metal: a Bloodmaker wearing five goldminds burns out one and still has four. This is the difference between Feruchemy and Allomancy under duralumin, where a reserve is one pool and all of it goes. |
 | **Storing into a metalmind** | Nothing. Storing is a slow giving-up, not a draw, and there is nothing to release. |
 | **Compounding** | The Compounded tap detonates as any tap does, which is the most dangerous version of this trick: a gold Compounder bursting a healing tap can undo grievous harm in a single round, and has nothing left afterward. |
 | **An unsealed metalmind** | As any tap, but the reserve belongs to whoever filled it. Bursting someone else's bank empties it for them too. |
@@ -1096,7 +1149,6 @@ For the Allomantic detonation, a single charge is enough; it already burns *ever
 - **At the surge tier**, or as a duralumin savant (whose cap is doubled), you can burst even a **powerful external Investiture** (up to a 9th-level or legendary effect), wringing a single overwhelming moment from a source that would normally release its power slowly.
 - As with the Allomantic burst, whatever you detonate is **spent** by it; a tap or a fed spell slot burst this way is consumed at once.
 
-\page
 ### Interactions & counterplay
 
 - Duralumin detonates **your own** power. To force the same burst on another Allomancer, see Nicrosil (Nicroburst).
@@ -1189,8 +1241,6 @@ For the Allomantic detonation, one charge suffices. Flaring nicrosil, like flari
 The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
 
 Each 2 charges past the cap adds **+1** to the strength of the burst you grant or force.
-
-\page
 
 ### Interactions & counterplay
 
@@ -1763,7 +1813,7 @@ A piece of your metal used for storage is a **metalmind**: a ring, a bracer, a s
 
 {{wide
 <!--h:44-->
-![chart-feruchemy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-feruchemy.svg){width:100%}
+![chart-feruchemy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-feruchemy.svg?v=91731eed){width:100%}
 }}
 
 \page
@@ -2828,8 +2878,6 @@ While you tap an aluminummind, you become intensely, unshakably *you*.
 
 - Aluminum is the metal that makes **unsealed metalminds** possible, which the whole of nicrosil's hand-me-down magic and much of Compounding with unkeyed minds depends upon.
 
-\page
-
 {{note
 
 | | |
@@ -3252,16 +3300,15 @@ Handled well it is one of the best character arcs this setting offers. Handled c
 
 *A kandra has no face of their own. They have a set of bones they are wearing at the moment, a memory of every body they have ever worn, and two spikes of metal somewhere inside them that are the only part they cannot replace.*
 
-The **kandra** are Mistwraiths given a mind. A pair of Hemalurgic spikes, called **Blessings**, was driven into a mindless gelatinous thing and made it a person. That was the Lord Ruler's work, and the making of new ones is lost. Every kandra alive was made long ago, and most are older than the nations they walk in.
+The **kandra** are Mistwraiths given a mind. A pair of Hemalurgic spikes, called **Blessings**, were driven into a mindless gelatinous thing and made it a person. That was the Lord Ruler's work, and the making of new ones is lost. Every kandra alive was made long ago, and most are older than the nations they walk in.
 
-A kandra digests a corpse and reassembles themselves around its bones, becoming that creature exactly. They have served as spies, as servants under Contract, and as the quiet keepers of secrets nobody else survived. They are patient, they are precise, and they remember everything.
+A kandra digests a corpse and reassembles themselves around its bones, becoming that creature exactly. They have served as spies, as servants under Contract, and as the quiet keepers of secrets. They are very patient, having lived for so many centuries.
 
 ### What a Kandra cannot be
 
 Kandra are not born and have no bloodline to inherit.
 
 - You **cannot take a Misting or Ferring bloodline**, and you **cannot be a Feruchemist**. The Metallic Arts do not run in a body that was assembled rather than conceived.
-- You **can** be a **Hemalurgist**, which many find fitting, since you are yourself a work of Hemalurgy. You can also gain Allomancy or Feruchemy the way you gained your mind, **through further spikes**, at the price every spike charges (see The Two Spikes).
 - You **can** become a **Mistborn** by burning a bead of lerasium, the one road open to anyone.
 
 Every other class is open to you.
@@ -3274,9 +3321,9 @@ Every other class is open to you.
 
 #### Boneless Form
 
-Your true shape is a translucent mass of flesh, and it is the state you return to when you have nothing to wear. While boneless you are a **Small** Ooze with a speed of 15 feet**, you can **squeeze through any opening a fist could pass**, and you can neither wear armor nor use a weapon or a tool that requires a grip. Your unarmored AC is **10 + your Dexterity modifier**. You can speak only if you shape a throat, which takes an action.
+Your true shape is a translucent mass of flesh, and it is the state you return to when you have nothing to wear. While boneless you are a **Small** Ooze with a speed of **15 feet**, you can **squeeze through any opening a fist could pass**, and you can neither wear armor nor use a weapon or a tool that requires a grip. Your unarmored AC is **10 + your Dexterity modifier**. You can speak only if you shape a throat, which takes an action.
 
-You may abandon your bones and revert to this form deliberately as an action. Doing so leaves the bones behind.
+You may abandon your bones and revert to this form deliberately as an action. Doing so leaves the bones behind. In this form you can fit through a gap at least as wide as your Blessings.
 
 {{tableGroup
 
@@ -3294,7 +3341,7 @@ Given a corpse with an intact skeleton, you can consume it and rebuild yourself 
 
 }}
 
-A human takes about an hour, which covers the hair of the head and face. **A body you have worn before takes half as long.** You may skip the hair entirely and finish in the bare-skin time, but a hairless copy fools nobody, and you lose whatever that covering did (a bear without fur takes the cold; a bird without feathers cannot fly). you can mimic any creature that can bear your spikes.
+A human takes about an hour, which covers the hair of the head and face. **A body you have worn before takes half as long.** You may skip the hair entirely and finish in the bare-skin time, but you lose the benefits of that covering. You can mimic any creature that can bear your spikes, though non-humanoid creatures take twice as long.
 
 **What you gain.** You become the creature in every physical respect:
 
@@ -3305,22 +3352,22 @@ A human takes about an hour, which covers the hair of the head and face. **A bod
 
 **What you do not gain.** You keep your own **Constitution, Intelligence, Wisdom, and Charisma**, your hit points, your class features, and all your proficiencies. You gain **no magical or supernatural ability** of the creature: no spellcasting, no innate magic resistance, and no Metallic Art. You are wearing a body, not a soul.
 
-**The organ exception.** If an ability comes from a *physical organ* rather than from magic, you get it, because you rebuilt the organ. A breath weapon produced by a gland, a spitter's venom, an electric organ, or a squid's ink all copy across. Anything the creature does by will alone does not. When it is unclear, the question to ask is whether a surgeon could find the thing that does it.
+**Organic abilities.** If an ability comes from a *physical organ* rather than from magic, you can mimic it by reproducing the organ exactly. A breath weapon produced by a gland, a spitter's venom, an electric organ, or a squid's ink are all fair game. Anything the creature does by will alone does not. When it is unclear, the question to ask is whether a surgeon could find the thing that does it.
 
 **What you can wear.** At 1st level you can copy **Small and Medium humanoids**. This widens as you grow (see Growing Older). You can wear the body of any creature whose frame can carry your spikes.
 
-**A body that works, versus a body that fools.** Everything above concerns an **exact replica**, which is the hard art and the one that takes practice. Simply having *a* working body is not hard, and every kandra can do it from their first day. Given any usable set of bones, matched or not, you can assemble a functioning creature in the bare-skin time on the table. It will move, fight, and carry you perfectly well.
+**Function Over Form.** Everything above concerns an **exact replica**, which is the hard art and the one that takes practice. Simply having *a* working body is not hard, and every kandra can do it from their first day. Given any usable set of bones, matched or not, you can assemble a functioning creature in the bare-skin time on the table. It will move, fight, and carry you perfectly well.
 
 \page
 {{tableGroup
 
 #### Your Skeleton
 
-Bones are one of the things a kandra cannot make from their own flesh. You must take them from a body or have them crafted, and what they are made of is the closest thing you have to armour in a bare state.
+Bones are one of the things a kandra cannot form from flesh. You must take them from a body or have them crafted, and what they are made of determines how durable you are.
 
 **Unarmored Defense.** While wearing a skeleton and not wearing armor, your AC equals your **skeleton's AC**. You may wear armor instead and use its AC as normal.
 
-**True Bodies.** Rather than a digested skeleton, a kandra may wear a crafted set of false bones, and most prefer to. In the Homeland they wear their skin translucent to show the work off.
+**True Bodies.** Rather than a digested skeleton, a kandra may wear a crafted set of false bones, and most prefer to while not on jobs. In the Homeland they wear their skin translucent to show off their true body.
 
 | Skeleton | AC | Notes |
 | ----------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -3345,7 +3392,7 @@ You have no organ that a blade can find, but your bones can be shattered, and yo
 
 - When a creature scores a **critical hit** against you, or deals damage in a single hit equal to or greater than **your level + your proficiency bonus**, it rolls one additional attack roll against your **skeleton's AC**. On a hit, **a bone breaks**.
 - Each broken bone reduces your **speed by 2 feet** and your **skeleton's AC by 1**.
-- **Broken bones do not heal** by rest, by any power that mends flesh, or by any healing worked on you while they are inside you. There is one exception: a broken bone **taken out of your body** can be repaired like any other object, including with a *mending* cantrip, exactly as one would mend a cracked breastplate.
+- **Broken bones do not heal** by rest, by any power that mends flesh, or by any healing worked on you while they are inside you. A broken bone **taken out of your body** can however be repaired like any other object, including with a *mending* cantrip. They can also be reinforced with normal bracing techniques.
 - **Replacing a bone** takes time according to what it is. A small bone (a finger, a rib, a tooth) is the work of a **moment**. A **structural** bone (a skull, a spine, a long bone of the arm or leg) takes about **10 minutes** for a young kandra, and less as you grow practiced.
 - Only **structural** bones are tracked. Small bones break constantly and cost you nothing worth writing down.
 - If **every structural bone you carry is broken or destroyed**, your frame gives out and you collapse into your Boneless Form. You are **not** Incapacitated. You can still see, speak, think, and act, but you are reduced to a boneless crawl at **15 feet**, you cannot use weapons, armor, or anything needing a grip, and you are horribly exposed until you reinforce or replace some part of your skeleton.
@@ -3358,7 +3405,7 @@ Your organs are wherever you decided to put them, and none of them are where any
 
 - You are **immune to the effects of critical hits other than the Broken Bones rule above**; there is no vital spot to find, and a blade through where a heart should be finds only flesh.
 - You **cannot be knocked unconscious by physical shock or pain**. You can turn your nerves off entirely, giving you **advantage on saving throws against effects that would incapacitate you through pain**.
-- You **do not age** and cannot be aged magically. You need not sleep, but you must **eat meat**, and steadily, since you are constantly renewing your own flesh. Any meat serves, not only corpses, and most kandra prefer it **well aged**, which is easier to digest. Starvation is one of the few things that can kill you.
+- You **do not age** and cannot be aged magically. You need not sleep, but you must **eat meat**, since you are constantly renewing your own flesh. Any meat serves, not only corpses, and most kandra prefer it **well aged**, which is easier to digest. Starvation is one of the few things that can kill you.
 - You are **vulnerable to acid and fire damage**, which destroy flesh faster than you can reshape it.
 
 **Falling apart, not dying.** Ordinary wounds do not kill a kandra; they take you apart. When you drop to 0 hit points you still make death saving throws, but for you they are **checks against coming apart entirely**, not against dying.
@@ -3940,6 +3987,8 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 **Feruchemy only ever acts on the Feruchemist.** A tapped attribute is yours and cannot be lent, projected, or shared. The single exception is **brass**, because warmth genuinely radiates off a body into the air around it. Everything else reaches other people only through an unsealed metalmind handed over for them to tap themselves.
 
 **Everything is an economy.** Each Discipline below spends something real: unit-minutes from a mind, kilojoules of warmth, hit points of banked health. Nothing here is a free passive.
+
+\page
 #### Physical (Iron, Steel, Tin, Pewter)
 
 - **3rd — Tireless.** While tapping pewter, even at the slightest draw, your borrowed strength carries you where endurance alone would fail. You ignore the movement cost of difficult terrain, you can march for twice the normal hours before risking Exhaustion, and you have advantage on saving throws made to resist Exhaustion from exertion. Tapping strength is what does this; no other Physical metal substitutes for it.
@@ -3947,7 +3996,7 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 - **10th — Second Wind of the Body.** While tapping pewter, you may spend **5 unit-minutes** from a pewtermind as a bonus action to shrug off a moment of failure: end one effect on yourself causing the Paralyzed, Restrained, Slowed, or Stunned condition, or reduce your Exhaustion by one level. There is no limit on how often you may do this beyond what your metalminds hold, for the cost is the limit.
 - **14th — The Body Remembers.** Physical metalminds you are actively drawing from **count as half a mind each** against your Minds at Once, so you can run all four Physical attributes for the price of two. While tapping three or more Physical metals at once, you have **resistance to bludgeoning, piercing, and slashing damage from nonmagical sources**.
 
-\page
+\column
 
 #### Cognitive (Zinc, Brass, Copper, Bronze)
 
@@ -3956,7 +4005,7 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 - **10th — Hearth and Hoard.** Warmth is the one thing a Feruchemist can genuinely give away, because heat radiates from you whether you mean it to or not. While tapping brass, you may pour out warmth to shelter others: spend **500 kJ per minute for each creature** within 30 feet you wish to keep comfortable in natural cold, and **1,500 kJ per minute each** to grant them **resistance to cold damage**. These figures already include your discount: you have learned to shape that radiance rather than let it bleed away, so warming others costs you half what it costs anyone else. *(The figures come from the body's own arithmetic on the Firesoul page: roughly 500 kJ is one step of body-temperature imbalance, about a minute's worth of serious cold. A 10th-level Firesoul's throughput of some 8,000 kJ per minute can shelter a large party, or armor a few against real freezing, but not both without emptying rings fast.)*
 - **14th — The Whole Library.** Your mind and your metal are one archive. You have **expertise** in Arcana, History, Nature, and Religion. Once per long rest, while tapping copper, you may recall a fact no living person should know, whatever a Keeper before you thought worth storing, and the DM tells you something genuinely useful about the situation at hand.
 
-\column
+\page
 
 #### Hybrid (Cadmium, Bendalloy, Gold, Electrum)
 
@@ -3966,7 +4015,6 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 - **14th — Deathless.** Gold, cadmium, and bendalloy that you are drawing from **do not count against your Minds at Once**, so health, breath, and sustenance run free alongside everything else you are doing. While all three run, you need not eat, drink, or breathe, and you can absorb a truly absurd amount of punishment: **spend 1 hit point from a goldmind for each 1 point of damage that would drop you below 0**, remaining conscious and acting for as long as the gold holds out. You die when the ring runs dry and not before. A Feruchemist so provisioned walks out of a desert, a sealed tomb, or a battlefield that killed everyone else. *(This buys endurance, not youth. Reversing your age is atium's domain, and only through Compounding.)*
 
 \page
-
 #### Spiritual (Chromium, Nicrosil, Aluminum, Duralumin)
 
 *Beginning with the Spiritual metals means beginning with the strangest and most coveted art in Feruchemy: the making of metalminds that belong to no one.*
@@ -4062,7 +4110,7 @@ This is the art of **Ruin**, and it is **end-negative**. Investiture is always l
 
 **Yield Floor** is the minimum strength of a spike you charge, explained under Spike Craft. Better craft wastes less soul.
 
-\page
+\column
 
 **How many spikes you can make is not limited.** Given metal, time, and donors, a Hemalurgist can produce hundreds, and history's worst of them did. The limits on the art are supply, opportunity, and whatever conscience the practitioner has left. What *is* fixed is how many a single body can hold.
 
@@ -4237,7 +4285,7 @@ This applies to **anyone** carrying spikes, including you, your allies, and your
 
 {{wide
 <!--h:44-->
-![chart-hemalurgy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-hemalurgy.svg){width:100%}
+![chart-hemalurgy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-hemalurgy.svg?v=612c2c56){width:100%}
 }}
 
 | God metal | Steals |
