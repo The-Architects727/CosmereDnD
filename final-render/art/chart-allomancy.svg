@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1200" viewBox="0 0 2400 1200" font-family="Georgia, 'Times New Roman', Garamond, serif">
+<rect x="0" y="0" width="2400" height="1200" fill="#F6F0E2"/>
+<rect x="36" y="36" width="2328" height="1128" fill="#FBF7ED"/>
 <rect x="36" y="36" width="205" height="1128" fill="#E9DCBB"/>
 <rect x="2159" y="36" width="205" height="1128" fill="#E9DCBB"/>
 <rect x="36" y="36" width="2328" height="74" fill="#E9DCBB"/>

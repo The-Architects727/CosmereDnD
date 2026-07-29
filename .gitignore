@@ -1,9 +1,15 @@
 # ---------------------------------------------------------------------------
-# This repository tracks ONE folder: final-render/
+# This repository -- the public one, on GitHub -- tracks ONE folder:
+# final-render/
 #
 # The rest of the vault (the design notes in content/, the wiki, the raw
 # sources, the build scripts) stays local and private. Ignore everything,
 # then re-include only what is meant to be published.
+#
+# Local and private does not mean unversioned. A SECOND repository, whose git
+# directory is .gitlocal/ and which is never pushed anywhere, keeps a history
+# of the private files so they can be compared and reverted like anything
+# else. See VAULT-HISTORY.md. It is ignored here along with everything else.
 # ---------------------------------------------------------------------------
 
 # ignore everything

@@ -315,7 +315,7 @@ A Misting begins play with **1d6 grams** of their metal, as small beads or a via
 
 {{wide
 <!--h:44-->
-![chart-allomancy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-allomancy.svg){width:100%}
+![chart-allomancy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-allomancy.svg?v=9b05fceb){width:100%}
 }}
 
 \page
@@ -1763,7 +1763,7 @@ A piece of your metal used for storage is a **metalmind**: a ring, a bracer, a s
 
 {{wide
 <!--h:44-->
-![chart-feruchemy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-feruchemy.svg){width:100%}
+![chart-feruchemy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-feruchemy.svg?v=b213c7b5){width:100%}
 }}
 
 \page
@@ -4237,7 +4237,7 @@ This applies to **anyone** carrying spikes, including you, your allies, and your
 
 {{wide
 <!--h:44-->
-![chart-hemalurgy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-hemalurgy.svg){width:100%}
+![chart-hemalurgy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-hemalurgy.svg?v=2fbf7e1e){width:100%}
 }}
 
 | God metal | Steals |
