@@ -200,76 +200,76 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
       - ###### [{{ Iron: Lurcher}}{{ 8}}](#p8)
       - ###### [{{ Tin: Tineye}}{{ 10}}](#p10)
       - ###### [{{ Pewter: Thug (Pewterarm)}}{{ 11}}](#p11)
-    - ##### [{{ Mental}}{{ 12}}](#p12)
-      - ###### [{{ Zinc: Rioter}}{{ 12}}](#p12)
-      - ###### [{{ Brass: Soother}}{{ 13}}](#p13)
-      - ###### [{{ Copper: Smoker}}{{ 14}}](#p14)
-      - ###### [{{ Bronze: Seeker}}{{ 15}}](#p15)
-    - ##### [{{ Enhancement}}{{ 16}}](#p16)
-      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 16}}](#p16)
-      - ###### [{{ Duralumin: Duralumin Gnat}}{{ 17}}](#p17)
-      - ###### [{{ Chromium: Leecher}}{{ 20}}](#p20)
-      - ###### [{{ Nicrosil: Nicroburst}}{{ 21}}](#p21)
-    - ##### [{{ Temporal}}{{ 22}}](#p22)
-      - ###### [{{ Gold: Augur}}{{ 22}}](#p22)
-      - ###### [{{ Electrum: Oracle}}{{ 23}}](#p23)
-      - ###### [{{ Cadmium: Pulser}}{{ 24}}](#p24)
-      - ###### [{{ Bendalloy: Slider}}{{ 25}}](#p25)
-    - ##### [{{ God Metals}}{{ 26}}](#p26)
-      - ###### [{{ Other Metals}}{{ 26}}](#p26)
-      - ###### [{{ Atium: Seer}}{{ 27}}](#p27)
-      - ###### [{{ Malatium: the Eleventh Metal}}{{ 28}}](#p28)
-      - ###### [{{ Lerasium}}{{ 29}}](#p29)
-  - #### [{{ Savants}}{{ 30}}](#p30)
-  - #### [{{ Ferrings}}{{ 34}}](#p34)
-    - ##### [{{ Physical}}{{ 37}}](#p37)
-      - ###### [{{ Iron: Skimmer}}{{ 37}}](#p37)
-      - ###### [{{ Steel: Steelrunner}}{{ 38}}](#p38)
-      - ###### [{{ Tin: Windwhisperer}}{{ 39}}](#p39)
-      - ###### [{{ Pewter: Brute}}{{ 40}}](#p40)
-    - ##### [{{ Cognitive}}{{ 41}}](#p41)
-      - ###### [{{ Zinc: Sparker}}{{ 41}}](#p41)
-      - ###### [{{ Brass: Firesoul}}{{ 42}}](#p42)
-      - ###### [{{ Copper: Archivist}}{{ 44}}](#p44)
-      - ###### [{{ Bronze: Sentry}}{{ 45}}](#p45)
-    - ##### [{{ Hybrid}}{{ 46}}](#p46)
-      - ###### [{{ Cadmium: Gasper}}{{ 46}}](#p46)
-      - ###### [{{ Bendalloy: Subsumer}}{{ 47}}](#p47)
-      - ###### [{{ Gold: Bloodmaker}}{{ 48}}](#p48)
-      - ###### [{{ Electrum: Pinnacle}}{{ 49}}](#p49)
-    - ##### [{{ Spiritual}}{{ 50}}](#p50)
-      - ###### [{{ Chromium: Spinner}}{{ 50}}](#p50)
-      - ###### [{{ Nicrosil: Soulbearer}}{{ 51}}](#p51)
-      - ###### [{{ Aluminum: Trueself}}{{ 52}}](#p52)
-      - ###### [{{ Duralumin: Connector}}{{ 54}}](#p54)
-    - ##### [{{ God Metals}}{{ 55}}](#p55)
-      - ###### [{{ Other Metals (Feruchemy)}}{{ 55}}](#p55)
-      - ###### [{{ Atium (Feruchemical)}}{{ 56}}](#p56)
-  - #### [{{ Twinborn}}{{ 57}}](#p57)
-  - #### [{{ Compounding}}{{ 58}}](#p58)
+    - ##### [{{ Mental}}{{ 13}}](#p13)
+      - ###### [{{ Zinc: Rioter}}{{ 13}}](#p13)
+      - ###### [{{ Brass: Soother}}{{ 15}}](#p15)
+      - ###### [{{ Copper: Smoker}}{{ 17}}](#p17)
+      - ###### [{{ Bronze: Seeker}}{{ 18}}](#p18)
+    - ##### [{{ Enhancement}}{{ 19}}](#p19)
+      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 19}}](#p19)
+      - ###### [{{ Duralumin: Duralumin Gnat}}{{ 21}}](#p21)
+      - ###### [{{ Chromium: Leecher}}{{ 24}}](#p24)
+      - ###### [{{ Nicrosil: Nicroburst}}{{ 25}}](#p25)
+    - ##### [{{ Temporal}}{{ 27}}](#p27)
+      - ###### [{{ Gold: Augur}}{{ 27}}](#p27)
+      - ###### [{{ Electrum: Oracle}}{{ 28}}](#p28)
+      - ###### [{{ Cadmium: Pulser}}{{ 29}}](#p29)
+      - ###### [{{ Bendalloy: Slider}}{{ 30}}](#p30)
+    - ##### [{{ God Metals}}{{ 31}}](#p31)
+      - ###### [{{ Other Metals}}{{ 31}}](#p31)
+      - ###### [{{ Atium: Seer}}{{ 32}}](#p32)
+      - ###### [{{ Malatium: the Eleventh Metal}}{{ 33}}](#p33)
+      - ###### [{{ Lerasium}}{{ 34}}](#p34)
+  - #### [{{ Savants}}{{ 35}}](#p35)
+  - #### [{{ Ferrings}}{{ 39}}](#p39)
+    - ##### [{{ Physical}}{{ 42}}](#p42)
+      - ###### [{{ Iron: Skimmer}}{{ 42}}](#p42)
+      - ###### [{{ Steel: Steelrunner}}{{ 43}}](#p43)
+      - ###### [{{ Tin: Windwhisperer}}{{ 44}}](#p44)
+      - ###### [{{ Pewter: Brute}}{{ 45}}](#p45)
+    - ##### [{{ Cognitive}}{{ 46}}](#p46)
+      - ###### [{{ Zinc: Sparker}}{{ 46}}](#p46)
+      - ###### [{{ Brass: Firesoul}}{{ 47}}](#p47)
+      - ###### [{{ Copper: Archivist}}{{ 49}}](#p49)
+      - ###### [{{ Bronze: Sentry}}{{ 50}}](#p50)
+    - ##### [{{ Hybrid}}{{ 51}}](#p51)
+      - ###### [{{ Cadmium: Gasper}}{{ 51}}](#p51)
+      - ###### [{{ Bendalloy: Subsumer}}{{ 52}}](#p52)
+      - ###### [{{ Gold: Bloodmaker}}{{ 53}}](#p53)
+      - ###### [{{ Electrum: Pinnacle}}{{ 54}}](#p54)
+    - ##### [{{ Spiritual}}{{ 55}}](#p55)
+      - ###### [{{ Chromium: Spinner}}{{ 55}}](#p55)
+      - ###### [{{ Nicrosil: Soulbearer}}{{ 56}}](#p56)
+      - ###### [{{ Aluminum: Trueself}}{{ 57}}](#p57)
+      - ###### [{{ Duralumin: Connector}}{{ 59}}](#p59)
+    - ##### [{{ God Metals}}{{ 60}}](#p60)
+      - ###### [{{ Other Metals (Feruchemy)}}{{ 60}}](#p60)
+      - ###### [{{ Atium (Feruchemical)}}{{ 61}}](#p61)
+  - #### [{{ Twinborn}}{{ 62}}](#p62)
+  - #### [{{ Compounding}}{{ 63}}](#p63)
 }}
 
 \column
 
 {{toc,contents
-- ### [{{ Species}}{{ 60}}](#p60)
-  - #### [{{ Koloss-blooded}}{{ 61}}](#p61)
-  - #### [{{ Kandra}}{{ 64}}](#p64)
-- ### [{{ Backgrounds}}{{ 68}}](#p68)
-  - #### [{{ Alloyer}}{{ 69}}](#p69)
-  - #### [{{ Hazekiller}}{{ 69}}](#p69)
-  - #### [{{ Crewmember}}{{ 69}}](#p69)
-  - #### [{{ Metal Smuggler}}{{ 69}}](#p69)
-  - #### [{{ Ashworker}}{{ 69}}](#p69)
-- ### [{{ Origin Feats}}{{ 70}}](#p70)
-  - #### [{{ Alloyer (Origin Feat)}}{{ 70}}](#p70)
-  - #### [{{ Hazekiller (Origin Feat)}}{{ 70}}](#p70)
-- ### [{{ Classes}}{{ 71}}](#p71)
-  - #### [{{ Mistborn}}{{ 72}}](#p72)
-  - #### [{{ Feruchemist}}{{ 76}}](#p76)
-  - #### [{{ Hemalurgist}}{{ 82}}](#p82)
-- ### [{{ The Metal Economy}}{{ 91}}](#p91)
-- ### [{{ The Arts and the Weave}}{{ 95}}](#p95)
+- ### [{{ Species}}{{ 65}}](#p65)
+  - #### [{{ Koloss-blooded}}{{ 66}}](#p66)
+  - #### [{{ Kandra}}{{ 69}}](#p69)
+- ### [{{ Backgrounds}}{{ 73}}](#p73)
+  - #### [{{ Alloyer}}{{ 74}}](#p74)
+  - #### [{{ Hazekiller}}{{ 74}}](#p74)
+  - #### [{{ Crewmember}}{{ 74}}](#p74)
+  - #### [{{ Metal Smuggler}}{{ 74}}](#p74)
+  - #### [{{ Ashworker}}{{ 74}}](#p74)
+- ### [{{ Origin Feats}}{{ 75}}](#p75)
+  - #### [{{ Alloyer (Origin Feat)}}{{ 75}}](#p75)
+  - #### [{{ Hazekiller (Origin Feat)}}{{ 75}}](#p75)
+- ### [{{ Classes}}{{ 76}}](#p76)
+  - #### [{{ Mistborn}}{{ 77}}](#p77)
+  - #### [{{ Feruchemist}}{{ 81}}](#p81)
+  - #### [{{ Hemalurgist}}{{ 87}}](#p87)
+- ### [{{ The Metal Economy}}{{ 96}}](#p96)
+- ### [{{ The Arts and the Weave}}{{ 100}}](#p100)
 }}
 
 \page
@@ -301,7 +301,7 @@ You ingest metal, as flakes in a **vial**, as beads, or as metal piercing your s
 
 **Base burn** is 1 charge per tempo unit. Lighting a metal, keeping it burning, and extinguishing it are free, part of your turn. While a metal burns you gain its base effect.
 
-**Flaring** is spending extra charges within the metal's tempo unit for a stronger effect. You may flare up to a number of extra charges equal to **your level**, the flare cap. Burning a metal always consumes it. The only way to burn a metal *past* its flare cap is to become a **savant** of it, by burning about 5 kg of it over a lifetime (roughly a year of always-on use, for a metal like tin); a savant reaches a metal's surge tier long before an ordinary Allomancer could.
+**Flaring** is spending extra charges within the metal's tempo unit for a stronger effect. You may flare up to a number of extra charges equal to **your level**, the flare cap. Burning a metal always consumes it. A **savant** of a metal has twice the cap for it, and a **duralumin** detonation ignores the cap entirely. Savancy comes of burning about 5 kg of a metal over a lifetime (roughly a year of always-on use, for a metal like tin); a savant reaches a metal's surge tier long before an ordinary Allomancer could.
 
 #### Carrying and the 24-hour rule
 
@@ -377,11 +377,17 @@ A Coinshot learns to take a hard launch, better than an untrained person and now
 
 **This is measured for each Push, not for the round.** Ten charges spent as a single shove is 18 g for a small person and kills them in the air; the same ten spent as two Pushes of five is 9 g twice and hurts nobody. This is why a Coinshot taps an anchor again and again rather than emptying their pool into one enormous leap, and why the **120-foot** working range matters: you can keep Pushing only while the anchor is still in reach, which for a hard launch is about a second.
 
+#### Past the cap
+
+The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
+
+Each 2 charges past the cap adds a further **1,500 Newtons** to the force pool for that round, on the same terms as flaring: it must be spent that round, and both the bracing limit and the launch G-ceiling still apply to your own body.
+
+\page
+
 ### Coinshooting
 
 Driving a coin, nail, or bead as a weapon is a ranged Allomantic attack with a range of 60/240 feet. To hit, add your proficiency bonus and your Constitution modifier. On a hit, the target takes piercing damage set by the force behind that coin, given in **Table E**. To fire a volley, divide your force pool among several coins and read each coin's damage from the force you put behind it.
-
-\page
 
 ### Interactions & counterplay
 
@@ -434,6 +440,12 @@ Like a Coinshot, a Lurcher pulls from their own center of mass, so the same dang
 - **Grapnel.** Pull yourself to a distant iron anchor to cross a gap or scale a wall, resolved with Table B.
 - **Snatch.** Yank a falling ally's armor, a dropped key, or a thrown lever toward you.
 - **Driven projectile.** A Lurcher can also drive a coin or spike by Pulling it, using the same ranged attack and Table E as a Coinshot; see Coinshooting.
+
+#### Past the cap
+
+The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
+
+Each 2 charges past the cap adds a further **1,500 Newtons** to the force pool for that round, on the same terms as flaring.
 
 ### Interactions & counterplay
 
@@ -580,6 +592,14 @@ Each extra charge you burn in a minute, up to a number equal to your level, inte
 
 }}
 
+#### Past the cap
+
+The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
+
+Each 2 charges past the cap grants **+1 to Perception checks** and **+10 feet** to the range at which any one sense reaches.
+
+**Light becomes the limit before the senses do.** Sensitivity multiplies what reaches you, and ordinary rooms are brighter than they feel. Past roughly a hundredfold, a lit interior is as painful as staring at the sun and you are effectively **blinded** in any lit space, working in darkness or behind smoked glass until you stop. This is why tin savants are found hooded at noon, and it is the same effect as Sensory Overload below, arrived at from the other direction.
+
 ### Sensory Overload
 
 Heightened senses cut both ways. While you burn tin, a sudden bright light or loud noise, such as a *light* spell flaring, a thunderous boom, or a flash pellet, forces a Constitution saving throw against a DC set by the source, or DC 13 by default.
@@ -630,9 +650,27 @@ While you burn pewter, at a base rate of 1 charge per round, you gain the follow
 Each extra charge you burn in a round, up to a number equal to your level, drives your body further past its natural limits. This scaling has no fixed ceiling; what lets you survive it is your Pewter Drag capacity, below, which grows with every charge you burn.
 
 - Each extra charge grants a further +2 bonus to melee and unarmed damage and increases your speed by 5 feet.
-- While you flare 3 or more charges, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical sources.
+- Each extra charge grants **5 temporary hit points**, which last while you burn and are lost when you stop. This is what a pewter burner's famous toughness is: not an immunity, but a body that keeps going through what should have stopped it.
 - While you flare 5 or more charges, once on each of your turns you may treat a Strength check or a shove as though your Strength score were 30, and you can jump twice your normal distance.
 - At the **surge tier** (20 or more charges in a round; see the core rules, or half that for a pewter savant, or any duralumin detonation), you reach legendary feats of might. You can shatter stone with a blow, tear a barred door from its frame, or strike hard enough to break bone and armor alike. Each charge beyond the threshold continues to add its damage and speed and to expand your Pewter Drag capacity.
+
+{{tableGroup
+
+#### Past the cap
+
+The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
+
+| Per 2 charges past the cap | |
+|---|---|
+| **Strength score** | **+1**, and this **ignores the ceiling of 30** that otherwise binds an ability score. Nothing else in these rules lifts that ceiling. |
+| **Melee and unarmed damage** | +2, in addition to what the raised Strength modifier already gives. The flat bonus is the metal driving the blow; the score is what your body can hold and lift. Both are real, and for one round both apply. |
+| **Speed** | +5 feet |
+| **Temporary hit points** | +5 |
+| **Launch G-ceiling** | +5 G, the acceleration your body can take from a Steelpush; see the Steel entry |
+
+}}
+
+A 5th-level Thug who detonates a 5 gram vial spends 250 charges, 245 of them past the cap: **Strength 132, +244 damage on top of the Strength modifier, 610 temporary hit points, and the strength to lift about two tons.** It lasts one round. Then the pewter is gone, the temporary hit points with it, and every wound you did not feel arrives at once.
 
 ### Pewter Drag
 
@@ -647,6 +685,8 @@ Pewter lets you keep fighting through wounds that would fell anyone else, at a p
 When your pewter runs out, or you stop burning it, whether by choice or by spending your last charge mid-fight, every wound you set aside arrives at once. You immediately take all stored drag as a single hit of damage, and you gain one level of Exhaustion. If you were flaring 6 or more charges when the pewter ended, you gain two levels of Exhaustion instead.
 
 A Thug who leans on pewter and burns their last charge in a fight is suddenly, mortally vulnerable.
+
+\page
 
 ### Interactions & counterplay
 
@@ -713,6 +753,22 @@ The effect of a single inflamed emotion is up to the DM and depends on what the 
 
 }}
 
+#### Past the cap
+
+The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
+
+Each 2 charges past the cap adds **30 feet** to a pulse's range and **+1** to its save DC, or emits one more pulse.
+
+#### Against a spiked creature
+
+Spikes are the handle by which emotional Allomancy commands a koloss, and they answer to anyone strong enough to take hold. A **duralumin detonation** aimed at a creature bearing Hemalurgic spikes does not sway a mood. **It takes the creature.**
+
+\page
+
+- Against a **koloss**, or anything bearing a single spike, this is seizure rather than influence: it obeys you while you sustain the burn, and is free the moment the metal runs out. This is how one Soother turns a war band, and it is why the Lord Ruler never let a koloss near a Soother who was not his.
+- Against an **Inquisitor**, whose spikes are many and whose will is its own, it is a contest: make an Allomancy check against its Wisdom saving throw. Win and you hold it for the round. Lose and it knows precisely who reached for it.
+- A creature with **no spikes** is unaffected by any of this. There is nothing to take hold of.
+
 ### Interactions & counterplay
 
 - Rioting is blocked by **aluminum**: a creature wearing aluminum around the head, standing in an aluminum-lined room, or holding aluminum against your chest is immune.
@@ -769,11 +825,27 @@ The effect of a single dampened emotion is up to the DM and depends on what the 
 
 }}
 
+#### Past the cap
+
+The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
+
+Each 2 charges past the cap adds **30 feet** to a pulse's range and **+1** to its save DC, or emits one more pulse.
+
+#### Against a spiked creature
+
+Spikes are the handle by which emotional Allomancy commands a koloss, and they answer to anyone strong enough to take hold. A **duralumin detonation** aimed at a creature bearing Hemalurgic spikes does not sway a mood. **It takes the creature.**
+
+- Against a **koloss**, or anything bearing a single spike, this is seizure rather than influence: it obeys you while you sustain the burn, and is free the moment the metal runs out. This is how one Soother turns a war band, and it is why the Lord Ruler never let a koloss near a Soother who was not his.
+- Against an **Inquisitor**, whose spikes are many and whose will is its own, it is a contest: make an Allomancy check against its Wisdom saving throw. Win and you hold it for the round. Lose and it knows precisely who reached for it.
+- A creature with **no spikes** is unaffected by any of this. There is nothing to take hold of.
+
 ### Interactions & counterplay
 
 - Soothing is blocked by **aluminum**: a creature wearing aluminum around the head, standing in an aluminum-lined room, or holding aluminum against your chest is immune.
 - A creature burning **copper** (copper) is immune to Soothing.
 - You must be able to **see** into the area; pulses do not pass through total cover or around corners.
+
+\page
 
 {{note
 
@@ -805,6 +877,12 @@ While you burn copper, at a base rate of 1 charge per minute, you gain the follo
 ### Flaring
 
 Each extra charge you burn in a minute, up to a number equal to your level, increases the coppercloud's **radius by 10 feet** and its **strength**. The cloud's strength sets the DC to pierce it, equal to your Allomancy save DC plus 1 for each charge flared. Multiple Smokers who overlap their clouds add their strengths together.
+
+#### Past the cap
+
+The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
+
+Each 2 charges past the cap adds **20 feet** to the coppercloud's radius and **+1** to the DC to pierce it.
 
 ### Piercing a coppercloud
 
@@ -864,6 +942,12 @@ Each extra charge you burn in a minute, up to a number equal to your level, incr
 
 }}
 
+#### Past the cap
+
+The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
+
+Each 2 charges past the cap adds **120 feet** of range and **+1** to the DC to read through a coppercloud.
+
 ### Interactions & counterplay
 
 - A **coppercloud** (copper) blocks Seeking entirely; you sense nothing that happens inside one, unless you can pierce it. See Piercing a coppercloud.
@@ -915,14 +999,22 @@ Where clearing your metals is binary, cleansing your spirit **scales with the ch
 
 - Treat the total charges spent as the **strength of the cleanse**. You may end an ongoing magical or Invested effect on yourself whose strength (its spell level, or a tier the DM sets) is no greater than the charges spent. Because you are scouring your *own* spirit by choice, no saving throw resists you.
 - This can strip clinging foreign Investiture as well as spells: a measure of another's power that has taken hold of you (borrowed Stormlight, a lodged Breath, a curse, an enemy's ongoing spell) can be burned out of your spirit if you spend enough.
-- **At the surge tier** (see the core rules), or as an aluminum savant (who ignores the cap), you can **cleanse even powerful, Shard-level Investiture** (up to a 9th-level or legendary effect) from your own spirit, the rarest and most coveted use of the metal.
+- **At the surge tier** (see the core rules), or as an aluminum savant (whose cap is doubled), you can **cleanse even powerful, Shard-level Investiture** (up to a 9th-level or legendary effect) from your own spirit, the rarest and most coveted use of the metal.
 
 You still cannot reach *another* creature's Investiture with aluminum; it acts only on yourself. To strip someone else, see Chromium (Leecher). At a D&D table this is how aluminum ends spells and curses on you; full rules in The Metallic Arts and the Weave.
+
+#### Past the cap
+
+The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
+
+Each 2 charges past the cap adds **+1** to the strength of the cleanse.
 
 ### Notable uses
 
 - **Imprisonment and transport.** Because aluminum strips the metal itself, not just the burn, a captured Allomancer left with only aluminum can be made to empty their reserves, leaving them powerless. This was the metal's chief use in the Final Empire.
 - **Deception.** A Leecher or Nicroburst can feel whether their touch actually drained or detonated anything. Emptying your reserves beforehand can convince them you were carrying no metal at all.
+
+\page
 
 {{note
 
@@ -1001,7 +1093,7 @@ Flaring duralumin lets the burst reach past Allomancy to **one non-Allomantic po
 For the Allomantic detonation, a single charge is enough; it already burns *everything*. Flaring duralumin instead lets the burst reach **beyond Allomancy**, to other Investiture you are actively wielding in the same instant.
 
 - The detonation can seize one form of **non-Allomantic Investiture you are using right now**: a **Feruchemical tap** (releasing a metalmind's draw in one amplified surge rather than over time), or, at a D&D table, **a spell you cast this turn**. A spell is **maximized** and may be upcast to the summed level of any spell slots you feed in; a concentration spell then ends. The full rules for spells live in The Metallic Arts and the Weave.
-- **At the surge tier**, or as a duralumin savant (who ignores the cap), you can burst even a **powerful external Investiture** (up to a 9th-level or legendary effect), wringing a single overwhelming moment from a source that would normally release its power slowly.
+- **At the surge tier**, or as a duralumin savant (whose cap is doubled), you can burst even a **powerful external Investiture** (up to a 9th-level or legendary effect), wringing a single overwhelming moment from a source that would normally release its power slowly.
 - As with the Allomantic burst, whatever you detonate is **spent** by it; a tap or a fed spell slot burst this way is consumed at once.
 
 \page
@@ -1043,8 +1135,14 @@ A creature's ordinary Allomantic reserves are wiped by that single charge, unwil
 Chromium reaches **past Allomancy** as you pour more into a single touch, up to a flare cap equal to your level. Where one charge empties an Allomancer, more charges let you drain **other forms of Investiture** on contact, their strength setting how much you can snuff.
 
 - With enough charges you can, on a touch: snuff a measure of a target's **Breath** or **Stormlight**; **interrupt a Feruchemist who is tapping a metalmind**, cutting the draw; drain the animating Investiture of a **Lifeless**; keep a Shardbearer from **summoning their Blade** for the moment; or silence an **Invested weapon**. The charges you spend must overcome the strength of the Investiture; the flare cap is your level.
-- **At the surge tier**, or as a chromium savant (who ignores the cap), you can tear at even **powerful, Shard-level Investiture**, the reason Leechers are feared far beyond a duel of Allomancers.
+- **At the surge tier**, or as a chromium savant (whose cap is doubled), you can tear at even **powerful, Shard-level Investiture**, the reason Leechers are feared far beyond a duel of Allomancers.
 - As always, an unwilling and aware target still gets a Dexterity save to avoid the touch entirely; no touch, no drain. Chromium reaches only what is **live**: it never drains a caster's spell slots or capacity, only the magic actually in use. Full rules for draining spells and magic items are in The Metallic Arts and the Weave.
+
+#### Past the cap
+
+The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
+
+Each 2 charges past the cap adds **+1** to the strength of the drain.
 
 ### Interactions & counterplay
 
@@ -1084,9 +1182,15 @@ For the Allomantic detonation, one charge suffices. Flaring nicrosil, like flari
 
 - On a **willing ally**, you seize one form of **non-Allomantic Investiture they are using**, a **Feruchemical tap** or a spell they cast, exactly as duralumin does for oneself (a spell maximized and upcast by the slots they feed).
 - On an **unwilling caster or Feruchemist**, you force them to **expend Investiture at the worst moment**, wasting an active spell or tap and forcing extra spell slots. Because that power is part of them, they make a **Constitution save** to protect half of it (their Allomantic metal, being external, is taken with no such save). Full rules in The Metallic Arts and the Weave.
-- **At the surge tier**, or as a nicrosil savant (who ignores the cap), you can reach even a **powerful, Shard-level Investiture** (up to a 9th-level or legendary effect) in the one you touch.
+- **At the surge tier**, or as a nicrosil savant (whose cap is doubled), you can reach even a **powerful, Shard-level Investiture** (up to a 9th-level or legendary effect) in the one you touch.
 
-\column
+#### Past the cap
+
+The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
+
+Each 2 charges past the cap adds **+1** to the strength of the burst you grant or force.
+
+\page
 
 ### Interactions & counterplay
 
@@ -1132,7 +1236,7 @@ Touching the gold shadow deepens the vision into the full weight of a life unliv
 
 ### Flaring
 
-Flaring does little. Burning more charges sharpens and prolongs the vision but grants no greater power.
+Flaring does little. Burning more charges sharpens and prolongs the vision but grants no greater power, and this holds **past the flare cap as well**. A duralumin detonation of gold buys one vast and complete vision of the self you might have been rather than a glimpse, and nothing more. Some things do not become truer for being seen harder.
 
 ### Interactions & counterplay
 
@@ -1181,6 +1285,12 @@ Each extra charge you burn in a minute, up to a number equal to your level, push
 
 }}
 
+#### Past the cap
+
+The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
+
+Each 2 charges past the cap pushes your foresight a further **6 seconds** ahead.
+
 ### Interactions & counterplay
 
 - Electrum shows only **your own** near future, never the future of others or of objects. That wider sight belongs to atium (see the God Metals).
@@ -1222,6 +1332,12 @@ Each extra charge you burn, up to a number equal to your level, spends on one of
 
 - **Deepen it.** Increase the ratio by 2, so that even more time passes outside for each round within.
 - **Widen it.** Increase the radius by 10 feet.
+
+#### Past the cap
+
+The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
+
+Each 2 charges past the cap adds **2** to the ratio, or **20 feet** to the radius.
 
 ### Uses
 
@@ -1272,6 +1388,12 @@ Each extra charge you burn in a minute, up to a number equal to your level, spen
 - **Widen it.** Increase the radius by 5 feet.
 
 Deepening compounds against you twice over, since a deeper bubble both costs more charges each minute and burns through those minutes faster.
+
+#### Past the cap
+
+The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
+
+Each 2 charges past the cap adds **2** to the ratio, or **10 feet** to the radius.
 
 ### Uses
 
@@ -1496,11 +1618,11 @@ A **savant** is an Allomancer whose soul has grown into a single metal through r
 
 Being a savant of a metal grants three things, together, for that one metal.
 
-- **Uncapped flare.** You **ignore that metal's flare cap** (normally equal to your level). You may flare it as hard as your body, your metal reserve, and, for a Mistborn, your Burn Budget will bear. This is the heart of savancy: it is the *only* way to exceed the flare cap, and it is what lets you reach a metal's **surge tier** long before 20th level. See the core rules.
+- **A doubled cap.** Your flare cap for that metal is **twice your level** rather than equal to it. This is the heart of savancy, and it is why a savant reaches feats an ordinary Allomancer cannot. It is not the removal of the cap: only a duralumin detonation does that, spending everything you hold in one instant.
 - **Doubled efficiency.** Your **spent charges count as doubled** toward magnitude and toward the surge threshold, and **each charge lasts twice as long**. A savant reaches the surge tier at about **10 real charges** rather than 20, and their reserves stretch twice as far.
 - **The Dependency (always).** Your body has come to rely on the burn. This price is never waived, not by class, not by ascension, not by any Mistborn's stronger soul. See below.
 
-Uncapped flare and doubled efficiency work together: the uncap lets you *spend* the charges, the doubling makes them *land* at the surge tier. Without savancy, an ordinary Allomancer only reaches that tier near 20th level or through a one-time Duralumin detonation.
+The doubled cap and the doubled efficiency work together: the cap lets you *spend* the charges, the doubling makes them *land* harder. Without savancy, an ordinary Allomancer only reaches that tier near 20th level or through a one-time Duralumin detonation.
 
 ### The Dependency
 
@@ -1556,7 +1678,7 @@ Every one of these carries **the Dependency** all the same. A 20th-level Mistbor
 
 ### Savant effects by metal
 
-Every savant gains the shared package (uncapped flare, doubled efficiency, the Dependency). On top of that, long fusion with a particular metal grants signature effects drawn from the histories. Each metal's own page carries the full rules; this is the summary.
+Every savant gains the shared package (a doubled cap, doubled efficiency, the Dependency). On top of that, long fusion with a particular metal grants signature effects drawn from the histories. Each metal's own page carries the full rules; this is the summary.
 
 | Metal | What savanthood adds | Dependency |
 |---|---|---|
@@ -1578,25 +1700,25 @@ Four metals have savant effects specific enough to state outright. The rest foll
 
 ### Tin
 
-A tin savant (about 5 kg of tin burned over a lifetime, or a Mistborn's class feature) has fused with the metal. Beyond the shared savant package (uncapped flare, doubled efficiency, the Dependency), the fusion reshapes their senses:
+A tin savant (about 5 kg of tin burned over a lifetime, or a Mistborn's class feature) has fused with the metal. Beyond the shared savant package (a doubled cap, doubled efficiency, the Dependency), the fusion reshapes their senses:
 
 - **Ordinary light blinds them.** A tin savant burning tin treats normal daylight as the *Sensory Overload* trigger against sight, which is why the famous ones go **veiled and gloved by day**. In exchange, their hearing and touch grow so acute that they can fight and move **half-blind without penalty**, and can **anticipate attacks** almost as a Seer reads atium: while burning tin, attackers you can hear and feel do not gain advantage from being unseen, and the DM may grant you a read on an incoming blow.
 - **The Dependency is severe.** Cut off from tin, the savant's raw senses feel muffled and wrong (disadvantage on Perception checks and Dexterity saves until they burn again); oddly, their untethered nerves also **dull their sense of pain**.
 
 ### Pewter
 
-A pewter savant (about 5 kg of pewter burned, or a Mistborn's class feature), beyond the shared savant package (uncapped flare, doubled efficiency, the Dependency), heals faster than a natural body, though never as fast as someone tapping a goldmind: while burning pewter you regain a small amount of hit points at the start of each of your turns, at the DM's rate. Pewter savants are rare for a grim reason. Feeling neither pain nor exhaustion to any real degree, a savant can **ignore wounds that later prove fatal**, and many Thugs die on the battlefield, still fighting, long before they ever burn five kilograms of pewter. The savant's Crash, when it lands, is correspondingly worse.
+A pewter savant (about 5 kg of pewter burned, or a Mistborn's class feature), beyond the shared savant package (a doubled cap, doubled efficiency, the Dependency), heals faster than a natural body, though never as fast as someone tapping a goldmind: while burning pewter you regain a small amount of hit points at the start of each of your turns, at the DM's rate. Pewter savants are rare for a grim reason. Feeling neither pain nor exhaustion to any real degree, a savant can **ignore wounds that later prove fatal**, and many Thugs die on the battlefield, still fighting, long before they ever burn five kilograms of pewter. The savant's Crash, when it lands, is correspondingly worse.
 
 ### Cadmium
 
-A cadmium savant (5 kg burned, or a Mistborn's class feature), beyond the shared savant package (uncapped flare, doubled efficiency, the Dependency), transcends the fixed bubble:
+A cadmium savant (5 kg burned, or a Mistborn's class feature), beyond the shared savant package (a doubled cap, doubled efficiency, the Dependency), transcends the fixed bubble:
 
 - Your slowness bubble may be **anchored to you and move with you**, so you can walk while wrapped in slowed time rather than being pinned to a sphere on the ground. Creatures and objects crossing the moving boundary suffer the usual energy-transfer complications as time re-seats them.
 - You may **slow time more deeply than an ordinary Slider**, and freely **adjust the bubble's size and the degree of its slowing** on the fly, within your charges.
 
 ### Bendalloy
 
-A bendalloy savant (5 kg burned, or a Mistborn's class feature) transcends the fixed bubble. In addition to the shared savant package (uncapped flare, doubled efficiency, the Dependency):
+A bendalloy savant (5 kg burned, or a Mistborn's class feature) transcends the fixed bubble. In addition to the shared savant package (a doubled cap, doubled efficiency, the Dependency):
 
 - Your bubble may be **anchored to you and move with you**, so you carry your quickened time as you walk rather than being trapped in a sphere on the ground. Objects and creatures crossing the moving boundary suffer the usual energy-transfer complications as time re-seats them.
 - You may freely **adjust its size and the degree of its speed-up** on the fly, within your charges, rather than setting them only as you raise it.
@@ -3554,7 +3676,7 @@ Your handling of the enhancement metals is second nature. You may burn duralumin
 
 #### Allomantic Savant (17th level)
 
-A lifetime of burning has etched the metals into your soul, faster than any year of use could. Choose **two** metals you have mastered and are not already a savant of; you become a full savant of them, gaining uncapped flare and doubled efficiency with each. Like every savant, you also take on **the Dependency** for those metals: while you are a savant of a metal but not burning it, you suffer withdrawal until you resume. Even a Mistborn's stronger soul cannot escape this price.
+A lifetime of burning has etched the metals into your soul, faster than any year of use could. Choose **two** metals you have mastered and are not already a savant of; you become a full savant of them, gaining a doubled flare cap and doubled efficiency with each. Like every savant, you also take on **the Dependency** for those metals: while you are a savant of a metal but not burning it, you suffer withdrawal until you resume. Even a Mistborn's stronger soul cannot escape this price.
 
 #### Deepening Mastery (18th level)
 
@@ -4261,10 +4383,10 @@ Feruchemists buy the same metals in different shapes: **rings** (roughly 2 to 10
 | **Bendalloy** | 50% bismuth, 26% lead, 14% tin, 10% cadmium | 0.06 gp | 3 sp | 3 gp | 1 sp 2 cp |
 | **Electrum** | 45% gold, 55% silver | 0.08 gp | 4 sp | 4 gp | 1 sp 6 cp |
 | **Gold** | Pure | 0.11 gp | 5 sp 5 cp | 5 gp 5 sp | 2 sp 2 cp |
-| **Chromium** | Pure | 1.5 gp | 7 gp 5 sp | 75 gp | 3 gp |
-| **Duralumin** | 96% aluminum, 4% copper | 2.0 gp | 10 gp | 100 gp | 4 gp |
-| **Nicrosil** | 85% tin, 15% chromium | 2.0 gp | 10 gp | 100 gp | 4 gp |
-| **Aluminum** | Pure | 2.5 gp | 12 gp 5 sp | 125 gp | 5 gp |
+| **Chromium** | Pure | 5 gp | 25 gp | 250 gp | 10 gp |
+| **Duralumin** | 96% aluminum, 4% copper | 50 gp | 250 gp | 2,500 gp | 100 gp |
+| **Nicrosil** | 85% tin, 15% chromium | 5 gp | 25 gp | 250 gp | 10 gp |
+| **Aluminum** | Pure | 50 gp | 250 gp | 2,500 gp | 100 gp |
 | **Malatium** | Atium and gold | 350 gp | 1,750 gp | 17,500 gp | 700 gp |
 | **Atium** | Pure | 500 gp | 2,500 gp | 25,000 gp | 1,000 gp |
 
@@ -4277,7 +4399,9 @@ Material cost is not shelf price. Somebody has to grind the metal fine, suspend 
 
 - **A prepared vial of any common metal costs 1 gp**, whatever the table above says. You are paying for the work and the warranty, not the tin.
 - **Buying by the pound** is how the common metals are actually traded, at the per-gram prices above. Bring your own mortar.
-- **The expensive metals** are priced by material, so the table stands. Nobody marks up aluminum; there is no need.
+- **The expensive metals** are priced by material, so the table stands.
+- **Aluminum is the difficulty, not the ore.** Bauxite is common and aluminum is the most abundant metal in the ground, but freeing it takes either electrolysis or a volcano, and a world without the first has only the second. That is why a pistol made of it buys a house and a carriage, and why a single vial costs more than most people see in a year. **Duralumin is 96% aluminum and priced accordingly.**
+- **Chromium and nicrosil are merely difficult.** Dissolve the ore in hydrochloric acid, reduce it in a charcoal oven: an alchemist can do it, and some do, which is why they cost what a good horse costs rather than what a house does.
 - **Prices double or worse** where a metal is scarce, controlled, or being sold to someone with no other option.
 
 **Grind your own.** This gap is worth a player noticing. A pouch of tin **powder** holds ten vials' worth and costs **1 silver**; ten prepared **vials** of the same tin cost **10 gold**, a hundred times more. Buying powder and preparing your own vials takes about an hour, a mortar, and some strong spirits, and it is the single largest saving available to a working Allomancer. It also means you are trusting your own purity checks instead of somebody else's, which is exactly why the Alloyer feat pays for itself.
