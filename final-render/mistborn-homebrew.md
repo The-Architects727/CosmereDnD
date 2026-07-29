@@ -333,6 +333,10 @@ Hemalurgy is the third, and it is different again. **It only works by hurting so
 # Part 1
 ## Bloodlines
 
+{{imageMaskCorner25,--offsetX:0%,--offsetY:-30%,--rotation:0
+  ![Part 1 cover: the Allomantic metals](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/cover-bloodlines-allomantic-metals.png?v=feba21c5){height:100%}
+}}
+
 \page
 ## Misting Bloodlines
 
@@ -460,6 +464,10 @@ Driving a coin, nail, or bead as a weapon is a ranged Allomantic attack with a r
 | **Launch limit** | 10 g + Strength modifier; g-load is charges x 170 / your weight in lb; 1d6 per g over, and a Con save or grey out |
 | **Coinshooting** | Ranged attack (proficiency + Con), piercing, 60/240, damage by force (Table E) |
 
+}}
+
+{{imageMaskCorner21,--offsetX:50%,--offsetY:-30%,--rotation:0
+  ![Steel: a Coinshot throwing coins](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/misting-steel-coinshot.jpg?v=366d37af){height:100%}
 }}
 
 \page
@@ -757,6 +765,10 @@ A Thug who leans on pewter and burns their last charge in a fight is suddenly, m
 
 }}
 
+{{imageMaskCorner21,--offsetX:40%,--offsetY:-30%,--rotation:0
+  ![Pewter: a Thug punching in a brawl](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/misting-pewter-thug.jpg?v=87e5e8e6){height:100%}
+}}
+
 \page
 
 ### Mental
@@ -964,6 +976,10 @@ A creature able to pierce the cloud must succeed on a Wisdom saving throw agains
 
 }}
 
+{{imageMaskCorner21,--offsetX:50%,--offsetY:-50%,--rotation:0
+  ![Copper: a Smoker covering a room](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/misting-copper-smoker.jpg?v=14ed69bf){height:100%}
+}}
+
 \page
 
 ## Bronze: Seeker
@@ -1015,6 +1031,10 @@ Each 2 charges past the cap adds **120 feet** of range and **+1** to the DC to r
 | **Flaring** | +60 ft range per charge, plus rising detail (direction, type, magic sense) |
 | **Blocked by** | Copperclouds, unless you can pierce them |
 
+}}
+
+{{imageMaskCorner21,--offsetX:50%,--offsetY:-30%,--rotation:0
+  ![Bronze: a Seeker](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/misting-bronze-seeker.jpg?v=82366133){height:100%}
 }}
 
 \page
@@ -1901,6 +1921,10 @@ There is no hard ceiling on how hard you may draw. The losses are the ceiling. P
 ### Starting equipment
 
 A Ferring begins play with a **ring** of their metal weighing **1d8 grams**, and the knowledge of how to use it.
+
+{{imageMaskCorner21,--offsetX:0%,--offsetY:-30%,--rotation:0
+  ![The Feruchemical metals, by the Ferring starting equipment](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/ferrings-feruchemical-metals.png?v=377c67a8){height:100%}
+}}
 
 \page
 # Quadrant Disciplines
@@ -3163,11 +3187,19 @@ The attribute is the Feruchemical one; the Allomantic half of the pair only prov
 
 **The four famous ones** are gold, atium, pewter, and steel, because those are the ones the histories record. The rest are no less possible; they are simply less often worth the metal.
 
+{{imageMaskEdge6,--offset:10%,--rotation:0
+  ![A gold Compounder](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/compounding-miles-hundredlives.jpg?v=bbebf734){height:100%}
+}}
+
 \page
 {{partCover}}
 
 # Part 2
 ## Species
+
+{{imageMaskCorner26,--offsetX:-0%,--offsetY:-20%,--rotation:0
+  ![Part 2 cover: a koloss](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/cover-species-koloss.jpg?v=c1c48f75){height:100%}
+}}
 
 \page
 
@@ -3286,6 +3318,10 @@ Such a koloss keeps growing, past twelve feet and onward, held together by conti
 If a player takes this path, they have chosen a tragedy on purpose, and the table should treat it as one. The character is enormously strong, effectively unkillable by ordinary means, and on a timer that no amount of adventuring will reset. They are also, in a way the party will feel, **steerable** by anything that knows how to reach four spikes.
 
 Handled well it is one of the best character arcs this setting offers. Handled carelessly it is a way for one player to become an NPC.
+
+{{imageMaskEdge6,--offset:10%,--rotation:270
+  ![A koloss-blooded human](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/species-koloss-blooded.jpg?v=3a57da68){height:100%}
+}}
 
 {{imgph imgphWide,style=min-height:19em
 <!--h:34-->
@@ -3487,6 +3523,10 @@ Kandra improve at their art with practice, and yours does so as you level.
 # Part 3
 ## Backgrounds
 
+{{imageMaskCorner25,--offsetX:-0%,--offsetY:-30%,--rotation:2
+  ![Part 3 cover: a hazekiller](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/cover-backgrounds-hazekiller.png?v=a0d4fda8){height:100%}
+}}
+
 \page
 ## Backgrounds and Origin Feats
 
@@ -3607,6 +3647,10 @@ You were taught how people with metal in their stomachs move, and what to do abo
 
 # Part 4
 ## Classes
+
+{{imageMaskCorner26,--offsetX:-0%,--offsetY:-30%,--rotation:0
+  ![Part 4 cover: a Mistborn against an army of Inquisitors](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/cover-classes-storms-that-shatter.jpg?v=9622a887){height:100%}
+}}
 
 \page
 
@@ -4358,6 +4402,10 @@ A stolen Allomantic or Feruchemical power makes its bearer a Misting or Ferring 
 - **14th — The Ministry's Whole Art.** Your intent sits in every spike you have placed the way an Allomancer's control does. Any creature attempting to control one of your bearers must first succeed on a check against your **Hemalurgy save DC**, as though wresting that control away from you, and **Anchor** now reaches every bearer whose location you know, at any distance. In addition, a creature bearing a spike you placed may, once per long rest, use its stolen power at **surge tier**, as though it had been flared with duralumin (see the core rules). You have made an order, and it can act like one.
 
 ---
+
+{{imageMaskEdge6,--offset:10%,--rotation:270
+  ![A Steel Inquisitor, by The Bestower](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/hemalurgist-bestower-inquisitor.jpg?v=4d16e640){height:100%}
+}}
 
 \page
 {{imgph imgphWide,style=min-height:64em
