@@ -19,6 +19,7 @@ instead. It must not be lost, and it must travel with the book.
 | `compounding-miles-hundredlives.jpg` | Ari Ibarra | `Miles Hundredlives by Ari Ibarra.jpg` |
 | `cover-species-koloss.jpg` | cyangorilla | `Koloss_by_cyangorilla.jpg` |
 | `species-koloss-blooded.jpg` | *unattributed* | `Human_Koloss.jpg` |
+| `species-kandra.jpg` | *unattributed* | `kandra.jpg` |
 | `cover-backgrounds-hazekiller.png` | *unattributed* | `hazekiller.png` |
 | `cover-classes-storms-that-shatter.jpg` | Alec Acevedo | `Storms_that_Shatter_by_Alec_Acevedo.jpg` |
 | `class-mistborn.png` | David Astruga | `Mistborn_by_David_Astruga.png` |
