@@ -374,7 +374,7 @@ A Misting begins play with **1d6 grams** of their metal, as small beads or a via
 
 {{wide
 <!--h:44-->
-![chart-allomancy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-allomancy.svg?v=cf8d6cb8){width:100%}
+![chart-allomancy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-allomancy.svg?v=36659291){width:100%}
 }}
 
 \page
@@ -1833,7 +1833,7 @@ A piece of your metal used for storage is a **metalmind**: a ring, a bracer, a s
 
 {{wide
 <!--h:44-->
-![chart-feruchemy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-feruchemy.svg?v=91731eed){width:100%}
+![chart-feruchemy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-feruchemy.svg?v=16b55c8d){width:100%}
 }}
 
 \page
@@ -1923,7 +1923,7 @@ There is no hard ceiling on how hard you may draw. The losses are the ceiling. P
 A Ferring begins play with a **ring** of their metal weighing **1d8 grams**, and the knowledge of how to use it.
 
 {{imageMaskCorner21,--offsetX:0%,--offsetY:-30%,--rotation:0
-  ![The Feruchemical metals, by the Ferring starting equipment](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/ferrings-feruchemical-metals.png?v=e509444a){height:100%}
+  ![The Feruchemical metals, by the Ferring starting equipment](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/ferrings-feruchemical-metals.png?v=12c46146){height:100%}
 }}
 
 \page
@@ -4329,7 +4329,7 @@ This applies to **anyone** carrying spikes, including you, your allies, and your
 
 {{wide
 <!--h:44-->
-![chart-hemalurgy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-hemalurgy.svg?v=612c2c56){width:100%}
+![chart-hemalurgy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-hemalurgy.svg?v=e7224f2c){width:100%}
 }}
 
 | God metal | Steals |
