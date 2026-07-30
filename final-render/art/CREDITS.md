@@ -26,10 +26,23 @@ instead. It must not be lost, and it must travel with the book.
 | `hemalurgist-bestower-inquisitor.jpg` | Gal Or | `Minquisitor_by_Gal_Or.jpg` |
 | `hemalurgic-metals-table.png` | *unattributed* | supplied under this name |
 | `hemalurgic-metals-table-nolables.png` | *unattributed* | supplied under this name; the same plaque without labels |
+| `cover-front-kelsier.jpg` | Gerva Perez | `Kelsier_by_Gerva_Perez(mistborn cover).jpg` |
+| `misting-cadmium-pulser.jpg` | *unattributed* | `Pulser.jpg` |
+| `cover-weave.png` | *generated* | `Arts-and-the-weave.png` |
+| `godmetals-atium.jpg` | *unattributed* | `Atium_geode.jpg` |
+| `class-feruchemist-keeper.jpg` | *unattributed* | `keeper.jpg` |
+| `savants-tin-savant.jpg` | **Deandra Scicluna, © Brotherwise Games** | `savant_by_Deandra_Scicluna.jpg` |
 
 The three `chart-*.svg` files are drawn by the build from
 [`renders/make_charts.py`](../../renders/make_charts.py) and the glyphs in
 `MetalIcons/`; they are the project's own work.
+
+## One image carries a visible copyright notice
+
+`savants-tin-savant.jpg` has **© BROTHERWISE GAMES** printed in the bottom left
+and the artist's mark in the bottom right. That is commercial product art with
+its copyright notice intact, not fan work, and it is the single most exposed
+file here. Cropping the notice off would make it worse, not better.
 
 ## Before this book goes anywhere public
 
