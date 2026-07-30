@@ -724,7 +724,7 @@ Each extra charge you burn in a round, up to a number equal to your level, drive
 - Each extra charge grants a further +2 bonus to melee and unarmed damage and increases your speed by 5 feet.
 - Each extra charge grants **5 temporary hit points**, which last while you burn and are lost when you stop. This is what a pewter burner's famous toughness is: not an immunity, but a body that keeps going through what should have stopped it.
 - While you flare 5 or more charges, once on each of your turns you may treat a Strength check or a shove as though your Strength score were 30, and you can jump twice your normal distance.
-- At the **surge tier** (20 or more charges in a round; see the core rules, or half that for a pewter savant, or any duralumin detonation), you reach legendary feats of might. You can shatter stone with a blow, tear a barred door from its frame, or strike hard enough to break bone and armor alike. Each charge beyond the threshold continues to add its damage and speed and to expand your Pewter Drag capacity.
+- At the **surge tier** (20 or more charges in a round, or half that for a pewter savant, or any duralumin detonation), you reach legendary feats of might. You can shatter stone with a blow, tear a barred door from its frame, or strike hard enough to break bone and armor alike. Each charge beyond the threshold continues to add its damage and speed and to expand your Pewter Drag capacity.
 
 {{tableGroup
 
@@ -1084,7 +1084,7 @@ Where clearing your metals is binary, cleansing your spirit **scales with the ch
 
 - Treat the total charges spent as the **strength of the cleanse**. You may end an ongoing magical or Invested effect on yourself whose strength (its spell level, or a tier the DM sets) is no greater than the charges spent. Because you are scouring your *own* spirit by choice, no saving throw resists you.
 - This can strip clinging foreign Investiture as well as spells: a measure of another's power that has taken hold of you (borrowed Stormlight, a lodged Breath, a curse, an enemy's ongoing spell) can be burned out of your spirit if you spend enough.
-- **At the surge tier** (see the core rules), or as an aluminum savant (whose cap is doubled), you can **cleanse even powerful, Shard-level Investiture** (up to a 9th-level or legendary effect) from your own spirit, the rarest and most coveted use of the metal.
+- **At the surge tier**, or as an aluminum savant (whose cap is doubled), you can **cleanse even powerful, Shard-level Investiture** (up to a 9th-level or legendary effect) from your own spirit, the rarest and most coveted use of the metal.
 
 You still cannot reach *another* creature's Investiture with aluminum; it acts only on yourself. To strip someone else, see Chromium (Leecher). At a D&D table this is how aluminum ends spells and curses on you; full rules in The Metallic Arts and the Weave.
 
@@ -1166,9 +1166,8 @@ Flaring duralumin lets the burst reach past Allomancy to **one non-Allomantic po
 |---|---|
 | **Tapping a metalmind** | The draw you would have spread over its duration is released **at once**, at that amplified intensity, and **that metalmind is emptied entirely** rather than drawn down by what you needed. |
 | **One mind, not all of them** | The burst takes **the single metalmind you are tapping**, and stops there. It does not reach across to your other minds, even of the same metal: a Bloodmaker wearing five goldminds burns out one and still has four. This is the difference between Feruchemy and Allomancy under duralumin, where a reserve is one pool and all of it goes. |
-| **Storing into a metalmind** | Nothing. Storing is a slow giving-up, not a draw, and there is nothing to release. |
 | **Compounding** | The Compounded tap detonates as any tap does, which is the most dangerous version of this trick: a gold Compounder bursting a healing tap can undo grievous harm in a single round, and has nothing left afterward. |
-| **An unsealed metalmind** | As any tap, but the reserve belongs to whoever filled it. Bursting someone else's bank empties it for them too. |
+| **An unsealed metalmind** | As any tap. **The benefit is yours**; the loss is theirs. An unsealed mind you burst is emptied for whoever filled it, and they have no say in it. |
 
 }}
 
@@ -1433,7 +1432,7 @@ Each 2 charges past the cap adds **2** to the ratio, or **20 feet** to the radiu
 
 - The bubble is fixed where it was raised. Creatures and objects can cross its boundary freely, but you cannot, since leaving ends it.
 - Cadmium and bendalloy bubbles are opposites. Their effects do not stack usefully, and a bubble within a bubble is left to the DM.
-- Burning duralumin with cadmium drives the ratio to an extreme; see the core rules.
+- Burning duralumin with cadmium drives the ratio to an extreme; see Duralumin.
 
 {{note
 
@@ -1495,7 +1494,7 @@ Each 2 charges past the cap adds **2** to the ratio, or **10 feet** to the radiu
 ### Interactions & counterplay
 
 - The bubble is fixed where it was raised. Creatures and objects can cross its boundary freely, but you cannot, since leaving ends it.
-- Burning duralumin with bendalloy detonates your whole reserve into a single instant of extreme compression, so that a long span inside passes in a blink outside. See the core rules.
+- Burning duralumin with bendalloy detonates your whole reserve into a single instant of extreme compression, so that a long span inside passes in a blink outside. See Duralumin.
 - **Emotional Allomancy inside your own bubble rivals a duralumin burst.** Because your burn is measured in *your* fast time, a Rioter or Soother working from inside their own speedbubble pours out charges far faster than the outside clock: at a 16-to-1 bubble, even one emotional charge per (inside) round lands as sixteen charges in a single outside round, enough to sweep or overwhelm a crowd. Unlike firing across a bubble's edge, a pulse aimed from *within* your own bubble is not disrupted, so it can still be targeted normally.
 - Cadmium and bendalloy bubbles are opposites and do not stack usefully.
 
@@ -1522,13 +1521,13 @@ The God Metals are formed from the power of a Shard rather than mined from the g
 
 The sixteen metals of the four quadrants are the Allomancy an ordinary Metalborn can be born to. Beyond them lie the **God Metals**, formed directly from a Shard, and their alloys. These are **not bloodlines you choose at character creation.** They are rare, campaign-shaping materials the DM places in the world.
 
-See the God Metals for the lore and the core rules for the shared burn rules.
+See the God Metals for the lore, and the Misting Bloodlines for the shared burn rules.
 
 ### How Other Metals differ
 
 - **Rarely chosen at creation.** A person *can* be born an atium Misting, and a few are, but atium is scarce enough that almost none of them ever find out. Access is usually a matter of story rather than birth: a found cache, a patron's gift, a spike, a bead pressed into your hand at the worst possible moment.
 - **Scarce by design.** Atium and malatium are priced as treasure, not equipment. Lerasium is not purchasable at any price.
-- **A Mistborn burns them innately**, though at reduced efficiency until they learn them properly; see the core rules.
+- **A Mistborn burns them innately**, though at reduced efficiency until they learn them properly; see the Mistborn.
 
 ### The metals
 
@@ -1670,7 +1669,7 @@ Lerasium is condensed Preservation. Burning it does not grant a power for a time
 
 Burning a bead of lerasium is instantaneous and permanent, and a single bead is all that will ever matter. Choose one of the following.
 
-**Become Mistborn.** You permanently gain the ability to burn all sixteen Allomantic metals, becoming a **Mistborn**. If you had a Misting bloodline, it is subsumed into the whole. Training is still required to use unfamiliar metals well; an untrained Mistborn burns most metals at reduced efficiency until they learn them, as described in the core rules.
+**Become Mistborn.** You permanently gain the ability to burn all sixteen Allomantic metals, becoming a **Mistborn**. If you had a Misting bloodline, it is subsumed into the whole. Training is still required to use unfamiliar metals well; an untrained Mistborn burns most metals at reduced efficiency until they learn them, as described under the Mistborn.
 
 **Amplify what you are.** If you already have a Misting bloodline and keep it, that single power is permanently strengthened beyond the reach of a true Mistborn. Your **flare cap** for that metal increases by an amount the DM sets, and your charges count as doubled for magnitude and for the surge threshold, as a savant's do, without the savant's dependency.
 
@@ -1833,14 +1832,14 @@ A Feruchemical savant of a metal:
 
 - **Can use that Feruchemy without a metalmind**, storing and tapping the attribute directly, the art's most coveted mastery.
 - **Deepens the Compounded effect** (a gold Compounder-savant outlasts even an ordinary gold Compounder, surviving what should kill them again and again).
-- **Carries its own dependency:** the body that never stops mending cannot safely stop. Miles Dagouter is the warning.
+- **Carries its own dependency:** the body that never stops mending can forget how to do it unaided, and a body supplied with strength for long enough grows weaker in its own right. Miles Dagouter is the warning.
 
 \page
 ## Ferring Bloodlines
 
 A **Ferring** is a person who can Feruchemically **store one attribute** in metal and **tap** it back later. A Ferring power is a **bloodline**, chosen at character creation and independent of your species and class, exactly as a Misting power is.
 
-Feruchemy is the art of balance. You take nothing from outside yourself: you set a portion of what you are into metal now, going without it, so that you may draw it back later in a rush./; lore from Feruchemy.
+Feruchemy is the art of balance. You take nothing from outside yourself: you set a portion of what you are into metal now, going without it, so that you may draw it back later in a rush.
 
 ### Gaining the bloodline
 
@@ -1853,7 +1852,7 @@ Feruchemy is the art of balance. You take nothing from outside yourself: you set
 A piece of your metal used for storage is a **metalmind**: a ring, a bracer, a stud, a spike, or a bead.
 
 - A metalmind must be **in contact with you** to store or tap. It may be **worn** against the skin, **embedded** in it as a piercing or a spike, or **swallowed** and carried inside you. Terris bracers that pierce the flesh are a common choice for those who mean never to be parted from their store.
-- **Internal metalminds matter for Compounding.** A Twinborn can only Allomantically burn a metalmind that is inside their body, so a Compounder relies on swallowed beads or embedded spikes. See the core rules.
+- **Internal metalminds matter for Compounding.** A Twinborn can only Allomantically burn a metalmind that is inside their body, so a Compounder relies on swallowed beads or embedded spikes. See Compounding.
 - A worn metalmind can be taken from you. An embedded or swallowed one cannot, short of surgery.
 - Metalminds are **keyed to your Identity**. Only you can tap what you filled, unless the mind is **unsealed**. A mind is keyed the moment it is filled and **cannot be unsealed afterward**; an unsealed mind must be filled that way from its very first charge, by someone storing their own Identity as they fill it. See Trueself and the Feruchemist class.
 - A stored charge **does not decay**. It waits as long as you leave it.
@@ -1966,7 +1965,7 @@ A Ferring begins play with a **ring** of their metal weighing **1d8 grams**, and
 
 *Four metals for the body, and the plainest bargain in Feruchemy.*
 
-The Physical quadrant stores what a body is and does: weight into iron, speed into steel, senses into tin, strength into pewter. Nothing here is subtle. You spend an afternoon slow, dull, weak or oddly light, and you get that afternoon back concentrated into the thirty seconds you needed it. Because the trade is so legible, this is the quadrant that rewards planning: a Skimmer who filled their ironmind yesterday can walk on a rope bridge that will not hold anyone else, and a Brute who did not fill anything is simply a person.
+The Physical quadrant stores what a body is and does: weight into iron, speed into steel, senses into tin, strength into pewter. Nothing here is subtle. You spend an afternoon slow, dull, weak or oddly light, and you get that afternoon back concentrated into the thirty seconds you needed it. Because the trade is so legible, this is the quadrant that rewards planning: a Skimmer who filled their ironmind yesterday can stand immovable in the face of incredible force, and a Brute who did not fill anything is simply a person.
 
 ::::
 
@@ -2003,7 +2002,7 @@ While you tap an ironmind, you grow heavier by the intensity you draw, and you a
 |---|---|
 | +100% (double) | Advantage on saves and checks to resist being moved, shoved, or knocked prone. You cannot be pushed by Steelpushing beyond half the normal distance. |
 | +200% to +300% | You are immovable by ordinary force: forced movement against you fails unless the source is magical or itself Feruchemically strengthened. Your falling and charging attacks add momentum, dealing an extra 1d6 damage per 100% stored above your base. |
-| +400% or more | Your weight becomes a hazard to the ground beneath you. You may break through floors, sink in soft earth, and swim not at all. Ordinary furniture, boats, and ropes fail under you. |
+| +400% or more | Your weight becomes a hazard to the ground beneath you. You may break through floors, sink in soft earth, and sink quickly in water. Ordinary furniture, boats, and ropes fail under you. |
 
 }}
 
@@ -2197,7 +2196,7 @@ While you tap a pewtermind, your muscles swell far past their natural size and y
 
 *Example.* A Brute with Strength 12 drawing +400% has an effective Strength of 60. They carry 900 pounds, and weigh three times what they did.
 
-**The ceiling.** For **attack rolls and damage**, your Strength counts as no higher than **30**, however hard you draw. Past that point the extra force cannot reach the target: your grip fails, the weapon fails, or your footing gives before the blow does. Strength beyond 30 goes into **lifting, breaking, holding, and hurling**, where it has no ceiling at all.
+**The ceiling.** For **attack rolls and damage**, your Strength counts as no higher than **30**, however hard you draw. Strength beyond 30 goes into **lifting, breaking, holding, and hurling**, where it has no ceiling at all.
 
 ### Limits
 
@@ -2643,7 +2642,7 @@ While you tap a bendalloymind, your body is nourished as though you had eaten a 
 
 Bendalloy feeds you; it does not power you. It grants no burst of strength, no extra action, no hit points. It answers hunger and thirst, and nothing else. A well-fed Subsumer with an empty everything-else still tires, still suffocates, still bleeds.
 
-Filling is bounded by your own body. You can only eat so fast and hold so much at once, so a great reserve is the work of days of determined gorging, not an afternoon.
+Filling is bounded by how fast you can eat, and by nothing else. The food is turned to Investiture as it goes in rather than sitting in you, so the limit is your appetite over days of determined gorging, not the size of your stomach.
 
 ### Interactions
 
@@ -3051,7 +3050,7 @@ While you fill an atiummind, you **age**. The years pour off you into the metal,
 While you tap an atiummind, you **reclaim banked youth**, growing physically younger by as many years as you draw, but **never younger than your true age**, the years you have actually lived.
 
 - **Return to yourself.** Shed the years you stored, tapping banked youth to come back down toward your true age.
-- **Undo stolen years.** Reverse **magical aging**, the decades drained by a ghost's touch, a wraith, or a curse, spending banked youth to set your body back toward its true age.
+- **Outrun stolen years, not undo them.** Tapping youth sets your body back from wherever it now is, and **magical aging is not special**: age 20 to 60 by storing, then be aged magically to 80, and emptying the mind returns you to 40, not to 20. Only Compounding, which makes youth from nothing, can truly reverse it, and even then the curse will age you again unless you store afresh the moment you are young.
 - **Appear older, never younger.** By storing, you can look and function as any age *above* your own, a disguise no paint can match. You can never appear younger than you truly are.
 
 A single atiummind holds roughly **20 years per gram**, so a good bead can bank a whole human lifetime.
@@ -3094,7 +3093,7 @@ A Twinborn simply **has both bloodlines** and uses each exactly as written on it
 
 ### Same metal: Compounding
 
-If your Allomantic metal and your Feruchemical metal are **the same**, you are a potential **Compounder**, able to Allomantically burn your own charged metalmind for a massive, amplified burst of the stored attribute. This is the most powerful thing a Twinborn can do, and the rarest; its rules have their own page, Compounding. Because a random Twinborn lands on a matched pair only **1 time in 16**, most Twinborn are not Compounders.
+If your Allomantic metal and your Feruchemical metal are **the same**, you are a potential **Compounder**, able to Allomantically burn your own charged metalmind for a massive, amplified burst of the stored attribute. This is the most powerful thing a Twinborn can do, and the rarest; its rules have their own page, Compounding. The **1 in 16** is the odds *given that you are already Twinborn*, not the odds of being a Compounder at all. Being a Misting or a Ferring is uncommon; being both is far rarer; landing on a matched pair is one chance in sixteen of that. Compounders are correspondingly rare.
 
 ### Resonance (optional, narrative)
 
@@ -3146,7 +3145,7 @@ A Twinborn begins play with **both** a Misting's and a Ferring's starting gear: 
 
 A **Compounder** is a Twinborn whose Allomantic and Feruchemical powers are the **same metal**. Where an ordinary Feruchemist can only ever draw back out what they put in, a Compounder cheats the ledger: they store an attribute Feruchemically, then **burn that charged metalmind Allomantically**, and Preservation's end-positive power pours out the stored attribute many times over.
 
-This is the most powerful thing in the Metallic Arts short of a God Metal in the right hands, and it is how the Lord Ruler wore one face for a thousand years. It is also rare, and a DM is right to weigh whether to allow it. See Twinborn for how a same-metal pairing comes about, and the core rules for the underlying model.
+This is the most powerful thing in the Metallic Arts short of a God Metal in the right hands, and it is how the Lord Ruler wore one face for a thousand years. It is also rare, and a DM is right to weigh whether to allow it. See Twinborn for how a same-metal pairing comes about.
 
 {{tableGroup
 
@@ -4448,7 +4447,7 @@ A stolen Allomantic or Feruchemical power makes its bearer a Misting or Ferring 
 - **3rd — Careful Gift.** When you place a spike in a **willing** creature, the wound is clean. You automatically succeed on the Placement check, they take no damage from it, and they count as having **one fewer spike** for Control Risk, to a minimum of one. Your allies can be armed without being ruined.
 - **6th — Shared Arsenal.** You can move a spike from one willing bearer to another in **1 minute** total, rather than the minute to remove plus the minute to place, and neither bearer takes the damage that removal normally deals. You may do this during a short rest without the recipients losing the rest's benefit. The party's stolen powers become a shared kit, redistributed for the job at hand.
 - **10th — Anchor.** You are the fixed point your gifts are keyed to. Creatures bearing your spikes have **advantage on saving throws against control** while within 60 feet of you, as your intent occupies the holes that something else would use. If you are Incapacitated, they lose this at once, and often notice.
-- **14th — The Ministry's Whole Art.** Your intent sits in every spike you have placed the way an Allomancer's control does. Any creature attempting to control one of your bearers must first succeed on a check against your **Hemalurgy save DC**, as though wresting that control away from you, and **Anchor** now reaches every bearer whose location you know, at any distance. In addition, a creature bearing a spike you placed may, once per long rest, use its stolen power at **surge tier**, as though it had been flared with duralumin (see the core rules). You have made an order, and it can act like one.
+- **14th — The Ministry's Whole Art.** Your intent sits in every spike you have placed the way an Allomancer's control does. Any creature attempting to control one of your bearers must first succeed on a check against your **Hemalurgy save DC**, as though wresting that control away from you, and **Anchor** now reaches every bearer whose location you know, at any distance. In addition, a creature bearing a spike you placed may, once per long rest, use its stolen power at **surge tier**, as though it had been flared with duralumin. You have made an order, and it can act like one.
 
 ---
 {{imageMaskCorner20,--offsetX:50%,--offsetY:29%,--rotation:0
@@ -4622,7 +4621,7 @@ Not everything is on a shelf. Roll these into whatever your setting already does
 
 ### Carrying it
 
-What you can carry is governed by the core rules, not by cost.
+What you can carry is governed by the carrying rules in the Misting Bloodlines, not by cost.
 
 - You may swallow as much as reasonably fits, a generous soft limit with no hard gram cap.
 - **Metal still unburned 24 hours after you swallow it causes metal poisoning.** Load up before a fight, not before a journey.
