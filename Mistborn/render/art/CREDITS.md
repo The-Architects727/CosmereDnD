@@ -10,7 +10,6 @@ instead. It must not be lost, and it must travel with the book.
 | `cover-bloodlines-allomantic-metals.png` | *unattributed* | `Allomantic-metals.png` |
 | `misting-steel-coinshot.jpg` | Manuel Castañón | `Coinshot_by_Manuel_Castanon.jpg` |
 | `misting-iron-lurcher.jpg` | Alex V. Ngo | `Lurcher_by_Alex_V_Ngo.jpg` |
-| `misting-tin-tineye.jpg` | Deandra Scicluna | `Tineye_by_Deandra_Scicluna.jpg` |
 | `misting-pewter-thug.jpg` | Amirul Hhf | `thug_by_Amirul_Hhf.jpg` |
 | `misting-brass-soother.jpg` | Deandra Scicluna | `Soother_by_Deandra_Scicluna.jpg` |
 | `misting-copper-smoker.jpg` | Artur Mosca | `Coppercloud_by_Artur_Mosca.jpg` |
