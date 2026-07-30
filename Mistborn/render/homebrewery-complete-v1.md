@@ -182,7 +182,7 @@
 # Mistborn
 ## A Metallic Arts Expansion for Fifth Edition 2024
 {{imageMaskCorner32,--offsetX:-0%,--offsetY:-10%,--rotation:0
-  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@435a8d0b11adbb4e366b2865657754aa9c512e89/final-render/art/cover-front-kelsier.jpg?v=7a4192f2){width:100%,top:12%}
+  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/cover-front-kelsier.jpg?v=7a4192f2){width:100%,top:12%}
 }}
 
 
@@ -338,7 +338,7 @@ Hemalurgy is the third, and it is different again. **It only works by hurting so
 ## Bloodlines
 
 {{imageMaskCenter1,--offsetX:-13%,--offsetY:-18%,--rotation:0,width:130%,height:130%
-  ![Part 1 cover: the Allomantic metals](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/cover-bloodlines-allomantic-metals.png?v=feba21c5){width:90%,top:18%,left:-9%}
+  ![Part 1 cover: the Allomantic metals](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/cover-bloodlines-allomantic-metals.png?v=feba21c5){width:90%,top:18%,left:-9%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -384,7 +384,7 @@ A Misting begins play with **1d6 grams** of their metal, as small beads or a via
 
 {{wide
 <!--h:44-->
-![chart-allomancy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-allomancy.svg?v=cf8d6cb8){width:100%}
+![chart-allomancy](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/chart-allomancy.svg?v=cf8d6cb8){width:100%}
 }}
 
 \page
@@ -477,7 +477,7 @@ Driving a coin, nail, or bead as a weapon is a ranged Allomantic attack with a r
 }}
 
 {{imageMaskCorner21,--offsetX:50%,--offsetY:-30%,--rotation:0
-  ![Steel: a Coinshot throwing coins](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/misting-steel-coinshot.jpg?v=366d37af){width:90%,top:18%,left:19%}
+  ![Steel: a Coinshot throwing coins](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/misting-steel-coinshot.jpg?v=366d37af){width:90%,top:18%,left:19%}
 }}
 
 \page
@@ -779,7 +779,7 @@ A Thug who leans on pewter and burns their last charge in a fight is suddenly, m
 
 
 {{imageMaskCorner21,--offsetX:50%,--offsetY:40%,--rotation:0
-  ![Pewter: a Thug punching in a brawl](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/misting-pewter-thug.jpg?v=87e5e8e6){height:70%,bottom:30%,left:14%}
+  ![Pewter: a Thug punching in a brawl](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/misting-pewter-thug.jpg?v=87e5e8e6){height:70%,bottom:30%,left:14%}
 }}
 
 \page
@@ -990,7 +990,7 @@ A creature able to pierce the cloud must succeed on a Wisdom saving throw agains
 }}
 
 {{imageMaskCorner21,--offsetX:50%,--offsetY:-50%,--rotation:0
-  ![Copper: a Smoker covering a room](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/misting-copper-smoker.jpg?v=14ed69bf){width:90%,top:50%,left:30%}
+  ![Copper: a Smoker covering a room](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/misting-copper-smoker.jpg?v=14ed69bf){width:90%,top:50%,left:30%}
 }}
 
 \page
@@ -1047,7 +1047,7 @@ Each 2 charges past the cap adds **120 feet** of range and **+1** to the DC to r
 }}
 
 {{imageMaskCorner21,--offsetX:50%,--offsetY:-30%,--rotation:0
-  ![Bronze: a Seeker](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/misting-bronze-seeker.jpg?v=82366133){width:90%,top:18%,left:33%}
+  ![Bronze: a Seeker](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/misting-bronze-seeker.jpg?v=82366133){width:90%,top:18%,left:33%}
 }}
 
 \page
@@ -1446,7 +1446,7 @@ Each 2 charges past the cap adds **2** to the ratio, or **20 feet** to the radiu
 }}
 
 {{imageMaskCorner21,--offsetX:50%,--offsetY:-40%,--rotation:0
-  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@435a8d0b11adbb4e366b2865657754aa9c512e89/final-render/art/misting-cadmium-pulser.jpg?v=9c264bf5){width:75%,left:37%}
+  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/misting-cadmium-pulser.jpg?v=9c264bf5){width:75%,left:37%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -1550,7 +1550,7 @@ Treat these metals as plot, not as loadout. A vial of atium should change what a
 
 
 {{imageMaskCorner21,--offsetX:50%,--offsetY:-50%,--rotation:0
-  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/godmetals-atium.jpg?v=d7e65255){width:70%,left:33%}
+  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/godmetals-atium.jpg?v=d7e65255){width:70%,left:33%}
 }}
 
 
@@ -1768,7 +1768,7 @@ Every one of these carries **the Dependency** all the same. A 20th-level Mistbor
 - **Compounding** (Compounding) and savancy are independent. A Feruchemical-fed reserve makes it *easier* to burn a metal habitually enough to become a savant, and easier to sustain the burn that keeps withdrawal at bay.
 
 {{imageMaskCorner21,--offsetX:50%,--offsetY:-50%,--rotation:0
-  ![A tin Savant](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/savants-tin-savant.jpg?v=fd7e461c){width:100%,left:46%,bottom:-5%}
+  ![A tin Savant](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/savants-tin-savant.jpg?v=fd7e461c){width:100%,left:46%,bottom:-5%}
 }}
 
 
@@ -1865,7 +1865,7 @@ A piece of your metal used for storage is a **metalmind**: a ring, a bracer, a s
 
 {{wide
 <!--h:44-->
-![chart-feruchemy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-feruchemy.svg?v=91731eed){width:100%}
+![chart-feruchemy](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/chart-feruchemy.svg?v=91731eed){width:100%}
 }}
 
 \page
@@ -1956,7 +1956,7 @@ A Ferring begins play with a **ring** of their metal weighing **1d8 grams**, and
 
 
 {{imageMaskCenter1,--offsetX:-5%,--offsetY:-14%,--rotation:0,width:110%,height:110%
-  ![The Feruchemical metals, by the Ferring starting equipment](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@85f0afc230a338f514f7d866b86aa0602ff0c0fe/final-render/art/ferrings-feruchemical-metals.png?v=12c46146){width:100%,top:20%,left:-4%}
+  ![The Feruchemical metals, by the Ferring starting equipment](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/ferrings-feruchemical-metals.png?v=12c46146){width:100%,top:20%,left:-4%}
 }}
 
 \page
@@ -3221,7 +3221,7 @@ The attribute is the Feruchemical one; the Allomantic half of the pair only prov
 **The four famous ones** are gold, atium, pewter, and steel, because those are the ones the histories record. The rest are no less possible; they are simply less often worth the metal.
 
 {{imageMaskEdge3,--offset:10%,--rotation:0
-  ![A gold Compounder](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/compounding-miles-hundredlives.jpg?v=bbebf734){width:100%,top:50%}
+  ![A gold Compounder](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/compounding-miles-hundredlives.jpg?v=bbebf734){width:100%,top:50%}
 }}
 
 \page
@@ -3231,7 +3231,7 @@ The attribute is the Feruchemical one; the Allomantic half of the pair only prov
 ## Species
 
 {{imageMaskCenter14,--offsetX:0%,--offsetY:-5%,--rotation:0,transform:scale(1.2)
-   ![Part 2 cover: a koloss](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1233caa7ed26862c52185f835a11d8e27bd683b1/final-render/art/cover-species-koloss.jpg?v=ca759e75){height:57%,,top:26%,}
+   ![Part 2 cover: a koloss](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/cover-species-koloss.jpg?v=ca759e75){height:57%,,top:26%,}
 }}
 
 
@@ -3356,7 +3356,7 @@ If a player takes this path, they have chosen a tragedy on purpose, and the tabl
 Handled well it is one of the best character arcs this setting offers. Handled carelessly it is a way for one player to become an NPC.
 
 {{imageMaskEdge6,--offset:10%,--rotation:270
-  ![A koloss-blooded human](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/species-koloss-blooded.jpg?v=3a57da68){height:100%,left:45%}
+  ![A koloss-blooded human](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/species-koloss-blooded.jpg?v=3a57da68){height:100%,left:45%}
 }}
 
 {{imgph imgphWide,style=min-height:19em
@@ -3554,7 +3554,7 @@ Kandra improve at their art with practice, and yours does so as you level.
 - **You remember.** Kandra live for centuries and most have served Contracts under masters long dead. Whatever your character has forgotten, they forgot because a spike was out.
 
 {{imageMaskEdge5,--offset:0%,--rotation:0
-  ![Kandra revealing a hidden gun.](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@dfa11739fdcc689cf1bce56af0ecc4d567ea4102/final-render/art/species-kandra.jpg?v=f3568312){width:100%,top:35%,left:-0.25%}
+  ![Kandra revealing a hidden gun.](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/species-kandra.jpg?v=f3568312){width:100%,top:35%,left:-0.25%}
 }}
 
 
@@ -3566,7 +3566,7 @@ Kandra improve at their art with practice, and yours does so as you level.
 # Part 3
 ## Backgrounds
 {{imageMaskCenter14,--offsetX:0%,--offsetY:-10%,--rotation:0,transform:scale(1.2)
-   ![Part 3 cover: a hazekiller](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/cover-backgrounds-hazekiller.png?v=a0d4fda8){height:70%,,top:20%,left:-6%}
+   ![Part 3 cover: a hazekiller](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/cover-backgrounds-hazekiller.png?v=a0d4fda8){height:70%,,top:20%,left:-6%}
 }}
 
 
@@ -3692,7 +3692,7 @@ You were taught how people with metal in their stomachs move, and what to do abo
 ## Classes
 
 {{imageMaskCorner26,--offsetX:-0%,--offsetY:-30%,--rotation:0
-  ![Part 4 cover: a Mistborn against an army of Inquisitors](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/cover-classes-storms-that-shatter.jpg?v=9622a887){width:100%,top:5%}
+  ![Part 4 cover: a Mistborn against an army of Inquisitors](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/cover-classes-storms-that-shatter.jpg?v=9622a887){width:100%,top:5%}
 }}
 
 \page
@@ -4102,7 +4102,7 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 - **14th — Deathless.** Gold, cadmium, and bendalloy that you are drawing from **do not count against your Minds at Once**, so health, breath, and sustenance run free alongside everything else you are doing. While all three run, you need not eat, drink, or breathe, and you can absorb a truly absurd amount of punishment: **spend 1 hit point from a goldmind for each 1 point of damage that would drop you below 0**, remaining conscious and acting for as long as the gold holds out. You die when the ring runs dry and not before. A Feruchemist so provisioned walks out of a desert, a sealed tomb, or a battlefield that killed everyone else. *(This buys endurance, not youth. Reversing your age is atium's domain, and only through Compounding.)*
 - 
 {{imageMaskEdge6,--offset:10%,--rotation:270
-  ![A Keeper](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/class-feruchemist-keeper.jpg?v=10df5914){height:100%,left:48%}
+  ![A Keeper](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/class-feruchemist-keeper.jpg?v=10df5914){height:100%,left:48%}
 }}
 
 
@@ -4378,7 +4378,7 @@ This applies to **anyone** carrying spikes, including you, your allies, and your
 
 {{wide
 <!--h:44-->
-![chart-hemalurgy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/chart-hemalurgy.svg?v=612c2c56){width:100%}
+![chart-hemalurgy](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/chart-hemalurgy.svg?v=612c2c56){width:100%}
 }}
 
 | God metal | Steals |
@@ -4452,7 +4452,7 @@ A stolen Allomantic or Feruchemical power makes its bearer a Misting or Ferring 
 
 ---
 {{imageMaskCorner20,--offsetX:50%,--offsetY:29%,--rotation:0
-  ![A Steel Inquisitor, by The Bestower](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@master/final-render/art/hemalurgist-bestower-inquisitor.jpg?v=4d16e640){height:100%,left:30%}
+  ![A Steel Inquisitor, by The Bestower](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/hemalurgist-bestower-inquisitor.jpg?v=4d16e640){height:100%,left:30%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -4461,7 +4461,7 @@ A stolen Allomantic or Feruchemical power makes its bearer a Misting or Ferring 
 
 
 {{imageMaskEdge3,--offset:18%,--rotation:0
-  ![Hemalurgic metals](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@83635578cc0bd50ec671ab2deb06be180cbbc293/final-render/art/hemalurgic-metals-table-nolables.png?v=5805d920){width:100%,top:51%}
+  ![Hemalurgic metals](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/hemalurgic-metals-table-nolables.png?v=5805d920){width:100%,top:51%}
 }}
 <!-- Use --offset to shift the mask away from page center (can use cm instead of %)
      Use --rotation to set rotation angle in degrees. -->
@@ -4644,7 +4644,7 @@ Treat god metal as **economy and DM reward**, never inventory. A bead of atium i
 # Appendix
 ## The Metallic Arts and the Weave
 {{imageMaskCenter14,--offsetX:0%,--offsetY:-10%,--rotation:0,transform:scale(1.2)
-   ![Appendix Cover: The Arts and the Weave](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/cover-weave.png?v=ab6b81c5){width:100%,,top:0%,left:-%}
+   ![Appendix Cover: The Arts and the Weave](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/cover-weave.png?v=ab6b81c5){width:100%,,top:0%,left:-%}
 }}
 
 
