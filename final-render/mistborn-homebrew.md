@@ -176,6 +176,28 @@
 
 /* --- Part covers --------------------------------------------------- */
 .page.partCover h1 { font-size: 1.4cm; }
+
+/* --- Art credit lines ---------------------------------------------- */
+/* A small credit set beside a picture, in the manner of a published
+   sourcebook. Deliberately quiet: it should be findable and never compete
+   with the art or the text. Only slots listed in CREDIT_ON_IMAGE get one,
+   because most of this art is masked and bled into a corner with no clean
+   edge to hang a line off. */
+.page .artCredit {
+  font-family: 'Scaly Sans', sans-serif;
+  font-size: 0.28cm;
+  font-style: italic;
+  letter-spacing: 0.02em;
+  color: #6b6255;
+  opacity: 0.85;
+  text-align: right;
+  margin: 0.05cm 0 0.2cm 0;
+  line-height: 1.1;
+}
+
+/* The credits page itself: a plain two-column list, tighter than a rules
+   table because it is a reference, not something anyone reads through. */
+.page .note table td:first-child { width: 58%; }
 </style>
 
 {{frontCover}}
@@ -275,6 +297,7 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
   - #### [{{ Hemalurgist}}{{ 84}}](#p84)
 - ### [{{ The Metal Economy}}{{ 92}}](#p92)
 - ### [{{ The Arts and the Weave}}{{ 96}}](#p96)
+- ### [{{ Art Credits}}{{ 100}}](#p100)
 }}
 
 \page
@@ -4756,3 +4779,40 @@ Because a burn is an act of will on metal already inside you, not a spell, Allom
 | Any burst/drain vs Feruchemy or spell slots | Con save (internal power); vs Allomantic metal, no save |
 
 }}
+\page
+
+# Art Credits
+
+Every picture in this book, and who made it. The three metal charts are drawn by the build from the metal glyphs, and are the only artwork here that belongs to the project.
+
+{{note
+
+| Picture | Artist |
+|---|---|
+| Part 4 cover: a Mistborn against an army of Inquisitors | Alec Acevedo |
+| Pewter: a Thug punching in a brawl | Amirul Hhf |
+| A gold Compounder | Ari Ibarra |
+| Bronze: a Seeker | Artur Mosca |
+| Copper: a Smoker covering a room | Artur Mosca |
+| Part 2 cover: a koloss | cyangorilla |
+| A blindfolded tin savant | Deandra Scicluna, © Brotherwise Games |
+| A Steel Inquisitor | Gal Or |
+| Appendix cover: The Arts and the Weave | generated for this book |
+| Front cover | Gerva Perez |
+| Steel: a Coinshot throwing coins | Manuel Castañón |
+| The Allomantic metal chart | the project's own work |
+| The Feruchemical metal chart | the project's own work |
+| The Hemalurgic metal chart | the project's own work |
+| A bead of atium | *not recorded* |
+| A kandra revealing a hidden gun | *not recorded* |
+| A koloss-blooded human | *not recorded* |
+| A Terris Keeper, for the Feruchemist class | *not recorded* |
+| Cadmium: a Pulser | *not recorded* |
+| Part 1 cover: the Allomantic metals | *not recorded* |
+| Part 3 cover: a hazekiller | *not recorded* |
+| The Feruchemical metals | *not recorded* |
+| The Hemalurgic metals, unlabelled | *not recorded* |
+
+}}
+
+*9 of these have no artist recorded. That is a gap to close rather than a licence: an unattributed picture still belongs to whoever drew it.*
