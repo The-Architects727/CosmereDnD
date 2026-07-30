@@ -1,0 +1,45 @@
+# Licence
+
+Copyright (c) 2026 The-Architects727
+
+## What this covers
+
+This licence applies **only to the original material in this repository**: the
+rules text, the design, the prose, the tables, the layout, and the three metal
+charts drawn by this project.
+
+It does **not** and cannot cover the Mistborn setting, its terminology, its
+characters, the Dungeons & Dragons rules, or the illustrations. Those belong to
+other people. See [NOTICE](NOTICE) for what is whose.
+
+Nothing here grants you any right to material this project does not own.
+
+## The licence
+
+The original material described above is licensed under the
+
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International**
+**(CC BY-NC-SA 4.0)**
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+In short, you may share and adapt it, provided you:
+
+- **give credit**, link to the licence, and say whether you changed anything;
+- do not use it **commercially**;
+- release anything you build on it under **the same licence**.
+
+Non-commercial is not a preference. This work rests on a setting owned by
+somebody else, so there are no commercial rights here to grant.
+
+## Why not a software licence
+
+An earlier instinct was to reach for MIT, on the grounds that this project does
+not own the underlying material. That reasoning runs backwards. A licence is a
+grant made over work you own; it is not a disclaimer for work you do not. MIT
+on this document would assert a right to sublicense the Mistborn setting, which
+is a larger claim than saying nothing at all. MIT is also written for source
+code and warranties, neither of which describes a rulebook.
+
+Licence what is yours. Disclaim what is not. Those are two separate jobs, and
+[NOTICE](NOTICE) does the second one.

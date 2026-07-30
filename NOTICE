@@ -1,0 +1,89 @@
+# Notice
+
+What is in this repository, and whose it is. [LICENSE](LICENSE) covers only the
+first section.
+
+---
+
+## Original to this project
+
+Licensed under CC BY-NC-SA 4.0.
+
+- The rules text, the mechanical design, and the prose throughout.
+- The three metal charts (`chart-allomancy`, `chart-feruchemy`,
+  `chart-hemalurgy`), drawn by this project's own code.
+- The force model, the launch g-load rule, the past-the-cap scaling, the metal
+  economy, and the class, species and background designs.
+
+---
+
+## Mistborn and the Cosmere — Brandon Sanderson
+
+**Mistborn**, the **Cosmere**, Scadrial, Allomancy, Feruchemy, Hemalurgy, and
+every name and concept drawn from them — Misting, Ferring, Twinborn, Coinshot,
+Thug, Tineye, Lurcher, Soother, Rioter, Smoker, Seeker, Keeper, koloss, kandra,
+Inquisitor, atium, lerasium, and the rest — are the creations of **Brandon
+Sanderson** and the property of **Dragonsteel Entertainment**.
+
+This is **unofficial fan work**. It is not affiliated with, licensed by, or
+endorsed by Brandon Sanderson or Dragonsteel Entertainment. No claim is made to
+any of it, and no right to it is passed on by this repository's licence.
+
+There is an officially licensed Mistborn tabletop roleplaying game. This is not
+it, is not a substitute for it, and is not offered for sale.
+
+The sixteen Allomantic and sixteen Feruchemical metal glyphs used in the charts
+come from the same setting and are reproduced here on the same basis.
+
+---
+
+## Dungeons & Dragons — Wizards of the Coast
+
+This work is designed for the **2024 Dungeons & Dragons ruleset** and uses
+terminology and structures from it.
+
+Dungeons & Dragons is a trademark of **Wizards of the Coast LLC**. This work is
+not affiliated with, licensed by, or endorsed by Wizards of the Coast.
+
+Material drawn from the System Reference Document is used under
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**:
+
+> This work includes material from the System Reference Document 5.2
+> ("SRD 5.2") by Wizards of the Coast LLC, available at
+> https://www.dndbeyond.com/srd. The SRD 5.2 is licensed under the Creative
+> Commons Attribution 4.0 International License, available at
+> https://creativecommons.org/licenses/by/4.0/legalcode.
+
+---
+
+## The artwork — various, and **not cleared**
+
+**This is the most important section here.**
+
+The illustrations in `Mistborn/render/art/` were gathered from various sources.
+Each is credited, as far as it is known, in
+[`Mistborn/render/art/CREDITS.md`](Mistborn/render/art/CREDITS.md).
+
+**None of it has been licensed or cleared for redistribution.** Several pieces
+have no artist recorded at all. One carries a visible commercial copyright
+notice — `savants-tin-savant.jpg`, marked **© Brotherwise Games**.
+
+Consequences, plainly:
+
+- The artwork is **not** covered by this repository's licence, and the licence
+  does not give you any right to reuse it.
+- If you are an artist whose work appears here and you would rather it did not,
+  open an issue or contact the repository owner and it will be removed. No
+  argument, no delay.
+- Anyone forking or reusing this project should **replace the art**, not
+  inherit it.
+
+---
+
+## In short
+
+The rules are shared freely and non-commercially. The setting is Brandon
+Sanderson's. The game system is Wizards of the Coast's. The pictures are other
+people's and are the part of this that is on the least firm ground.
+
+This exists to be played at a table, and for no other purpose.

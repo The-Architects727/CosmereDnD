@@ -1,6 +1,6 @@
 # ---------------------------------------------------------------------------
 # This repository -- the public one, on GitHub -- tracks ONE folder:
-# final-render/
+# Mistborn/render/
 #
 # The rest of the vault (the design notes in content/, the wiki, the raw
 # sources, the build scripts) stays local and private. Ignore everything,
@@ -18,10 +18,12 @@
 # except these
 !.gitignore
 !README.md
-!final-render/
+!LICENSE
+!NOTICE
+!Mistborn/
 
-# inside final-render, keep the art and the finished files,
+# inside Mistborn/, keep the art and the finished files,
 # but never the scratch that tools leave behind
-final-render/**/Thumbs.db
-final-render/**/.DS_Store
-final-render/**/*.tmp
+Mistborn/**/Thumbs.db
+Mistborn/**/.DS_Store
+Mistborn/**/*.tmp
