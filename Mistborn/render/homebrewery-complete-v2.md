@@ -843,7 +843,7 @@ Each 2 charges past the cap adds **30 feet** to a pulse's range, or emits one mo
 Charges buy **reach**, never **reliability**. A gentle touch persuades as well as
 an avalanche does, and often better, because the difference between them is not
 strength. It is whether the target learns they were touched.
-
+\page
 | How you burn | What they feel |
 |---|---|
 | **Base burn** | Nothing. They never know. The touch is small enough to pass for their own mood, and you have **advantage** on Charisma checks made while it holds. |
@@ -869,7 +869,6 @@ Spikes are the handle by which emotional Allomancy commands a koloss, and they a
 - **A seized creature knows who holds them.** Seizure is a Connection, and a Connection runs both ways; it is what lets you give an order at all. There is no taking a koloss quietly.
 - A creature with **no spikes** is unaffected by any of this. There is nothing to take hold of.
 
-\page
 ### Interactions & counterplay
 
 - Rioting is blocked by **aluminum**: a creature wearing aluminum around the head, standing in an aluminum-lined room, or holding aluminum against your chest is immune.
@@ -948,7 +947,7 @@ strength. It is whether the target learns they were touched.
 notice are both safe; a flare sits exactly where a person can feel the hand and
 not see it. This is why the great Soothers of the histories worked so lightly.
 Burning less than you can is the skill.
-
+\page
 **It follows that this is a weapon rather than a tool of persuasion.** In a
 fight, being noticed costs nothing: you wanted them afraid, and they are afraid,
 and that they know why changes nothing while they run. In a negotiation, being
@@ -962,14 +961,13 @@ Spikes are the handle by which emotional Allomancy commands a koloss, and they a
 - Against an **Inquisitor**, whose spikes are many and whose will is its own, the DC is enormous. Not impossible, but beyond an ordinary Allomancer: the histories give it to a **Mistborn made by lerasium**, whose every power runs deeper than it should, or to a **Shard**, which can pour Investiture into holding the grip for as long as it likes.
 - **A seized creature knows who holds them.** Seizure is a Connection, and a Connection runs both ways; it is what lets you give an order at all. There is no taking a koloss quietly.
 - A creature with **no spikes** is unaffected by any of this. There is nothing to take hold of.
-
+\column
 ### Interactions & counterplay
 
 - Soothing is blocked by **aluminum**: a creature wearing aluminum around the head, standing in an aluminum-lined room, or holding aluminum against your chest is immune.
 - A creature burning **copper** (copper) is immune to Soothing.
 - You must be able to **see** into the area; pulses do not pass through total cover or around corners.
 
-\page
 
 {{note
 
@@ -1144,7 +1142,7 @@ You still cannot reach *another* creature's Investiture with aluminum; it acts o
 The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
 
 Each 2 charges past the cap adds **+1** to the strength of the cleanse.
-
+\page
 ### Notable uses
 
 - **Imprisonment and transport.** Because aluminum strips the metal itself, not just the burn, a captured Allomancer left with only aluminum can be made to empty their reserves, leaving them powerless. This was the metal's chief use in the Final Empire.
@@ -1538,13 +1536,7 @@ been to walk into it.
 | **Ends when** | You drop it, leave it, run out of metal, or fall unconscious. Damage does not break it |
 
 }}
-
-{{imageMaskCorner21,--offsetX:50%,--offsetY:-40%,--rotation:0
-  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/misting-cadmium-pulser.jpg?v=9c264bf5){width:75%,left:37%}
-}}
-<!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
-     Use --offsetY to shift the mask up or down
-     Use --rotation to set rotation angle in degrees. -->
+<!-- Image removed for space -->
 
 \page
 
@@ -1595,14 +1587,14 @@ This holds in both directions and for both metals. Arrows, bolts, bullets, slung
 **What still works** is anything a person is holding as they pass through. A sword swung by an arm that crosses the boundary lands; the arm is moving the blade, so the blade shares whatever time the arm is in. Reach in and stab, and it works. Shoot in, and it does not.
 
 This is why a bubble is such good cover, and why the way to break one has always been to walk into it.
-
+\page
 ### Interactions & counterplay
 
 - The bubble is fixed where it was raised. Creatures and objects can cross its boundary freely, but you cannot, since leaving ends it.
 - Burning duralumin with bendalloy detonates your whole reserve into a single instant of extreme compression, so that a long span inside passes in a blink outside. See Duralumin.
 - **Emotional Allomancy inside your own bubble rivals a duralumin burst.** Because your burn is measured in *your* fast time, a Rioter or Soother working from inside their own speedbubble pours out charges far faster than the outside clock: at a 16-to-1 bubble, even one emotional charge per (inside) round lands as sixteen charges in a single outside round, enough to sweep or overwhelm a crowd. Unlike firing across a bubble's edge, a pulse aimed from *within* your own bubble is not disrupted, so it can still be targeted normally.
 - Cadmium and bendalloy bubbles are opposites and do not stack usefully.
-
+\column
 {{note
 
 | | |
@@ -2047,7 +2039,7 @@ tap duration = stored units × recovery ÷ tap intensity
 what it costs   = what you get × price
 tap duration    = stored units ÷ (tap intensity × price)
 ```
-
+\page
 **Every step up costs a quarter more per unit than the step below it.** That is exact, so the table can be continued for as long as you like: 20× your rate costs about 69 to 1, and 30× costs over 800 to 1.
 
 Recovery never exceeds 1.00, and the price is never less than 1. You always pay at least what you take, and past your own rate you pay a great deal more. Feruchemy grants no profit, only a change in timing.
@@ -2057,8 +2049,7 @@ Recovery never exceeds 1.00, and the price is never less than 1. You always pay 
 - Drawing at **+150%**, one multiple of their rate, loses nothing: `50 × 1.00 ÷ 1.5 =` about **33 minutes**.
 - Drawing at **+300%**, two multiples, recovers 0.80: `50 × 0.80 ÷ 3.0 =` about **13 minutes**.
 - Drawing at **+450%**, three multiples, recovers 0.64: about **7 minutes**.
-
-\page
+\column
 
 There is no hard ceiling on how hard you may draw. The losses are the ceiling. Past a few multiples of your rate you are spending a whole ring to buy seconds, which is sometimes exactly what a Ferring wants.
 
@@ -2832,7 +2823,7 @@ When you heal faster than your free rate, divide the rate you want by your free 
 }}
 
 Gold's teeth are not here but in the other two lanes: the **sickness of storing** and the flat **2-for-1** of cheating death. Ordinary healing is merely metered.
-
+\page
 ### Limits
 
 Gold heals the **body toward its ideal self**, and no further. This is the source of every limit.
@@ -2884,7 +2875,7 @@ While you tap an electrummind, a fierce, rising drive fills you, and at the top 
 | +900% or more | Unbreakable. You have advantage on any saving throw to avoid being forced to stop acting, and you may ignore effects that would make you flee, surrender, or stand down. You keep going where any reasonable person would break. |
 
 }}
-
+\column
 ### Limits
 
 **Will is not skill.** Determination makes you refuse to fail; it does not make you succeed. You gain no bonus to attack, to checks, or to damage. A Pinnacle who will not stop trying to pick a lock is exactly as good at picking it as before, only unwilling to walk away.
@@ -3010,7 +3001,6 @@ Draw the ability back and wield it **magnified**. While tapping, you may reach p
 
 **A creature with no magic of their own** tapping an unsealed nicrosilmind begins from nothing, so the ladder starts at the bottom: their ceiling is 0, and one level above it is **1st-level slots** at 1 minute per minute. They cast **the spells the storer knew**, exactly as the storer knew them **at the moment they stopped storing**. A spell learned afterwards is not in the ring. What they gain is somebody else's repertoire, frozen; what they never gain is that person's level.
 
-\column
 
 ### Sharing is a Feruchemist's art, not a Ferring's
 
@@ -3373,7 +3363,7 @@ The attribute is the Feruchemical one; the Allomantic half of the pair only prov
 ## Species
 
 {{imageMaskCenter14,--offsetX:0%,--offsetY:-5%,--rotation:0,transform:scale(1.2)
-   ![Part 2 cover: a koloss](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/cover-species-koloss.jpg?v=ca759e75){height:57%,,top:26%,}
+   ![Part 2 cover: a koloss](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/cover-species-koloss.jpg?v=ca759e75){height:56%,top:26%,}
 }}
 
 
@@ -3458,13 +3448,13 @@ A koloss who is not being steered by someone is a koloss whose spikes nobody has
 
 Growth is measured in **years, not levels**. A campaign spanning a season will barely move a koloss along this table; one spanning a decade will change what the character fundamentally is.
 
-| Years since the spiking | Height | Size | Strength | The skin |
+| Age | Height | Size | Strength | The skin |
 |---|---|---|---|---|
 | **0 to 5** | About 6 feet | Medium | Advantage on Strength checks and saves. Unarmed strikes deal **1d8** | Hangs loose and baggy. You look wrong and you know it |
 | **5 to 12** | 7 to 8 feet | **Large** | As above, and unarmed strikes deal **1d10**. Count as one size larger for carrying | Drawn tight at last. You look, briefly, magnificent |
-| **12 to 20** | 9 to 10 feet | Large | Unarmed strikes deal **2d6**. Your **Strength score becomes 22** if it was lower, and your **maximum becomes 32**. You deal **double damage to objects and structures** | Splitting. You wrap the tears in leather and keep going |
-| **20 to 25** | 11 to 12 feet | Large (and unmistakable) | Unarmed strikes deal **2d8**. Your **Strength score becomes 25** if it was lower, and your **maximum becomes 35**. You count as a **siege weapon** against objects and structures | Bare muscle over most of you. Your heart labors. Every year is borrowed |
-| **Beyond 25** | Over 12 feet | Large | Unarmed strikes deal **2d8**. Your **Strength score becomes 30** if it was lower, and your **maximum becomes 40**. Thirty is where *growing* stops, not where your Strength stops: no further year of growth lifts it, but burning **pewter**, tapping a **pewtermind**, or a magic item all reach past it as they would for anyone | Your heart and lungs can no longer supply your body, and you begin to die of it, as any person does who reaches the end of their life |
+| **12 to 20** | 9 to 10 feet | Large | Unarmed strikes deal **2d6**. Your **Strength score becomes 22** if it was lower. You deal **double damage to objects and structures** | Splitting. You wrap the tears in leather and keep going |
+| **20 to 25** | 11 to 12 feet | Large (and unmistakable) | Unarmed strikes deal **2d8**. Your **Strength score becomes 25** if it was lower. You count as a **siege weapon** against objects and structures | Bare muscle over most of you. Your heart labors. Every year is borrowed |
+| **Beyond 25** | Over 12 feet | Large | Unarmed strikes deal **2d8**. Your **Strength score becomes 30** if it was lower. Thirty strength is where your growth stops. | Your heart and lungs can no longer supply your body, and you begin to die of it, as any person does who reaches the end of their life |
 
 }}
 
@@ -3492,13 +3482,7 @@ Handled well it is one of the best character arcs this setting offers. Handled c
 {{imageMaskEdge6,--offset:10%,--rotation:270
   ![A koloss-blooded human](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/species-koloss-blooded.jpg?v=3a57da68){height:100%,left:45%}
 }}
-
-{{imgph imgphWide,style=min-height:19em
-<!--h:34-->
-**[ART: koloss-growth]** *Growth silhouettes to scale, six feet through twenty, showing the five bands of a koloss life with heights labelled.*
-
-**WIDE** not supplied | ratio 2.50:1
-}}
+<!-- The image stating "Growth silhouettes to scale, six feet through twenty, showing the five bands of a koloss life with heights labelled." should be removed and not added back. -->
 
 \page
 
@@ -3804,7 +3788,7 @@ You understand metal as a recipe rather than a substance.
 - **Assayer's Eye.** By examining a sample for 1 minute, you learn a metal's exact composition, and you know immediately whether it is **pure enough to be burned**. You cannot be sold a false alloy, and you can tell at a glance whether a vial someone else is carrying will work.
 - **Perfect Alloy.** Given a forge, raw materials, and 8 hours of work, you can produce **Allomantically pure** alloys of any metal whose ratio you know. You may also refine impure metal into usable form, recovering roughly half of it.
 - **Trade Knowledge.** You gain proficiency with **smith's tools** and **alchemist's supplies**, and you pay **half price** for metals bought in bulk, because you know who is watering the stock.
-
+\column
 ### Hazekiller (Origin Feat)
 
 *Prerequisite: none*

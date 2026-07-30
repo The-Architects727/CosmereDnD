@@ -3457,13 +3457,13 @@ A koloss who is not being steered by someone is a koloss whose spikes nobody has
 
 Growth is measured in **years, not levels**. A campaign spanning a season will barely move a koloss along this table; one spanning a decade will change what the character fundamentally is.
 
-| Years since the spiking | Height | Size | Strength | The skin |
+| Age | Height | Size | Strength | The skin |
 |---|---|---|---|---|
 | **0 to 5** | About 6 feet | Medium | Advantage on Strength checks and saves. Unarmed strikes deal **1d8** | Hangs loose and baggy. You look wrong and you know it |
 | **5 to 12** | 7 to 8 feet | **Large** | As above, and unarmed strikes deal **1d10**. Count as one size larger for carrying | Drawn tight at last. You look, briefly, magnificent |
-| **12 to 20** | 9 to 10 feet | Large | Unarmed strikes deal **2d6**. Your **Strength score becomes 22** if it was lower, and your **maximum becomes 32**. You deal **double damage to objects and structures** | Splitting. You wrap the tears in leather and keep going |
-| **20 to 25** | 11 to 12 feet | Large (and unmistakable) | Unarmed strikes deal **2d8**. Your **Strength score becomes 25** if it was lower, and your **maximum becomes 35**. You count as a **siege weapon** against objects and structures | Bare muscle over most of you. Your heart labors. Every year is borrowed |
-| **Beyond 25** | Over 12 feet | Large | Unarmed strikes deal **2d8**. Your **Strength score becomes 30** if it was lower, and your **maximum becomes 40**. Thirty is where *growing* stops, not where your Strength stops: no further year of growth lifts it, but burning **pewter**, tapping a **pewtermind**, or a magic item all reach past it as they would for anyone | Your heart and lungs can no longer supply your body, and you begin to die of it, as any person does who reaches the end of their life |
+| **12 to 20** | 9 to 10 feet | Large | Unarmed strikes deal **2d6**. Your **Strength score becomes 22** if it was lower. You deal **double damage to objects and structures** | Splitting. You wrap the tears in leather and keep going |
+| **20 to 25** | 11 to 12 feet | Large (and unmistakable) | Unarmed strikes deal **2d8**. Your **Strength score becomes 25** if it was lower. You count as a **siege weapon** against objects and structures | Bare muscle over most of you. Your heart labors. Every year is borrowed |
+| **Beyond 25** | Over 12 feet | Large | Unarmed strikes deal **2d8**. Your **Strength score becomes 30** if it was lower. Thirty strength is where your growth stops. | Your heart and lungs can no longer supply your body, and you begin to die of it, as any person does who reaches the end of their life |
 
 }}
 
