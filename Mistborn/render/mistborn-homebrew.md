@@ -1935,6 +1935,7 @@ Drawing at your own rate costs you nothing. Pushing past it does, and the price 
 | Multiple of your rate | 1× | 2× | 3× | 4× | 5× | 6× | 8× | 10× |
 |---|---|---|---|---|---|---|---|---|
 | **Recovery** | 1.00 | 0.80 | 0.64 | 0.51 | 0.41 | 0.33 | 0.21 | 0.13 |
+| **Price per unit** | 1 | 1¼ | 1½ | 2 | 2½ | 3 | 4¾ | 7½ |
 
 }}
 
@@ -1942,7 +1943,16 @@ Drawing at your own rate costs you nothing. Pushing past it does, and the price 
 tap duration = stored units × recovery ÷ tap intensity
 ```
 
-Recovery never exceeds 1.00. Feruchemy grants no profit, only a change in timing.
+**Price** is the same fact read from the other end, and is often the easier one. It is what one unit of benefit costs you out of the mind, so you multiply instead of dividing:
+
+```
+what it costs   = what you get × price
+tap duration    = stored units ÷ (tap intensity × price)
+```
+
+**Every step up costs a quarter more per unit than the step below it.** That is exact, so the table can be continued for as long as you like: 20× your rate costs about 69 to 1, and 30× costs over 800 to 1.
+
+Recovery never exceeds 1.00, and the price is never less than 1. You always pay at least what you take, and past your own rate you pay a great deal more. Feruchemy grants no profit, only a change in timing.
 
 *Example.* A 3rd-level Ferring has a rate of +150%, and their 5-gram ring holds 50 unit-minutes.
 
@@ -2398,6 +2408,9 @@ Released energy is potent even for a heartbeat, so brass loses it fast when you 
 | Multiple of throughput | 1× | 2× | 3× | 4× | 5× |
 |---|---|---|---|---|---|
 | **Recovery** | 1.00 | 0.50 | 0.25 | 0.13 | 0.06 |
+| **Price per kilojoule** | 1 | 2 | 4 | 8 | 16 |
+
+Brass runs on its own curve, and a brutal one: **every step up doubles the price** where the other metals add a quarter. Forcing heat out five times as fast costs sixteen kilojoules for every one that reaches the world.
 
 }}
 
@@ -2704,11 +2717,16 @@ While you tap a goldmind, your flesh knits, your blood replenishes, and wounds c
 
 #### Compression
 
-When you heal faster than your free rate, divide the rate you want by your free rate to get the multiple, then read your recovery, on the standard curve.
+When you heal faster than your free rate, divide the rate you want by your free rate to get the multiple, then read your recovery, on the standard curve. **Price** is the same curve read forwards, and in a fight it is the one you want: it is what one hit point of healing costs you out of the ring.
 
 | Multiple of free rate | 1× | 2× | 3× | 4× | 5× |
 |---|---|---|---|---|---|
 | **Recovery** | 1.00 | 0.80 | 0.64 | 0.51 | 0.41 |
+| **Price per hit point** | 1 | 1¼ | 1½ | 2 | 2½ |
+
+**Total the round, then pay.** Compression is read from everything you drew across the whole round, not from each tap on its own, because the multiple *is* the rate and the rate is not known until the round is over. Tap 7, then 5, then 8 against a free rate of 5 and you have drawn 20, which is 4×, so it costs 2 apiece: **40 hit points out of the ring**.
+
+**If the ring cannot cover it, you take the shortfall.** You are not stopped mid-round; you find out afterwards. Whatever the goldmind could not pay comes back to you as damage at the end of the round, and a Bloodmaker who healed themselves upright on credit can collapse again settling the bill. You may always work out beforehand what your ring can afford. Nobody expects you to.
 
 }}
 
