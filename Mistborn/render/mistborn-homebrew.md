@@ -3463,7 +3463,7 @@ Growth is measured in **years, not levels**. A campaign spanning a season will b
 | **5 to 12** | 7 to 8 feet | **Large** | As above, and unarmed strikes deal **1d10**. Count as one size larger for carrying | Drawn tight at last. You look, briefly, magnificent |
 | **12 to 20** | 9 to 10 feet | Large | Unarmed strikes deal **2d6**. Your **Strength score becomes 22** if it was lower. You deal **double damage to objects and structures** | Splitting. You wrap the tears in leather and keep going |
 | **20 to 25** | 11 to 12 feet | Large (and unmistakable) | Unarmed strikes deal **2d8**. Your **Strength score becomes 25** if it was lower. You count as a **siege weapon** against objects and structures | Bare muscle over most of you. Your heart labors. Every year is borrowed |
-| **Beyond 25** | Over 12 feet | Large | Unarmed strikes deal **2d8**. Your **Strength score becomes 30** if it was lower. Thirty strength is where your growth stops. | Your heart and lungs can no longer supply your body, and you begin to die of it, as any person does who reaches the end of their life |
+| **Beyond 25** | Over 12 feet | Large | Unarmed strikes deal **2d8**. Your **Strength score becomes 30** if it was lower, and your **maximum becomes 40**. Growth does not stop here; your body does. | Your heart and lungs can no longer supply your body, and you begin to die of it, as any person does who reaches the end of their life |
 
 }}
 
@@ -3471,6 +3471,10 @@ Growth is measured in **years, not levels**. A campaign spanning a season will b
 **What that late strength means in practice.** A koloss past its second decade is not a large warrior; it is a piece of siege equipment that can hold a conversation. It shatters a city gate the way a battering ram does, walks through a stone wall rather than around it, and lifts what a team of horses would strain at. Anything it hits that is not alive should generally just break.
 
 **Roughly twenty-five years, and then you begin to die.** That is the span of a koloss, measured from the ritual rather than from birth, so one who took the spikes at twelve is old at thirty-five and enormous. **Leather wraps** over split skin, changed and tended, prevent the slow bleeding that would otherwise kill you years early, and every koloss who intends to reach old age learns this. Nothing else helps. There is no treatment, no regimen, and no healer who can extend a koloss past its span.
+
+**Growth has no ceiling. Koloss do.** Nothing in the spikes tapers off, and the table stops at thirty only because that is where the *body* stops. Left to itself the growth goes on exactly as it has been going: another point of Strength and another few inches for every few years, at the same rate, without limit and without end. Ask a koloss how large it could become and the honest answer is that nobody knows, because nobody has ever survived long enough to find out.
+
+And that is a **medical** problem rather than a magical one, which means it has answers. A koloss whose heart is being mended as fast as it fails keeps growing: a gold Compounder, a companion who never stops tapping a goldmind, a longer-lived body than a human's, some cure nobody in the histories had. The histories have no example of this because the histories had no such koloss. **Your table might.** What you get is a creature that never stops becoming larger and stronger, for as long as somebody keeps it alive, and every year it does is a year further past anything the Final Empire ever fielded.
 
 Whatever you were when you were spiked is what you have to work with for the rest of your life, because you cannot take a fifth spike to fix anything.
 
