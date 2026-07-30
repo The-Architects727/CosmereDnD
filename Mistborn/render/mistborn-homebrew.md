@@ -849,14 +849,37 @@ The effect of a single inflamed emotion is up to the DM and depends on what the 
 
 The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
 
-Each 2 charges past the cap adds **30 feet** to a pulse's range and **+1** to its save DC, or emits one more pulse.
+Each 2 charges past the cap adds **30 feet** to a pulse's range, or emits one more pulse. It never raises the save DC; see *How hard you push is not how well it works*, above.
+
+#### How hard you push is not how well it works
+
+Charges buy **reach**, never **reliability**. A gentle touch persuades as well as
+an avalanche does, and often better, because the difference between them is not
+strength. It is whether the target learns they were touched.
+
+| How you burn | What they feel |
+|---|---|
+| **Base burn** | Nothing. They never know. The touch is small enough to pass for their own mood, and you have **advantage** on Charisma checks made while it holds. |
+| **Flaring** | **Wrongness.** They cannot name it and cannot tell where it came from, but they know the feeling was not theirs. They are **guarded**: further attempts against that target are made with disadvantage until the scene changes. |
+| **A duralumin detonation** | Nothing, and everything. The burst is so total that it drowns the very sense that would have noticed it. In the moment they are simply *swept*; afterwards they remember it the way one remembers a trance or a disaster, as something that happened to them. |
+
+**The dangerous burn is the middle one.** Too small to notice and too large to
+notice are both safe; a flare sits exactly where a person can feel the hand and
+not see it. This is why the great Soothers of the histories worked so lightly.
+Burning less than you can is the skill.
+
+**It follows that this is a weapon rather than a tool of persuasion.** In a
+fight, being noticed costs nothing: you wanted them afraid, and they are afraid,
+and that they know why changes nothing while they run. In a negotiation, being
+noticed is the whole loss, because a guarded mark is a closed one.
 
 #### Against a spiked creature
 
 Spikes are the handle by which emotional Allomancy commands a koloss, and they answer to anyone strong enough to take hold. A **duralumin detonation** aimed at a creature bearing Hemalurgic spikes does not sway a mood. **It takes the creature.**
 
-- Against a **koloss**, or anything bearing a single spike, this is seizure rather than influence: it obeys you while you sustain the burn, and is free the moment the metal runs out. This is how one Soother turns a war band, and it is why the Lord Ruler never let a koloss near a Soother who was not his.
-- Against an **Inquisitor**, whose spikes are many and whose will is its own, it is a contest: make an Allomancy check against its Wisdom saving throw. Win and you hold it for the round. Lose and it knows precisely who reached for it.
+- Against a **koloss**, this is seizure rather than influence, and **it does not end when the metal does**. A koloss carries four spikes, and taking hold of them makes a lasting **Connection** between you: it obeys you until somebody takes it from you. Another Allomancer who reaches for it must succeed on a save against **your** Allomancy save DC to wrest it away. This is how one Soother turns a war band, and why the Lord Ruler never let a koloss near a Soother who was not his.
+- Against an **Inquisitor**, whose spikes are many and whose will is its own, the DC is enormous. Not impossible, but beyond an ordinary Allomancer: the histories give it to a **Mistborn made by lerasium**, whose every power runs deeper than it should, or to a **Shard**, which can pour Investiture into holding the grip for as long as it likes.
+- **A seized creature knows who holds them.** Seizure is a Connection, and a Connection runs both ways; it is what lets you give an order at all. There is no taking a koloss quietly.
 - A creature with **no spikes** is unaffected by any of this. There is nothing to take hold of.
 
 \page
@@ -920,14 +943,37 @@ The effect of a single dampened emotion is up to the DM and depends on what the 
 
 The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
 
-Each 2 charges past the cap adds **30 feet** to a pulse's range and **+1** to its save DC, or emits one more pulse.
+Each 2 charges past the cap adds **30 feet** to a pulse's range, or emits one more pulse. It never raises the save DC; see *How hard you push is not how well it works*, above.
+
+#### How hard you push is not how well it works
+
+Charges buy **reach**, never **reliability**. A gentle touch persuades as well as
+an avalanche does, and often better, because the difference between them is not
+strength. It is whether the target learns they were touched.
+
+| How you burn | What they feel |
+|---|---|
+| **Base burn** | Nothing. They never know. The touch is small enough to pass for their own mood, and you have **advantage** on Charisma checks made while it holds. |
+| **Flaring** | **Wrongness.** They cannot name it and cannot tell where it came from, but they know the feeling was not theirs. They are **guarded**: further attempts against that target are made with disadvantage until the scene changes. |
+| **A duralumin detonation** | Nothing, and everything. The burst is so total that it drowns the very sense that would have noticed it. In the moment they are simply *swept*; afterwards they remember it the way one remembers a trance or a disaster, as something that happened to them. |
+
+**The dangerous burn is the middle one.** Too small to notice and too large to
+notice are both safe; a flare sits exactly where a person can feel the hand and
+not see it. This is why the great Soothers of the histories worked so lightly.
+Burning less than you can is the skill.
+
+**It follows that this is a weapon rather than a tool of persuasion.** In a
+fight, being noticed costs nothing: you wanted them afraid, and they are afraid,
+and that they know why changes nothing while they run. In a negotiation, being
+noticed is the whole loss, because a guarded mark is a closed one.
 
 #### Against a spiked creature
 
 Spikes are the handle by which emotional Allomancy commands a koloss, and they answer to anyone strong enough to take hold. A **duralumin detonation** aimed at a creature bearing Hemalurgic spikes does not sway a mood. **It takes the creature.**
 
-- Against a **koloss**, or anything bearing a single spike, this is seizure rather than influence: it obeys you while you sustain the burn, and is free the moment the metal runs out. This is how one Soother turns a war band, and it is why the Lord Ruler never let a koloss near a Soother who was not his.
-- Against an **Inquisitor**, whose spikes are many and whose will is its own, it is a contest: make an Allomancy check against its Wisdom saving throw. Win and you hold it for the round. Lose and it knows precisely who reached for it.
+- Against a **koloss**, this is seizure rather than influence, and **it does not end when the metal does**. A koloss carries four spikes, and taking hold of them makes a lasting **Connection** between you: it obeys you until somebody takes it from you. Another Allomancer who reaches for it must succeed on a save against **your** Allomancy save DC to wrest it away. This is how one Soother turns a war band, and why the Lord Ruler never let a koloss near a Soother who was not his.
+- Against an **Inquisitor**, whose spikes are many and whose will is its own, the DC is enormous. Not impossible, but beyond an ordinary Allomancer: the histories give it to a **Mistborn made by lerasium**, whose every power runs deeper than it should, or to a **Shard**, which can pour Investiture into holding the grip for as long as it likes.
+- **A seized creature knows who holds them.** Seizure is a Connection, and a Connection runs both ways; it is what lets you give an order at all. There is no taking a koloss quietly.
 - A creature with **no spikes** is unaffected by any of this. There is nothing to take hold of.
 
 ### Interactions & counterplay
