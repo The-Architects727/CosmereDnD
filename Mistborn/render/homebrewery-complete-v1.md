@@ -358,6 +358,7 @@ A **Misting** is a person who can Allomantically **burn one metal** for power. A
 - Your **bloodline level equals your character level.** The bloodline scales as you level, whatever your class.
 - Your **Allomantic ability is Constitution**, the vigor with which you metabolize metal.
  - Your **Allomancy save DC** equals 8 + your proficiency bonus + your Constitution modifier.
+ - Your **Feruchemy save DC**, where a Ferring power calls for one, equals 8 + your proficiency bonus + your **Wisdom** modifier. Feruchemy is a discipline of the self rather than a matter of vigour, and it is Wisdom that governs how well you hold a portion of yourself apart.
  - Your **Allomantic attack bonus** equals your proficiency bonus + your Constitution modifier.
 
 ### The metal economy
@@ -402,7 +403,7 @@ The Physical quadrant acts on matter and on the body that moves through it. Outw
 
 *A flick of the wrist, a scatter of coins, and the Coinshot is airborne, riding lines of blue light between anchors of iron.*
 
-**Bloodline** Physical Misting · **Metal** Steel (98% iron, 2% carbon) · **Direction** External Push · **Tempo** Minute (sense) / per-round (push) · **Charges/gram** 20
+**Bloodline** Physical Misting · **Metal** Steel · **Direction** External Push · **Tempo** Minute (sense) / per-round (push) · **Charges/gram** 20
 
 An Allomancer burning steel, called a **Coinshot**, can **Push** on nearby metal, driving it away from their center of self. Pushes and Pulls are resolved with the **Force Tables**, which follow the Iron entry.
 
@@ -486,7 +487,7 @@ Driving a coin, nail, or bead as a weapon is a ranged Allomantic attack with a r
 
 *Where a Coinshot pushes the world away, a Lurcher draws it in, snatching a blade from a hand or hauling themselves to a rooftop by a single nail.*
 
-**Bloodline** Physical Misting · **Metal** Iron (pure) · **Direction** External Pull · **Tempo** Minute (sense) / per-round (pull) · **Charges/gram** 20
+**Bloodline** Physical Misting · **Metal** Iron · **Direction** External Pull · **Tempo** Minute (sense) / per-round (pull) · **Charges/gram** 20
 
 An Allomancer burning iron, called a **Lurcher**, can **Pull** nearby metal toward their center of self. It is the mirror of steel, and the same **Force Tables** below apply.
 
@@ -638,7 +639,7 @@ To hit, add your **proficiency bonus + Constitution modifier**; damage is **pier
 
 *The world sharpens. A Tineye hears a heartbeat through a wall and sees the assassin's shadow before the candle gutters, yet a sudden torch can bring them to their knees.*
 
-**Bloodline** Physical Misting · **Metal** Tin (pure) · **Direction** Internal Pull · **Tempo** Minute (sustained buff) · **Charges/gram** 60
+**Bloodline** Physical Misting · **Metal** Tin · **Direction** Internal Pull · **Tempo** Minute (sustained buff) · **Charges/gram** 60
 
 An Allomancer burning tin, called a **Tineye**, has dramatically heightened senses. Tin burns on the minute tempo: the effect runs for as long as it is lit, and grows sharper the more charges you feed it each minute.
 
@@ -702,7 +703,7 @@ A Tineye can snuff their tin as a free reaction to brace against an anticipated 
 
 *A Thug shrugs off a crossbow bolt, rips a door from its hinges, and keeps running, until the pewter putters out and every wound they ignored arrives at once.*
 
-**Bloodline** Physical Misting · **Metal** Pewter (91% tin, 9% lead) · **Direction** Internal Push · **Tempo** Round (intense, drains fast) · **Charges/gram** 50
+**Bloodline** Physical Misting · **Metal** Pewter · **Direction** Internal Push · **Tempo** Round (intense, drains fast) · **Charges/gram** 50
 
 An Allomancer burning pewter, called a **Thug** or **Pewterarm**, has vastly enhanced physical power and toughness. Pewter burns on the round tempo, one charge every round even at base burn, so it drains fast. Two things are unique to it: **Pewter Drag**, which lets you set wounds aside, and **the Crash**, which makes you pay for them later.
 
@@ -796,7 +797,7 @@ The Mental quadrant reaches minds rather than matter. Zinc and brass work outwar
 
 *A Rioter says nothing, yet the crowd's unease curdles into panic and the calm room turns to a brawl.*
 
-**Bloodline** Mental Misting · **Metal** Zinc (pure) · **Direction** External Pull · **Tempo** Minute · **Charges/gram** 20
+**Bloodline** Mental Misting · **Metal** Zinc · **Direction** External Pull · **Tempo** Minute · **Charges/gram** 20
 
 An Allomancer burning zinc, called a **Rioter**, can **inflame** the emotions of those around them. Rioting is not mind control and it cannot read minds or plant thoughts; it only stirs feelings a creature could already have.
 
@@ -890,7 +891,7 @@ Spikes are the handle by which emotional Allomancy commands a koloss, and they a
 
 *A Soother's presence is a quiet balm. Anger cools, suspicion fades, and a frightened guard finds, without knowing why, that they trust the stranger at the gate.*
 
-**Bloodline** Mental Misting · **Metal** Brass (about 75% copper, 25% zinc) · **Direction** External Push · **Tempo** Minute · **Charges/gram** 20
+**Bloodline** Mental Misting · **Metal** Brass · **Direction** External Push · **Tempo** Minute · **Charges/gram** 20
 
 An Allomancer burning brass, called a **Soother**, can **dampen** the emotions of those around them. Soothing is the mirror of Rioting. It is not mind control and cannot read minds; it only quiets feelings a creature already has.
 
@@ -985,7 +986,7 @@ Spikes are the handle by which emotional Allomancy commands a koloss, and they a
 
 *Around a Smoker hangs an unseen quiet. Within it, Allomancy leaves no ripple, and a Seeker's questing pulses find nothing at all.*
 
-**Bloodline** Mental Misting · **Metal** Copper (pure) · **Direction** Internal Pull · **Tempo** Minute · **Charges/gram** 40
+**Bloodline** Mental Misting · **Metal** Copper · **Direction** Internal Pull · **Tempo** Minute · **Charges/gram** 40
 
 An Allomancer burning copper, called a **Smoker**, is shielded from emotional Allomancy and raises a **coppercloud** that hides the use of magic from outside detection.
 
@@ -1045,7 +1046,7 @@ A creature able to pierce the cloud must succeed on a Wisdom saving throw agains
 
 *A Seeker hears what others cannot: the silent drumbeat of burning metal, and the tolling pulse of a spell being cast three rooms away.*
 
-**Bloodline** Mental Misting · **Metal** Bronze (88% copper, 12% tin) · **Direction** Internal Push · **Tempo** Minute · **Charges/gram** 30
+**Bloodline** Mental Misting · **Metal** Bronze · **Direction** Internal Push · **Tempo** Minute · **Charges/gram** 30
 
 An Allomancer burning bronze, called a **Seeker**, can sense the pulses given off by Allomancy and by other uses of magic.
 
@@ -1110,7 +1111,7 @@ Every metal in the Enhancement quadrant is a multiplier or an eraser of somebody
 
 *The metal that unmakes metal. An Allomancer who burns it feels their power simply vanish.*
 
-**Bloodline** Enhancement Misting · **Metal** Aluminum (pure) · **Direction** Internal Pull · **Tempo** Instant · **Charges/gram** 10
+**Bloodline** Enhancement Misting · **Metal** Aluminum · **Direction** Internal Pull · **Tempo** Instant · **Charges/gram** 10
 
 An Allomancer burning aluminum instantly clears their own Allomantic reserves. On its own this does almost nothing, which is why a Misting who can burn only aluminum is mocked as an **Aluminum Gnat**.
 
@@ -1166,7 +1167,7 @@ Each 2 charges past the cap adds **+1** to the strength of the cleanse.
 
 *One breath of power spent all at once. A Coinshot who flares duralumin can hurl a carriage; a Thug can shatter a wall with a shoulder.*
 
-**Bloodline** Enhancement Misting · **Metal** Duralumin (96% aluminum, 4% copper) · **Direction** Internal Push · **Tempo** Instant · **Charges/gram** 10
+**Bloodline** Enhancement Misting · **Metal** Duralumin · **Direction** Internal Push · **Tempo** Instant · **Charges/gram** 10
 
 An Allomancer burning duralumin empties every other metal they are burning in a single, overwhelming instant. Like aluminum, it does nothing on its own, so a Misting who can burn only duralumin is a **Duralumin Gnat**.
 
@@ -1261,7 +1262,7 @@ For the Allomantic detonation, a single charge is enough; it already burns *ever
 
 *A Leecher's touch is a sudden, sinking cold, and the power a rival was counting on is simply gone.*
 
-**Bloodline** Enhancement Misting · **Metal** Chromium (pure) · **Direction** External Pull · **Tempo** Instant · **Charges/gram** 10
+**Bloodline** Enhancement Misting · **Metal** Chromium · **Direction** External Pull · **Tempo** Instant · **Charges/gram** 10
 
 An Allomancer burning chromium, called a **Leecher**, wipes the Allomantic reserves of another person on touch. It is aluminum turned outward, forced upon someone else.
 
@@ -1317,7 +1318,7 @@ Fifteen charges is a gram and a half of chromium to leave a wizard with nothing 
 
 *A Nicroburst lends no power of their own. They lay a hand on an ally, and that ally's Allomancy erupts.*
 
-**Bloodline** Enhancement Misting · **Metal** Nicrosil (85% tin, 15% chromium) · **Direction** External Push · **Tempo** Instant · **Charges/gram** 10
+**Bloodline** Enhancement Misting · **Metal** Nicrosil · **Direction** External Push · **Tempo** Instant · **Charges/gram** 10
 
 An Allomancer burning nicrosil, called a **Nicroburst**, triggers a duralumin-like detonation in another Allomancer on touch. It is duralumin turned outward.
 
@@ -1379,7 +1380,7 @@ The Temporal quadrant buys knowledge of when, or command of it. Gold and electru
 
 *An Augur looks into gold and meets a stranger wearing their own face: the person they might have been, had they chosen differently.*
 
-**Bloodline** Temporal Misting · **Metal** Gold (pure) · **Direction** Internal Pull · **Tempo** Minute · **Charges/gram** 10
+**Bloodline** Temporal Misting · **Metal** Gold · **Direction** Internal Pull · **Tempo** Minute · **Charges/gram** 10
 
 An Allomancer burning gold, called an **Augur**, sees a **gold shadow** of who they could have been. Like aluminum and duralumin, gold offers little of practical use, and an Augur who can burn only gold is nearly as limited as a Gnat.
 
@@ -1416,7 +1417,7 @@ Flaring does little. Burning more charges sharpens and prolongs the vision but g
 
 *An Oracle sees a heartbeat ahead: a shadow of themselves stepping into the next moment, so nothing can truly take them by surprise.*
 
-**Bloodline** Temporal Misting · **Metal** Electrum (about 45% gold, 55% silver) · **Direction** Internal Push · **Tempo** Minute · **Charges/gram** 10
+**Bloodline** Temporal Misting · **Metal** Electrum · **Direction** Internal Push · **Tempo** Minute · **Charges/gram** 10
 
 An Allomancer burning electrum, called an **Oracle**, sees a few seconds of their **own** immediate future. It is often called poor man's atium, for it guards its user without granting atium's full command of another's fate.
 
@@ -1471,7 +1472,7 @@ Each 2 charges past the cap pushes your foresight a further **6 seconds** ahead.
 
 *Inside a Pulser's bubble the world slows to a crawl, and an afternoon of danger can pass outside in the space of a held breath.*
 
-**Bloodline** Temporal Misting · **Metal** Cadmium (pure) · **Direction** External Pull · **Tempo** Minute · **Charges/gram** 30
+**Bloodline** Temporal Misting · **Metal** Cadmium · **Direction** External Pull · **Tempo** Minute · **Charges/gram** 30
 
 An Allomancer burning cadmium, called a **Pulser**, creates a bubble in which time runs **slower** than the world outside
 
@@ -1551,7 +1552,7 @@ been to walk into it.
 
 *Within a Slider's bubble, seconds stretch into minutes. A few heartbeats of the outside world are time enough to plan, to heal, and to strike a dozen times.*
 
-**Bloodline** Temporal Misting · **Metal** Bendalloy (50% bismuth, 26% lead, 14% tin, 10% cadmium) · **Direction** External Push · **Tempo** Minute · **Charges/gram** 50
+**Bloodline** Temporal Misting · **Metal** Bendalloy · **Direction** External Push · **Tempo** Minute · **Charges/gram** 50
 
 An Allomancer burning bendalloy, called a **Slider**, creates a bubble in which time runs **faster** than the world outside. It is the opposite of cadmium
 
@@ -1728,7 +1729,7 @@ Refined atium also enhances the mind to hold and process what it shows, and at t
 
 *A stranger stands beside your enemy wearing their face, living the life they did not choose. Watch them long enough and you will learn who your enemy truly is.*
 
-**Metal** Malatium (atium alloyed with gold) · **Tempo** Round · **Charges/gram** 10 · **Availability** DM-gated treasure
+**Metal** Malatium · **Tempo** Round · **Charges/gram** 10 · **Availability** DM-gated treasure
 
 Malatium is atium turned outward through gold. Where gold shows you **your own** alternate past, malatium shows you **another person's**. Legend named it the **Eleventh Metal** and held that it could undo a tyrant. The legend was not wrong, though what the metal offers is knowledge rather than a weapon. This is not a bloodline taken at character creation; see other metals.
 ### Base Burn
@@ -2087,7 +2088,7 @@ The Physical quadrant stores what a body is and does: weight into iron, speed in
 
 *A Skimmer crosses rotten floorboards without a creak, then plants themselves in a doorway and becomes something no charge can move.*
 
-**Bloodline** Physical Ferring · **Metal** Iron (pure) · **Attribute** Physical weight · **Capacity** 10 unit-minutes per gram
+**Bloodline** Physical Ferring · **Metal** Iron · **Attribute** Physical weight · **Capacity** 10 unit-minutes per gram
 
 A **Skimmer** stores their own **weight** in an ironmind. See the Ferring Bloodlines for the shared rules.
 
@@ -2146,7 +2147,7 @@ Weight is not armor. Your increased density does **not** protect you from being 
 
 *A Steelrunner spends the morning moving as though through cold honey, and buys with it ten seconds in which no one else in the room can react at all.*
 
-**Bloodline** Physical Ferring · **Metal** Steel (98% iron, 2% carbon) · **Attribute** Physical speed · **Capacity** 10 unit-minutes per gram
+**Bloodline** Physical Ferring · **Metal** Steel · **Attribute** Physical speed · **Capacity** 10 unit-minutes per gram
 
 A **Steelrunner** stores their own **physical speed** in a steelmind. Sazed counted steelminds among the hardest of all to fill, since the storing is so wearying to live through. See the Ferring Bloodlines for the shared rules.
 
@@ -2219,7 +2220,7 @@ Because compression punishes hard draws, the highest tiers last seconds, not min
 
 *A Windwhisperer wears a half-dozen rings and chooses, each morning, what they will be able to do that day: read a page across a courtyard, hear a whisper through a wall, or feel nothing at all.*
 
-**Bloodline** Physical Ferring · **Metal** Tin (pure) · **Attribute** Senses, one per metalmind · **Capacity** 10 unit-minutes per gram
+**Bloodline** Physical Ferring · **Metal** Tin · **Attribute** Senses, one per metalmind · **Capacity** 10 unit-minutes per gram
 
 A **Windwhisperer** stores the **sensitivity of their senses** in tinminds. See the Ferring Bloodlines for the shared rules.
 
@@ -2282,7 +2283,7 @@ Tapping **sight** trades breadth for distance. Your vision narrows toward a bino
 
 *A Brute spends a week thin and shaking, and buys with it an afternoon in which doors are suggestions and armored men are furniture.*
 
-**Bloodline** Physical Ferring · **Metal** Pewter (91% tin, 9% lead) · **Attribute** Physical strength · **Capacity** 10 unit-minutes per gram
+**Bloodline** Physical Ferring · **Metal** Pewter · **Attribute** Physical strength · **Capacity** 10 unit-minutes per gram
 
 A **Brute** stores their own **physical strength** in a pewtermind. See the Ferring Bloodlines for the shared rules.
 
@@ -2321,7 +2322,7 @@ Strength is bounded by the body that carries it. At the highest tiers your **gir
 
 Your added mass follows you everywhere. A heavily tapping Brute breaks chairs, founders in mud, and sinks in water, though the same weight makes them far harder to Steelpush; read your new weight on the force tables.
 
-Your skeleton and joints are still yours. Tapping enormous strength lets you lift what your frame cannot survive lifting, and the DM is right to make you choose between the load and your own bones.
+**Your bones strengthen with you.** A Brute's frame is not left behind by the muscle it carries; the whole body is stored and drawn back together, so tapping enormous strength does not shatter your own skeleton. What it does not do is make you *bigger*. Your reach, your grip and the size of what your hands can close around are unchanged, so there is a limit to what any amount of strength lets you actually carry off, and a Nicroburst forcing a monstrous tap on a Brute gets a very strong person rather than a burst one.
 
 ### Interactions
 
@@ -2353,7 +2354,7 @@ The Cognitive quadrant stores thought and regulation: mental speed into zinc, wa
 
 *A Sparker spends the council meeting slack-jawed and dull, then taps the ring under the table and reads the whole room in the pause between two words.*
 
-**Bloodline** Cognitive Ferring · **Metal** Zinc (pure) · **Attribute** Mental speed · **Capacity** 10 unit-minutes per gram
+**Bloodline** Cognitive Ferring · **Metal** Zinc · **Attribute** Mental speed · **Capacity** 10 unit-minutes per gram
 
 A **Sparker** stores their own **mental speed** in a zincmind. The attribute is the **rate at which you think**: tapping at +X% divides the time a mental task takes by 1 + X/100. See the Ferring Bloodlines for the shared rules.
 
@@ -2410,7 +2411,7 @@ Your **body still moves at its own pace**. Tapping hard means living in a world 
 
 *A Firesoul walks into the flames and comes out cold, having drunk the fire down into a ring on their finger.*
 
-**Bloodline** Cognitive Ferring · **Metal** Brass (about 75% copper, 25% zinc) · **Attribute** Warmth · **Capacity** 5,000 kJ per gram
+**Bloodline** Cognitive Ferring · **Metal** Brass · **Attribute** Warmth · **Capacity** 5,000 kJ per gram
 
 A **Firesoul** stores **warmth** in a brassmind. See the Ferring Bloodlines for the shared rules, with the differences noted just below.
 
@@ -2543,7 +2544,7 @@ Warmth is not fuel. It keeps you from freezing and lets you set things alight, b
 
 *An Archivist can recite a book they have never read twice, and can look their own brother in the face without knowing him. Both are the same ring.*
 
-**Bloodline** Cognitive Ferring · **Metal** Copper (pure) · **Attribute** Memories · **Capacity** 5 memories per gram
+**Bloodline** Cognitive Ferring · **Metal** Copper · **Attribute** Memories · **Capacity** 5 memories per gram
 
 An **Archivist** stores their **memories** in a coppermind. See the Ferring Bloodlines for the shared rules, with one large exception noted below.
 
@@ -2602,7 +2603,7 @@ Because a stored memory leaves no trace of itself, a working Archivist keeps an 
 
 *A Sentry sleeps a long, dreamless winter into a bracelet, and spends it standing watch through a siege without once sitting down.*
 
-**Bloodline** Cognitive Ferring · **Metal** Bronze (88% copper, 12% tin) · **Attribute** Wakefulness · **Capacity** 10 unit-minutes per gram
+**Bloodline** Cognitive Ferring · **Metal** Bronze · **Attribute** Wakefulness · **Capacity** 10 unit-minutes per gram
 
 A **Sentry** stores their own **wakefulness** in a bronzemind. The quantity is **alert waking time**: how long you can be awake, and how sharply. See the Ferring Bloodlines for the shared rules.
 
@@ -2677,7 +2678,7 @@ The Hybrid quadrant sits between body and spirit, storing breath into cadmium, n
 
 *A Gasper takes a few deep breaths at the water's edge, then walks in and keeps walking, across the bottom, for as long as the ring on their finger holds air.*
 
-**Bloodline** Hybrid Ferring · **Metal** Cadmium (pure) · **Attribute** Breath · **Capacity** 5 minutes of breathing per gram
+**Bloodline** Hybrid Ferring · **Metal** Cadmium · **Attribute** Breath · **Capacity** 5 minutes of breathing per gram
 
 A **Gasper** stores **breath** in a cadmiummind. Breath is a **reserve**, not an intensity: a cadmiummind holds minutes of breathing, banked now and spent later, the way copper holds memories rather than a percentage. See the Ferring Bloodlines for the shared rules.
 
@@ -2729,7 +2730,7 @@ Breath is not energy, food, or wakefulness. You can go without air, and still st
 
 *A Subsumer eats like three field hands through the autumn, and crosses the winter desert on a ring, never once stopping to open a pack.*
 
-**Bloodline** Hybrid Ferring · **Metal** Bendalloy (50% bismuth, 26% lead, 14% tin, 10% cadmium) · **Attribute** Nutrition · **Capacity** 2 days of sustenance per gram
+**Bloodline** Hybrid Ferring · **Metal** Bendalloy · **Attribute** Nutrition · **Capacity** 2 days of sustenance per gram
 
 A **Subsumer** stores **nourishment** in a bendalloymind. Like breath, it is a **reserve** rather than an intensity: the mind holds days of sustenance, banked now and spent later. See the Ferring Bloodlines for the shared rules.
 
@@ -2785,7 +2786,7 @@ Filling is bounded by how fast you can eat, and by nothing else. The food is tur
 
 *A Bloodmaker takes the wound that should have killed them, staggers, and stands back up with the skin already closing, paid for out of a ring bought with weeks of being sick.*
 
-**Bloodline** Hybrid Ferring · **Metal** Gold (pure) · **Attribute** Health · **Capacity** 10 hit points per gram
+**Bloodline** Hybrid Ferring · **Metal** Gold · **Attribute** Health · **Capacity** 10 hit points per gram
 
 A **Bloodmaker** stores their own **health** in a goldmind. Like brass, gold sets aside the percentage frame for a concrete unit: a goldmind's charge is a number of **hit points** of healing, banked while sick and spent to mend. See the Ferring Bloodlines for the shared rules.
 
@@ -2807,7 +2808,9 @@ While you tap a goldmind, your flesh knits, your blood replenishes, and wounds c
 
 **Reactive healing.** On your turn, or in response to taking damage, draw hit points from the goldmind to heal yourself, up to a **free rate of (your Constitution score ÷ 4) + your proficiency bonus** hit points per round. Constitution is how much your body can take in at once; proficiency is your growing skill at guiding it. You may heal *faster* in a crisis, paying compression (below).
 
-**Slow mending.** Patience is rewarded. Whenever you finish a **short rest** with a charged goldmind, you regain **bonus hit points equal to your proficiency bonus**, drawn from the ring, on top of any Hit Dice you spend. Hit points gained from tapping gold, here or anywhere, are Feruchemically made and **can never be stored back into a goldmind**; there is no perpetual well.
+**Slow mending.** Patience is rewarded. Whenever you finish a **short rest** with a charged goldmind, you regain **bonus hit points equal to your proficiency bonus**, drawn from the ring, on top of any Hit Dice you spend.
+
+**Mending by the hour.** Given time and a full ring you can mend almost anything, and cheaply, because an hour is not a round and nothing is being forced. Spend an hour resting while tapping and you regain **one sixteenth of your hit point maximum**, at the base price of 1 for 1; eight such hours restore **half of you**. This is not a long rest and does not replace one, because **you cannot tap while asleep**. It is the wounded Bloodmaker's night: sitting up in the dark, awake, healing, and getting no sleep at all. A character who does this and then fights has rested in only one of the two senses that matter. Hit points gained from tapping gold, here or anywhere, are Feruchemically made and **can never be stored back into a goldmind**; there is no perpetual well.
 
 **Surviving a killing blow.** While you have a charged goldmind, you need not fall. If damage would drop you below 0 hit points, you may pay from the ring to stay at **0 hit points, conscious and able to act**, at a cost of **2 hit points from the ring for each 1 by which you were driven below 0**. You weather blows that would kill an ordinary person where they stand, for exactly as long as the gold pays. The instant the ring cannot cover a blow in full, it fails, and that blow drops you as it normally would.
 
@@ -2856,7 +2859,7 @@ Gold heals the **body toward its ideal self**, and no further. This is the sourc
 
 *A Pinnacle spends the calm days grey and listless, then taps the ring when the walls are falling and becomes a person who simply will not stop.*
 
-**Bloodline** Hybrid Ferring · **Metal** Electrum (about 45% gold, 55% silver) · **Attribute** Determination · **Capacity** 10 unit-minutes per gram
+**Bloodline** Hybrid Ferring · **Metal** Electrum · **Attribute** Determination · **Capacity** 10 unit-minutes per gram
 
 A **Pinnacle** stores their own **determination** in an electrummind: the will to press on, to hold a line, to refuse to break. This is one of the least-understood attributes in Feruchemy, and much of what follows is careful extrapolation rather than settled lore. The attribute scales like most, tapping at +X% multiplying your drive. See the Ferring Bloodlines for the shared rules.
 
@@ -2920,7 +2923,7 @@ The Spiritual quadrant is the strangest and the least understood, storing Fortun
 
 *A Spinner spends a grey week where nothing goes right, and buys with it a single moment where nothing can go wrong.*
 
-**Bloodline** Spiritual Ferring · **Metal** Chromium (pure) · **Attribute** Fortune · **Capacity** 1 Fortune point per gram
+**Bloodline** Spiritual Ferring · **Metal** Chromium · **Attribute** Fortune · **Capacity** 1 Fortune point per gram
 
 A **Spinner** stores **Fortune**, the raw luck of the world, in a chromiummind. Fortune is a **reserve** measured in **Fortune points**, banked by suffering misfortune and spent to bend chance your way. The Spiritual metals are the least understood in all of Feruchemy, and chromium most of all; treat what follows as a working translation, not settled law. See the Ferring Bloodlines for the shared rules.
 
@@ -2969,7 +2972,7 @@ You may spend Fortune points from a chromiummind at any time, even in response t
 
 *A Soulbearer sets their magic aside into a ring, walks a while as an ordinary person, then draws it back and casts higher than they ever could unaided.*
 
-**Bloodline** Spiritual Ferring · **Metal** Nicrosil (85% tin, 15% chromium) · **Attribute** Investiture · **Capacity** see below
+**Bloodline** Spiritual Ferring · **Metal** Nicrosil · **Attribute** Investiture · **Capacity** see below
 
 A **Soulbearer** stores **Investiture**, the raw stuff of magic, in a nicrosilmind. Even the Terris who use it admit they do not fully understand it. See the Ferring Bloodlines for the shared rules,.
 
@@ -2990,7 +2993,22 @@ For a caster, choose how the mind is **keyed** when you begin. This is a choice 
 
 ### Tapping, for yourself
 
-Draw the ability back and wield it **magnified**. While tapping, you may reach past your own ceiling: cast a spell you know using a slot **higher than the highest you could normally manage**, the extra levels paid out of the ring. Push only a step past your limit and the mind lasts a while; reach far beyond it and compression empties it fast.
+Draw the ability back and wield it **magnified**. While tapping, you may reach past your own ceiling: cast a spell you know using a slot **higher than the highest you could normally manage**, the extra levels paid out of the ring.
+
+**What a nicrosilmind holds is time**, measured in minutes of your own spellcasting given up. What it buys is **levels**, and the exchange runs on the ordinary compression table: one level above your ceiling is 1x, two levels is 2x, and so on.
+
+| Levels above your ceiling | +1 | +2 | +3 | +4 | +5 | +6 |
+|---|---|---|---|---|---|---|
+| **Price per minute** | 1 | 1¼ | 1½ | 2 | 2½ | 3 |
+
+*Example.* A wizard whose best slot is 3rd stores **one hour** of their casting, then later draws it back.
+
+- **4th-level slots** cost 1 minute per minute: **60 minutes** of casting a level above themselves.
+- **5th-level** costs 1¼: about **48 minutes**.
+- **7th-level** costs 2: **30 minutes**.
+- **9th-level** costs 3: **20 minutes** of casting at a height they will not reach for years.
+
+**A creature with no magic of their own** tapping an unsealed nicrosilmind begins from nothing, so the ladder starts at the bottom: their ceiling is 0, and one level above it is **1st-level slots** at 1 minute per minute. They cast **the spells the storer knew**, exactly as the storer knew them **at the moment they stopped storing**. A spell learned afterwards is not in the ring. What they gain is somebody else's repertoire, frozen; what they never gain is that person's level.
 
 \column
 
@@ -3023,7 +3041,7 @@ So handing magic person to person is real, and it is the strongest thing nicrosi
 
 *A Trueself can hollow themselves out until they are no one at all, or draw so fully into themselves that nothing which rewrites a person can find purchase.*
 
-**Bloodline** Spiritual Ferring · **Metal** Aluminum (pure) · **Attribute** Identity · **Capacity** 10 unit-minutes per gram
+**Bloodline** Spiritual Ferring · **Metal** Aluminum · **Attribute** Identity · **Capacity** 10 unit-minutes per gram
 
 A **Trueself** stores their **Identity**, the spiritual sense of being *themselves and no other*, in an aluminummind. This is among the least-understood powers in Feruchemy, rarely spoken of even among the Terris. It scales like an intensity, storing toward *blankness* and tapping toward an unbreakable sense of self. See the Ferring Bloodlines for the shared rules.
 
@@ -3076,7 +3094,7 @@ While you tap an aluminummind, you become intensely, unshakably *you*.
 
 *A Connector can walk through a hostile court and have no one quite remember they were there, or sit down among strangers who speak no tongue they know and rise an hour later as a trusted friend.*
 
-**Bloodline** Spiritual Ferring · **Metal** Duralumin (96% aluminum, 4% copper) · **Attribute** Connection · **Capacity** 10 unit-minutes per gram
+**Bloodline** Spiritual Ferring · **Metal** Duralumin · **Attribute** Connection · **Capacity** 10 unit-minutes per gram
 
 A **Connector** stores **Connection**, the web of bonds that ties a person to others, to places, and to the world itself, in a duraluminmind. It scales like an intensity, storing toward being *unnoticed* and tapping toward being *instantly, deeply known*. See the Ferring Bloodlines for the shared rules.
 
@@ -3444,9 +3462,9 @@ Growth is measured in **years, not levels**. A campaign spanning a season will b
 |---|---|---|---|---|
 | **0 to 5** | About 6 feet | Medium | Advantage on Strength checks and saves. Unarmed strikes deal **1d8** | Hangs loose and baggy. You look wrong and you know it |
 | **5 to 12** | 7 to 8 feet | **Large** | As above, and unarmed strikes deal **1d10**. Count as one size larger for carrying | Drawn tight at last. You look, briefly, magnificent |
-| **12 to 20** | 9 to 10 feet | Large | Unarmed strikes deal **2d6**. Your **Strength score becomes 22** if it was lower. You deal **double damage to objects and structures** | Splitting. You wrap the tears in leather and keep going |
-| **20 to 25** | 11 to 12 feet | Large (and unmistakable) | Unarmed strikes deal **2d8**. Your **Strength score becomes 25** if it was lower. You count as a **siege weapon** against objects and structures | Bare muscle over most of you. Your heart labors. Every year is borrowed |
-| **Beyond 25** | Over 12 feet | Large | Unarmed strikes deal **2d8** | Your heart and lungs can no longer supply your body, and you begin to die of it, as any person does who reaches the end of their life |
+| **12 to 20** | 9 to 10 feet | Large | Unarmed strikes deal **2d6**. Your **Strength score becomes 22** if it was lower, and your **maximum becomes 32**. You deal **double damage to objects and structures** | Splitting. You wrap the tears in leather and keep going |
+| **20 to 25** | 11 to 12 feet | Large (and unmistakable) | Unarmed strikes deal **2d8**. Your **Strength score becomes 25** if it was lower, and your **maximum becomes 35**. You count as a **siege weapon** against objects and structures | Bare muscle over most of you. Your heart labors. Every year is borrowed |
+| **Beyond 25** | Over 12 feet | Large | Unarmed strikes deal **2d8**. Your **Strength score becomes 30** if it was lower, and your **maximum becomes 40**. Thirty is where *growth* stops; nothing you become raises it further, though a magic item still can | Your heart and lungs can no longer supply your body, and you begin to die of it, as any person does who reaches the end of their life |
 
 }}
 
@@ -4832,9 +4850,7 @@ Chromium reaches only what is **live**. It never drains spell slots, prepared sp
 When you flare duralumin, in addition to detonating your Allomantic metals, you may release **one non-Allomantic power you are using this turn** in a single, maximized instant:
 
 - **A spell you cast this turn (or are concentrating on):** it is **maximized** (all its variable numbers taken at maximum). You may additionally feed in any number of your **remaining spell slots**; the spell is then treated as **upcast to the summed level of every slot consumed** (the casting slot plus all fed slots). A concentration spell burst this way goes off at this boosted power once, then ends. Because the slots are your own and willingly spent, there is no save. The flare cap limits nothing here except through your charges being spent on the detonation itself.
-- **A Feruchemical tap:** the metalmind's draw is released in one amplified surge rather than over its normal duration, spending that portion of the mind at once.
-
-This is the "one breath of power spent all at once," extended to every kind of Investiture you command. See duralumin.
+**Feruchemy is not repeated here.** What a duralumin burst does to a tap, and what it does to each metalmind, is set out in full on the Duralumin page, and there is no second version of it here to disagree with. See Duralumin.
 
 #### Nicrosil: burst or force another's magic (touch)
 
