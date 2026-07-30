@@ -1096,9 +1096,13 @@ Emptying your reserves is the work of a **single charge**. Beyond that, aluminum
 
 Where clearing your metals is binary, cleansing your spirit **scales with the charges you pour into a single burn**, up to a flare cap equal to your level. The more you spend at once, the stronger the Investiture you can scour away.
 
-- Treat the total charges spent as the **strength of the cleanse**. You may end an ongoing magical or Invested effect on yourself whose strength (its spell level, or a tier the DM sets) is no greater than the charges spent. Because you are scouring your *own* spirit by choice, no saving throw resists you.
+- Treat the total charges spent as the **strength of the cleanse**, and read it as a **level cap**: you may attempt to shed any ongoing magical or Invested effect on yourself whose level is no greater than the charges you spent.
+- Cleansing does not simply remove the effect. It **grants you a fresh saving throw** against it, and every charge spent **beyond** the effect's level adds **+1** to that roll. Spend exactly its level and you get an ordinary second chance; spend well past it and failing becomes hard.
+- **Curses count as level 5**, so a curse costs five charges to reach at all and every charge after that is +1. A **disease** cannot be cleansed unless it is magical in origin; aluminum scours Investiture, and an ordinary infection is not Invested.
 - This can strip clinging foreign Investiture as well as spells: a measure of another's power that has taken hold of you (borrowed Stormlight, a lodged Breath, a curse, an enemy's ongoing spell) can be burned out of your spirit if you spend enough.
 - **At the surge tier**, or as an aluminum savant (whose cap is doubled), you can **cleanse even powerful, Shard-level Investiture** (up to a 9th-level or legendary effect) from your own spirit, the rarest and most coveted use of the metal.
+
+**There is no reason to be sparing.** Aluminum wipes your reserves, its own included, so whatever you do not spend on the burn is destroyed by it anyway. Nothing stops you burning a single charge; there is simply no point, because the rest will be gone regardless. In practice an aluminum burn is all of it.
 
 You still cannot reach *another* creature's Investiture with aluminum; it acts only on yourself. To strip someone else, see Chromium (Leecher). At a D&D table this is how aluminum ends spells and curses on you; full rules in The Metallic Arts and the Weave.
 
@@ -1727,7 +1731,7 @@ The doubled cap and the doubled efficiency work together: the cap lets you *spen
 
 A savant's power is inseparable from its cost. **Whenever you are a savant of a metal and you are not burning it**, whether your reserve has run dry or you have simply stopped, you fall into **withdrawal** until you burn that metal again.
 
-- You have **disadvantage on ability checks and saving throws tied to that metal's gift**, at the DM's read of what the metal gave you. A **tin** savant loses their edge on Perception and Dexterity; a **pewter** savant on Strength and Constitution; a **bronze** savant can no longer feel Allomancy at all.
+- You have **disadvantage on ability checks and saving throws tied to that metal's gift**, at the DM's read of what the metal gave you. A **tin** savant loses their edge on Perception and Dexterity; a **pewter** savant on Strength and Constitution; a **bronze** savant, who keeps listening for pulses instead of using their eyes and ears, has **disadvantage on Perception checks whenever they are not burning bronze**. The silence is not neutral to them; it is a blind spot they cannot stop reaching into.
 - Metals that **sharpen the senses dull them below normal** in withdrawal. A tin savant cut off from tin is briefly half-blind and deaf to the ordinary world, their unamplified senses feeling muffled and wrong, until they burn again.
 - The withdrawal **lands the moment you stop** and **lifts the moment you resume**. It is not exhaustion you can sleep off; it is a hunger only the metal answers.
 
@@ -2055,13 +2059,16 @@ Your perception and reflexes quicken along with your body, enough to navigate at
 
 | Tap intensity | Effect |
 |---|---|
-| +100% (double) | Your speed doubles, and you have advantage on initiative and on Dexterity saving throws. |
-| +200% to +300% | Your speed triples or quadruples. You can take the Dash or Disengage action as a bonus action. Opportunity attacks against you are made with disadvantage. |
-| +400% or more | You gain **one additional action** on each of your turns, spent only to Attack, Dash, Disengage, Hide, or Use an Object. To onlookers you are a blur crossing the room between heartbeats. |
+| +100% (double) | Your speed doubles, you have advantage on initiative and on Dexterity saving throws, and you gain **one additional action** of any kind. |
+| +200% | Your speed triples. **Two** additional actions, of any kind. Opportunity attacks against you are made with disadvantage. |
+| +300% | Your speed quadruples. **Three** additional actions, of which **at most one may be an Attack**. |
+| +400% or more | You gain **one additional action for every further +100%**, and **none of them may be the Attack action**. Your ordinary action may still Attack. To onlookers you are a blur crossing the room between heartbeats. |
 
 }}
 
-**The action ceiling.** One extra action is all steel will ever give you, no matter how hard you draw. Everything past +400% becomes raw velocity, not more decisions, because deciding is the mind's work and steel only carries the body.
+**Speed and force do not mix.** Steel keeps granting actions as you draw harder, but it takes violence away as it does: at +300% only one of them may be a blow, and past +400% none may be. A limb moving that fast cannot survive delivering an impact, and the arm that lands the punch is the arm that breaks. You may still run, climb, open, carry, search and flee at a speed nobody can follow. **A bow does not help you**: the string is not tapping steel, so it releases at its own pace whatever you do.
+
+A Steelrunner at +700% takes seven extra actions, and seven Dashes on top of a multiplied speed crosses ground that ought to take a day. That is the point of the metal.
 
 {{tableGroup
 
@@ -2973,8 +2980,8 @@ While you tap a duraluminmind, bonds form in moments that would normally take mo
 
 | Tap intensity | Effect |
 |---|---|
-| +100% | Advantage on Charisma (Persuasion) checks to build rapport, and you may improve a creature's attitude toward you a step faster than talk alone would allow. |
-| +400% | You **belong here.** You speak and understand the **local language** for as long as you tap, and you carry yourself as a native of this place, its customs and manners suddenly known to you. You can pass as a local among locals. |
+| +100% | You **belong here.** You speak and understand the **local language** for as long as you tap, you carry yourself as a native of this place, and you may improve a creature's attitude toward you a step faster than talk alone would allow. |
+| Each +100% | **+1 to Charisma checks**, and it does not stop. Unlike emotional Allomancy, which buys reach and never reliability, Connection buys the thing itself: you are not pushing on them, you are one of them. |
 | +900% or more | You form a **true, lasting bond** with a person in a single conversation, a friendship or trust that would ordinarily take years. It is genuine and remains after you stop tapping, though whether it survives what you do with it is up to you. |
 
 }}
@@ -3265,15 +3272,7 @@ This is why the stories about koloss-blooded and gunfights are all true, and why
 
 You mend faster than a person has any right to. When you finish a **short rest**, you regain hit points equal to **your proficiency bonus + your Constitution modifier**, on top of any Hit Dice you spend. You also **stabilize automatically** at the start of your turn if you are dying, without needing a death saving throw.
 
-#### Untiring
-
-Your ancestors could live on ash and dirt and never felt the cold. You keep enough of that to be inconvenient to starve.
-
-- You have **advantage on saving throws against gaining Exhaustion**.
-- You can **eat anything organic** without harm, however spoiled, and you need only half the food a human does.
-- You are comfortable in **extreme cold** and ignore its effects.
-
-#### Growing Up Blue
+##### Growing Up Blue
 
 You are the size you are and you stay there. The endless growth that killed your ancestors was a property of the **spikes**, not the blood, and Harmony took it out when he remade your people.
 
