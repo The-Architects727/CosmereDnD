@@ -1192,16 +1192,16 @@ A duralumin burst spends **your entire held reserve of that metal in one instant
 | **Tin** | Every sense at once, past what a body is meant to carry. In near-total deprivation you perceive what is hidden; in an ordinary room you may simply overwhelm yourself. See Sensory Overload. |
 | **Pewter** | The legendary tier of might and endurance for the round. Shattered stone, torn doors, a fall that should have killed you. |
 | **Zinc / Brass** | Every creature in range is swept by one overwhelming surge of feeling. A total soothe can leave a crowd standing catatonic; a total riot can start a massacre. |
-| **Copper** | A coppercloud that briefly covers a district rather than a room. It does not become stronger, only vastly wider, and it collapses at once. |
-| **Bronze** | You sense every source of power nearby at the same moment, and briefly hear straight through copperclouds. See Piercing a coppercloud. |
+| **Copper** | A coppercloud that briefly covers a district rather than a room, and one that is **stronger as well as wider**: everyone inside is shielded from emotional Allomancy and from charm effects for as long as it holds. It does **not** free a spiked creature; a Connection made through spikes is not an Allomantic pulse and the cloud has no purchase on it. |
+| **Bronze** | Range expands enormously, and for that instant you do not merely sense power but **know its exact nature**: which art, which metal, and what is being done with it, for every source at once. You hear straight through copperclouds. See Piercing a coppercloud. |
 | **Aluminum** | Your reserves are already being consumed; aluminum adds only that the *scouring* is total. Nothing Invested that you were carrying internally survives it. |
-| **Duralumin** | Nothing. Duralumin cannot detonate itself, and a reserve of it is simply spent. |
+| **Duralumin** | Nothing. Duralumin cannot detonate itself. Nor does it consume itself: the charges you burn to trigger the detonation are spent like any other burn, and the **rest of your duralumin remains**. Only the other metals go. |
 | **Chromium** | One touch strips a target's entire reserve to nothing, with no gradual drain and nothing left behind. This is how the Steel Ministry disarmed Allomancers. |
 | **Nicrosil** | The target's burn is amplified to the same all-at-once extreme, using **their** reserve rather than yours. A gift or an execution, depending on what they are burning. |
 | **Gold** | One vast, complete vision of the self you might have been, rather than a glimpse. Overwhelming, and remembered. |
-| **Electrum** | Your own near future laid out at length instead of a heartbeat ahead. The advantage lasts the round and then is gone. |
+| **Electrum** | You see **partway into the Spiritual Realm**, and the future opens with it. The glimpse reaches far further ahead, and it **lingers**: for **1 minute per 100 charges spent**, you keep advantage on initiative, on checks to avoid being surprised, and on Dexterity saving throws against things you could not have seen coming. |
 | **Cadmium / Bendalloy** | The bubble's ratio becomes **2 plus twice your entire remaining reserve in charges**, for one round, after which the metal is gone and the bubble collapses. A Slider with 10 charges left buys their occupants 22 rounds inside a single round outside; a Pulser buys 22 rounds of the world passing while they take one. |
-| **Atium / Malatium** | A god metal is not spent this way. The detonation consumes the reserve and grants a single round of the metal's effect at its fullest, which for atium means near-perfect foresight against everyone present at once. |
+| **Atium / Malatium** | As electrum, but it is not your own future you read; it is **everyone's**. For **1 minute per 100 charges spent** you have advantage on attack rolls and every attack against you has disadvantage, as a full atium burn. At 20 charges to the gram that is **5 grams for one minute** of it, which is to say a small house's worth of atium per minute of certainty. |
 
 }}
 
@@ -1227,7 +1227,14 @@ Flaring duralumin lets the burst reach past Allomancy to **one non-Allomantic po
 
 For the Allomantic detonation, a single charge is enough; it already burns *everything*. Flaring duralumin instead lets the burst reach **beyond Allomancy**, to other Investiture you are actively wielding in the same instant.
 
-- The detonation can seize one form of **non-Allomantic Investiture you are using right now**: a **Feruchemical tap** (releasing a metalmind's draw in one amplified surge rather than over time), or, at a D&D table, **a spell you cast this turn**. A spell is **maximized** and may be upcast to the summed level of any spell slots you feed in; a concentration spell then ends. The full rules for spells live in The Metallic Arts and the Weave.
+- The detonation can seize one form of **non-Allomantic Investiture you are using right now**: a **Feruchemical tap**, releasing a metalmind's draw in one amplified surge rather than over time, or, at a D&D table, **a spell you cast this turn**. A concentration spell then ends.
+- **A spell you cast this turn** is **maximized**, and the burst feeds your own spell slots into it. **One charge consumes every slot of the level you cast at.** Each **further charge widens the burst by one level**, up or down, and the levels need not be adjacent: three charges will carry you from 3rd straight past 4th to 5th if that is what you want. Every slot swept up adds its own level to the spell.
+
+> ##### A very expensive fireball
+> A 10th-level wizard casts *fireball* at 3rd level and burns duralumin. One charge takes all of their 3rd-level slots. Spending **11 charges** in total reaches their 1st through 5th: four 1st, three 2nd, three 3rd, three 4th and two 5th, which is **41 levels of spell**, and *fireball* goes off at **46d6**, averaging about 160 damage.
+>
+> It is also every spell slot they had until a long rest, spent in one action. That is the trade, and it should stay a memorable one.
+
 - **At the surge tier**, or as a duralumin savant (whose cap is doubled), you can burst even a **powerful external Investiture** (up to a 9th-level or legendary effect), wringing a single overwhelming moment from a source that would normally release its power slowly.
 - As with the Allomantic burst, whatever you detonate is **spent** by it; a tap or a fed spell slot burst this way is consumed at once.
 
@@ -1278,6 +1285,16 @@ The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or 
 
 Each 2 charges past the cap adds **+1** to the strength of the drain.
 
+### Against a spellcaster
+
+Chromium drains Investiture, and a spell slot is Investiture a caster is holding. Reaching a slot costs more than reaching a reserve, because chromium begins at the bottom and has to climb.
+
+- **The first charge wipes every 1st-level slot.** Each level above that costs charges equal to that level, so 2nd costs 2 more, 3rd costs 3 more, and so on. **Wiping a caster clean up to 5th level costs 1+2+3+4+5 = 15 charges.**
+- You may **skip levels** on the way up, paying only for the ones you take. A Leecher who wants only the 5th-level slots pays 5.
+- The touch is resolved exactly as any other chromium touch, with the same Dexterity saving throw for a creature that is unwilling and aware of you. One save, one touch, however deep you go.
+
+Fifteen charges is a gram and a half of chromium to leave a wizard with nothing until they sleep. It is expensive, it is touch range, and it is one of the most brutal things in this book.
+
 ### Interactions & counterplay
 
 - A target who burns **aluminum** in response can clear their own reserves first, denying you the satisfaction but ending their power all the same.
@@ -1323,6 +1340,14 @@ For the Allomantic detonation, one charge suffices. Flaring nicrosil, like flari
 The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
 
 Each 2 charges past the cap adds **+1** to the strength of the burst you grant or force.
+
+### Against a spellcaster
+
+Nicrosil forces the burst rather than erasing it, so against a caster it works as duralumin does, on the same terms and at the same rate: **one charge consumes every slot of the level they are casting at, and each further charge widens the burst by one level.**
+
+- **The charges are yours.** You spend nicrosil; they spend slots.
+- **The direction is theirs.** You decide how far the burst widens; the target chooses which levels it reaches. Feed them five charges and they must blow the level they cast at, then place the other four where they like, upward, downward, or wasted.
+- Against an ally this is a gift, and they will aim it well. Against an enemy it is still their hand on the tiller, which is what stops nicrosil being a way to strip a caster with no answer. That is chromium's work, and chromium pays for it.
 
 ### Interactions & counterplay
 
@@ -1448,11 +1473,11 @@ Each 2 charges past the cap pushes your foresight a further **6 seconds** ahead.
 
 **Bloodline** Temporal Misting · **Metal** Cadmium (pure) · **Direction** External Pull · **Tempo** Minute · **Charges/gram** 30
 
-An Allomancer burning cadmium, called a **Pulser**, creates a bubble in which time runs **slower** than the world outside./ for the shared time-bubble rules.
+An Allomancer burning cadmium, called a **Pulser**, creates a bubble in which time runs **slower** than the world outside
 
 ### Base Burn
 
-While you burn cadmium, at a base rate of 1 charge per minute, you raise a **slowbubble**: a 15-foot-radius sphere **centered on you at the moment you raise it**. The bubble is then **fixed in space** and does not move with you. Time inside runs slowly, so that for each round experienced **inside** the bubble, **2 rounds pass outside** at base burn.
+While you burn cadmium, at a base rate of 1 charge per minute, you raise a **slowbubble**: a sphere of up to **15-foot radius**, **centered on you at the moment you raise it**. The radius is a **maximum, not a fixed size** -- you may raise it at any size you like so long as you are wholly inside it, down to a shell about your own body. Crouch, and it need be no more than three feet tall. A Pulser who wants to be the only thing in the bubble says so. The bubble is then **fixed in space** and does not move with you. Time inside runs slowly, so that for each round experienced **inside** the bubble, **2 rounds pass outside** at base burn.
 
 Run the bubble as its own initiative track. Each time its occupants complete one round, the outside world takes 2 rounds. Creatures and objects can move in and out freely, changing which time they experience, but **if you leave the bubble, it collapses at once**.
 
@@ -1477,6 +1502,25 @@ Each 2 charges past the cap adds **2** to the ratio, or **20 feet** to the radiu
 
 - **Shelter.** Wait out a long danger in moments of your own time, letting a storm, a siege, or a pursuit pass by outside.
 - **Trap.** Catch enemies inside with you; distract them to wait for backup.
+
+### Shooting across the boundary
+
+A missile that crosses the edge of a time bubble crosses between two rates of
+time, and it does not survive the transition. **Any projectile passing through
+the boundary is deflected, unpredictably and usually wildly**: the attack misses,
+and if it matters where the thing went, roll a d8 for the direction.
+
+This holds in both directions and for both metals. Arrows, bolts, bullets, slung
+stones and thrown knives all fail alike, because none of them is being carried by
+anything as it crosses.
+
+**What still works** is anything a person is holding as they pass through. A
+sword swung by an arm that crosses the boundary lands; the arm is moving the
+blade, so the blade shares whatever time the arm is in. Reach in and stab, and
+it works. Shoot in, and it does not.
+
+This is why a bubble is such good cover, and why the way to break one has always
+been to walk into it.
 
 ### Interactions & counterplay
 
@@ -1509,11 +1553,11 @@ Each 2 charges past the cap adds **2** to the ratio, or **20 feet** to the radiu
 
 **Bloodline** Temporal Misting · **Metal** Bendalloy (50% bismuth, 26% lead, 14% tin, 10% cadmium) · **Direction** External Push · **Tempo** Minute · **Charges/gram** 50
 
-An Allomancer burning bendalloy, called a **Slider**, creates a bubble in which time runs **faster** than the world outside. It is the opposite of cadmium./ for the shared time-bubble rules.
+An Allomancer burning bendalloy, called a **Slider**, creates a bubble in which time runs **faster** than the world outside. It is the opposite of cadmium
 
 ### Base Burn
 
-While you burn bendalloy, at a base rate of 1 charge per minute, you raise a **speedbubble**: a 15-foot-radius sphere **centered on you at the moment you raise it**. The bubble is then **fixed in space** and does not move with you. Time inside runs quickly, so that for each round that passes **outside** the bubble, its occupants experience **2 rounds** at base burn.
+While you burn bendalloy, at a base rate of 1 charge per minute, you raise a **speedbubble**: a sphere of up to **15-foot radius**, **centered on you at the moment you raise it**. The radius is a **maximum, not a fixed size** -- you may raise it at any size so long as you are wholly inside it, down to a shell about your own body. The bubble is then **fixed in space** and does not move with you. Time inside runs quickly, so that for each round that passes **outside** the bubble, its occupants experience **2 rounds** at base burn.
 
 Run the bubble as its own initiative track. Each outside round, resolve 2 full rounds for the bubble's occupants, then advance the outside world by one round. Creatures and objects can move in and out freely, changing which time they experience, but **if you leave the bubble, it collapses at once**.
 
@@ -1540,6 +1584,16 @@ Each 2 charges past the cap adds **2** to the ratio, or **10 feet** to the radiu
 
 - **Act many times.** You and your allies inside gain extra rounds against a slower outside world, to attack, heal, or prepare.
 - **Race the clock.** Cover in moments a task that would take far longer.
+
+### Shooting across the boundary
+
+A missile that crosses the edge of a time bubble crosses between two rates of time, and it does not survive the transition. **Any projectile passing through the boundary is deflected, unpredictably and usually wildly**: the attack misses, and if it matters where the thing went, roll a d8 for the direction.
+
+This holds in both directions and for both metals. Arrows, bolts, bullets, slung stones and thrown knives fail alike, because none of them is being carried by anything as it crosses.
+
+**What still works** is anything a person is holding as they pass through. A sword swung by an arm that crosses the boundary lands; the arm is moving the blade, so the blade shares whatever time the arm is in. Reach in and stab, and it works. Shoot in, and it does not.
+
+This is why a bubble is such good cover, and why the way to break one has always been to walk into it.
 
 ### Interactions & counterplay
 
@@ -1622,7 +1676,7 @@ While you burn atium, at a base rate of 1 charge per round, every creature you c
 
 - Attack rolls against you have **disadvantage**.
 - You have **advantage** on attack rolls, on Dexterity saving throws, and on ability checks made to react to a creature you can see.
-- You cannot be **surprised**, and you know a creature's intended action a moment before it takes it.
+- You cannot be **surprised**, and you know a creature's intended action a moment before it takes it. This holds against what you cannot see as well as what you can: an ambusher beyond your sight, a trap in the floor, an arrow already in the air. Foresight does not need line of sight, because it is not a sense. It is the future arriving early.
 
 **The limits of foresight.** Atium does not falter against numbers. A Seer reads a score of enemies as easily as one, and has cut through whole ranks of koloss untouched. What foresight cannot do is move your body for you. Where you physically cannot get out of the way, the knowledge is worthless: while you are Grappled, Restrained, or Incapacitated, or while you are so hemmed in that there is nowhere left to step, attacks against you are made normally.
 
@@ -1833,7 +1887,7 @@ Every savant gains the shared package (a doubled cap, doubled efficiency, the De
 
 | Metal | What savanthood adds | Dependency |
 |---|---|---|
-| **Tin** | Ordinary light becomes blinding (a savant goes veiled and gloved by day), but hearing and touch grow so acute they compensate for lost sight, letting the savant fight half-blind and *anticipate* attacks almost as a Seer reads atium. | Severe (senses wrong without it; oddly, a dulled sense of pain) |
+| **Tin** | Ordinary light becomes blinding (a savant goes veiled and gloved by day), but hearing and touch grow so acute they compensate for lost sight, letting the savant fight half-blind and *anticipate* attacks almost as a Seer reads atium. **A cloth blindfold restores them entirely**: enough light passes through the weave that a tin savant sees through it as well as anyone sees without it, with all of tin's sharpness and none of its pain. The blindfolded Tineye is not making do. They are seeing properly for the first time that day. | Severe (senses wrong without it; oddly, a dulled sense of pain) |
 | **Pewter** | Wounds close faster (never as fast as a tapped goldmind), and pain and fatigue all but vanish. | Severe, and *deadly*: feeling no wound, a savant may fight on past a fatal one |
 | **Copper** | The coppercloud grows stronger and harder to pierce. | **Mild** (Smokers bear it easily) |
 | **Bronze** | Range expands; the savant can pierce copperclouds (contested by their strength against the cloud), and can tell ordinary Allomancy from **Compounding**. | **Mild** (many Seekers savant unknowingly) |
@@ -3851,7 +3905,7 @@ Burning metal sharpens you. While you are burning any metal, you have **advantag
 
 A Mistborn eventually masters every metal, but the quadrant you master **first** shapes you most deeply, and your soul, closer to Preservation than any Misting's, learns to make its metals sing together in ways no specialist ever could. Your **starting quadrant** (Physical, Mental, or Temporal, chosen at 1st level) grants you a **Mastery** feature at 3rd level, and again at 6th, 10th, and 14th, listed under Quadrant Masteries below. You do not choose a separate subclass; your first quadrant *is* your path.
 
-**A Mastery is never free.** Every Mastery refines how you *burn* one or more metals. To gain its benefit you must be **burning the relevant metal and spending its charges** exactly as its Misting page requires; a Mastery sharpens or combines your Allomancy, but it never grants an effect without the burn behind it. Each quadrant's **14th-level** Mastery is the same in kind: you become a **savant of that quadrant's four metals**. Being a savant is the only way to burn a metal past its flare cap, so this is what unlocks the quadrant's most extreme feats, bounded now only by your Burn Budget and the metal you carry. It also brings a savant's **Dependency**: while you are a savant of one of these metals but not burning it, you suffer withdrawal until you resume (see Savants).
+**A Mastery is never free.** Every Mastery refines how you *burn* one or more metals. To gain its benefit you must be **burning the relevant metal and spending its charges** exactly as its Misting page requires; a Mastery sharpens or combines your Allomancy, but it never grants an effect without the burn behind it. Each quadrant's **14th-level** Mastery is the same in kind: you become a **savant of that quadrant's four metals**. A Mistborn is not exempt from the ordinary road to savancy: burn five kilograms of a metal and you become a savant of it like anyone else. What these features give you is the same thing **without the kilograms**. Being a savant doubles a metal's flare cap, so this is what unlocks the quadrant's most extreme feats, bounded now only by your Burn Budget and the metal you carry. It also brings a savant's **Dependency**: while you are a savant of one of these metals but not burning it, you suffer withdrawal until you resume (see Savants).
 
 #### Rapid Burning (5th level)
 
@@ -4162,7 +4216,7 @@ Your **starting quadrant** grants these four features, at 3rd, 6th, 10th, and 14
 - **6th — The Long Convalescence.** Your control of gold has grown fine enough to cheat death cleanly. When you tap gold to survive a killing blow, the usual **2-for-1** cost becomes **1-for-1**: you pay just **1 hit point from the ring for each 1 you were driven below 0**, staying at 0 hit points, conscious, and able to act. A charged goldmind now buys you exactly its own worth in punishment absorbed.
 - **10th — Unbreakable Will.** While tapping electrum, nothing turns you aside. You are **immune to the Frightened and Charmed conditions**, you automatically succeed on saving throws to maintain a course of action against magical compulsion, and you may continue acting for one round at 0 hit points before falling unconscious.
 - **14th — Deathless.** Gold, cadmium, and bendalloy that you are drawing from **do not count against your Minds at Once**, so health, breath, and sustenance run free alongside everything else you are doing. While all three run, you need not eat, drink, or breathe, and you can absorb a truly absurd amount of punishment: **spend 1 hit point from a goldmind for each 1 point of damage that would drop you below 0**, remaining conscious and acting for as long as the gold holds out. You die when the ring runs dry and not before. A Feruchemist so provisioned walks out of a desert, a sealed tomb, or a battlefield that killed everyone else. *(This buys endurance, not youth. Reversing your age is atium's domain, and only through Compounding.)*
-- 
+-
 {{imageMaskEdge6,--offset:10%,--rotation:270
   ![A Keeper](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@3c2e6810c2b5a6734d7c339d550a88fb6eeecb58/Mistborn/render/art/class-feruchemist-keeper.jpg?v=10df5914){height:100%,left:48%}
 }}
