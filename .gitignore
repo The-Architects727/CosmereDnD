@@ -1,29 +1,39 @@
 # ---------------------------------------------------------------------------
-# This repository -- the public one, on GitHub -- tracks ONE folder:
-# Mistborn/render/
+# This repository -- the public one, on GitHub -- publishes the finished books
+# and nothing else. One folder per adaptation, and inside each, only render/.
 #
-# The rest of the vault (the design notes in content/, the wiki, the raw
-# sources, the build scripts) stays local and private. Ignore everything,
-# then re-include only what is meant to be published.
+#   MistbornD&D/render/       the Mistborn book, its art, its versions
+#   StormlightD&D/render/     the next one, when there is one
 #
-# Local and private does not mean unversioned. A SECOND repository, whose git
-# directory is .gitlocal/ and which is never pushed anywhere, keeps a history
-# of the private files so they can be compared and reverted like anything
-# else. See VAULT-HISTORY.md. It is ignored here along with everything else.
+# Everything else in each folder (the design notes in content/, the wiki, the
+# raw sources, the build scripts, the edit passes) stays local and private.
+# Ignore everything, then re-include only what is meant to be published.
+#
+# Local and private does not mean unversioned. Each adaptation keeps a SECOND
+# repository, whose git directory is .gitlocal/ inside that folder and which is
+# never pushed anywhere, holding the history of its private files. See
+# VAULT-HISTORY.md in each. They are ignored here along with everything else.
 # ---------------------------------------------------------------------------
 
 # ignore everything
 /*
 
-# except these
+# except the repository's own papers
 !.gitignore
 !README.md
 !LICENSE
 !NOTICE
-!Mistborn/
 
-# inside Mistborn/, keep the art and the finished files,
-# but never the scratch that tools leave behind
-Mistborn/**/Thumbs.db
-Mistborn/**/.DS_Store
-Mistborn/**/*.tmp
+# and, inside each adaptation, only the finished book
+!MistbornD&D/
+MistbornD&D/*
+!MistbornD&D/render/
+
+!StormlightD&D/
+StormlightD&D/*
+!StormlightD&D/render/
+
+# never the scratch that tools leave behind
+**/Thumbs.db
+**/.DS_Store
+**/*.tmp

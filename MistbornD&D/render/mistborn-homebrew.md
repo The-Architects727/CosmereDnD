@@ -203,7 +203,7 @@
 {{frontCover}}
 {{wide
 <!--h:112-->
-![cover-front-kelsier](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/cover-front-kelsier.jpg?v=7a4192f2){width:100%}
+![cover-front-kelsier](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/cover-front-kelsier.jpg?v=7a4192f2){width:100%}
 }}
 # Mistborn
 ## A Metallic Arts Expansion for Fifth Edition
@@ -229,75 +229,75 @@ Allomancy, Feruchemy, and Hemalurgy for the 2024 ruleset
       - ###### [{{ Pewter: Thug (Pewterarm)}}{{ 11}}](#p11)
     - ##### [{{ Mental}}{{ 13}}](#p13)
       - ###### [{{ Zinc: Rioter}}{{ 13}}](#p13)
-      - ###### [{{ Brass: Soother}}{{ 15}}](#p15)
-      - ###### [{{ Copper: Smoker}}{{ 17}}](#p17)
-      - ###### [{{ Bronze: Seeker}}{{ 18}}](#p18)
-    - ##### [{{ Enhancement}}{{ 19}}](#p19)
-      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 19}}](#p19)
-      - ###### [{{ Duralumin: Duralumin Gnat}}{{ 20}}](#p20)
-      - ###### [{{ Chromium: Leecher}}{{ 22}}](#p22)
-      - ###### [{{ Nicrosil: Nicroburst}}{{ 23}}](#p23)
-    - ##### [{{ Temporal}}{{ 24}}](#p24)
-      - ###### [{{ Gold: Augur}}{{ 24}}](#p24)
-      - ###### [{{ Electrum: Oracle}}{{ 25}}](#p25)
-      - ###### [{{ Cadmium: Pulser}}{{ 26}}](#p26)
-      - ###### [{{ Bendalloy: Slider}}{{ 27}}](#p27)
-    - ##### [{{ God Metals}}{{ 28}}](#p28)
-      - ###### [{{ Other Metals}}{{ 28}}](#p28)
-      - ###### [{{ Atium: Seer}}{{ 29}}](#p29)
-      - ###### [{{ Malatium: the Eleventh Metal}}{{ 30}}](#p30)
-      - ###### [{{ Lerasium}}{{ 31}}](#p31)
-  - #### [{{ Savants}}{{ 32}}](#p32)
-  - #### [{{ Ferrings}}{{ 36}}](#p36)
-    - ##### [{{ Physical}}{{ 39}}](#p39)
-      - ###### [{{ Iron: Skimmer}}{{ 39}}](#p39)
-      - ###### [{{ Steel: Steelrunner}}{{ 40}}](#p40)
-      - ###### [{{ Tin: Windwhisperer}}{{ 41}}](#p41)
-      - ###### [{{ Pewter: Brute}}{{ 42}}](#p42)
-    - ##### [{{ Cognitive}}{{ 43}}](#p43)
-      - ###### [{{ Zinc: Sparker}}{{ 43}}](#p43)
-      - ###### [{{ Brass: Firesoul}}{{ 44}}](#p44)
-      - ###### [{{ Copper: Archivist}}{{ 46}}](#p46)
-      - ###### [{{ Bronze: Sentry}}{{ 47}}](#p47)
-    - ##### [{{ Hybrid}}{{ 48}}](#p48)
-      - ###### [{{ Cadmium: Gasper}}{{ 48}}](#p48)
-      - ###### [{{ Bendalloy: Subsumer}}{{ 49}}](#p49)
-      - ###### [{{ Gold: Bloodmaker}}{{ 50}}](#p50)
-      - ###### [{{ Electrum: Pinnacle}}{{ 51}}](#p51)
-    - ##### [{{ Spiritual}}{{ 52}}](#p52)
-      - ###### [{{ Chromium: Spinner}}{{ 52}}](#p52)
-      - ###### [{{ Nicrosil: Soulbearer}}{{ 53}}](#p53)
-      - ###### [{{ Aluminum: Trueself}}{{ 54}}](#p54)
-      - ###### [{{ Duralumin: Connector}}{{ 55}}](#p55)
-    - ##### [{{ God Metals}}{{ 56}}](#p56)
-      - ###### [{{ Other Metals (Feruchemy)}}{{ 56}}](#p56)
-      - ###### [{{ Atium (Feruchemical)}}{{ 57}}](#p57)
-  - #### [{{ Twinborn}}{{ 58}}](#p58)
-  - #### [{{ Compounding}}{{ 59}}](#p59)
+      - ###### [{{ Brass: Soother}}{{ 16}}](#p16)
+      - ###### [{{ Copper: Smoker}}{{ 18}}](#p18)
+      - ###### [{{ Bronze: Seeker}}{{ 19}}](#p19)
+    - ##### [{{ Enhancement}}{{ 20}}](#p20)
+      - ###### [{{ Aluminum: Aluminum Gnat}}{{ 20}}](#p20)
+      - ###### [{{ Duralumin: Duralumin Gnat}}{{ 22}}](#p22)
+      - ###### [{{ Chromium: Leecher}}{{ 24}}](#p24)
+      - ###### [{{ Nicrosil: Nicroburst}}{{ 25}}](#p25)
+    - ##### [{{ Temporal}}{{ 26}}](#p26)
+      - ###### [{{ Gold: Augur}}{{ 26}}](#p26)
+      - ###### [{{ Electrum: Oracle}}{{ 27}}](#p27)
+      - ###### [{{ Cadmium: Pulser}}{{ 28}}](#p28)
+      - ###### [{{ Bendalloy: Slider}}{{ 30}}](#p30)
+    - ##### [{{ God Metals}}{{ 31}}](#p31)
+      - ###### [{{ Other Metals}}{{ 31}}](#p31)
+      - ###### [{{ Atium: Seer}}{{ 32}}](#p32)
+      - ###### [{{ Malatium: the Eleventh Metal}}{{ 33}}](#p33)
+      - ###### [{{ Lerasium}}{{ 34}}](#p34)
+  - #### [{{ Savants}}{{ 35}}](#p35)
+  - #### [{{ Ferrings}}{{ 39}}](#p39)
+    - ##### [{{ Physical}}{{ 42}}](#p42)
+      - ###### [{{ Iron: Skimmer}}{{ 42}}](#p42)
+      - ###### [{{ Steel: Steelrunner}}{{ 43}}](#p43)
+      - ###### [{{ Tin: Windwhisperer}}{{ 44}}](#p44)
+      - ###### [{{ Pewter: Brute}}{{ 45}}](#p45)
+    - ##### [{{ Cognitive}}{{ 46}}](#p46)
+      - ###### [{{ Zinc: Sparker}}{{ 46}}](#p46)
+      - ###### [{{ Brass: Firesoul}}{{ 47}}](#p47)
+      - ###### [{{ Copper: Archivist}}{{ 49}}](#p49)
+      - ###### [{{ Bronze: Sentry}}{{ 50}}](#p50)
+    - ##### [{{ Hybrid}}{{ 51}}](#p51)
+      - ###### [{{ Cadmium: Gasper}}{{ 51}}](#p51)
+      - ###### [{{ Bendalloy: Subsumer}}{{ 52}}](#p52)
+      - ###### [{{ Gold: Bloodmaker}}{{ 53}}](#p53)
+      - ###### [{{ Electrum: Pinnacle}}{{ 55}}](#p55)
+    - ##### [{{ Spiritual}}{{ 56}}](#p56)
+      - ###### [{{ Chromium: Spinner}}{{ 56}}](#p56)
+      - ###### [{{ Nicrosil: Soulbearer}}{{ 57}}](#p57)
+      - ###### [{{ Aluminum: Trueself}}{{ 59}}](#p59)
+      - ###### [{{ Duralumin: Connector}}{{ 60}}](#p60)
+    - ##### [{{ God Metals}}{{ 61}}](#p61)
+      - ###### [{{ Other Metals (Feruchemy)}}{{ 61}}](#p61)
+      - ###### [{{ Atium (Feruchemical)}}{{ 62}}](#p62)
+  - #### [{{ Twinborn}}{{ 63}}](#p63)
+  - #### [{{ Compounding}}{{ 64}}](#p64)
 }}
 
 \column
 
 {{toc,contents
-- ### [{{ Species}}{{ 61}}](#p61)
-  - #### [{{ Koloss-blooded}}{{ 62}}](#p62)
-  - #### [{{ Kandra}}{{ 65}}](#p65)
-- ### [{{ Backgrounds}}{{ 69}}](#p69)
-  - #### [{{ Alloyer}}{{ 70}}](#p70)
-  - #### [{{ Hazekiller}}{{ 70}}](#p70)
-  - #### [{{ Crewmember}}{{ 70}}](#p70)
-  - #### [{{ Metal Smuggler}}{{ 70}}](#p70)
-  - #### [{{ Ashworker}}{{ 70}}](#p70)
-- ### [{{ Origin Feats}}{{ 71}}](#p71)
-  - #### [{{ Alloyer (Origin Feat)}}{{ 71}}](#p71)
-  - #### [{{ Hazekiller (Origin Feat)}}{{ 71}}](#p71)
-- ### [{{ Classes}}{{ 72}}](#p72)
-  - #### [{{ Mistborn}}{{ 73}}](#p73)
-  - #### [{{ Feruchemist}}{{ 77}}](#p77)
-  - #### [{{ Hemalurgist}}{{ 84}}](#p84)
-- ### [{{ The Metal Economy}}{{ 92}}](#p92)
-- ### [{{ The Arts and the Weave}}{{ 96}}](#p96)
-- ### [{{ Art Credits}}{{ 100}}](#p100)
+- ### [{{ Species}}{{ 66}}](#p66)
+  - #### [{{ Koloss-blooded}}{{ 67}}](#p67)
+  - #### [{{ Kandra}}{{ 70}}](#p70)
+- ### [{{ Backgrounds}}{{ 74}}](#p74)
+  - #### [{{ Alloyer}}{{ 75}}](#p75)
+  - #### [{{ Hazekiller}}{{ 75}}](#p75)
+  - #### [{{ Crewmember}}{{ 75}}](#p75)
+  - #### [{{ Metal Smuggler}}{{ 75}}](#p75)
+  - #### [{{ Ashworker}}{{ 75}}](#p75)
+- ### [{{ Origin Feats}}{{ 76}}](#p76)
+  - #### [{{ Alloyer (Origin Feat)}}{{ 76}}](#p76)
+  - #### [{{ Hazekiller (Origin Feat)}}{{ 76}}](#p76)
+- ### [{{ Classes}}{{ 77}}](#p77)
+  - #### [{{ Mistborn}}{{ 78}}](#p78)
+  - #### [{{ Feruchemist}}{{ 82}}](#p82)
+  - #### [{{ Hemalurgist}}{{ 89}}](#p89)
+- ### [{{ The Metal Economy}}{{ 97}}](#p97)
+- ### [{{ The Arts and the Weave}}{{ 101}}](#p101)
+- ### [{{ Art Credits}}{{ 105}}](#p105)
 }}
 
 \page
@@ -361,7 +361,7 @@ Hemalurgy is the third, and it is different again. **It only works by hurting so
 ## Bloodlines
 
 {{imageMaskCenter1,--offsetX:-13%,--offsetY:-18%,--rotation:0,width:130%,height:130%
-  ![Part 1 cover: the Allomantic metals](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/cover-bloodlines-allomantic-metals.png?v=feba21c5){width:90%,top:18%,left:-9%}
+  ![Part 1 cover: the Allomantic metals](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/cover-bloodlines-allomantic-metals.png?v=feba21c5){width:90%,top:18%,left:-9%}
 }}
 
 \page
@@ -402,7 +402,7 @@ A Misting begins play with **1d6 grams** of their metal, as small beads or a via
 
 {{wide
 <!--h:44-->
-![chart-allomancy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/chart-allomancy.svg?v=36659291){width:100%}
+![chart-allomancy](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/chart-allomancy.svg?v=36659291){width:100%}
 }}
 
 \page
@@ -495,7 +495,7 @@ Driving a coin, nail, or bead as a weapon is a ranged Allomantic attack with a r
 }}
 
 {{imageMaskCorner21,--offsetX:50%,--offsetY:-30%,--rotation:0
-  ![Steel: a Coinshot throwing coins](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/misting-steel-coinshot.jpg?v=366d37af){width:90%,top:18%,left:19%}
+  ![Steel: a Coinshot throwing coins](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/misting-steel-coinshot.jpg?v=366d37af){width:90%,top:18%,left:19%}
 }}
 
 \page
@@ -742,7 +742,7 @@ Each extra charge you burn in a round, up to a number equal to your level, drive
 - Each extra charge grants a further +2 bonus to melee and unarmed damage and increases your speed by 5 feet.
 - Each extra charge grants **5 temporary hit points**, which last while you burn and are lost when you stop. This is what a pewter burner's famous toughness is: not an immunity, but a body that keeps going through what should have stopped it.
 - While you flare 5 or more charges, once on each of your turns you may treat a Strength check or a shove as though your Strength score were 30, and you can jump twice your normal distance.
-- At the **surge tier** (20 or more charges in a round, or half that for a pewter savant, or any duralumin detonation), you reach legendary feats of might. You can shatter stone with a blow, tear a barred door from its frame, or strike hard enough to break bone and armor alike. Each charge beyond the threshold continues to add its damage and speed and to expand your Pewter Drag capacity.
+- At the **surge tier** (20 or more charges in a round; see the core rules, or half that for a pewter savant, or any duralumin detonation), you reach legendary feats of might. You can shatter stone with a blow, tear a barred door from its frame, or strike hard enough to break bone and armor alike. Each charge beyond the threshold continues to add its damage and speed and to expand your Pewter Drag capacity.
 
 {{tableGroup
 
@@ -794,7 +794,7 @@ A Thug who leans on pewter and burns their last charge in a fight is suddenly, m
 }}
 
 {{imageMaskCorner21,--offsetX:50%,--offsetY:40%,--rotation:0
-  ![Pewter: a Thug punching in a brawl](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/misting-pewter-thug.jpg?v=87e5e8e6){height:70%,bottom:30%,left:14%}
+  ![Pewter: a Thug punching in a brawl](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/misting-pewter-thug.jpg?v=87e5e8e6){height:70%,bottom:30%,left:14%}
 }}
 
 \page
@@ -852,6 +852,10 @@ The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or 
 
 Each 2 charges past the cap adds **30 feet** to a pulse's range, or emits one more pulse. It never raises the save DC; see *How hard you push is not how well it works*, above.
 
+\page
+
+{{tableGroup
+
 #### How hard you push is not how well it works
 
 Charges buy **reach**, never **reliability**. A gentle touch persuades as well as
@@ -863,6 +867,8 @@ strength. It is whether the target learns they were touched.
 | **Base burn** | Nothing. They never know. The touch is small enough to pass for their own mood, and you have **advantage** on Charisma checks made while it holds. |
 | **Flaring** | **Wrongness.** They cannot name it and cannot tell where it came from, but they know the feeling was not theirs. They are **guarded**: further attempts against that target are made with disadvantage until the scene changes. |
 | **A duralumin detonation** | Nothing, and everything. The burst is so total that it drowns the very sense that would have noticed it. In the moment they are simply *swept*; afterwards they remember it the way one remembers a trance or a disaster, as something that happened to them. |
+
+}}
 
 **The dangerous burn is the middle one.** Too small to notice and too large to
 notice are both safe; a flare sits exactly where a person can feel the hand and
@@ -946,6 +952,8 @@ The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or 
 
 Each 2 charges past the cap adds **30 feet** to a pulse's range, or emits one more pulse. It never raises the save DC; see *How hard you push is not how well it works*, above.
 
+{{tableGroup
+
 #### How hard you push is not how well it works
 
 Charges buy **reach**, never **reliability**. A gentle touch persuades as well as
@@ -957,6 +965,10 @@ strength. It is whether the target learns they were touched.
 | **Base burn** | Nothing. They never know. The touch is small enough to pass for their own mood, and you have **advantage** on Charisma checks made while it holds. |
 | **Flaring** | **Wrongness.** They cannot name it and cannot tell where it came from, but they know the feeling was not theirs. They are **guarded**: further attempts against that target are made with disadvantage until the scene changes. |
 | **A duralumin detonation** | Nothing, and everything. The burst is so total that it drowns the very sense that would have noticed it. In the moment they are simply *swept*; afterwards they remember it the way one remembers a trance or a disaster, as something that happened to them. |
+
+}}
+
+\page
 
 **The dangerous burn is the middle one.** Too small to notice and too large to
 notice are both safe; a flare sits exactly where a person can feel the hand and
@@ -983,7 +995,7 @@ Spikes are the handle by which emotional Allomancy commands a koloss, and they a
 - A creature burning **copper** (copper) is immune to Soothing.
 - You must be able to **see** into the area; pulses do not pass through total cover or around corners.
 
-\page
+\column
 
 {{note
 
@@ -1051,7 +1063,7 @@ A creature able to pierce the cloud must succeed on a Wisdom saving throw agains
 }}
 
 {{imageMaskCorner21,--offsetX:50%,--offsetY:-50%,--rotation:0
-  ![Copper: a Smoker covering a room](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/misting-copper-smoker.jpg?v=14ed69bf){width:90%,top:50%,left:30%}
+  ![Copper: a Smoker covering a room](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/misting-copper-smoker.jpg?v=14ed69bf){width:90%,top:50%,left:30%}
 }}
 
 \page
@@ -1108,7 +1120,7 @@ Each 2 charges past the cap adds **120 feet** of range and **+1** to the DC to r
 }}
 
 {{imageMaskCorner21,--offsetX:50%,--offsetY:-30%,--rotation:0
-  ![Bronze: a Seeker](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/misting-bronze-seeker.jpg?v=82366133){width:90%,top:18%,left:33%}
+  ![Bronze: a Seeker](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/misting-bronze-seeker.jpg?v=82366133){width:90%,top:18%,left:33%}
 }}
 
 \page
@@ -1151,6 +1163,8 @@ Where clearing your metals is binary, cleansing your spirit **scales with the ch
 
 **There is no reason to be sparing.** Aluminum wipes your reserves, its own included, so whatever you do not spend on the burn is destroyed by it anyway. Nothing stops you burning a single charge; there is simply no point, because the rest will be gone regardless. In practice an aluminum burn is all of it.
 
+**There is no reason to be sparing.** Aluminum wipes your reserves, its own included, so whatever you do not spend on the burn is destroyed by it anyway. Nothing stops you burning a single charge; there is simply no point, because the rest will be gone regardless. In practice an aluminum burn is all of it.
+
 You still cannot reach *another* creature's Investiture with aluminum; it acts only on yourself. To strip someone else, see Chromium (Leecher). At a D&D table this is how aluminum ends spells and curses on you; full rules in The Metallic Arts and the Weave.
 
 #### Past the cap
@@ -1158,6 +1172,8 @@ You still cannot reach *another* creature's Investiture with aluminum; it acts o
 The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or savancy, takes you past it, and past it the scaling continues at a flat rate: **for every 2 charges beyond your cap**, add the following. There are no further tiers, so the whole of a burst is one multiplication.
 
 Each 2 charges past the cap adds **+1** to the strength of the cleanse.
+
+\page
 
 ### Notable uses
 
@@ -1539,7 +1555,9 @@ been to walk into it.
 
 - The bubble is fixed where it was raised. Creatures and objects can cross its boundary freely, but you cannot, since leaving ends it.
 - Cadmium and bendalloy bubbles are opposites. Their effects do not stack usefully, and a bubble within a bubble is left to the DM.
-- Burning duralumin with cadmium drives the ratio to an extreme; see Duralumin.
+- Burning duralumin with cadmium drives the ratio to an extreme; see the core rules.
+
+\page
 
 {{note
 
@@ -1553,7 +1571,7 @@ been to walk into it.
 
 {{artBlock
 <!--h:25-->
-![misting-cadmium-pulser](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/misting-cadmium-pulser.jpg?v=9c264bf5){width:100%}
+![misting-cadmium-pulser](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/misting-cadmium-pulser.jpg?v=9c264bf5){width:100%}
 }}
 
 \page
@@ -1591,11 +1609,6 @@ The flare cap is where an ordinary Allomancer stops. A duralumin detonation, or 
 
 Each 2 charges past the cap adds **2** to the ratio, or **10 feet** to the radius.
 
-### Uses
-
-- **Act many times.** You and your allies inside gain extra rounds against a slower outside world, to attack, heal, or prepare.
-- **Race the clock.** Cover in moments a task that would take far longer.
-
 ### Shooting across the boundary
 
 A missile that crosses the edge of a time bubble crosses between two rates of time, and it does not survive the transition. **Any projectile passing through the boundary is deflected, unpredictably and usually wildly**: the attack misses, and if it matters where the thing went, roll a d8 for the direction.
@@ -1605,6 +1618,11 @@ This holds in both directions and for both metals. Arrows, bolts, bullets, slung
 **What still works** is anything a person is holding as they pass through. A sword swung by an arm that crosses the boundary lands; the arm is moving the blade, so the blade shares whatever time the arm is in. Reach in and stab, and it works. Shoot in, and it does not.
 
 This is why a bubble is such good cover, and why the way to break one has always been to walk into it.
+
+### Uses
+
+- **Act many times.** You and your allies inside gain extra rounds against a slower outside world, to attack, heal, or prepare.
+- **Race the clock.** Cover in moments a task that would take far longer.
 
 ### Interactions & counterplay
 
@@ -1633,7 +1651,7 @@ The God Metals are formed from the power of a Shard rather than mined from the g
 
 {{artBlock
 <!--h:20-->
-![godmetals-atium](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/godmetals-atium.jpg?v=d7e65255){width:100%}
+![godmetals-atium](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/godmetals-atium.jpg?v=d7e65255){width:100%}
 }}
 ::::
 
@@ -1641,7 +1659,7 @@ The God Metals are formed from the power of a Shard rather than mined from the g
 
 The sixteen metals of the four quadrants are the Allomancy an ordinary Metalborn can be born to. Beyond them lie the **God Metals**, formed directly from a Shard, and their alloys. These are **not bloodlines you choose at character creation.** They are rare, campaign-shaping materials the DM places in the world.
 
-See the God Metals for the lore, and the Misting Bloodlines for the shared burn rules.
+See the God Metals for the lore and the core rules for the shared burn rules.
 
 ### How Other Metals differ
 
@@ -1878,7 +1896,7 @@ Every one of these carries **the Dependency** all the same. A 20th-level Mistbor
 - **Compounding** (Compounding) and savancy are independent. A Feruchemical-fed reserve makes it *easier* to burn a metal habitually enough to become a savant, and easier to sustain the burn that keeps withdrawal at bay.
 
 \page
-{{tableGroup
+{{wide
 
 ### Savant effects by metal
 
@@ -1939,7 +1957,7 @@ A Feruchemical savant of a metal:
 
 {{artBlock
 <!--h:14-->
-![savants-tin-savant](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/savants-tin-savant.jpg?v=fd7e461c){width:100%}
+![savants-tin-savant](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/savants-tin-savant.jpg?v=fd7e461c){width:100%}
 }}
 
 \page
@@ -1947,7 +1965,7 @@ A Feruchemical savant of a metal:
 
 A **Ferring** is a person who can Feruchemically **store one attribute** in metal and **tap** it back later. A Ferring power is a **bloodline**, chosen at character creation and independent of your species and class, exactly as a Misting power is.
 
-Feruchemy is the art of balance. You take nothing from outside yourself: you set a portion of what you are into metal now, going without it, so that you may draw it back later in a rush.
+Feruchemy is the art of balance. You take nothing from outside yourself: you set a portion of what you are into metal now, going without it, so that you may draw it back later in a rush./; lore from Feruchemy.
 
 ### Gaining the bloodline
 
@@ -1972,7 +1990,7 @@ A piece of your metal used for storage is a **metalmind**: a ring, a bracer, a s
 
 {{wide
 <!--h:44-->
-![chart-feruchemy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/chart-feruchemy.svg?v=16b55c8d){width:100%}
+![chart-feruchemy](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/chart-feruchemy.svg?v=16b55c8d){width:100%}
 }}
 
 \page
@@ -2037,6 +2055,7 @@ Drawing at your own rate costs you nothing. Pushing past it does, and the price 
 |---|---|---|---|---|---|---|---|---|
 | **Recovery** | 1.00 | 0.80 | 0.64 | 0.51 | 0.41 | 0.33 | 0.21 | 0.13 |
 | **Price per unit** | 1 | 1¼ | 1½ | 2 | 2½ | 3 | 4¾ | 7½ |
+| **Price per unit** | 1 | 1¼ | 1½ | 2 | 2½ | 3 | 4¾ | 7½ |
 
 }}
 
@@ -2047,11 +2066,13 @@ tap duration = stored units × recovery ÷ tap intensity
 **Price** is the same fact read from the other end, and is often the easier one. It is what one unit of benefit costs you out of the mind, so you multiply instead of dividing:
 
 ```
-what it costs   = what you get × price
-tap duration    = stored units ÷ (tap intensity × price)
+what it costs = what you get × price
+tap duration = stored units ÷ (tap intensity × price)
 ```
 
 **Every step up costs a quarter more per unit than the step below it.** That is exact, so the table can be continued for as long as you like: 20× your rate costs about 69 to 1, and 30× costs over 800 to 1.
+
+\page
 
 Recovery never exceeds 1.00, and the price is never less than 1. You always pay at least what you take, and past your own rate you pay a great deal more. Feruchemy grants no profit, only a change in timing.
 
@@ -2060,8 +2081,6 @@ Recovery never exceeds 1.00, and the price is never less than 1. You always pay 
 - Drawing at **+150%**, one multiple of their rate, loses nothing: `50 × 1.00 ÷ 1.5 =` about **33 minutes**.
 - Drawing at **+300%**, two multiples, recovers 0.80: `50 × 0.80 ÷ 3.0 =` about **13 minutes**.
 - Drawing at **+450%**, three multiples, recovers 0.64: about **7 minutes**.
-
-\page
 
 There is no hard ceiling on how hard you may draw. The losses are the ceiling. Past a few multiples of your rate you are spending a whole ring to buy seconds, which is sometimes exactly what a Ferring wants.
 
@@ -2072,7 +2091,7 @@ There is no hard ceiling on how hard you may draw. The losses are the ceiling. P
 A Ferring begins play with a **ring** of their metal weighing **1d8 grams**, and the knowledge of how to use it.
 
 {{imageMaskCenter1,--offsetX:-5%,--offsetY:-14%,--rotation:0,width:110%,height:110%
-  ![The Feruchemical metals, by the Ferring starting equipment](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/ferrings-feruchemical-metals.png?v=12c46146){width:100%,top:20%,left:-4%}
+  ![The Feruchemical metals, by the Ferring starting equipment](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/ferrings-feruchemical-metals.png?v=12c46146){width:100%,top:20%,left:-4%}
 }}
 
 \page
@@ -2511,9 +2530,13 @@ Released energy is potent even for a heartbeat, so brass loses it fast when you 
 | **Recovery** | 1.00 | 0.50 | 0.25 | 0.13 | 0.06 |
 | **Price per kilojoule** | 1 | 2 | 4 | 8 | 16 |
 
+}}
+
 Brass runs on its own curve, and a brutal one: **every step up doubles the price** where the other metals add a quarter. Forcing heat out five times as fast costs sixteen kilojoules for every one that reaches the world.
 
-}}
+| **Price per kilojoule** | 1 | 2 | 4 | 8 | 16 |
+
+Brass runs on its own curve, and a brutal one: **every step up doubles the price** where the other metals add a quarter. Forcing heat out five times as fast costs sixteen kilojoules for every one that reaches the world.
 
 Recovery **halves** with each multiple, far steeper than the 0.8 of other metals. A Firesoul who dumps everything at once to melt a door in a single round may burn through ten times the energy they actually deliver. Bursting is possible; it is simply ruinous to your reserve.
 
@@ -2827,13 +2850,15 @@ When you heal faster than your free rate, divide the rate you want by your free 
 | **Recovery** | 1.00 | 0.80 | 0.64 | 0.51 | 0.41 |
 | **Price per hit point** | 1 | 1¼ | 1½ | 2 | 2½ |
 
+}}
+
 **Total the round, then pay.** Compression is read from everything you drew across the whole round, not from each tap on its own, because the multiple *is* the rate and the rate is not known until the round is over. Tap 7, then 5, then 8 against a free rate of 5 and you have drawn 20, which is 4×, so it costs 2 apiece: **40 hit points out of the ring**.
 
 **If the ring cannot cover it, you take the shortfall.** You are not stopped mid-round; you find out afterwards. Whatever the goldmind could not pay comes back to you as damage at the end of the round, and a Bloodmaker who healed themselves upright on credit can collapse again settling the bill. You may always work out beforehand what your ring can afford. Nobody expects you to.
 
-}}
-
 Gold's teeth are not here but in the other two lanes: the **sickness of storing** and the flat **2-for-1** of cheating death. Ordinary healing is merely metered.
+
+\page
 
 ### Limits
 
@@ -2993,6 +3018,8 @@ For a caster, choose how the mind is **keyed** when you begin. This is a choice 
 - **Keyed to one spell.** The mind holds your ability to cast a single spell you know. Narrow, and the safer choice, especially for anything ever meant to leave your own hand.
 - **Keyed to your casting.** The mind holds your spellcasting at large, any spell you know. More useful to you, and the reason the cap below matters.
 
+{{tableGroup
+
 ### Tapping, for yourself
 
 Draw the ability back and wield it **magnified**. While tapping, you may reach past your own ceiling: cast a spell you know using a slot **higher than the highest you could normally manage**, the extra levels paid out of the ring.
@@ -3003,6 +3030,8 @@ Draw the ability back and wield it **magnified**. While tapping, you may reach p
 |---|---|---|---|---|---|---|
 | **Price per minute** | 1 | 1¼ | 1½ | 2 | 2½ | 3 |
 
+}}
+
 *Example.* A wizard whose best slot is 3rd stores **one hour** of their casting, then later draws it back.
 
 - **4th-level slots** cost 1 minute per minute: **60 minutes** of casting a level above themselves.
@@ -3012,7 +3041,7 @@ Draw the ability back and wield it **magnified**. While tapping, you may reach p
 
 **A creature with no magic of their own** tapping an unsealed nicrosilmind begins from nothing, so the ladder starts at the bottom: their ceiling is 0, and one level above it is **1st-level slots** at 1 minute per minute. They cast **the spells the storer knew**, exactly as the storer knew them **at the moment they stopped storing**. A spell learned afterwards is not in the ring. What they gain is somebody else's repertoire, frozen; what they never gain is that person's level.
 
-\column
+\page
 
 ### Sharing is a Feruchemist's art, not a Ferring's
 
@@ -3290,7 +3319,7 @@ A Twinborn begins play with **both** a Misting's and a Ferring's starting gear: 
 
 A **Compounder** is a Twinborn whose Allomantic and Feruchemical powers are the **same metal**. Where an ordinary Feruchemist can only ever draw back out what they put in, a Compounder cheats the ledger: they store an attribute Feruchemically, then **burn that charged metalmind Allomantically**, and Preservation's end-positive power pours out the stored attribute many times over.
 
-This is the most powerful thing in the Metallic Arts short of a God Metal in the right hands, and it is how the Lord Ruler wore one face for a thousand years. It is also rare, and a DM is right to weigh whether to allow it. See Twinborn for how a same-metal pairing comes about.
+This is the most powerful thing in the Metallic Arts short of a God Metal in the right hands, and it is how the Lord Ruler wore one face for a thousand years. It is also rare, and a DM is right to weigh whether to allow it. See Twinborn for how a same-metal pairing comes about, and the core rules for the underlying model.
 
 {{tableGroup
 
@@ -3365,7 +3394,7 @@ The attribute is the Feruchemical one; the Allomantic half of the pair only prov
 **The four famous ones** are gold, atium, pewter, and steel, because those are the ones the histories record. The rest are no less possible; they are simply less often worth the metal.
 
 {{imageMaskEdge3,--offset:10%,--rotation:0
-  ![A gold Compounder](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/compounding-miles-hundredlives.jpg?v=bbebf734){height:100%,top:45%}
+  ![A gold Compounder](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/compounding-miles-hundredlives.jpg?v=bbebf734){height:100%,top:45%}
 }}
 
 \page
@@ -3375,7 +3404,7 @@ The attribute is the Feruchemical one; the Allomantic half of the pair only prov
 ## Species
 
 {{imageMaskCenter14,--offsetX:0%,--offsetY:-10%,--rotation:0,transform:scale(1.2)
-  ![Part 2 cover: a koloss](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/cover-species-koloss.jpg?v=ca759e75){height:57%,top:31%}
+  ![Part 2 cover: a koloss](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/cover-species-koloss.jpg?v=ca759e75){height:57%,top:31%}
 }}
 
 \page
@@ -3408,7 +3437,7 @@ This is why the stories about koloss-blooded and gunfights are all true, and why
 
 You mend faster than a person has any right to. When you finish a **short rest**, you regain hit points equal to **your proficiency bonus + your Constitution modifier**, on top of any Hit Dice you spend. You also **stabilize automatically** at the start of your turn if you are dying, without needing a death saving throw.
 
-##### Growing Up Blue
+#### Growing Up Blue
 
 You are the size you are and you stay there. The endless growth that killed your ancestors was a property of the **spikes**, not the blood, and Harmony took it out when he remade your people.
 
@@ -3493,7 +3522,7 @@ If a player takes this path, they have chosen a tragedy on purpose, and the tabl
 Handled well it is one of the best character arcs this setting offers. Handled carelessly it is a way for one player to become an NPC.
 
 {{imageMaskEdge6,--offset:10%,--rotation:270
-  ![A koloss-blooded human](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/species-koloss-blooded.jpg?v=3a57da68){height:100%,left:45%}
+  ![A koloss-blooded human](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/species-koloss-blooded.jpg?v=3a57da68){height:100%,left:45%}
 }}
 
 {{imgph imgphWide,style=min-height:19em
@@ -3691,7 +3720,7 @@ Kandra improve at their art with practice, and yours does so as you level.
 - **You remember.** Kandra live for centuries and most have served Contracts under masters long dead. Whatever your character has forgotten, they forgot because a spike was out.
 
 {{imageMaskEdge5,--offset:0%,--rotation:0
-  ![A kandra revealing a hidden gun](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/species-kandra.jpg?v=f3568312){width:100%,top:35%,left:-0.25%}
+  ![A kandra revealing a hidden gun](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/species-kandra.jpg?v=f3568312){width:100%,top:35%,left:-0.25%}
 }}
 
 \page
@@ -3701,7 +3730,7 @@ Kandra improve at their art with practice, and yours does so as you level.
 ## Backgrounds
 
 {{imageMaskCenter14,--offsetX:0%,--offsetY:-10%,--rotation:0,transform:scale(1.2)
-  ![Part 3 cover: a hazekiller](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/cover-backgrounds-hazekiller.png?v=a0d4fda8){height:70%,top:20%,left:-6%}
+  ![Part 3 cover: a hazekiller](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/cover-backgrounds-hazekiller.png?v=a0d4fda8){height:70%,top:20%,left:-6%}
 }}
 
 \page
@@ -3826,7 +3855,7 @@ You were taught how people with metal in their stomachs move, and what to do abo
 ## Classes
 
 {{imageMaskCorner26,--offsetX:-0%,--offsetY:-30%,--rotation:0
-  ![Part 4 cover: a Mistborn against an army of Inquisitors](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/cover-classes-storms-that-shatter.jpg?v=9622a887){width:100%,top:5%}
+  ![Part 4 cover: a Mistborn against an army of Inquisitors](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/cover-classes-storms-that-shatter.jpg?v=9622a887){width:100%,top:5%}
 }}
 
 \page
@@ -4276,7 +4305,7 @@ The Feruchemist never draws *harder* than the specialist. They simply draw from 
 
 {{artBlock
 <!--h:35-->
-![class-feruchemist-keeper](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/class-feruchemist-keeper.jpg?v=10df5914){width:100%}
+![class-feruchemist-keeper](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/class-feruchemist-keeper.jpg?v=10df5914){width:100%}
 }}
 \page
 
@@ -4511,7 +4540,7 @@ This applies to **anyone** carrying spikes, including you, your allies, and your
 
 {{wide
 <!--h:44-->
-![chart-hemalurgy](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/chart-hemalurgy.svg?v=e7224f2c){width:100%}
+![chart-hemalurgy](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/chart-hemalurgy.svg?v=e7224f2c){width:100%}
 }}
 
 | God metal | Steals |
@@ -4586,11 +4615,11 @@ A stolen Allomantic or Feruchemical power makes its bearer a Misting or Ferring 
 ---
 
 {{imageMaskCorner20,--offsetX:50%,--offsetY:29%,--rotation:0
-  ![A Steel Inquisitor, by The Bestower](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/hemalurgist-bestower-inquisitor.jpg?v=4d16e640){height:100%,left:30%}
+  ![A Steel Inquisitor, by The Bestower](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/hemalurgist-bestower-inquisitor.jpg?v=4d16e640){height:100%,left:30%}
 }}
 
 {{imageMaskEdge3,--offset:18%,--rotation:0
-  ![The Hemalurgic metals, unlabelled](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/hemalurgic-metals-table-nolables.png?v=5805d920){width:100%,top:51%}
+  ![The Hemalurgic metals, unlabelled](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/hemalurgic-metals-table-nolables.png?v=5805d920){width:100%,top:51%}
 }}
 
 \page
@@ -4798,7 +4827,7 @@ Treat god metal as **economy and DM reward**, never inventory. A bead of atium i
 
 {{wide
 <!--h:112-->
-![cover-weave](https://cdn.jsdelivr.net/gh/The-Architects727/MistbornDnD@1820cb2f2d7e48676d514ac1d18ba162d57cdf54/final-render/art/cover-weave.png?v=ab6b81c5){width:100%}
+![cover-weave](https://cdn.jsdelivr.net/gh/The-Architects727/CosmereDnD@master/MistbornD&D/render/art/cover-weave.png?v=ab6b81c5){width:100%}
 }}
 
 \page
@@ -4867,7 +4896,7 @@ Chromium reaches only what is **live**. It never drains spell slots, prepared sp
 When you flare duralumin, in addition to detonating your Allomantic metals, you may release **one non-Allomantic power you are using this turn** in a single, maximized instant:
 
 - **A spell you cast this turn (or are concentrating on):** it is **maximized** (all its variable numbers taken at maximum). You may additionally feed in any number of your **remaining spell slots**; the spell is then treated as **upcast to the summed level of every slot consumed** (the casting slot plus all fed slots). A concentration spell burst this way goes off at this boosted power once, then ends. Because the slots are your own and willingly spent, there is no save. The flare cap limits nothing here except through your charges being spent on the detonation itself.
-**Feruchemy is not repeated here.** What a duralumin burst does to a tap, and what it does to each metalmind, is set out in full on the Duralumin page, and there is no second version of it here to disagree with. See Duralumin.
+**Feruchemy is not repeated here.** What a duralumin burst does to a tap, and what it does to each metalmind, is set out in full on the Duralumin page and there is no second version of it to disagree with. See duralumin.
 
 #### Nicrosil: burst or force another's magic (touch)
 
